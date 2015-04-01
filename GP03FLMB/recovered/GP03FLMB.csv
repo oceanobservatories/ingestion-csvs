@@ -1,0 +1,7 @@
+uframe_route,filename_mask,reference_designator,data_source
+Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/GP03FLMB/R00001/adcp/*.000,GP03FLMB-RIS02-01-ADCPSL000,recovered
+Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMB/R00001/mc/SBE37*.hex,GP03FLMB-xxxxx-03-CTDMOx000,recovered
+Ingest.dosta-abcdjm-sio_recovered,/omc_data/whoi/OMC/GP03FLMB/R00001/dosta/DOS*.DAT,GP03FLMB-RIS01-03-DOSTAD000,recovered
+Ingest.flort-dj-sio_recovered,/omc_data/whoi/OMC/GP03FLMB/R00001/flort/FLO*.DAT,GP03FLMB-RIS01-01-FLORTD000,recovered
+Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/GP03FLMB/R00001/SAMI/sami*.txt,GP03FLMB-RIS01-02-PHSENE000,recovered
+Ingest.sio-eng-sio_recovered,/omc_data/whoi/OMC/GP03FLMB/R00001/*_SIOC/status/STA*.DAT,GP03FLMB-FM001-00-ENG000000,recovered
