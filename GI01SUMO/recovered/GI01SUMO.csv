@@ -1,0 +1,19 @@
+uframe_route,filename_mask,reference_designator,data_source
+Ingest.mopak-o-dcl_recovered             /omc_data/whoi/OMC/GI01SUMO/R00001/dcl11/mopak/*.mopak.log                       GI01SUMO-SBD11-01-MOPAK0000
+Ingest.metbk-a-dcl_recovered             /omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl11/metbk1/*.metbk*.log              GI01SUMO-SBD11-06-METBKA000
+Ingest.metbk-a-dcl_recovered             /omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl12/metbk2/*.metbk*.log              GI01SUMO-SBD12-06-METBKA000
+Ingest.dosta-abcdjm-dcl_recovered        /omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl11/dosta/*.dosta.log               GI01SUMO-SBD11-04-DOSTAD000
+Ingest.spkir-abj-dcl_recovered           /omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl11/spkir/*.spkir.log               GI01SUMO-SBD11-05-SPKIRB000 not clear
+Ingest.nutnr-b_recovered                 /omc_data/whoi/OMC/GI01SUMO/R00001/nutnr/*SCHYYJJJ.DAT                           GI01SUMO-SBD11-08-NUTNRB000 not clear
+Ingest.pco2a-a-dcl_recovered             /omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl12/pco2a/*.pco2a.log                GI01SUMO-SBD12-04-PCO2AA000
+Ingest.wavss-a-dcl-full_recovered        /omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl12/wavss/*.wavss.log                GI01SUMO-SBD12-05-WAVSSA000
+Ingest.optaa-dj-dcl_recovered            /omc_data/whoi/OMC/GI01SUMO/R00001/dcl27/optaa1/*.optaa*.log                     GI01SUMO-SBD12-01-OPTAAD000
+Ingest.optaa-dj-dcl_recovered            /omc_data/whoi/OMC/GI01SUMO/R00001/dcl37/optaa2/*.optaa*.log                     GI01SUMO-RID16-01-OPTAAD000
+Ingest.flort-dj-dcl_recovered            /omc_data/whoi/OMC/GI01SUMO/R00001/dcl27/flort/*.flort.log                       GI01SUMO-SBD12-02-FLORTD000 not clear
+Ingest.ctdbp-cdef-ce_recovered           /omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl16/ctdbp/*ctdbp.log                GI01SUMO-RID16-03-CTDBPF000
+Ingest.velpt-ab_recovered                /omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl26/velpt1/*.velpt*.log              GI01SUMO-RID16-04-VELPTA000 
+Ingest.velpt-ab_recovered                /omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl35/velpt2/*.velpt*.log              GI01SUMO-RID16-04-VELPTA000
+Ingest.pco2w-abc-dcl_recovered           /omc_data/whoi/OMC/GI01SUMO/R00001/dcl35/pco2w/*.pco2w.log                       GI01SUMO-RID16-05-PCO2WB000
+Ingest.ctdmo-ghqr_recovered              /omc_data/whoi/OMC/GI01SUMO/R00001/mc/SBE37*.hex                                  GI01SUMO-RII11-02-CTDMOQ001 not clear directory not found!
+Ingest.ctdmo-ghqr-sio_recovered          /omc_data/whoi/OMC/GI01SUMO/R00001/ctdmo/CTD*.DAT                                 GI01SUMO-RII11-02-CTDMOQ001 not clear
+Ingest.adcps-jln_recovered               /omc_data/whoi/OMC/GI01SUMO/R00001/adcp/*.000                                    GI01SUMO-RII11-02-ADCPSN011
