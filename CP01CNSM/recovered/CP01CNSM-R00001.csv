@@ -11,5 +11,3 @@ Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl27/DOSTA
 Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl37/DOSTA_sn132/*dosta*.log,CP01CNSM-MFD37-04-DOSTAD000,recovered,
 Ingest.nutnr-b_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl26/NUTNR_sn240/*SCH*.DAT,CP01CNSM-RID27-07-NUTNRB000,recovered,
 Ingest.pco2w-abc-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl35/PCO2W_snC-0069/SAMI*.txt,CP01CNSM-MFD35-05-PCO2WB000,recovered,
-Ingest.pco2a-a-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00002/cg_data/dcl12/pco2a_sn34-222-50A/PCO2A*.log,CP01CNSM-SBD12-04-PCO2AA000,recovered,
-Ingest.presf-abc-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00002/dcl35/PRESF_sn26P76848-1386/PRESF*.hex,CP01CNSM-MFD35-02-PRESFB000,recovered,
