@@ -1,9 +1,0 @@
-uframe_route,filename_mask,reference_designator,data_source
-Ingest.glider-eng-glider_telemetered,/omc_data/whoi/OMC/GP05MOAS-GL003/D00001/merged-from-glider/unit*.mrg,GP05MOAS-GL003-00-ENG000000,telemeterd
-Ingest.flord-m-glider_telemetered,/omc_data/whoi/OMC/GP05MOAS-GL003/D00001/merged-from-glider/unit*.mrg,GP05MOAS-GL003-01-FLORDM000,telemeterd
-Ingest.dosta-abcdjm-glider_telemetered,/omc_data/whoi/OMC/GP05MOAS-GL003/D00001/merged-from-glider/unit*.mrg,GP05MOAS-GL003-02-DOSTAM000,telemeterd
-Ingest.ctdgv-m-glider_telemetered,/omc_data/whoi/OMC/GP05MOAS-GL003/D00001/merged-from-glider/unit*.mrg,GP05MOAS-GL003-04-CTDGVM000,telemeterd
-Ingest.glider-eng-glider_telemetered,/omc_data/whoi/OMC/GP05MOAS-GL003/D00002/merged-from-glider/unit*.mrg,GP05MOAS-GL003-00-ENG000000,telemeterd
-Ingest.flord-m-glider_telemetered,/omc_data/whoi/OMC/GP05MOAS-GL003/D00002/merged-from-glider/unit*.mrg,GP05MOAS-GL003-01-FLORDM000,telemeterd
-Ingest.dosta-abcdjm-glider_telemetered,/omc_data/whoi/OMC/GP05MOAS-GL003/D00002/merged-from-glider/unit*.mrg,GP05MOAS-GL003-02-DOSTAM000,telemeterd
-Ingest.ctdgv-m-glider_telemetered,/omc_data/whoi/OMC/GP05MOAS-GL003/D00002/merged-from-glider/unit*.mrg,GP05MOAS-GL003-04-CTDGVM000,telemeterd
