@@ -14,3 +14,4 @@ Ingest.parad-m-glider_telemetered,/omc_data/whoi/OMC/CP05MOAS-GL001/D00003/merge
 Ingest.flort-m-glider_telemetered,/omc_data/whoi/OMC/CP05MOAS-GL001/D00003/merged-from-glider/cp_*.mrg,CP05MOAS-GL001-02-FLORTM000,telemetered
 Ingest.dosta-abcdjm-glider_telemetered,/omc_data/whoi/OMC/CP05MOAS-GL001/D00003/merged-from-glider/cp_*.mrg,CP05MOAS-GL001-04-DOSTAM000,telemetered
 Ingest.ctdgv-m-glider_telemetered,/omc_data/whoi/OMC/CP05MOAS-GL001/D00003/merged-from-glider/cp_*.mrg,CP05MOAS-GL001-03-CTDGVM000,telemetered
+

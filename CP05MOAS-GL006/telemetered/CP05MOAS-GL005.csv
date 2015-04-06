@@ -1,6 +1,0 @@
-uframe_route,filename_mask,reference_designator,data_source
-Ingest.glider-eng-glider_telemetered,/omc_data/whoi/OMC/CP05MOAS-GL006/D00001/merged-from-glider/cp_*.mrg,CP05MOAS-GL006-00-ENG000000,recoverd
-Ingest.parad-m-glider_telemetered,/omc_data/whoi/OMC/CP05MOAS-GL006/D00001/merged-from-glider/cp_*.mrg,CP05MOAS-GL006-05-PARADM000,recoverd
-Ingest.flort-m-glider_telemetered,/omc_data/whoi/OMC/CP05MOAS-GL006/D00001/merged-from-glider/cp_*.mrg,CP05MOAS-GL006-02-FLORTM000,recoverd
-Ingest.dosta-abcdjm-glider_telemetered,/omc_data/whoi/OMC/CP05MOAS-GL006/D00001/merged-from-glider/cp_*.mrg,CP05MOAS-GL006-04-DOSTAM000,recoverd
-Ingest.ctdgv-m-glider_telemetered,/omc_data/whoi/OMC/CP05MOAS-GL006/D00001/merged-from-glider/cp_*.mrg,CP05MOAS-GL006-03-CTDGVM000,recoverd
