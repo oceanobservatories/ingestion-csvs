@@ -1,3 +1,3 @@
 uframe_route,filename_mask,reference_designator,data_source,
-Ingest.pco2a-a-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00002/cg_data/dcl12/PCO2A_sn34-222-50A/PCO2A*.log,CP01CNSM-SBD12-04-PCO2AA000,recovered,
+Ingest.pco2a-a-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00002/dcl12/PCO2A_sn34-222-50A/PCO2A*.log,CP01CNSM-SBD12-04-PCO2AA000,recovered,2
 Ingest.presf-abc-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00002/dcl35/PRESF_sn26P76848-1386/PRESF*.hex,CP01CNSM-MFD35-02-PRESFB000,recovered,
