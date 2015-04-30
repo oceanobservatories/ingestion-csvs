@@ -1,0 +1,2 @@
+uframe_route,filename_mask,reference_designator,data_source
+Ingest.vel3d-cd-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/cg_data/dcl35/vel3d/*vel3d.log,CE01ISSM-MFD35-01-VEL3DD000,recovered
