@@ -18,8 +18,8 @@ A **Platform Parameters Checklist** Excel spreadsheet is also included in the re
 
 ## Ingestion Parameter Sheets (CSV Files)
 The ingestion parameter sheets require 4 columns of data:
-| Column Name          | Description |
-| -------------------- | - |
+| Column Name          | Description | 
+|----------------------|-------------|
 | uframe_route         | The name of the ingestion queue that the EDEX application will pull the files from. |
 | filename_mask        | A filename mask that points to the files to be ingested. Can include UNIX style wildcards (*, ?). |
 | reference_designator | The reference designator associated with the files to be ingested. |
