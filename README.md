@@ -6,7 +6,7 @@ The repository is organized by platform. Each platform directory contains two ty
  * Ingestion parameter sheets in CSV format.
 
 Filenames adhere to the following conventions:
- * Calibration sheets are named **Omaha_Cal_Info_PLATFORM_XXXXX_.xlsx**, where:
+ * Calibration sheets are named **Omaha_Cal_Info_PLATFORM_XXXXX.xlsx**, where:
    * PLATFORM is the platform name (e.g. CP02PMCI).
    * XXXXX is the five digit deployment number (e.g. 00001).
  * Ingestion parameter sheets are named **PLATFORM_SXXXXX_ingest.csv**, where:
