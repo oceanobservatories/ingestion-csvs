@@ -11,7 +11,3 @@ Ingest.phsen-abcdef-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl35/PHSEN
 Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl37/OPTAA_snACS-129/*.optaa*.log,CP01CNSM-MFD37-01-OPTAAD000,recovered,
 Ingest.ctdbp-cdef-cp_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl37/CTDBP_sn16P-71879-7239/*ctdbp*.log,CP01CNSM-MFD37-03-CTDBPD000,recovered,
 Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl37/DOSTA_sn132/*dosta*.log,CP01CNSM-MFD37-04-DOSTAD000,recovered,
-,,,,
-,,,,
-,,,,
-,,,,

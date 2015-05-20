@@ -18,8 +18,8 @@ Ingest.phsen-abcdef-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00001/dcl35/phs
 Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00001/dcl37/optaa*/*.optaa*.log,CE01ISSM-MFD37-01-OPTAAD000,telemetered,
 Ingest.ctdbp-cdef-dcl-ce_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00001/dcl37/ctdbp2/*.ctdbp*.log,CE01ISSM-MFD37-03-CTDBPC000,telemetered,Uses record stream ctdbp_cdef_dcl_ce_instrument
 Ingest.ctdbp-cdef-dcl-ce_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00001/dcl37/ctdbp2/*.ctdbp*.log,CE01ISSM-MFD37-04-DOSTAD000,telemetered,The data for the DOSTA is available in */dcl37/ctdbp2.  Uses record stream ctdbp_cdef_dcl_ce_dosta.
-,,,,CE01ISSM-MFD00-00-CAMDSA000 will be added in Group 5
-,,,,CE01ISSM-MFD00-00-ZPLSCC000 will be added in Group 5
+#,,,,CE01ISSM-MFD00-00-CAMDSA000 will be added in Group 5
+#,,,,CE01ISSM-MFD00-00-ZPLSCC000 will be added in Group 5
 Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00001/irid2shore/cpm_status*.txt,CE01ISSM-SBC11-00-CPMENG000,telemetered,
 Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00001/dcl16/syslog/*.syslog.log,CE01ISSM-SBD11-00-DCLENG000,telemetered,
 Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00001/dcl17/syslog/*.syslog.log,CE01ISSM-SBD12-00-DCLENG000,telemetered,

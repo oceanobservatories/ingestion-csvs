@@ -30,10 +30,8 @@ Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00001/cg_data/
 Ingest.phsen-abcdef-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00001/cg_data/dcl11/imm/phsen1/phsen*.DAT,GI01SUMO-RII11-02-PHSENE002,telemetered
 Ingest.phsen-abcdef-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00001/cg_data/dcl11/imm/phsen2/phsen*.DAT,GI01SUMO-RII11-02-PHSENE006,telemetered
 Ingest.adcps-jln-stc_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00001/cg_data/dcl11/imm/adcp/adcp*.DAT,GI01SUMO-RII11-02-ADCPSN011,telemetered
-,,,
 Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00001/irid2shore/cpm_status*.txt,GI01SUMO-SBC11-00-CPMENG000,telemetered
 Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00001/cg_data/syslog/cpm_status.txt,GI01SUMO-RIC21-00-CPMENG000,telemetered
-,,,
 Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00001/cg_data/dcl11/syslog/*.syslog.log,GI01SUMO-SBD11-00-DCLENG000,telemetered
 Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00001/cg_data/dcl12/syslog/*.syslog.log,GI01SUMO-SBD12-00-DCLENG000,telemetered
 Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00001/cg_data/dcl16/syslog/*.syslog.log,GI01SUMO-RID16-00-DCLENG000,telemetered
