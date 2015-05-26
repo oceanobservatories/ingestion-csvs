@@ -1,13 +1,13 @@
-uframe_route,filename_mask,reference_designator,data_source
-Ingest.ctdmo-ghqr-sio_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00001/*ctdmo*.dat,GP02HYPM-RIS01-xx-CTDMOx000,telemetered
-Ingest.vel3d-l-wfp-sio_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00001/*.wa_wfp_1328320.dat,GP02HYPM-WFP02-05-VEL3DL000,telemetered
-Ingest.vel3d-l-wfp-sio_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00001/*.wa_wfp_1328321.dat,GP02HYPM-WFP03-05-VEL3DL000,telemetered
-Ingest.ctdpf-ckl-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00001/*.wc_wfp_1328320.dat,GP02HYPM-WFP02-04-CTDPFL000,telemetered
-Ingest.ctdpf-ckl-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00001/*.wc_wfp_1328321.dat,GP02HYPM-WFP03-04-CTDPFL000,telemetered
-Ingest.dosta-ln-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00001/*.we_wfp_1328320.dat,GP02HYPM-WFP02-03-DOSTAL000,telemetered
-Ingest.flord-l-wfp-sio_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00001/*.we_wfp_1328320.dat,GP02HYPM-WFP02-01-FLORDL000,telemetered
-Ingest.wfp-eng-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00001/*.we_wfp_1328320.dat,GP02HYPM-WFP02-00-ENG000000,telemetered
-Ingest.dosta-ln-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00001/*.we_wfp_1328321.dat,GP02HYPM-WFP03-03-DOSTAL000,telemetered
-Ingest.flord-l-wfp-sio_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00001/*.we_wfp_1328321.dat,GP02HYPM-WFP03-01-FLORDL000,telemetered
-Ingest.wfp-eng-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00001/*.we_wfp_1328321.dat,GP02HYPM-WFP03-00-ENG000000,telemetered
-Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00001/node*p1_*.status.dat,GP02HYPM-GP001-00-ENG000000,telemetered
+uframe_route,filename_mask,reference_designator,data_source,
+Ingest.ctdmo-ghqr-sio_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00001/*ctdmo*.dat,GP02HYPM-RIS01-01-CTDMOG000,telemetered,D00001 data will not work with the current parsers - the data needs to be run through preprocessing code first. Redmine 2968 has been created to track this.
+Ingest.vel3d-l-wfp-sio_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00001/*.wa_wfp_1328320.dat,GP02HYPM-WFP02-05-VEL3DL000,telemetered,
+Ingest.vel3d-l-wfp-sio_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00001/*.wa_wfp_1328321.dat,GP02HYPM-WFP03-05-VEL3DL000,telemetered,
+Ingest.ctdpf-ckl-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00001/*.wc_wfp_1328320.dat,GP02HYPM-WFP02-04-CTDPFL000,telemetered,
+Ingest.ctdpf-ckl-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00001/*.wc_wfp_1328321.dat,GP02HYPM-WFP03-04-CTDPFL000,telemetered,
+Ingest.dosta-ln-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00001/*.we_wfp_1328320.dat,GP02HYPM-WFP02-03-DOSTAL000,telemetered,
+Ingest.flord-l-wfp-sio_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00001/*.we_wfp_1328320.dat,GP02HYPM-WFP02-01-FLORDL000,telemetered,
+Ingest.wfp-eng-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00001/*.we_wfp_1328320.dat,GP02HYPM-WFP02-00-ENG000000,telemetered,
+Ingest.dosta-ln-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00001/*.we_wfp_1328321.dat,GP02HYPM-WFP03-03-DOSTAL000,telemetered,
+Ingest.flord-l-wfp-sio_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00001/*.we_wfp_1328321.dat,GP02HYPM-WFP03-01-FLORDL000,telemetered,
+Ingest.wfp-eng-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00001/*.we_wfp_1328321.dat,GP02HYPM-WFP03-00-ENG000000,telemetered,
+Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00001/node*p1_*.status.dat,GP02HYPM-GP001-00-ENG000000,telemetered,
