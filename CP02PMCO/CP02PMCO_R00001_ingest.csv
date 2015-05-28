@@ -8,4 +8,4 @@ Ingest.parad-k-stc-imodem_recovered,/omc_data/whoi/OMC/CP02PMCO/R00001/dcl00/CWF
 Ingest.adcps-jln-stc_recovered,/omc_data/whoi/OMC/CP02PMCO/R00001/dcl00/ADCP_sn19151/SN_19515_Recovered_Data_RDI_000.000,CP02PMCO-RII01-01-ADCPTG000,recovered
 Ingest.mopak-o-dcl_recovered,/omc_data/whoi/OMC/CP02PMCO/R00001/dcl00/cg_data/3dmgx3/*_*.3dmgx3.log,CP02PMCO-SBS01-01-MOPAK0000,recovered
 Ingest.cg-stc-eng-stc_recovered,/omc_data/whoi/OMC/CP02PMCO/R00001/dcl00/cg_data/irid2shore/stc_status.*_*.txt,CP02PMCO-SBS01-00-STCENG000,recovered
-Ingest.rte-o-dcl_recovered,/omc_data/whoi/OMC/CP02PMCO/R00001/dcl00/cg_data/rte/*.rte.log,CP02PMCO-SBS01-XX-RTEXX0000,recovered
+Ingest.rte-o-dcl_recovered,/omc_data/whoi/OMC/CP02PMCO/R00001/dcl00/cg_data/rte/*.rte.log,CP02PMCO-SBS01-00-RTE000000,recovered
