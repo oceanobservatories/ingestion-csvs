@@ -1,9 +1,18 @@
-uframe_route,filename_mask,reference_designator,data_source
-Ingest.optaa-dj-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00001/extract/ucspp_*_ACS_ACS.txt,CE01ISSP-SP001-04-OPTAAJ000,recovered
-Ingest.dosta-abcdjm-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00001/extract/ucspp_*_PPB_OPT.txt,CE01ISSP-SP001-02-DOSTAJ000,recovered
-Ingest.velpt-j-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00001/extract/ucspp_*_PPB_ADCP.txt,CE01ISSP-SP001-05-VELPTJ000,recovered
-Ingest.nutnr-j-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00001/extract/ucspp_*_SNA_SNA.txt,CE01ISSP-SP001-06-NUTNRJ000,recovered
-Ingest.spkir-abj-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00001/extract/ucspp_*_PPB_OCR.txt,CE01ISSP-SP001-07-SPKIRJ000,recovered
-Ingest.flort-dj-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00001/extract/ucspp_*_PPB_TRIP.txt,CE01ISSP-SP001-08-FLORTJ000,recovered
-Ingest.ctdpf-j-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00001/extract/ucspp_*_PPB_CTD.txt,CE01ISSP-SP001-09-CTDPFJ000,recovered
-Ingest.parad-j-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00001/extract/ucspp_*_PPB_PARS.txt,CE01ISSP-SP001-10-PARADJ000,recovered
+uframe_route,filename_mask,reference_designator,data_source,,
+Ingest.dosta-abcdjm-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00002/extract/ucspp_*_PPB_OPT.txt,CE01ISSP-SP001-02-DOSTAJ000,recovered,,
+Ingest.optaa-dj-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00002/extract/ucspp_*_ACS_ACS.txt,CE01ISSP-SP001-04-OPTAAJ000,recovered,,
+Ingest.velpt-j-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00002/extract/ucspp_*_PPB_ADCP.txt,CE01ISSP-SP001-05-VELPTJ000,recovered,,
+Ingest.nutnr-j-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00002/extract/ucspp_*_SNA_SNA.txt,CE01ISSP-SP001-06-NUTNRJ000,recovered,,
+Ingest.spkir-abj-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00002/extract/ucspp_*_PPB_OCR.txt,CE01ISSP-SP001-07-SPKIRJ000,recovered,,
+Ingest.flort-dj-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00002/extract/ucspp_*_PPB_TRIP.txt,CE01ISSP-SP001-08-FLORTJ000,recovered,,
+Ingest.ctdpf-j-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00002/extract/ucspp_*_PPB_CTD.txt,CE01ISSP-SP001-09-CTDPFJ000,recovered,,
+Ingest.parad-j-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00002/extract/ucspp_*_PPB_PARS.txt,CE01ISSP-SP001-10-PARADJ000,recovered,,
+,,,,,
+DO NOT CHANGE this column,"Change only deployment number (last digit of R0000#) that uniquely identifies the file path to data associated with the deployment of this particular platform.  However, check for anomalies by verifying that each file path is accurate prior to submission.",DO NOT CHANGE this column,DO NOT CHANGE this column,,
+,,,,,
+"Note:  Change the file name to uniquely identify it; i.e., CE01ISSP_R0000#_ingest_v#; where R0000# identifies deployment number, and v# identifies the version of this document.",,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,"For ingest purposes, save the final version as .csv before submission.",,,,
