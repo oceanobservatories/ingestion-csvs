@@ -8,11 +8,8 @@ Ingest.flort-dj-cspp_recovered,/omc_data/whoi/OMC/CE07SHSP/R00001/extract/ucspp_
 Ingest.ctdpf-j-cspp_recovered,/omc_data/whoi/OMC/CE07SHSP/R00001/extract/ucspp_*_PPB_CTD.txt,CE07SHSP-SP001-08-CTDPFJ000,recovered
 Ingest.parad-j-cspp_recovered,/omc_data/whoi/OMC/CE07SHSP/R00001/extract/ucspp_*_PPB_PARS.txt,CE07SHSP-SP001-09-PARADJ000,recovered
 ,,,
-DO NOT CHANGE this column,"Change only deployment number (last digit of R0000#) that uniquely identifies the file path to data associated with the deployment of this particular platform.  However, check for anomalies by verifying that each file path is accurate prior to submission.",DO NOT CHANGE this column,DO NOT CHANGE this column
-,,,
-"Note:  Change the file name to uniquely identify it; i.e., CE07SHSP_R0000#_ingest_v#; where R0000# identifies deployment number, and v# identifies the version of this document.",,,
 ,,,
 ,,,
 ,,,
 ,,,
-,"For ingest purposes, save the final version as .csv before submission.",,
+,,,
