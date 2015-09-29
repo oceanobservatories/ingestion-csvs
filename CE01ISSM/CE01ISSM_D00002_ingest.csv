@@ -3,8 +3,8 @@ Ingest.mopak-o-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00002/dcl17/mopak/*.
 Ingest.velpt-ab-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00002/dcl17/velpt*/*.velpt*.log,CE01ISSM-SBD17-04-VELPTA000,telemetered,
 Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00002/dcl16/optaa*/*.optaa*.log,CE01ISSM-RID16-01-OPTAAD000,telemetered,
 Ingest.flort-dj-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00002/dcl16/flort/*.flort.log,CE01ISSM-RID16-02-FLORTD000,telemetered,
-Ingest.ctdbp-cdef-dcl-ce_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00002/dcl16/ctdbp1/*.ctdbp*.log,CE01ISSM-RID16-03-CTDBPC001,telemetered,Uses record stream ctdbp_cdef_dcl_ce_instrument
-Ingest.ctdbp-cdef-dcl-ce_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00002/dcl16/ctdbp1/*.ctdbp*.log,CE01ISSM-RID16-03-DOSTAD002,telemetered,The data for the DOSTA is available in */dcl16/ctdbp1.  Uses record stream ctdbp_cdef_dcl_ce_dosta.
+Ingest.ctdbp-cdef-dcl-ce_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00002/dcl16/ctdbp1/*.ctdbp*.log,CE01ISSM-RID16-03-CTDBPC000,telemetered,Uses record stream ctdbp_cdef_dcl_ce_instrument
+Ingest.ctdbp-cdef-dcl-ce_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00002/dcl16/ctdbp1/*.ctdbp*.log,CE01ISSM-RID16-03-DOSTAD000,telemetered,The data for the DOSTA is available in */dcl16/ctdbp1.  Uses record stream ctdbp_cdef_dcl_ce_dosta.
 Ingest.velpt-ab-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00002/dcl16/velpt*/*.velpt*.log,CE01ISSM-RID16-04-VELPTA000,telemetered,
 Ingest.pco2w-abc-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00002/dcl16/pco2w*/*.pco2w*.log,CE01ISSM-RID16-05-PCO2WB000,telemetered,
 Ingest.phsen-abcdef-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00002/dcl16/phsen*/*.phsen*.log,CE01ISSM-RID16-06-PHSEND000,telemetered,
