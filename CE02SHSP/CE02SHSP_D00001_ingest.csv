@@ -1,0 +1,14 @@
+uframe_route,filename_mask,reference_designator,data_source
+Ingest.dosta-abcdjm-cspp_telemetered,/omc_data/whoi/OMC/CE02SHSP/D00001/extract/*OPT.txt,CE02SHSP-SP001-01-DOSTAJ000,telemetered
+Ingest.optaa-dj-cspp_telemetered,/omc_data/whoi/OMC/CE02SHSP/D00001/extract/*ACS.txt,CE02SHSP-SP001-04-OPTAAJ000,telemetered
+Ingest.velpt-j-cspp_telemetered,/omc_data/whoi/OMC/CE02SHSP/D00001/extract/*ADCP.txt,CE02SHSP-SP001-02-VELPTJ000,telemetered
+Ingest.nutnr-j-cspp_telemetered,/omc_data/whoi/OMC/CE02SHSP/D00001/extract/*SNA.txt,CE02SHSP-SP001-05-NUTNRJ000,telemetered
+Ingest.spkir-abj-cspp_telemetered,/omc_data/whoi/OMC/CE02SHSP/D00001/extract/*OCR.txt,CE02SHSP-SP001-06-SPKIRJ000,telemetered
+Ingest.flort-dj-cspp_telemetered,/omc_data/whoi/OMC/CE02SHSP/D00001/extract/*TRIP.txt,CE02SHSP-SP001-07-FLORTJ000,telemetered
+Ingest.ctdpf-j-cspp_telemetered,/omc_data/whoi/OMC/CE02SHSP/D00001/extract/*CTD.txt,CE02SHSP-SP001-01-CTDPFJ000,telemetered
+Ingest.parad-j-cspp_telemetered,/omc_data/whoi/OMC/CE02SHSP/D00001/extract/*PARS.txt,CE02SHSP-SP001-08-PARADJ000,telemetered
+,,,
+Ingest.dbg-pdbg-cspp_telemetered,/omc_data/whoi/OMC/CE02SHSP/D00001/extract/*PDBG.txt,CE02SHSP-SP001-00-SPPENG000,telemetered
+Ingest.wc-hmr-cspp_telemetered,/omc_data/whoi/OMC/CE02SHSP/D00001/extract/*WC_HMR.txt,CE02SHSP-SP001-00-SPPENG000,telemetered
+Ingest.wc-sbe-cspp_telemetered,/omc_data/whoi/OMC/CE02SHSP/D00001/extract/*WC_SBE.txt,CE02SHSP-SP001-00-SPPENG000,telemetered
+Ingest.wc-wm-cspp_telemetered,/omc_data/whoi/OMC/CE02SHSP/D00001/extract/*WC_WM.txt,CE02SHSP-SP001-00-SPPENG000,telemetered
