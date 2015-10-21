@@ -36,10 +36,10 @@ Ingest.ctdbp-cdef-dcl-ce-dosta_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_d
 Ingest.ctdbp-cdef-ce-dosta_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl37/CTDBP_*/*ctdbp*.hex,CE09OSSM-MFD37-03-CTDBPE000,recovered,Recovered Instrument data
 Ingest.ctdbp-cdef-dcl-ce-dosta_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl37/ctdbp2/*.ctdbp2.log,CE09OSSM-MFD37-03-DOSTAD000,recovered,Recovered DCL data
 Ingest.ctdbp-cdef-ce-dosta_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl37/CTDBP_*/*ctdbp*.hex,CE09OSSM-MFD37-03-DOSTAD000,recovered,Recovered Instrument data
-#,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl37/camds/*.camds.jpg,CE09OSSM-MFD37-06-CAMDSA000,recovered,Recovered DCL data
-#,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl37/CAMDS_*/*camds*.jpg,CE09OSSM-MFD37-06-CAMDSA000,recovered,Recovered Instrument data
+#,,CE09OSSM-MFD37-06-CAMDSA000,recovered,Instrument not connected to DCL
+#,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl37/CAMDS_*/*camds*/dcim/*.png,CE09OSSM-MFD37-06-CAMDSA000,recovered,Recovered Instrument data
 Ingest.zplsc-c-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl37/zplsc/*.zplsc.log,CE09OSSM-MFD37-07-ZPLSCC000,recovered,Recovered DCL data
-#,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl37/ZPLSC_*/*zplsc*/DATA/*/*.01A,CE09OSSM-MFD37-07-ZPLSCC000,recovered,Recovered Instrument data
+#,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl37/ZPLSC_*/*zplsc*/DATA/*/*.01A,CE09OSSM-MFD37-07-ZPLSCC000,recovered,No parser exists for this data file
 Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/irid2shore/cpm_status*.txt,CE09OSSM-SBC11-00-CPMENG000,recovered,
 Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/cpm2/syslog/cpm_status.txt,CE09OSSM-RIC21-00-CPMENG000,recovered,This is a single file updated every minute. There will only be 1 of these files and the data in it will be from the last update.
 Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/cpm3/syslog/cpm_status.txt,CE09OSSM-MFC31-00-CPMENG000,recovered,This is a single file updated every minute. There will only be 1 of these files and the data in it will be from the last update.
@@ -49,5 +49,3 @@ Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl26
 Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl27/syslog/*.syslog.log,CE09OSSM-RID27-00-DCLENG000,recovered,
 Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl35/syslog/*.syslog.log,CE09OSSM-MFD35-00-DCLENG000,recovered,
 Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl37/syslog/*.syslog.log,CE09OSSM-MFD37-00-DCLENG000,recovered,
-,,,,
-,,,,

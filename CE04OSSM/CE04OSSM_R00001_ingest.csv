@@ -7,8 +7,6 @@ Ingest.metbk-a-dcl_recovered,/omc_data/whoi/OMC/CE04OSSM/R00001/cg_data/dcl11/me
 Ingest.hyd-o-dcl_recovered,/omc_data/whoi/OMC/CE04OSSM/R00001/cg_data/dcl12/hyd2/*.hyd2.log,CE04OSSM-SBD12-03-HYDGN0000,recovered,
 Ingest.pco2a-a-dcl_recovered,/omc_data/whoi/OMC/CE04OSSM/R00001/cg_data/dcl12/pco2a/*.pco2a.log,CE04OSSM-SBD12-04-PCO2AA000,recovered,
 Ingest.wavss-a-dcl_recovered,/omc_data/whoi/OMC/CE04OSSM/R00001/cg_data/dcl12/wavss/*.wavss.log ,CE04OSSM-SBD12-05-WAVSSA000,recovered,
-Ingest.fdchp-a-dcl_recovered,/omc_data/whoi/OMC/CE04OSSM/R00001/cg_data/dcl12/fdchp/*.fdchp.log ,CE04OSSM-SBD12-08-FDCHPA000,recovered,Recovered DCL data
-Ingest.fdchp-a_recovered,/omc_data/whoi/OMC/CE04OSSM/R00001/instrmts/dcl12/FDCHP_*/*fdchp*/fdchp*.dat ,CE04OSSM-SBD12-08-FDCHPA000,recovered,Recovered Instrument data
 Ingest.adcpt-acfgm-dcl-pd0_recovered,/omc_data/whoi/OMC/CE04OSSM/R00001/cg_data/dcl26/adcpt/*.adcpt.log,CE04OSSM-RID26-01-ADCPTA000,recovered,Recovered DCL data
 Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/CE04OSSM/R00001/instrmts/dcl26/ADCPT_*/*adcpt*.pd0,CE04OSSM-RID26-01-ADCPTA000,recovered,Recovered Instrument data
 Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CE04OSSM/R00001/cg_data/dcl26/velpt2/*.velpt2.log,CE04OSSM-RID26-04-VELPTA000,recovered,Recovered DCL data
