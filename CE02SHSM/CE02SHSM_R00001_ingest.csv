@@ -29,4 +29,3 @@ Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE02SHSM/R00001/cg_data/dcl11
 Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE02SHSM/R00001/cg_data/dcl12/syslog/*.syslog.log,CE02SHSM-SBD12-00-DCLENG000,recovered,
 Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE02SHSM/R00001/cg_data/dcl26/syslog/*.syslog.log,CE02SHSM-RID26-00-DCLENG000,recovered,
 Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE02SHSM/R00001/cg_data/dcl27/syslog/*.syslog.log,CE02SHSM-RID27-00-DCLENG000,recovered,
-,,,,

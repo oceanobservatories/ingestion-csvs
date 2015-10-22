@@ -21,7 +21,7 @@ Ingest.flort-dj-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl27/f
 Ingest.ctdbp-cdef-dcl-cp_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl27/ctdbp1/*.ctdbp1.log,CE09OSSM-RID27-03-CTDBPC000,recovered,Recovered DCL data
 Ingest.ctdbp-cdef-cp_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl27/CTDBP_*/*ctdbp*.hex,CE09OSSM-RID27-03-CTDBPC000,recovered,Recovered Instrument data
 Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl27/dosta/*.dosta.log,CE09OSSM-RID27-04-DOSTAD000,recovered,
-Ingest.vel3d-cd-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl35/vel3d/*.vel3d.log,CE09OSSM-MFD35-01-VEL3DD000,recovered,Recovered DCL data
+#Ingest.vel3d-cd-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl35/vel3d/*.vel3d.log,CE09OSSM-MFD35-01-VEL3DD000,recovered,Instrument not connected to DCL
 Ingest.vel3d-cd_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl35/VEL3D_*/*vel3d*.vec,CE09OSSM-MFD35-01-VEL3DD000,recovered,Recovered Instrument data
 Ingest.presf-abc-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl35/presf/*.presf.log,CE09OSSM-MFD35-02-PRESFC000,recovered,Recovered DCL data
 Ingest.presf-abc_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl35/PRESF_*/PRESF*.hex,CE09OSSM-MFD35-02-PRESFC000,recovered,Recovered Instrument data
