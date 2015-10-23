@@ -7,7 +7,6 @@ Ingest.spkir-abj-cspp_recovered,/omc_data/whoi/OMC/CP01CNSP/R00004/extract/ucspp
 Ingest.flort-dj-cspp_recovered,/omc_data/whoi/OMC/CP01CNSP/R00004/extract/ucspp_*_PPB_TRIP.txt,CP01CNSP-SP001-09-FLORTJ000,recovered_cspp
 Ingest.ctdpf-j-cspp_recovered,/omc_data/whoi/OMC/CP01CNSP/R00004/extract/ucspp_*_PPB_CTD.txt,CP01CNSP-SP001-08-CTDPFJ000,recovered_cspp
 Ingest.parad-j-cspp_recovered,/omc_data/whoi/OMC/CP01CNSP/R00004/extract/ucspp_*_PPB_PARS.txt,CP01CNSP-SP001-10-PARADJ000,recovered_cspp
-,,,
 Ingest.dbg-pdbg-cspp_recovered,/omc_data/whoi/OMC/CP01CNSP/R00004/extract/*PDBG.txt,CP01CNSP-SP001-00-SPPENG000,recovered_cspp
 Ingest.wc-hmr-cspp_recovered,/omc_data/whoi/OMC/CP01CNSP/R00004/extract/*WC_HMR.txt,CP01CNSP-SP001-00-SPPENG000,recovered_cspp
 Ingest.wc-sbe-cspp_recovered,/omc_data/whoi/OMC/CP01CNSP/R00004/extract/*WC_SBE.txt,CP01CNSP-SP001-00-SPPENG000,recovered_cspp
