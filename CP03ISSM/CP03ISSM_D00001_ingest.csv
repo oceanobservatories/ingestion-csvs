@@ -1,25 +1,26 @@
 uframe_route,filename_mask,reference_designator,data_source,
 Ingest.mopak-o-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00001/cg_data/dcl11/mopak/*.mopak.log,CP03ISSM-SBD11-01-MOPAK0000,telemetered,
 Ingest.metbk-a-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00001/cg_data/dcl11/metbk1/*.metbk*.log,CP03ISSM-SBD11-06-METBKA000,telemetered,
-Ingest.metbk-a-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00001/cg_data/dcl11/metbk/*.metbk*.log,CP03ISSM-SBD11-07-METBKA000,telemetered,We have data for this but it doesn't show up in 3102-00008 so I am guessing on the instrument type and reference designator.
+Ingest.hyd-o-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00001/cg_data/dcl11/hyd*/*hyd*.log,CP03ISSM-SBD11-02-HYDGN0000,telemetered,
+Ingest.hyd-o-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00001/cg_data/dcl12/hyd*/*hyd*.log,CP03ISSM-SBD12-03-HYDGN0000,telemetered,
 Ingest.pco2a-a-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00001/cg_data/dcl12/pco2a/*.pco2a.log,CP03ISSM-SBD12-04-PCO2AA000,telemetered,
 Ingest.velpt-ab-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00001/cg_data/dcl26/velpt*/*.velpt*.log,CP03ISSM-RID26-04-VELPTA000,telemetered,
 Ingest.phsen-abcdef-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00001/cg_data/dcl26/phsen*/*.phsen*.log,CP03ISSM-RID26-06-PHSEND000,telemetered,
 Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00001/cg_data/dcl27/optaa*/*.optaa*.log,CP03ISSM-RID27-01-OPTAAD000,telemetered,
 Ingest.flort-dj-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00001/cg_data/dcl27/flort/*.flort.log,CP03ISSM-RID27-02-FLORTD000,telemetered,
-Ingest.ctdbp-cdef-dcl-cp_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00001/cg_data/dcl27/ctdbp*/*.ctdbp*.log,CP03ISSM-RID27-03-CTDBPC000,telemetered,
+Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00001/cg_data/dcl27/ctdbp*/*.ctdbp*.log,CP03ISSM-RID27-03-CTDBPC000,telemetered,
 Ingest.dosta-abcdjm-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00001/cg_data/dcl27/dosta*/*.dosta*.log,CP03ISSM-RID27-04-DOSTAD000,telemetered,
-Ingest.nutnr-b-dcl-full_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00001/cg_data/dcl26/nutnr/*.nutnr.log,CP03ISSM-RID27-07-NUTNRB000,telemetered,"3102-00008 says this should be RID27, but it is installed on RID26 for this deployment"
-Ingest.spkir-abj-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00001/cg_data/dcl26/spkir/*.spkir.log,CP03ISSM-RID27-08-SPKIRB000,telemetered,"3102-00008 says this should be RID27, but it is installed on RID26 for this deployment"
+Ingest.nutnr-b-dcl-full_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00001/cg_data/dcl26/nutnr/*.nutnr.log,CP03ISSM-RID26-07-NUTNRB000,telemetered,"3102-00008 says this should be RID27, but it is installed on RID26 for this deployment"
+Ingest.spkir-abj-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00001/cg_data/dcl26/spkir/*.spkir.log,CP03ISSM-RID26-08-SPKIRB000,telemetered,"3102-00008 says this should be RID27, but it is installed on RID26 for this deployment"
 Ingest.adcpt-acfgm-dcl-pd8_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00001/cg_data/dcl35/adcp/*.adcp.log,CP03ISSM-MFD35-01-ADCPTF000,telemetered,
 Ingest.presf-abc-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00001/cg_data/dcl35/presf/*.presf.log,CP03ISSM-MFD35-02-PRESFB000,telemetered,
 Ingest.velpt-ab-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00001/cg_data/dcl35/velpt*/*.velpt*.log,CP03ISSM-MFD35-04-VELPTA000,telemetered,
 Ingest.pco2w-abc-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00001/cg_data/dcl35/pco2w/*.pco2w.log,CP03ISSM-MFD35-05-PCO2WB000,telemetered,
 Ingest.phsen-abcdef-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00001/cg_data/dcl35/phsen*/*.phsen*.log,CP03ISSM-MFD35-06-PHSEND000,telemetered,
 Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00001/cg_data/dcl37/optaa*/*.optaa*.log,CP03ISSM-MFD37-01-OPTAAD000,telemetered,
-Ingest.ctdbp-cdef-dcl-cp_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00001/cg_data/dcl37/ctdbp*/*.ctdbp*.log,CP03ISSM-MFD37-03-CTDBPD000,telemetered,
+Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00001/cg_data/dcl37/ctdbp*/*.ctdbp*.log,CP03ISSM-MFD37-03-CTDBPD000,telemetered,
 Ingest.dosta-abcdjm-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00001/cg_data/dcl37/dosta*/*.dosta*.log,CP03ISSM-MFD37-04-DOSTAD000,telemetered,
-#,,,,CP03ISSM-MFD00-00-ZPLSCC000 will be added in Group 5
+# Ingest.zplsc-c-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00001/cg_data/dcl37/zplsc*/*zplsc*.log,CP03ISSM-MFD37-07-ZPLSCC000,telemetered,
 Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00001/irid2shore/cpm_status*.txt,CP03ISSM-SBC11-00-CPMENG000,telemetered,
 Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00001/cg_data/dcl11/syslog/*.syslog.log,CP03ISSM-SBD11-00-DCLENG000,telemetered,
 Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00001/cg_data/dcl12/syslog/*.syslog.log,CP03ISSM-SBD12-00-DCLENG000,telemetered,
