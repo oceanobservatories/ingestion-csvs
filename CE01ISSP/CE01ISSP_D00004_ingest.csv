@@ -1,14 +1,14 @@
-uframe_route,filename_mask,reference_designator,data_source
-Ingest.dosta-abcdjm-cspp_telemetered,/omc_data/whoi/OMC/CE01ISSP/D00004/extract/ucspp_*_PPD_OPT.txt,CE01ISSP-SP001-02-DOSTAJ000,telemetered
-# Ingest.optaa-dj-cspp_telemetered,/omc_data/whoi/OMC/CE01ISSP/D00004/extract/ucspp_*_ACD_ACS.txt,CE01ISSP-SP001-04-OPTAAJ000,telemetered
-Ingest.velpt-j-cspp_telemetered,/omc_data/whoi/OMC/CE01ISSP/D00004/extract/ucspp_*_PPD_ADCP.txt,CE01ISSP-SP001-05-VELPTJ000,telemetered
-# Ingest.nutnr-j-cspp_telemetered,/omc_data/whoi/OMC/CE01ISSP/D00004/extract/ucspp_*_SND_SNA.txt,CE01ISSP-SP001-06-NUTNRJ000,telemetered
-Ingest.spkir-abj-cspp_telemetered,/omc_data/whoi/OMC/CE01ISSP/D00004/extract/ucspp_*_PPD_OCR.txt,CE01ISSP-SP001-07-SPKIRJ000,telemetered
-Ingest.flort-dj-cspp_telemetered,/omc_data/whoi/OMC/CE01ISSP/D00004/extract/ucspp_*_PPD_TRIP.txt,CE01ISSP-SP001-08-FLORTJ000,telemetered
-Ingest.ctdpf-j-cspp_telemetered,/omc_data/whoi/OMC/CE01ISSP/D00004/extract/ucspp_*_PPD_CTD.txt,CE01ISSP-SP001-09-CTDPFJ000,telemetered
-Ingest.parad-j-cspp_telemetered,/omc_data/whoi/OMC/CE01ISSP/D00004/extract/ucspp_*_PPD_PARS.txt,CE01ISSP-SP001-10-PARADJ000,telemetered
-#,,,
-Ingest.dbg-pdbg-cspp_telemetered,/omc_data/whoi/OMC/CE01ISSP/D00004/extract/*PDBG.txt,CE01ISSP-SP001-00-SPPENG000,telemetered
-Ingest.wc-hmr-cspp_telemetered,/omc_data/whoi/OMC/CE01ISSP/D00004/extract/*WC_HMR.txt,CE01ISSP-SP001-00-SPPENG000,telemetered
-Ingest.wc-sbe-cspp_telemetered,/omc_data/whoi/OMC/CE01ISSP/D00004/extract/*WC_SBE.txt,CE01ISSP-SP001-00-SPPENG000,telemetered
-Ingest.wc-wm-cspp_telemetered,/omc_data/whoi/OMC/CE01ISSP/D00004/extract/*WC_WM.txt,CE01ISSP-SP001-00-SPPENG000,telemetered
+uframe_route,filename_mask,reference_designator,data_source,,
+Ingest.dosta-abcdjm-cspp_telemetered,/omc_data/whoi/OMC/CE01ISSP/D00004/extract/ucspp_*_PPD_OPT.txt,CE01ISSP-SP001-02-DOSTAJ000,telemetered,,
+# Ingest.optaa-dj-cspp_telemetered,/omc_data/whoi/OMC/CE01ISSP/D00004/extract/ucspp_*_ACD_ACS.txt,CE01ISSP-SP001-04-OPTAAJ000,telemetered,,data not telemtered
+Ingest.velpt-j-cspp_telemetered,/omc_data/whoi/OMC/CE01ISSP/D00004/extract/ucspp_*_PPD_ADCP.txt,CE01ISSP-SP001-05-VELPTJ000,telemetered,,
+# Ingest.nutnr-j-cspp_telemetered,/omc_data/whoi/OMC/CE01ISSP/D00004/extract/ucspp_*_SND_SNA.txt,CE01ISSP-SP001-06-NUTNRJ000,telemetered,,data not telemetered
+Ingest.spkir-abj-cspp_telemetered,/omc_data/whoi/OMC/CE01ISSP/D00004/extract/ucspp_*_PPD_OCR.txt,CE01ISSP-SP001-07-SPKIRJ000,telemetered,,
+Ingest.flort-dj-cspp_telemetered,/omc_data/whoi/OMC/CE01ISSP/D00004/extract/ucspp_*_PPD_TRIP.txt,CE01ISSP-SP001-08-FLORTJ000,telemetered,,
+Ingest.ctdpf-j-cspp_telemetered,/omc_data/whoi/OMC/CE01ISSP/D00004/extract/ucspp_*_PPD_CTD.txt,CE01ISSP-SP001-09-CTDPFJ000,telemetered,,
+Ingest.parad-j-cspp_telemetered,/omc_data/whoi/OMC/CE01ISSP/D00004/extract/ucspp_*_PPD_PARS.txt,CE01ISSP-SP001-10-PARADJ000,telemetered,,
+#,,,,,
+Ingest.dbg-pdbg-cspp_telemetered,/omc_data/whoi/OMC/CE01ISSP/D00004/extract/*PDBG.txt,CE01ISSP-SP001-00-SPPENG000,telemetered,,
+Ingest.wc-hmr-cspp_telemetered,/omc_data/whoi/OMC/CE01ISSP/D00004/extract/*WC_HMR.txt,CE01ISSP-SP001-00-SPPENG000,telemetered,,
+Ingest.wc-sbe-cspp_telemetered,/omc_data/whoi/OMC/CE01ISSP/D00004/extract/*WC_SBE.txt,CE01ISSP-SP001-00-SPPENG000,telemetered,,
+Ingest.wc-wm-cspp_telemetered,/omc_data/whoi/OMC/CE01ISSP/D00004/extract/*WC_WM.txt,CE01ISSP-SP001-00-SPPENG000,telemetered,,
