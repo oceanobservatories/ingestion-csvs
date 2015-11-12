@@ -1,0 +1,16 @@
+uframe_route,filename_mask,reference_designator,data_source,
+Ingest.flort-dj-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00002/*flort*.dat,GI03FLMB-RIS01-05-FLORTD000,telemetered,
+Ingest.phsen-abcdef-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00002/*phsen*.dat,GI03FLMB-RIS01-04-PHSENF000,telemetered,
+Ingest.dosta-abcdjm-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00002/*dosta*.dat,GI03FLMB-RIS01-03-DOSTAD000,telemetered,
+Ingest.adcps-jln-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00002/*adcps*.dat,GI03FLMB-RIM01-02-ADCPSL007,telemetered,
+Ingest.ctdmo-ghqr-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00002/*ctdmo*.dat,GI03FLMB-RIM01-02-CTDMOG000,telemetered,
+#,,GI03FLMA-RI000-00-CTDMOH000,telemetered,4 CTDMO not installed on secondary controller
+#,,GI03FLMA-RI000-00-CTDMOH700,telemetered,
+#,,GI03FLMA-RI000-00-CTDMOH400,telemetered,
+#,,GI03FLMA-RI000-00-CTDMOH100,telemetered,
+#,,GI03FLMA-RI000-00-VELPTB000,telemetered,No Velpt installed
+#,,GI03FLMA-RI000-00-VELPTB700,telemetered,
+#,,GI03FLMA-RI000-00-VELPTB400,telemetered,
+#,,GI03FLMA-RI000-00-VELPTB100,telemetered,
+Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GI03FLMA/D00002/*status_1487401.dat,GI03FLMB-FMS01-01-SIOENG000,telemetered,
+Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GI03FLMA/D00002/*status_1487601.dat,GI03FLMB-FMM01-01-SIOENG000,telemetered,
