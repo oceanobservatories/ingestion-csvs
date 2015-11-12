@@ -1,0 +1,6 @@
+uframe_route,filename_mask,reference_designator,data_source,
+Ingest.glider-eng-glider_telemetered,/omc_data/whoi/OMC/GP05MOAS-PG002/D00001/merged-from-glider/gp_*.mrg,GP05MOAS-PG515-00-ENG000000,telemetered,
+Ingest.flort-m-profiling-glider_telemetered,/omc_data/whoi/OMC/GP05MOAS-PG002/D00001/merged-from-glider/gp_*.mrg,GP05MOAS-PG515-02-FLORTM000,telemetered,
+#  Ingest.flort-o-glider_telemetered,/omc_data/whoi/OMC/GP05MOAS-PG002/D00001/merged-from-glider/gp_*.mrg,GP05MOAS-PG515-03-FLORTO000,telemetered,There isnt a FLORT0 Parser at the current time
+Ingest.parad-m-glider_telemetered,/omc_data/whoi/OMC/GP05MOAS-PG002/D00001/merged-from-glider/gp_*.mrg,GP05MOAS-PG515-04-PARADM000,telemetered,
+Ingest.ctdgv-m-glider_telemetered,/omc_data/whoi/OMC/GP05MOAS-PG002/D00001/merged-from-glider/gp_*.mrg,GP05MOAS-PG515-01-CTDGVM000,telemetered,
