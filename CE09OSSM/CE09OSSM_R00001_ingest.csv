@@ -1,51 +1,41 @@
 uframe_route,filename_mask,reference_designator,data_source,
-Ingest.mopak-o-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl11/mopak/*.mopak.log,CE09OSSM-SBD11-01-MOPAK0000,recovered,
-Ingest.hyd-o-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl11/hyd1/*.hyd1.log,CE09OSSM-SBD11-02-HYDGN0000,recovered,
-Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl11/velpt1/*.velpt1.log,CE09OSSM-SBD11-04-VELPTA000,recovered,Recovered DCL data
-Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl11/VELPT_*/*velpt*.aqd,CE09OSSM-SBD11-04-VELPTA000,recovered,Recovered Instrument data
-Ingest.metbk-a-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl11/metbk/*.metbk.log ,CE09OSSM-SBD11-06-METBKA000,recovered,
-Ingest.hyd-o-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl12/hyd2/*.hyd2.log,CE09OSSM-SBD12-03-HYDGN0000,recovered,
-Ingest.pco2a-a-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl12/pco2a/*.pco2a.log,CE09OSSM-SBD12-04-PCO2AA000,recovered,
-Ingest.wavss-a-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl12/wavss/*.wavss.log ,CE09OSSM-SBD12-05-WAVSSA000,recovered,
-Ingest.adcpt-acfgm-dcl-pd0_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl26/adcpt/*.adcpt.log,CE09OSSM-RID26-01-ADCPTC000,recovered,Recovered DCL data
-Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl26/ADCPT_*/*adcpt*.pd0,CE09OSSM-RID26-01-ADCPTC000,recovered,Recovered Instrument data
-Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl26/velpt2/*.velpt2.log,CE09OSSM-RID26-04-VELPTA000,recovered,Recovered DCL data
-Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl26/VELPT_*/*velpt*.aqd,CE09OSSM-RID26-04-VELPTA000,recovered,Recovered Instrument data
-Ingest.phsen-abcdef-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl26/phsen1/*.phsen1.log,CE09OSSM-RID26-06-PHSEND000,recovered,Recovered DCL data
-Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl26/PHSEN_*/*phsen*.txt,CE09OSSM-RID26-06-PHSEND000,recovered,Recovered Instrument data
-Ingest.nutnr-b-dcl-conc_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl26/nutnr/*.nutnr.log,CE09OSSM-RID26-07-NUTNRB000,recovered,Recovered DCL data
-Ingest.nutnr-b_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl26/NUTNR_*/*nutnr*/*SCH*.DAT,CE09OSSM-RID26-07-NUTNRB000,recovered,Recovered Instrument data
-Ingest.spkir-abj-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl26/spkir/*.spkir.log,CE09OSSM-RID26-08-SPKIRB000,recovered,
-Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl27/optaa1/*.optaa1.log,CE09OSSM-RID27-01-OPTAAD000,recovered,
-Ingest.flort-dj-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl27/flort/*.flort.log,CE09OSSM-RID27-02-FLORTD000,recovered,
-Ingest.ctdbp-cdef-dcl-cp_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl27/ctdbp1/*.ctdbp1.log,CE09OSSM-RID27-03-CTDBPC000,recovered,Recovered DCL data
-Ingest.ctdbp-cdef-cp_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl27/CTDBP_*/*ctdbp*.hex,CE09OSSM-RID27-03-CTDBPC000,recovered,Recovered Instrument data
-Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl27/dosta/*.dosta.log,CE09OSSM-RID27-04-DOSTAD000,recovered,
-#Ingest.vel3d-cd-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl35/vel3d/*.vel3d.log,CE09OSSM-MFD35-01-VEL3DD000,recovered,Instrument not connected to DCL
-Ingest.vel3d-cd_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl35/VEL3D_*/*vel3d*.vec,CE09OSSM-MFD35-01-VEL3DD000,recovered,Recovered Instrument data
-Ingest.presf-abc-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl35/presf/*.presf.log,CE09OSSM-MFD35-02-PRESFC000,recovered,Recovered DCL data
-Ingest.presf-abc_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl35/PRESF_*/PRESF*.hex,CE09OSSM-MFD35-02-PRESFC000,recovered,Recovered Instrument data
-Ingest.adcpt-acfgm-dcl-pd0_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl35/adcps/*.adcps.log,CE09OSSM-MFD35-04-ADCPSJ000,recovered,Recovered DCL data
-Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl35/ADCPS_*/*adcps*.pd0,CE09OSSM-MFD35-04-ADCPSJ000,recovered,Recovered Instrument data
-Ingest.pco2w-abc-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl35/pco2w/*.pco2w.log,CE09OSSM-MFD35-05-PCO2WB000,recovered,Recovered DCL data
-Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl35/PCO2W_*/*pco2w*.txt,CE09OSSM-MFD35-05-PCO2WB000,recovered,Recovered Instrument data
-Ingest.phsen-abcdef-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl35/phsen2/*.phsen2.log,CE09OSSM-MFD35-06-PHSEND000,recovered,Recovered DCL data
-Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl35/PHSEN_*/*phsen*.txt,CE09OSSM-MFD35-06-PHSEND000,recovered,Recovered Instrument data
-Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl37/optaa2/*.optaa2.log,CE09OSSM-MFD37-01-OPTAAC000,recovered,
-Ingest.ctdbp-cdef-dcl-ce-dosta_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl37/ctdbp2/*.ctdbp2.log,CE09OSSM-MFD37-03-CTDBPE000,recovered,Recovered DCL data
-Ingest.ctdbp-cdef-ce-dosta_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl37/CTDBP_*/*ctdbp*.hex,CE09OSSM-MFD37-03-CTDBPE000,recovered,Recovered Instrument data
-Ingest.ctdbp-cdef-dcl-ce-dosta_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl37/ctdbp2/*.ctdbp2.log,CE09OSSM-MFD37-03-DOSTAD000,recovered,Recovered DCL data
-Ingest.ctdbp-cdef-ce-dosta_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl37/CTDBP_*/*ctdbp*.hex,CE09OSSM-MFD37-03-DOSTAD000,recovered,Recovered Instrument data
-#,,CE09OSSM-MFD37-06-CAMDSA000,recovered,Instrument not connected to DCL
-#,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl37/CAMDS_*/*camds*/dcim/*.png,CE09OSSM-MFD37-06-CAMDSA000,recovered,Recovered Instrument data
-Ingest.zplsc-c-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl37/zplsc/*.zplsc.log,CE09OSSM-MFD37-07-ZPLSCC000,recovered,Recovered DCL data
-#,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl37/ZPLSC_*/*zplsc*/DATA/*/*.01A,CE09OSSM-MFD37-07-ZPLSCC000,recovered,No parser exists for this data file
-Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/irid2shore/cpm_status*.txt,CE09OSSM-SBC11-00-CPMENG000,recovered,
-Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/cpm2/syslog/cpm_status.txt,CE09OSSM-RIC21-00-CPMENG000,recovered,This is a single file updated every minute. There will only be 1 of these files and the data in it will be from the last update.
-Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/cpm3/syslog/cpm_status.txt,CE09OSSM-MFC31-00-CPMENG000,recovered,This is a single file updated every minute. There will only be 1 of these files and the data in it will be from the last update.
-Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl11/syslog/*.syslog.log,CE09OSSM-SBD11-00-DCLENG000,recovered,
-Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl12/syslog/*.syslog.log,CE09OSSM-SBD12-00-DCLENG000,recovered,
-Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl26/syslog/*.syslog.log,CE09OSSM-RID26-00-DCLENG000,recovered,
-Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl27/syslog/*.syslog.log,CE09OSSM-RID27-00-DCLENG000,recovered,
-Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl35/syslog/*.syslog.log,CE09OSSM-MFD35-00-DCLENG000,recovered,
-Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl37/syslog/*.syslog.log,CE09OSSM-MFD37-00-DCLENG000,recovered,
+Ingest.mopak-o-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl11/mopak/*.mopak.log,CE09OSSM-SBD11-01-MOPAK0000,recovered_host,
+Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl11/velpt1/*.velpt1.log,CE09OSSM-SBD11-04-VELPTA000,recovered_host,Recovered DCL data
+Ingest.metbk-a-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl11/metbk/*.metbk.log ,CE09OSSM-SBD11-06-METBKA000,recovered_host,
+Ingest.pco2a-a-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl12/pco2a/*.pco2a.log,CE09OSSM-SBD12-04-PCO2AA000,recovered_host,
+Ingest.wavss-a-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl12/wavss/*.wavss.log ,CE09OSSM-SBD12-05-WAVSSA000,recovered_host,
+Ingest.adcpt-acfgm-dcl-pd0_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl26/adcpt/*.adcpt.log,CE09OSSM-RID26-01-ADCPTC000,recovered_host,Recovered DCL data
+Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl26/ADCPT_*/*adcpt*.pd0,CE09OSSM-RID26-01-ADCPTC000,recovered_inst,Recovered Instrument data
+Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl26/velpt2/*.velpt2.log,CE09OSSM-RID26-04-VELPTA000,recovered_host,Recovered DCL data
+Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl26/VELPT_*/*velpt*.aqd,CE09OSSM-RID26-04-VELPTA000,recovered_inst,Recovered Instrument data
+Ingest.phsen-abcdef-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl26/phsen1/*.phsen1.log,CE09OSSM-RID26-06-PHSEND000,recovered_host,Recovered DCL data
+Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl26/PHSEN_*/*phsen*.txt,CE09OSSM-RID26-06-PHSEND000,recovered_inst,Recovered Instrument data
+Ingest.nutnr-b-dcl-conc_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl26/nutnr/*.nutnr.log,CE09OSSM-RID26-07-NUTNRB000,recovered_host,Recovered DCL data
+Ingest.nutnr-b_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl26/NUTNR_*/*nutnr*/*SCH*.DAT,CE09OSSM-RID26-07-NUTNRB000,recovered_inst,Recovered Instrument data
+Ingest.spkir-abj-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl26/spkir/*.spkir.log,CE09OSSM-RID26-08-SPKIRB000,recovered_host,
+Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl27/optaa1/*.optaa1.log,CE09OSSM-RID27-01-OPTAAD000,recovered_host,
+Ingest.flort-dj-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl27/flort/*.flort.log,CE09OSSM-RID27-02-FLORTD000,recovered_host,
+Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl27/ctdbp1/*.ctdbp1.log,CE09OSSM-RID27-03-CTDBPC000,recovered_host,Recovered DCL data
+Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl27/dosta/*.dosta.log,CE09OSSM-RID27-04-DOSTAD000,recovered_host,
+#Ingest.vel3d-cd-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl35/vel3d/*.vel3d.log,CE09OSSM-MFD35-01-VEL3DD000,recovered_host,Instrument not connected to DCL
+Ingest.presf-abc-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl35/presf/*.presf.log,CE09OSSM-MFD35-02-PRESFC000,recovered_host,Recovered DCL data
+Ingest.adcpt-acfgm-dcl-pd0_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl35/adcps/*.adcps.log,CE09OSSM-MFD35-04-ADCPSJ000,recovered_host,Recovered DCL data
+Ingest.pco2w-abc-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl35/pco2w/*.pco2w.log,CE09OSSM-MFD35-05-PCO2WB000,recovered_host,Recovered DCL data
+Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl35/PCO2W_*/*pco2w*.txt,CE09OSSM-MFD35-05-PCO2WB000,recovered_inst,Recovered Instrument data
+Ingest.phsen-abcdef-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl35/phsen2/*.phsen2.log,CE09OSSM-MFD35-06-PHSEND000,recovered_host,Recovered DCL data
+Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl35/PHSEN_*/*phsen*.txt,CE09OSSM-MFD35-06-PHSEND000,recovered_inst,Recovered Instrument data
+Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl37/optaa2/*.optaa2.log,CE09OSSM-MFD37-01-OPTAAC000,recovered_host,
+Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl37/ctdbp2/*.ctdbp2.log,CE09OSSM-MFD37-03-CTDBPE000,recovered_host,Recovered DCL data
+Ingest.ctdbp-cdef-dcl-dosta_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl37/ctdbp2/*.ctdbp2.log,CE09OSSM-MFD37-03-DOSTAD000,recovered_host,Recovered DCL data
+#,,CE09OSSM-MFD37-06-CAMDSA000,recovered_host,Instrument not connected to DCL
+#,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl37/CAMDS_*/*camds*/dcim/*.png,CE09OSSM-MFD37-06-CAMDSA000,recovered_host,Recovered Instrument data
+# Ingest.zplsc-c-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl37/zplsc/*.zplsc.log,CE09OSSM-MFD37-07-ZPLSCC000,recovered_host,No data in server
+Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/irid2shore/cpm_status*.txt,CE09OSSM-SBC11-00-CPMENG000,recovered_host,
+Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/cpm2/syslog/cpm_status.txt,CE09OSSM-RIC21-00-CPMENG000,recovered_host,This is a single file updated every minute. There will only be 1 of these files and the data in it will be from the last update.
+Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/cpm3/syslog/cpm_status.txt,CE09OSSM-MFC31-00-CPMENG000,recovered_host,This is a single file updated every minute. There will only be 1 of these files and the data in it will be from the last update.
+Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl11/syslog/*.syslog.log,CE09OSSM-SBD11-00-DCLENG000,recovered_host,
+Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl12/syslog/*.syslog.log,CE09OSSM-SBD12-00-DCLENG000,recovered_host,
+Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl26/syslog/*.syslog.log,CE09OSSM-RID26-00-DCLENG000,recovered_host,
+Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl27/syslog/*.syslog.log,CE09OSSM-RID27-00-DCLENG000,recovered_host,
+Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl35/syslog/*.syslog.log,CE09OSSM-MFD35-00-DCLENG000,recovered_host,
+Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl37/syslog/*.syslog.log,CE09OSSM-MFD37-00-DCLENG000,recovered_host,
