@@ -30,7 +30,7 @@ Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/cg_data/dcl37
 #,,,,The following assume we are processing data directly from the instrument
 Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/instrmt/dcl16/CTDBP*/ce01issm_ctdbp*.hex,CE01ISSM-RID16-03-CTDBPC000,recovered_inst,
 Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/instrmt/dcl16/VELPT*/ce01issm_velpt*.aqd,CE01ISSM-RID16-04-VELPTA000,recovered_inst,
-Ingest.nutnr-b_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/instrmt/dcl16/NUTNR*/ce01issm_nutnr*/*DAT,CE01ISSM-RID16-07-NUTNRB000,recovered_inst,
+Ingest.nutnr-b_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/instrmt/dcl16/NUTNR*/ce01issm_nutnr*/*.DAT,CE01ISSM-RID16-07-NUTNRB000,recovered_inst,
 Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/instrmt/dcl17/VELPT*/ce01issm_velpt*.aqd,CE01ISSM-SBD17-04-VELPTA000,recovered_inst,
 Ingest.adcpt-m_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/instrmt/dcl35/ADCPT*/ce01issm_adcpt*.000,CE01ISSM-MFD35-04-ADCPTM000,recovered_inst,
 Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/instrmt/dcl37/CTDBP*/ce01issm_ctdbp*.hex,CE01ISSM-MFD37-03-CTDBPC000,recovered_inst,
