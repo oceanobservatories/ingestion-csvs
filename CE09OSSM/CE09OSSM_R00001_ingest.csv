@@ -26,7 +26,7 @@ Ingest.phsen-abcdef-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl
 Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl35/PHSEN_*/*phsen*.txt,CE09OSSM-MFD35-06-PHSEND000,recovered_inst,Recovered Instrument data
 Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl37/optaa2/*.optaa2.log,CE09OSSM-MFD37-01-OPTAAC000,recovered_host,
 Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl37/ctdbp2/*.ctdbp2.log,CE09OSSM-MFD37-03-CTDBPE000,recovered_host,Recovered DCL data
-Ingest.ctdbp-cdef-dcl-dosta_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl37/ctdbp2/*.ctdbp2.log,CE09OSSM-MFD37-03-DOSTAD000,recovered_host,Recovered DCL data
+Ingest.dosta-abcdjm-ctdbp-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl37/ctdbp2/*.ctdbp2.log,CE09OSSM-MFD37-03-DOSTAD000,recovered_host,Recovered DCL data
 #,,CE09OSSM-MFD37-06-CAMDSA000,recovered_host,Instrument not connected to DCL
 #,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl37/CAMDS_*/*camds*/dcim/*.png,CE09OSSM-MFD37-06-CAMDSA000,recovered_host,Recovered Instrument data
 # Ingest.zplsc-c-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl37/zplsc/*.zplsc.log,CE09OSSM-MFD37-07-ZPLSCC000,recovered_host,No data in server
