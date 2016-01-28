@@ -5,12 +5,12 @@ Ingest.metbk-a-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl11/me
 Ingest.pco2a-a-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl12/pco2a/*.pco2a.log,CE09OSSM-SBD12-04-PCO2AA000,recovered_host,
 Ingest.wavss-a-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl12/wavss/*.wavss.log ,CE09OSSM-SBD12-05-WAVSSA000,recovered_host,
 Ingest.adcpt-acfgm-dcl-pd0_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl26/adcpt/*.adcpt.log,CE09OSSM-RID26-01-ADCPTC000,recovered_host,Recovered DCL data
-Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl26/ADCPT_*/*adcpt*.pd0,CE09OSSM-RID26-01-ADCPTC000,recovered_inst,Recovered Instrument data
+Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl26/ADCPT_*/*adcpt*.000,CE09OSSM-RID26-01-ADCPTC000,recovered_inst,Recovered Instrument data
 Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl26/velpt2/*.velpt2.log,CE09OSSM-RID26-04-VELPTA000,recovered_host,Recovered DCL data
 Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl26/VELPT_*/*velpt*.aqd,CE09OSSM-RID26-04-VELPTA000,recovered_inst,Recovered Instrument data
-Ingest.phsen-abcdef-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl26/phsen1/*.phsen1.log,CE09OSSM-RID26-06-PHSEND000,recovered_host,Recovered DCL data
+Ingest.phsen-abcdef-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl26/phsen/*.phsen.log,CE09OSSM-RID26-06-PHSEND000,recovered_host,Recovered DCL data
 Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl26/PHSEN_*/*phsen*.txt,CE09OSSM-RID26-06-PHSEND000,recovered_inst,Recovered Instrument data
-Ingest.nutnr-b-dcl-conc_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl26/nutnr/*.nutnr.log,CE09OSSM-RID26-07-NUTNRB000,recovered_host,Recovered DCL data
+Ingest.nutnr-b-dcl-full_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl26/nutnr/*.nutnr.log,CE09OSSM-RID26-07-NUTNRB000,recovered_host,Recovered DCL data
 Ingest.nutnr-b_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl26/NUTNR_*/*nutnr*/*SCH*.DAT,CE09OSSM-RID26-07-NUTNRB000,recovered_inst,Recovered Instrument data
 Ingest.spkir-abj-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl26/spkir/*.spkir.log,CE09OSSM-RID26-08-SPKIRB000,recovered_host,
 Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl27/optaa1/*.optaa1.log,CE09OSSM-RID27-01-OPTAAD000,recovered_host,
@@ -30,7 +30,7 @@ Ingest.dosta-abcdjm-ctdbp-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_da
 #,,CE09OSSM-MFD37-06-CAMDSA000,recovered_host,Instrument not connected to DCL
 #,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl37/CAMDS_*/*camds*/dcim/*.png,CE09OSSM-MFD37-06-CAMDSA000,recovered_host,Recovered Instrument data
 # Ingest.zplsc-c-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl37/zplsc/*.zplsc.log,CE09OSSM-MFD37-07-ZPLSCC000,recovered_host,No data in server
-Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/irid2shore/cpm_status*.txt,CE09OSSM-SBC11-00-CPMENG000,recovered_host,
+Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/irid2shore/cpm_status.*.txt,CE09OSSM-SBC11-00-CPMENG000,recovered_host,
 Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/cpm2/syslog/cpm_status.txt,CE09OSSM-RIC21-00-CPMENG000,recovered_host,This is a single file updated every minute. There will only be 1 of these files and the data in it will be from the last update.
 Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/cpm3/syslog/cpm_status.txt,CE09OSSM-MFC31-00-CPMENG000,recovered_host,This is a single file updated every minute. There will only be 1 of these files and the data in it will be from the last update.
 Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl11/syslog/*.syslog.log,CE09OSSM-SBD11-00-DCLENG000,recovered_host,
