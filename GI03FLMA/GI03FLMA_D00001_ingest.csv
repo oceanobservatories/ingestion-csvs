@@ -1,12 +1,12 @@
-uframe_route,filename_mask,reference_designator,data_source
-Ingest.flort-dj-sio_telemetered,/omc_data/whoi/OMC/GI03FLMA/D00001/*flort*.dat,GI03FLMA-RIS01-05-FLORTD000,telemetered
-Ingest.phsen-abcdef-sio_telemetered,/omc_data/whoi/OMC/GI03FLMA/D00001/*phsen*.dat,GI03FLMA-RIS01-04-PHSENF000,telemetered
-Ingest.dosta-abcdjm-sio_telemetered,/omc_data/whoi/OMC/GI03FLMA/D00001/*dosta*.dat,GI03FLMA-RIS01-03-DOSTAD000,telemetered
-Ingest.adcps-jln-sio_telemetered,/omc_data/whoi/OMC/GI03FLMA/D00001/*adcps*.dat,GI03FLMA-RIM01-02-ADCPSL003,telemetered
-Ingest.ctdmo-ghqr-sio_telemetered,/omc_data/whoi/OMC/GI03FLMA/D00001/*ctdmo*.dat,GI03FLMA-RIM01-02-CTDMOG000,telemetered
-# Ingest.velpt-ab-sio_telemetered,/omc_data/whoi/OMC/GI03FLMA/D00001/*VEL*.DAT,GI03FLMA-RI000-00-VELPTB000,telemetered
-# Ingest.velpt-ab-sio_telemetered,/omc_data/whoi/OMC/GI03FLMA/D00001/*VEL*.DAT,GI03FLMA-RI000-00-VELPTB700,telemetered
-# Ingest.velpt-ab-sio_telemetered,/omc_data/whoi/OMC/GI03FLMA/D00001/*VEL*.DAT,GI03FLMA-RI000-00-VELPTB400,telemetered
-# Ingest.velpt-ab-sio_telemetered,/omc_data/whoi/OMC/GI03FLMA/D00001/*VEL*.DAT,GI03FLMA-RI000-00-VELPTB100,telemetered
-Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GI03FLMA/D00001/*status_1328001.dat,GI03FLMA-FMS01-01-SIOENG000,telemetered
-Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GI03FLMA/D00001/*status_1328601.dat,GI03FLMA-FMM01-01-SIOENG000,telemetered
+uframe_route,filename_mask,reference_designator,data_source,
+Ingest.flort-dj-sio_telemetered,/omc_data/whoi/OMC/GI03FLMA/D00001/*flort*.dat,GI03FLMA-RIS01-05-FLORTD000,telemetered,
+Ingest.phsen-abcdef-sio_telemetered,/omc_data/whoi/OMC/GI03FLMA/D00001/*phsen*.dat,GI03FLMA-RIS01-04-PHSENF000,telemetered,
+Ingest.dosta-abcdjm-sio_telemetered,/omc_data/whoi/OMC/GI03FLMA/D00001/*dosta*.dat,GI03FLMA-RIS01-03-DOSTAD000,telemetered,
+Ingest.adcps-jln-sio_telemetered,/omc_data/whoi/OMC/GI03FLMA/D00001/*adcps*.dat,GI03FLMA-RIM01-02-ADCPSL003,telemetered,
+Ingest.ctdmo-ghqr-sio_telemetered,/omc_data/whoi/OMC/GI03FLMA/D00001/*ctdmo*.dat,GI03FLMA-RIM01-02-CTDMOG000,telemetered,
+# Ingest.velpt-ab-sio_telemetered,/omc_data/whoi/OMC/GI03FLMA/D00001/*VEL*.DAT,GI03FLMA-RI000-00-VELPTB000,telemetered,No Data available 
+# Ingest.velpt-ab-sio_telemetered,/omc_data/whoi/OMC/GI03FLMA/D00001/*VEL*.DAT,GI03FLMA-RI000-00-VELPTB700,telemetered,No Data available 
+# Ingest.velpt-ab-sio_telemetered,/omc_data/whoi/OMC/GI03FLMA/D00001/*VEL*.DAT,GI03FLMA-RI000-00-VELPTB400,telemetered,No Data available 
+# Ingest.velpt-ab-sio_telemetered,/omc_data/whoi/OMC/GI03FLMA/D00001/*VEL*.DAT,GI03FLMA-RI000-00-VELPTB100,telemetered,No Data available 
+Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GI03FLMA/D00001/*status_1328001.dat,GI03FLMA-RIS01-00-SIOENG000,telemetered,
+Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GI03FLMA/D00001/*status_1328601.dat,GI03FLMA-RIM01-00-SIOENG000,telemetered,

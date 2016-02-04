@@ -8,5 +8,5 @@ Ingest.ctdmo-ghqr-sio_telemetered,/omc_data/whoi/OMC/GI03FLMA/D00002/*ctdmo*.dat
 # Ingest.velpt-ab-sio_telemetered,/omc_data/whoi/OMC/GI03FLMA/D00002/*VEL*.DAT,GI03FLMA-RI000-00-VELPTB700,telemetered,No data on server doesn’t appear to be installed
 # Ingest.velpt-ab-sio_telemetered,/omc_data/whoi/OMC/GI03FLMA/D00002/*VEL*.DAT,GI03FLMA-RI000-00-VELPTB400,telemetered,No data on server doesn’t appear to be installed
 # Ingest.velpt-ab-sio_telemetered,/omc_data/whoi/OMC/GI03FLMA/D00002/*VEL*.DAT,GI03FLMA-RI000-00-VELPTB100,telemetered,No data on server doesn’t appear to be installed
-Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GI03FLMA/D00002/*status_1237201.dat,GI03FLMA-FMS01-01-SIOENG000,telemetered,
-Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GI03FLMA/D00002/*status_1399301.dat,GI03FLMA-FMM01-01-SIOENG000,telemetered,
+Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GI03FLMA/D00002/*status_1237201.dat,GI03FLMA-RIS01-00-SIOENG000,telemetered,
+Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GI03FLMA/D00002/*status_1399301.dat,GI03FLMA-RIM01-00-SIOENG000,telemetered,
