@@ -9,6 +9,6 @@ Ingest.ctdpf-j-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00003/extract/ucspp_*
 Ingest.parad-j-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00003/extract/ucspp_*_PPB_PARS.txt,CE01ISSP-SP001-10-PARADJ000,recovered_cspp
 ,,,
 Ingest.dbg-pdbg-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00003/extract/*PDBG.txt,CE01ISSP-SP001-00-SPPENG000,recovered_cspp
-Ingest.wc-hmr-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00003/extract/*WC_HMR.txt,CE01ISSP-SP001-00-SPPENG000,recovered_cspp
-Ingest.wc-sbe-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00003/extract/*WC_SBE.txt,CE01ISSP-SP001-00-SPPENG000,recovered_cspp
-Ingest.wc-wm-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00003/extract/*WC_WM.txt,CE01ISSP-SP001-00-SPPENG000,recovered_cspp
+#Ingest.wc-hmr-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00003/extract/*WC_HMR.txt,CE01ISSP-SP001-00-SPPENG000,recovered_cspp
+#Ingest.wc-sbe-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00003/extract/*WC_SBE.txt,CE01ISSP-SP001-00-SPPENG000,recovered_cspp
+#Ingest.wc-wm-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00003/extract/*WC_WM.txt,CE01ISSP-SP001-00-SPPENG000,recovered_cspp
