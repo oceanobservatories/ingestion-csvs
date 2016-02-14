@@ -8,4 +8,4 @@ Ingest.parad-k-stc-imodem_recovered,/omc_data/whoi/OMC/CP02PMUO/R00004/cg_data/d
 #Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/CP02PMUO/R00004/cg_data/ADCP*/*_Recovered_Data_RDI_000.000,CP02PMUO-RII01-02-ADCPSL010,recovered_inst,No recovered data
 Ingest.mopak-o-dcl_recovered,/omc_data/whoi/OMC/CP02PMUO/R00004/cg_data/dcl00/MOPAK*/*.3dmgx3.log,CP02PMUO-SBS01-01-MOPAK0000,recovered_host,
 Ingest.cg-stc-eng-stc_recovered,/omc_data/whoi/OMC/CP02PMUO/R00004/cg_data/dcl00/irid2shore/stc_status.*_*.txt,CP02PMUO-SBS01-00-STCENG000,recovered_host,
-Ingest.rte-o-dcl_recovered,/omc_data/whoi/OMC/CP02PMUO/R00004/cg_data/dc100/rte/*.rte.log,CP02PMUO-SBS01-00-RTE000000,recovered_host,
+Ingest.rte-o-dcl_recovered,/omc_data/whoi/OMC/CP02PMUO/R00004/cg_data/dcl00/rte/*.rte.log,CP02PMUO-SBS01-00-RTE000000,recovered_host,
