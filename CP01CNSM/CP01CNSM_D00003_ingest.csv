@@ -13,7 +13,7 @@ Ingest.nutnr-b-dcl-full_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00003/cg_data/d
 Ingest.spkir-abj-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00003/cg_data/dcl26/spkir*/*spkir*.log,CP01CNSM-RID26-08-SPKIRB000,telemetered
 Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00003/cg_data/dcl27/optaa*/*optaa*.log,CP01CNSM-RID27-01-OPTAAD000,telemetered
 Ingest.flort-dj-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00003/cg_data/dcl27/flort*/*flort*.log,CP01CNSM-RID27-02-FLORTD000,telemetered
-Ingest.ctdbp-cdef-dcl-cp_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00003/cg_data/dcl27/ctdbp*/*ctdbp*.log,CP01CNSM-RID27-03-CTDBPC000,telemetered
+Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00003/cg_data/dcl27/ctdbp*/*ctdbp*.log,CP01CNSM-RID27-03-CTDBPC000,telemetered
 Ingest.dosta-abcdjm-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00003/cg_data/dcl27/dosta*/*dosta*.log,CP01CNSM-RID27-04-DOSTAD000,telemetered
 Ingest.adcpt-acfgm-dcl-pd8_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00003/cg_data/dcl35/adcp*/*adcp*.log,CP01CNSM-MFD35-01-ADCPTF000,telemetered
 Ingest.presf-abc-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00003/cg_data/dcl35/presf*/*presf*.log,CP01CNSM-MFD35-02-PRESFB000,telemetered
@@ -21,7 +21,7 @@ Ingest.velpt-ab-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00003/cg_data/dcl35
 Ingest.pco2w-abc-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00003/cg_data/dcl35/pco2w*/*pco2w*.log,CP01CNSM-MFD35-05-PCO2WB000,telemetered
 Ingest.phsen-abcdef-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00003/cg_data/dcl35/phsen*/*phsen*.log,CP01CNSM-MFD35-06-PHSEND000,telemetered
 Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00003/cg_data/dcl37/optaa*/*optaa*.log,CP01CNSM-MFD37-01-OPTAAD000,telemetered
-Ingest.ctdbp-cdef-dcl-cp_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00003/cg_data/dcl37/ctdbp*/*ctdbp*.log,CP01CNSM-MFD37-03-CTDBPD000,telemetered
+Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00003/cg_data/dcl37/ctdbp*/*ctdbp*.log,CP01CNSM-MFD37-03-CTDBPD000,telemetered
 Ingest.dosta-abcdjm-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00003/cg_data/dcl37/dosta*/*dosta*.log,CP01CNSM-MFD37-04-DOSTAD000,telemetered
 Ingest.zplsc-c-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00003/cg_data/dcl37/zplsc*/*zplsc*.log,CP01CNSM-MFD37-07-ZPLSCC000,telemetered
 ,,,
