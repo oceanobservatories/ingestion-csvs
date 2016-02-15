@@ -1,6 +1,6 @@
 uframe_route,filename_mask,reference_designator,data_source,
 #,,,,There appears to be no CTDMO data available
-Ingest.ctdmo-ghqr-sio_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00001/*ctdmo*.dat,GP02HYPM-RIM01-02-CTDMOG039,telemetered,"Nominal imodem ID is 39, but actual for this deployment is 61; parser will overwrite 039 from ingest .csv file with 061"
+#Ingest.ctdmo-ghqr-sio_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00001/*ctdmo*.dat,GP02HYPM-RIM01-02-CTDMOG039,telemetered,"Nominal imodem ID is 39, but actual for this deployment is 61; parser will overwrite 039 from ingest .csv file with 061"
 Ingest.vel3d-l-wfp-sio_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00001/*.wa_wfp_1236820.dat,GP02HYPM-WFP02-05-VEL3DL000,telemetered,
 Ingest.vel3d-l-wfp-sio_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00001/*.wa_wfp_1236822.dat,GP02HYPM-WFP03-05-VEL3DL000,telemetered,
 Ingest.ctdpf-ckl-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00001/*.wc_wfp_1236820.dat,GP02HYPM-WFP02-04-CTDPFL000,telemetered,
