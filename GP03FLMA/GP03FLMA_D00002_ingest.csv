@@ -1,8 +1,8 @@
 uframe_route,filename_mask,reference_designator,data_source,
-Ingest.adcps-jln-sio_telemetered,/omc_data/whoi/OMC/GP03FLMA/D00002/*adcps*.dat,GP03FLMA-RIM01-02-ADCPSL003,telemetered,
-Ingest.ctdmo-ghqr-sio_telemetered,/omc_data/whoi/OMC/GP03FLMA/D00002/*ctdmo*.dat,GP03FLMA-RIM01-02-CTDMOG000,telemetered,"This reference designator serves as a template. The parser will overwrite the last two characters with the inductive modem ID for each instrument. If the ID is 49 or greater, the CTDMOG will be changed to CTDMOH."
-Ingest.dosta-abcdjm-sio_telemetered,/omc_data/whoi/OMC/GP03FLMA/D00002/*dosta*.dat,GP03FLMA-RIS01-03-DOSTAD000,telemetered,
-Ingest.flort-dj-sio_telemetered,/omc_data/whoi/OMC/GP03FLMA/D00002/*flort*.dat,GP03FLMA-RIS01-05-FLORTD000,telemetered,
-Ingest.phsen-abcdef-sio_telemetered,/omc_data/whoi/OMC/GP03FLMA/D00002/*phsen*.dat,GP03FLMA-RIS01-04-PHSENF000,telemetered,
+Ingest.adcps-jln-sio_telemetered,/omc_data/whoi/OMC/GP03FLMA/D00002/*adcps_*.dat,GP03FLMA-RIM01-02-ADCPSL003,telemetered,
+Ingest.ctdmo-ghqr-sio_telemetered,/omc_data/whoi/OMC/GP03FLMA/D00002/*ctdmo_*.dat,GP03FLMA-RIM01-02-CTDMOG000,telemetered,"This reference designator serves as a template. The parser will overwrite the last two characters with the inductive modem ID for each instrument. If the ID is 49 or greater, the CTDMOG will be changed to CTDMOH."
+Ingest.dosta-abcdjm-sio_telemetered,/omc_data/whoi/OMC/GP03FLMA/D00002/*dosta_*.dat,GP03FLMA-RIS01-03-DOSTAD000,telemetered,
+Ingest.flort-dj-sio_telemetered,/omc_data/whoi/OMC/GP03FLMA/D00002/*flort_*.dat,GP03FLMA-RIS01-05-FLORTD000,telemetered,
+Ingest.phsen-abcdef-sio_telemetered,/omc_data/whoi/OMC/GP03FLMA/D00002/*phsen_*.dat,GP03FLMA-RIS01-04-PHSENF000,telemetered,
 Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GP03FLMA/D00002/*status_1327801.dat,GP03FLMA-FMM01-01-SIOENG000,telemetered,
 Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GP03FLMA/D00002/*status_1327901.dat,GP03FLMA-FMS01-01-SIOENG000,telemetered,

@@ -1,9 +1,9 @@
 uframe_route,filename_mask,reference_designator,data_source,
 Ingest.flort-dj-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00002/*flort*.dat,GI03FLMB-RIS01-05-FLORTD000,telemetered,
 Ingest.phsen-abcdef-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00002/*phsen*.dat,GI03FLMB-RIS01-04-PHSENF000,telemetered,
-Ingest.dosta-abcdjm-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00002/*dosta*.dat,GI03FLMB-RIS01-03-DOSTAD000,telemetered,
-Ingest.adcps-jln-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00002/*adcps*.dat,GI03FLMB-RIM01-02-ADCPSL007,telemetered,
-Ingest.ctdmo-ghqr-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00002/*ctdmo*.dat,GI03FLMB-RIM01-02-CTDMOG000,telemetered,
+Ingest.dosta-abcdjm-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00002/*dosta_*.dat,GI03FLMB-RIS01-03-DOSTAD000,telemetered,
+Ingest.adcps-jln-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00002/*adcps_*.dat,GI03FLMB-RIM01-02-ADCPSL007,telemetered,
+Ingest.ctdmo-ghqr-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00002/*ctdmo_*.dat,GI03FLMB-RIM01-02-CTDMOG000,telemetered,
 #,,GI03FLMA-RI000-00-CTDMOH000,telemetered,4 CTDMO not installed on secondary controller
 #,,GI03FLMA-RI000-00-CTDMOH700,telemetered,
 #,,GI03FLMA-RI000-00-CTDMOH400,telemetered,
