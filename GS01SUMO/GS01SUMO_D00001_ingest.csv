@@ -9,7 +9,7 @@ Ingest.flort-dj-dcl_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00001/cg_data/dcl12
 Ingest.pco2a-a-dcl_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00001/cg_data/dcl12/pco2a/*.pco2a.log,GS01SUMO-SBD12-04-PCO2AA000,telemetered,
 Ingest.wavss-a-dcl-full_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00001/cg_data/dcl12/wavss/*.wavss.log,GS01SUMO-SBD12-05-WAVSSA000,telemetered,
 Ingest.metbk-a-dcl_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00001/cg_data/dcl12/metbk2/*.metbk*.log,GS01SUMO-SBD12-06-METBKA000,telemetered,
-# Ingest.fdchp-a-dcl_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00001/cg_data/dcl12/fdchp/*.fdchp.log,GS01SUMO-SBD12-08-FDCHPA000,telemetered,GS01SUMO-SBD12-08-FDCHPA000 will be defined in Group 5
+ Ingest.fdchp-a-dcl_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00001/cg_data/dcl12/fdchp/*.fdchp.log,GS01SUMO-SBD12-08-FDCHPA000,telemetered,
 Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00001/cg_data/dcl16/optaa2/*.optaa*.log,GS01SUMO-RID16-01-OPTAAD000,telemetered,
 Ingest.flort-dj-dcl_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00001/cg_data/dcl16/flort2/*.flort*.log,GS01SUMO-RID16-02-FLORTD000,telemetered,
 Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00001/cg_data/dcl16/ctdbp/*.ctdbp.log,GS01SUMO-RID16-03-CTDBPF000,telemetered,
@@ -31,11 +31,11 @@ Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00001/cg_data/
 Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00001/cg_data/dcl11/imm/ctdmo11/ctdmo*.DAT,GS01SUMO-RII11-02-CTDMOR021,telemetered,Extra CTDMO-R deployed.  Assume reference designator instrument sequence number CTDMOR16.
 Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00001/cg_data/dcl11/imm/ctdmo12/ctdmo*.DAT,GS01SUMO-RII11-02-CTDMOR022,telemetered,Extra CTDMO-R deployed.  Assume reference designator instrument sequence number CTDMOR17.
 Ingest.phsen-abcdef-imodem_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00001/cg_data/dcl11/imm/phsen1/phsen*.DAT,GS01SUMO-RII11-02-PHSENE023,telemetered,
-# Ingest.phsen-abcdef-imodem_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00001/cg_data/dcl11/imm/phsen2/phsen*.DAT,GS01SUMO-RII11-02-PHSENE024,telemetered,Not deployed in this instance
+ Ingest.phsen-abcdef-imodem_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00001/cg_data/dcl11/imm/phsen2/phsen*.DAT,GS01SUMO-RII11-02-PHSENE024,telemetered,
 Ingest.adcps-jln-stc_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00001/cg_data/dcl11/imm/adcp/adcp*.DAT,GS01SUMO-RII11-02-ADCPSN010,telemetered,
 Ingest.pco2w-abc-dcl_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00001/cg_data/dcl11/imm/pco2w1/pco2w1*.DAT,GS01SUMO-RII11-02-PCO2WC025,telemetered,
 Ingest.pco2w-abc-dcl_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00001/cg_data/dcl11/imm/pco2w2/pco2w2*.DAT,GS01SUMO-RII11-02-PCO2WC026,telemetered,
-# Ingest.pco2w-abc-dcl_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00001/cg_data/dcl11/imm/pco2w3/pco2w3*.DAT,GS01SUMO-RII11-02-PCO2WC027,telemetered,Will be defined in group 5
+Ingest.pco2w-abc-dcl_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00001/cg_data/dcl11/imm/pco2w3/pco2w3*.DAT,GS01SUMO-RII11-02-PCO2WC027,telemetered,Will be defined in group 5
 #,,GS01SUMO-RII11-02-CTDBPP031,telemetered,Not deployed in this instance
 #,,GS01SUMO-RII11-02-DOSTAD031,telemetered,Not deployed in this instance
 #,,GS01SUMO-RII11-02-FLORDG031,telemetered,Not deployed in this instance
@@ -48,7 +48,7 @@ Ingest.pco2w-abc-dcl_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00001/cg_data/dcl1
 Ingest.hyd-o-dcl_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00001/cg_data/dcl11/hyd*/*hyd*.log,GS01SUMO-SBD11-03-HYDGN00,telemetered,
 Ingest.hyd-o-dcl_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00001/cg_data/dcl12/hyd*/*hyd*.log,GS01SUMO-SBD12-03-HYDGN00,telemetered,
 Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00001/irid2shore/cpm_status*.txt,GS01SUMO-SBC11-00-CPMENG000,telemetered,
-# Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00001/cg_data/syslog/cpm_status.txt,GS01SUMO-RIC21-00-CPMENG000,telemetered,
+Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00001/cg_data/syslog/cpm_status.txt,GS01SUMO-RIC21-00-CPMENG000,telemetered,
 Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00001/cg_data/dcl11/syslog/*.syslog.log,GS01SUMO-SBD11-00-DCLENG000,telemetered,
 Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00001/cg_data/dcl12/syslog/*.syslog.log,GS01SUMO-SBD12-00-DCLENG000,telemetered,
 Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00001/cg_data/dcl16/syslog/*.syslog.log,GS01SUMO-RID16-00-DCLENG000,telemetered,
