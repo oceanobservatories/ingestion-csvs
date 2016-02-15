@@ -1,7 +1,7 @@
 uframe_route,filename_mask,reference_designator,data_source,,
 # Ingest.mopak-o-dcl_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl11/mopak/*.mopak.log,GA01SUMO-SBD11-01-MOPAKO000,telemetered,,No Mopak Data
 Ingest.dosta-abcdjm-dcl_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl11/dosta1/*.dosta.log,GA01SUMO-SBD11-04-DOSTAD000,telemetered,,
-Ingest.spkir-abj-dcl_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl11/spkir1/*.spkir.log,GA01SUMO-SBD11-05-SPKIRB000,telemetered,,
+Ingest.spkir-abj-dcl_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl11/spkir1/*.spkir1.log,GA01SUMO-SBD11-05-SPKIRB000,telemetered,,
 Ingest.metbk-a-dcl_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl11/metbk1/*.metbk*.log,GA01SUMO-SBD11-06-METBKA000,telemetered,,
 Ingest.nutnr-b-dcl-full_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl11/nutnr1/*.nutnr*.log,GA01SUMO-SBD11-08-NUTNRB000,telemetered,,
 Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl12/optaa1/*.optaa*.log,GA01SUMO-SBD12-01-OPTAAD000,telemetered,,
@@ -16,7 +16,7 @@ Ingest.velpt-ab-dcl_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl16
 Ingest.pco2w-abc-dcl_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl16/pco2w/*.pco2w.log,GA01SUMO-RID16-05-PCO2WB000,telemetered,,
 Ingest.dosta-abcdjm-dcl_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl16/dosta2/*.dosta2.log,GA01SUMO-RID16-06-DOSTAD000,telemetered,,
 Ingest.nutnr-b-dcl-full_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl16/nutnr2/*.nutnr2.log,GA01SUMO-RID16-07-NUTNRB000,telemetered,,
-Ingest.spkir-abj-dcl_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl16/spkir2/*.spkir.log,GA01SUMO-RID16-08-SPKIRB000,telemetered,,
+Ingest.spkir-abj-dcl_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl16/spkir2/*.spkir2.log,GA01SUMO-RID16-08-SPKIRB000,telemetered,,
 Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl11/imm/ctdmo01/ctdmo*.DAT,GA01SUMO-RII11-02-CTDMOQ011,telemetered,,
 Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl11/imm/ctdmo02/ctdmo*.DAT,GA01SUMO-RII11-02-CTDMOQ012,telemetered,,
 Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl11/imm/ctdmo03/ctdmo*.DAT,GA01SUMO-RII11-02-CTDMOQ013,telemetered,,
@@ -32,8 +32,8 @@ Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/
 # Ingest.dosta-abcdjm-dcl_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl11/imm/dosta/dosta*.DAT,GA01SUMO-RII11-02-DOSTAD031,telemetered,,No tinstalled
 # Ingest.dosta-abcdjm-dcl_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl11/imm/dosta/dosta*.DAT,GA01SUMO-RII11-02-DOSTAD032,telemetered,,No tinstalled
 # Ingest.dosta-abcdjm-dcl_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl11/imm/dosta/dosta*.DAT,GA01SUMO-RII11-02-DOSTAD033,telemetered,,No tinstalled
-Ingest.phsen-abcdef-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl11/imm/phsen1/phsen*.DAT,GA01SUMO-RII11-02-PHSENE023,telemetered,,
-Ingest.phsen-abcdef-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl11/imm/phsen2/phsen*.DAT,GA01SUMO-RII11-02-PHSENE024,telemetered,,
+#Ingest.phsen-abcdef-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl11/imm/phsen1/phsen*.DAT,GA01SUMO-RII11-02-PHSENE023,telemetered,,
+#Ingest.phsen-abcdef-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl11/imm/phsen2/phsen*.DAT,GA01SUMO-RII11-02-PHSENE024,telemetered,,
 Ingest.hyd-o-dcl_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl11/hyd*/*hyd*.log,GA01SUMO-SBD11-03-HYDGN0000,telemetered,,
 Ingest.hyd-o-dcl_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl12/hyd*/*hyd*.log,GA01SUMO-SBD12-03-HYDGN0000,telemetered,,
 #,,GA01SUMO-RII11-02-CTDBPP031,telemetered,,
