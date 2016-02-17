@@ -16,11 +16,11 @@ Ingest.flort-dj-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00002/cg_data/dcl27
 Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00002/cg_data/dcl27/ctdbp1/*.ctdbp*.log,CE09OSSM-RID27-03-CTDBPC000,telemetered,
 Ingest.dosta-abcdjm-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00002/cg_data/dcl27/dosta/*.dosta.log,CE09OSSM-RID27-04-DOSTAD000,telemetered,
 # Ingest.vel3d-cd-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00002/cg_data/dcl35/vel3d/*.vel3d.log,CE09OSSM-MFD35-01-VEL3DD000,telemetered,
-# Ingest.presf-abc-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00002/cg_data/dcl35/presf/*.presf.log,CE09OSSM-MFD35-02-PRESFB000,telemetered,
+# Ingest.presf-abc-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00002/cg_data/dcl35/presf/*.presf.log,CE09OSSM-MFD35-02-PRESFC000,telemetered,
 # Ingest.adcpt-acfgm-dcl-pd0_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00002/cg_data/dcl35/adcps/*.adcps.log,CE09OSSM-MFD35-04-ADCPSJ000,telemetered,
 # Ingest.pco2w-abc-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00002/cg_data/dcl35/pco2w/*.pco2w.log,CE09OSSM-MFD35-05-PCO2WB000,telemetered,
 # Ingest.phsen-abcdef-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00002/cg_data/dcl35/phsen2/*.phsen*.log,CE09OSSM-MFD35-06-PHSEND000,telemetered,
-# Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00002/cg_data/dcl37/optaa2/*.optaa*.log,CE09OSSM-MFD37-01-OPTAAD000,telemetered,
+# Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00002/cg_data/dcl37/optaa2/*.optaa*.log,CE09OSSM-MFD37-01-OPTAAC000,telemetered,
 # Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00002/cg_data/dcl37/ctdbp2/*.ctdbp*.log,CE09OSSM-MFD37-03-CTDBPE000,telemetered,Uses record stream ctdbp_cdef_dcl_ce_instrument
 # Ingest.dosta-abcdjm-ctdbp-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00002/cg_data/dcl37/ctdbp2/*.ctdbp*.log,CE09OSSM-MFD37-04-DOSTAD000,telemetered,The data for the DOSTA is available in */dcl37/ctdbp2.  Uses record stream ctdbp_cdef_dcl_ce_dosta.
 # Ingest.zplsc-c-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00002/cg_data/dcl37/zplsc/*.zplsc.log,CE09OSSM-MFD37-07-ZPLSCC000,telemetered,
