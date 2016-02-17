@@ -19,9 +19,9 @@ Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GI03FLMA/R00001/cg_data/dcl00/CTD
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GI03FLMA/R00001/cg_data/dcl00/CTDMO-H_sn12225/*.hex,GI03FLMA-RI000-00-CTDMOH000,recovered_Inst,,GI03FLMA-RIM01-02-CTDMOH051
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GI03FLMA/R00001/cg_data/dcl00/CTDMO-H_sn12227/*.hex,GI03FLMA-RI000-00-CTDMOH100,recovered_Inst,,GI03FLMA-RI000-00-CTDMOH000
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GI03FLMA/R00001/cg_data/dcl00/CTDMO-H_sn12389/*.hex,GI03FLMA-RI000-00-CTDMOH400,recovered_Inst,,GI03FLMA-RI000-00-CTDMOH700
-ingest.velpt-ab_recovered,/omc_data/whoi/OMC/GI03FLMA/R00001/cg_data/dcl00/VELPT-B_snAQD11669/*.aqd,GI03FLMA-RI000-00-VELPTB000,recovered_Inst,,GI03FLMA-RI000-00-CTDMOH400
-ingest.velpt-ab_recovered,/omc_data/whoi/OMC/GI03FLMA/R00001/cg_data/dcl00/VELPT-B_snAQD11964/*.aqd,GI03FLMA-RI000-00-VELPTB700,recovered_Inst,,GI03FLMA-RI000-00-CTDMOH100
-ingest.velpt-ab_recovered,/omc_data/whoi/OMC/GI03FLMA/R00001/cg_data/dcl00/VELPT-B_snAQD11967/*.aqd,GI03FLMA-RI000-00-VELPTB400,recovered_Inst,,GI03FLMA-RI000-00-VELPTB000
-ingest.velpt-ab_recovered,/omc_data/whoi/OMC/GI03FLMA/R00001/cg_data/dcl00/VELPT-B_snAQD11970/*.aqd,GI03FLMA-RI000-00-VELPTB100,recovered_Inst,,GI03FLMA-RI000-00-VELPTB700
+Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/GI03FLMA/R00001/cg_data/dcl00/VELPT-B_snAQD11669/*.aqd,GI03FLMA-RI000-00-VELPTB000,recovered_Inst,,GI03FLMA-RI000-00-CTDMOH400
+Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/GI03FLMA/R00001/cg_data/dcl00/VELPT-B_snAQD11964/*.aqd,GI03FLMA-RI000-00-VELPTB700,recovered_Inst,,GI03FLMA-RI000-00-CTDMOH100
+Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/GI03FLMA/R00001/cg_data/dcl00/VELPT-B_snAQD11967/*.aqd,GI03FLMA-RI000-00-VELPTB400,recovered_Inst,,GI03FLMA-RI000-00-VELPTB000
+Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/GI03FLMA/R00001/cg_data/dcl00/VELPT-B_snAQD11970/*.aqd,GI03FLMA-RI000-00-VELPTB100,recovered_Inst,,GI03FLMA-RI000-00-VELPTB700
 Ingest.sio-eng-sio_recovered,/omc_data/whoi/OMC/GI03FLMA/R00001/cg_data/dcl00/MSIOC_sn13286/STA*.DAT,GI03FLMA-RIM01-00-SIOENG000,recovered_host,,GI03FLMA-RI000-00-VELPTB400
 Ingest.sio-eng-sio_recovered,/omc_data/whoi/OMC/GI03FLMA/R00001/cg_data/dcl00/SSIOC_sn13280/STA*.DAT,GI03FLMA-RIS01-00-SIOENG000,recovered_host,,GI03FLMA-RI000-00-VELPTB100

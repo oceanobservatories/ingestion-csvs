@@ -19,9 +19,9 @@ Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GI03FLMB/R00001/cg_data/dcl00/CTD
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GI03FLMB/R00001/cg_data/dcl00/CTDMO-H_sn12223/*.hex,GI03FLMB-RIM01-02-CTDMOH023,recovered_Inst
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GI03FLMB/R00001/cg_data/dcl00/CTDMO-H_sn12224/*.hex,GI03FLMB-RI000-00-CTDMOH000,recovered_Inst
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GI03FLMB/R00001/cg_data/dcl00/CTDMO-H_sn12226/*.hex,GI03FLMB-RI000-00-CTDMOH100,recovered_Inst
-ingest.velpt-ab_recovered,/omc_data/whoi/OMC/GI03FLMB/R00001/cg_data/dcl00/VELPT-B_snAQD11973/*.aqd,GI03FLMB-RI000-00-VELPTB000,recovered_Inst
-ingest.velpt-ab_recovered,/omc_data/whoi/OMC/GI03FLMB/R00001/cg_data/dcl00/VELPT-B_snAQD11974/*.aqd,GI03FLMB-RI000-00-VELPTB700,recovered_Inst
-ingest.velpt-ab_recovered,/omc_data/whoi/OMC/GI03FLMB/R00001/cg_data/dcl00/VELPT-B_snAQD11976/*.aqd,GI03FLMB-RI000-00-VELPTB400,recovered_Inst
-ingest.velpt-ab_recovered,/omc_data/whoi/OMC/GI03FLMB/R00001/cg_data/dcl00/VELPT-B_snAQD11981/*.aqd,GI03FLMB-RI000-00-VELPTB100,recovered_Inst
+Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/GI03FLMB/R00001/cg_data/dcl00/VELPT-B_snAQD11973/*.aqd,GI03FLMB-RI000-00-VELPTB000,recovered_Inst
+Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/GI03FLMB/R00001/cg_data/dcl00/VELPT-B_snAQD11974/*.aqd,GI03FLMB-RI000-00-VELPTB700,recovered_Inst
+Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/GI03FLMB/R00001/cg_data/dcl00/VELPT-B_snAQD11976/*.aqd,GI03FLMB-RI000-00-VELPTB400,recovered_Inst
+Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/GI03FLMB/R00001/cg_data/dcl00/VELPT-B_snAQD11981/*.aqd,GI03FLMB-RI000-00-VELPTB100,recovered_Inst
 Ingest.sio-eng-sio_recovered,/omc_data/whoi/OMC/GI03FLMB/R00001/cg_data/dcl00/MSIOC_sn13285/STA*.DAT,GI03FLMB-FMM01-01-SIOENG000,recovered_host
 Ingest.sio-eng-sio_recovered,/omc_data/whoi/OMC/GI03FLMB/R00001/cg_data/dcl00/SSIOC_sn12369/STA*.DAT,GI03FLMB-FMS01-01-SIOENG000,recovered_host
