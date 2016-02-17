@@ -18,8 +18,8 @@ Ingest.nutnr-b_recovered,/omc_data/whoi/OMC/CE04OSSM/R00001/instrmts/dcl26/NUTNR
 Ingest.spkir-abj-dcl_recovered,/omc_data/whoi/OMC/CE04OSSM/R00001/cg_data/dcl26/spkir/*.spkir.log,CE04OSSM-RID26-08-SPKIRB000,recovered,
 Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CE04OSSM/R00001/cg_data/dcl27/optaa/*.optaa.log,CE04OSSM-RID27-01-OPTAAD000,recovered,
 Ingest.flort-dj-dcl_recovered,/omc_data/whoi/OMC/CE04OSSM/R00001/cg_data/dcl27/flort/*.flort.log,CE04OSSM-RID27-02-FLORTD000,recovered,
-Ingest.ctdbp-cdef-dcl-cp_recovered,/omc_data/whoi/OMC/CE04OSSM/R00001/cg_data/dcl27/ctdbp/*.ctdbp.log,CE04OSSM-RID27-03-CTDBPC000,recovered,Recovered DCL data
-Ingest.ctdbp-cdef-cp_recovered,/omc_data/whoi/OMC/CE04OSSM/R00001/instrmts/dcl27/CTDBP_*/*ctdbp*.hex,CE04OSSM-RID27-03-CTDBPC000,recovered,Recovered Instrument data
+Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CE04OSSM/R00001/cg_data/dcl27/ctdbp/*.ctdbp.log,CE04OSSM-RID27-03-CTDBPC000,recovered,Recovered DCL data
+Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CE04OSSM/R00001/instrmts/dcl27/CTDBP_*/*ctdbp*.hex,CE04OSSM-RID27-03-CTDBPC000,recovered,Recovered Instrument data
 Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/CE04OSSM/R00001/cg_data/dcl27/dosta/*.dosta.log,CE04OSSM-RID27-04-DOSTAD000,recovered,
 Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CE04OSSM/R00001/cg_data/irid2shore/cpm_status*.txt,CE04OSSM-SBC11-00-CPMENG000,recovered,
 Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CE04OSSM/R00001/cg_data/cpm2/syslog/cpm_status.txt,CE04OSSM-RIC21-00-CPMENG000,recovered,This is a single file updated every minute. There will only be 1 of these files and the data in it will be from the last update.

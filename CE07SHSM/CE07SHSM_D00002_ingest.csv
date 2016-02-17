@@ -13,7 +13,7 @@ Ingest.nutnr-b-dcl-full_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/d
 Ingest.spkir-abj-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl26/spkir/*.spkir.log,CE07SHSM-RID26-08-SPKIRB000,telemetered,
 Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl27/optaa1/*.optaa*.log,CE07SHSM-RID27-01-OPTAAD000,telemetered,
 Ingest.flort-dj-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl27/flort/*.flort.log,CE07SHSM-RID27-02-FLORTD000,telemetered,
-Ingest.ctdbp-cdef-dcl-ce_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl27/ctdbp1/*.ctdbp*.log,CE07SHSM-RID27-03-CTDBPC000,telemetered,
+Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl27/ctdbp1/*.ctdbp*.log,CE07SHSM-RID27-03-CTDBPC000,telemetered,
 Ingest.dosta-abcdjm-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl27/dosta/*.dosta.log,CE07SHSM-RID27-04-DOSTAD000,telemetered,
 #Ingest.vel3d-cd-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl35/vel3d/*.vel3d.log,CE07SHSM-MFD35-01-VEL3DD000,telemetered,"Communications with MFN failed immediately upon deployment, no data will be available from this instrument"
 #Ingest.presf-abc-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl35/presf/*.presf.log,CE07SHSM-MFD35-02-PRESFB000,telemetered,"Communications with MFN failed immediately upon deployment, instrument will internally record data"
@@ -21,8 +21,8 @@ Ingest.dosta-abcdjm-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/d
 #Ingest.pco2w-abc-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl35/pco2w/*.pco2w.log,CE07SHSM-MFD35-05-PCO2WB000,telemetered,"Communications with MFN failed immediately upon deployment, instrument will internally record data"
 #Ingest.phsen-abcdef-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl35/phsen2/*.phsen*.log,CE07SHSM-MFD35-06-PHSEND000,telemetered,"Communications with MFN failed immediately upon deployment, instrument will internally record data"
 #Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl37/optaa2/*.optaa*.log,CE07SHSM-MFD37-01-OPTAAD000,telemetered,"Communications with MFN failed immediately upon deployment, no data will be available from this instrument"
-#Ingest.ctdbp-cdef-dcl-ce_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl37/ctdbp2/*.ctdbp*.log,CE07SHSM-MFD37-03-CTDBPC000,telemetered,"Communications with MFN failed immediately upon deployment, instrument will internally record data"
-#Ingest.ctdbp-cdef-dcl-ce_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl37/ctdbp2/*.ctdbp*.log,CE07SHSM-MFD37-04-DOSTAD000,telemetered,"Communications with MFN failed immediately upon deployment, instrument will internally record data"
+#Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl37/ctdbp2/*.ctdbp*.log,CE07SHSM-MFD37-03-CTDBPC000,telemetered,"Communications with MFN failed immediately upon deployment, instrument will internally record data"
+#Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl37/ctdbp2/*.ctdbp*.log,CE07SHSM-MFD37-04-DOSTAD000,telemetered,"Communications with MFN failed immediately upon deployment, instrument will internally record data"
 #Ingest.zplsc-c-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl37/zplsc/*.zplsc.log,CE07SHSM-MFD37-07-ZPLSCC000,telemetered,"Communications with MFN failed immediately upon deployment, instrument will internally record data"
 #,,CE07SHSM-MFD37-06-CAMDSA000,,"Communications with MFN failed immediately upon deployment, instrument will internally record data"
 Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/irid2shore/cpm_status*.txt,CE07SHSM-SBC11-00-CPMENG000,telemetered,

@@ -13,7 +13,7 @@ Ingest.nutnr-b-dcl-full_telemetered,/omc_data/whoi/OMC/CE04OSSM/D00002/cg_data/d
 Ingest.spkir-abj-dcl_telemetered,/omc_data/whoi/OMC/CE04OSSM/D00002/cg_data/dcl26/spkir/*.spkir.log,CE04OSSM-RID26-08-SPKIRB000,telemetered
 Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CE04OSSM/D00002/cg_data/dcl27/optaa/*.optaa.log,CE04OSSM-RID27-01-OPTAAD000,telemetered
 Ingest.flort-dj-dcl_telemetered,/omc_data/whoi/OMC/CE04OSSM/D00002/cg_data/dcl27/flort/*.flort.log,CE04OSSM-RID27-02-FLORTD000,telemetered
-Ingest.ctdbp-cdef-dcl-ce_telemetered,/omc_data/whoi/OMC/CE04OSSM/D00002/cg_data/dcl27/ctdbp/*.ctdbp.log,CE04OSSM-RID27-03-CTDBPC000,telemetered
+Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CE04OSSM/D00002/cg_data/dcl27/ctdbp/*.ctdbp.log,CE04OSSM-RID27-03-CTDBPC000,telemetered
 Ingest.dosta-abcdjm-dcl_telemetered,/omc_data/whoi/OMC/CE04OSSM/D00002/cg_data/dcl27/dosta/*.dosta.log,CE04OSSM-RID27-04-DOSTAD000,telemetered
 Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/CE04OSSM/D00002/irid2shore/cpm_status*.txt,CE04OSSM-SBC11-00-CPMENG000,telemetered
 Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/CE04OSSM/D00002/cg_data/cpm2/syslog/cpm_status*.txt,CE04OSSM-RIC21-00-CPMENG000,telemetered
