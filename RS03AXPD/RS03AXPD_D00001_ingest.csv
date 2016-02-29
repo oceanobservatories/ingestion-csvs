@@ -1,8 +1,8 @@
-uframe_route,filename_mask,reference_designator,data_source,notes
-Ingest.ctdpf-ckl-mmp-cds_recovered,/omc_data/RSN/RS03AXPD/D00001/pd03a/data/dataset_*/ctd*.mpk,RS03AXPD-DP03A-01-CTDPFL304,telemetered,
-Ingest.vel3d-a-mmp-cds_recovered,/omc_data/RSN/RS03AXPD/D00001/pd03a/data/dataset_*/acm*.mpk,RS03AXPD-DP03A-02-VEL3DA303,telemetered,
-Ingest.flcdr-x-mmp-cds_recovered,/omc_data/RSN/RS03AXPD/D00001/pd03a/data/dataset_*/flcd*.mpk,RS03AXPD-DP03A-03-FLCDRA302,telemetered,
-Ingest.flntu-x-mmp-cds_recovered,/omc_data/RSN/RS03AXPD/D00001/pd03a/data/dataset_*/flntu*.mpk,RS03AXPD-DP03A-03-FLNTUA302,telemetered,
-Ingest.optaa-ac-mmp-cds_recovered,/omc_data/RSN/RS03AXPD/D00001/pd03a/data/dataset_*/acs*.mpk,RS03AXPD-DP03A-05-OPTAAC302,telemetered,
-Ingest.dosta-abcdjm-mmp-cds_recovered,/omc_data/RSN/RS03AXPD/D00001/pd03a/data/dataset_*/optode*.mpk,RS03AXPD-DP03A-06-DOSTAD304,telemetered,
-#### ??? ??,/omc_data/RSN/RS03AXPD/D00001/pd03a/data/dataset_*/mmp*.mpk,???,telemetered,"This data exists, but for the moment there is no parser."
+uframe_route,filename_mask,reference_designator,data_source
+Ingest.deep-profiler_recovered,/rsn_cabled/rsn_data/DVT_Data/pd03a/data/dataset_*/ctd*.mpk,RS03AXPD-DP03A-01-CTDPFL304,recovered_inst
+Ingest.deep-profiler_recovered,/rsn_cabled/rsn_data/DVT_Data/pd03a/data/dataset_*/acm*.mpk,RS03AXPD-DP03A-02-VEL3DA303,recovered_inst
+Ingest.deep-profiler_recovered,/rsn_cabled/rsn_data/DVT_Data/pd03a/data/dataset_*/flcd*.mpk,RS03AXPD-DP03A-03-FLCDRA302,recovered_inst
+Ingest.deep-profiler_recovered,/rsn_cabled/rsn_data/DVT_Data/pd03a/data/dataset_*/flntu*.mpk,RS03AXPD-DP03A-03-FLNTUA302,recovered_inst
+Ingest.deep-profiler_recovered,/rsn_cabled/rsn_data/DVT_Data/pd03a/data/dataset_*/acs*.mpk,RS03AXPD-DP03A-05-OPTAAC302,recovered_inst
+Ingest.deep-profiler_recovered,/rsn_cabled/rsn_data/DVT_Data/pd03a/data/dataset_*/optode*.mpk,RS03AXPD-DP03A-06-DOSTAD304,recovered_inst
+Ingest.deep-profiler_recovered,/rsn_cabled/rsn_data/DVT_Data/pd03a/data/dataset_*/mmp*.mpk,RS03AXPD-DP03A-00-ENG000000,recovered_inst
