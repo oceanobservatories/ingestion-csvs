@@ -10,8 +10,8 @@ Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00002/cg_data/dcl27
 Ingest.flort-dj-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00002/cg_data/dcl27/flort/*.flort.log,CP03ISSM-RID27-02-FLORTD000,telemetered,
 Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00002/cg_data/dcl27/ctdbp*/*.ctdbp*.log,CP03ISSM-RID27-03-CTDBPC000,telemetered,
 Ingest.dosta-abcdjm-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00002/cg_data/dcl27/dosta*/*.dosta*.log,CP03ISSM-RID27-04-DOSTAD000,telemetered,
-Ingest.nutnr-b-dcl-full_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00002/cg_data/dcl26/nutnr/*.nutnr.log,CP03ISSM-RID26-07-NUTNRB000,telemetered,"3102-00008 says this should be RID27, but it is installed on RID26 for this deployment"
-Ingest.spkir-abj-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00002/cg_data/dcl26/spkir/*.spkir.log,CP03ISSM-RID26-08-SPKIRB000,telemetered,"3102-00008 says this should be RID27, but it is installed on RID26 for this deployment"
+Ingest.nutnr-b-dcl-full_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00002/cg_data/dcl26/nutnr/*.nutnr.log,CP03ISSM-RID26-07-NUTNRB000,telemetered,
+Ingest.spkir-abj-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00002/cg_data/dcl26/spkir/*.spkir.log,CP03ISSM-RID26-08-SPKIRB000,telemetered,
 Ingest.adcpt-acfgm-dcl-pd8_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00002/cg_data/dcl35/adcp/*.adcp.log,CP03ISSM-MFD35-01-ADCPTF000,telemetered,
 Ingest.presf-abc-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00002/cg_data/dcl35/presf/*.presf.log,CP03ISSM-MFD35-02-PRESFB000,telemetered,
 Ingest.velpt-ab-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00002/cg_data/dcl35/velpt*/*.velpt*.log,CP03ISSM-MFD35-04-VELPTA000,telemetered,
