@@ -12,5 +12,5 @@ Ingest.ctdmo-ghqr-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00002/*ctdmo_*.da
 #,,GI03FLMA-RI000-00-VELPTB700,telemetered,
 #,,GI03FLMA-RI000-00-VELPTB400,telemetered,
 #,,GI03FLMA-RI000-00-VELPTB100,telemetered,
-Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00002/*status_1487401.dat,GI03FLMB-FMS01-01-SIOENG000,telemetered,
-Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00002/*status_1487601.dat,GI03FLMB-FMM01-01-SIOENG000,telemetered,
+Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00002/*status_1487401.dat,GI03FLMB-RIS01-00-SIOENG000,telemetered,
+Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00002/*status_1487601.dat,GI03FLMB-RIM01-00-SIOENG000,telemetered,
