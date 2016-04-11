@@ -1,6 +1,6 @@
 uframe_route,filename_mask,reference_designator,data_source,,,,
-Ingest.mopak-o-dcl_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00001/cg_data/dcl11/mopak/*.mopak.log,GI01SUMO-SBD11-01-MOPAK0000,telemetered,,,,
-Ingest.hyd-o-dcl_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00001/cg_data/dcl11/hyd*/*hyd*.log,GI01SUMO-SBD11-03-HYDGN0000,telemetered,,,,
+Ingest.mopak-o-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00001/cg_data/dcl11/mopak/*.mopak.log,GI01SUMO-SBD11-01-MOPAK0000,telemetered,,,,
+Ingest.hyd-o-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00001/cg_data/dcl11/hyd*/*hyd*.log,GI01SUMO-SBD11-03-HYDGN0000,telemetered,,,,
 Ingest.dosta-abcdjm-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00001/cg_data/dcl11/dosta*/*dosta*.log,GI01SUMO-SBD11-04-DOSTAD000,telemetered,,,,
 Ingest.spkir-abj-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00001/cg_data/dcl11/spkir*/*.spkir*.log,GI01SUMO-SBD11-05-SPKIRB000,telemetered,,,,
 Ingest.metbk-a-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00001/cg_data/dcl11/metbk*/*metbk*.log,GI01SUMO-SBD11-06-METBKA000,telemetered,,,,
