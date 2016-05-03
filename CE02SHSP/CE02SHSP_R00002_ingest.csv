@@ -5,8 +5,8 @@ Ingest.velpt-j-cspp_recovered,/omc_data/whoi/OMC/CE02SHSP/R00002/extract/*ADCP.t
 Ingest.nutnr-j-cspp_recovered,/omc_data/whoi/OMC/CE02SHSP/R00002/extract/*SNA.txt,CE02SHSP-SP001-05-NUTNRJ000,recovered_cspp
 Ingest.spkir-abj-cspp_recovered,/omc_data/whoi/OMC/CE02SHSP/R00002/extract/*OCR.txt,CE02SHSP-SP001-06-SPKIRJ000,recovered_cspp
 Ingest.flort-dj-cspp_recovered,/omc_data/whoi/OMC/CE02SHSP/R00002/extract/*TRIP.txt,CE02SHSP-SP001-07-FLORTJ000,recovered_cspp
-Ingest.ctdpf-j-cspp_recovered,/omc_data/whoi/OMC/CE02SHSP/R00002/extract/*CTD.txt,CE02SHSP-SP001-01-CTDPFJ000,recovered_cspp
-Ingest.parad-j-cspp_recovered,/omc_data/whoi/OMC/CE02SHSP/R00002/extract/*PARS.txt,CE02SHSP-SP001-08-PARADJ000,recovered_cspp
+Ingest.ctdpf-j-cspp_recovered,/omc_data/whoi/OMC/CE02SHSP/R00002/extract/*CTD.txt,CE02SHSP-SP001-08-CTDPFJ000,recovered_cspp
+Ingest.parad-j-cspp_recovered,/omc_data/whoi/OMC/CE02SHSP/R00002/extract/*PARS.txt,CE02SHSP-SP001-09-PARADJ000,recovered_cspp
 ,,,
 Ingest.dbg-pdbg-cspp_recovered,/omc_data/whoi/OMC/CE02SHSP/R00002/extract/*PDBG.txt,CE02SHSP-SP001-00-SPPENG000,recovered_cspp
 Ingest.wc-hmr-cspp_recovered,/omc_data/whoi/OMC/CE02SHSP/R00002/extract/*WC_HMR.txt,CE02SHSP-SP001-00-SPPENG000,recovered_cspp
