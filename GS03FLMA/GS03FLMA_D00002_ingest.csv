@@ -1,0 +1,8 @@
+uframe_route,filename_mask,reference_designator,data_source
+Ingest.flort-dj-sio_telemetered,/omc_data/whoi/OMC/GS03FLMA/D00002/*flort*.dat,GS03FLMA-RIS01-05-FLORTD000,telemetered
+Ingest.phsen-abcdef-sio_telemetered,/omc_data/whoi/OMC/GS03FLMA/D00002/*phsen*.dat,GS03FLMA-RIS01-04-PHSENF000,telemetered
+Ingest.dosta-abcdjm-sio_telemetered,/omc_data/whoi/OMC/GS03FLMA/D00002/*dosta*.dat,GS03FLMA-RIS01-03-DOSTAD000,telemetered
+Ingest.adcps-jln-sio_telemetered,/omc_data/whoi/OMC/GS03FLMA/D00002/*adcps*.dat,GS03FLMA-RIM01-02-ADCPSL003,telemetered
+Ingest.ctdmo-ghqr-sio_telemetered,/omc_data/whoi/OMC/GS03FLMA/D00002/*ctdmo*.dat,GS03FLMA-RIM01-02-CTDMOG000,telemetered
+Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GS03FLMA/D00002/*.status_1488301.dat,GS03FLMA-RIS01-00-SIOENG000,telemetered
+Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GS03FLMA/D00002/*.status_1487701.dat,GS03FLMA-RIM01-00-SIOENG000,telemetered

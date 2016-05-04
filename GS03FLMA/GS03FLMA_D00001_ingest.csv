@@ -4,5 +4,5 @@ Ingest.phsen-abcdef-sio_telemetered,/omc_data/whoi/OMC/GS03FLMA/D00001/*phsen*.d
 Ingest.dosta-abcdjm-sio_telemetered,/omc_data/whoi/OMC/GS03FLMA/D00001/*dosta*.dat,GS03FLMA-RIS01-03-DOSTAD000,telemetered
 Ingest.adcps-jln-sio_telemetered,/omc_data/whoi/OMC/GS03FLMA/D00001/*adcps*.dat,GS03FLMA-RIM01-02-ADCPSL003,telemetered
 Ingest.ctdmo-ghqr-sio_telemetered,/omc_data/whoi/OMC/GS03FLMA/D00001/*ctdmo*.dat,GS03FLMA-RIM01-02-CTDMOG000,telemetered
-Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GS03FLMA/D00001/*.status_1398701.dat,GS03FLMA-FMS01-00-ENG000000,telemetered
-Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GS03FLMA/D00001/*.status_1399001.dat,GS03FLMA-FMM01-00-ENG000000,telemetered
+Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GS03FLMA/D00001/*.status_1398701.dat,GS03FLMA-RIS01-00-SIOENG000,telemetered
+Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GS03FLMA/D00001/*.status_1399001.dat,GS03FLMA-RIM01-00-SIOENG000,telemetered
