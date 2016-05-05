@@ -1,0 +1,15 @@
+uframe_route,filename_mask,reference_designator,data_source,
+Ingest.vel3d-l-wfp_recovered,/omc_data/whoi/OMC/GS02HYPM/R00001/cg_data/dcl00/UPPER_SN13104-05/00000/A*.DAT,GS02HYPM-WFP02-05-VEL3DL000,recovered_wfp,
+Ingest.ctdpf-ckl-wfp_recovered,/omc_data/whoi/OMC/GS02HYPM/R00001/cg_data/dcl00/UPPER_SN13104-05/00000/C*.DAT,GS02HYPM-WFP02-04-CTDPFL000,recovered_wfp,
+Ingest.dosta-ln-wfp_recovered,/omc_data/whoi/OMC/GS02HYPM/R00001/cg_data/dcl00/UPPER_SN13104-05/00000/E*.DAT,GS02HYPM-WFP02-03-DOSTAL000,recovered_wfp,
+Ingest.flord-l-wfp_recovered,/omc_data/whoi/OMC/GS02HYPM/R00001/cg_data/dcl00/UPPER_SN13104-05/00000/E*.DAT,GS02HYPM-WFP02-01-FLORDL000,recovered_wfp,
+Ingest.wfp-eng-stc-imodem_recovered,/omc_data/whoi/OMC/GS02HYPM/R00001/cg_data/dcl00/UPPER_SN13104-05/00000/E*.DAT,GS02HYPM-WFP02-00-WFPENG000,recovered_wfp,
+Ingest.wfp-eng-stc-imodem_recovered,/omc_data/whoi/OMC/GS02HYPM/R00001/cg_data/dcl00/LOWER_SN13104-07/00000/E*.DAT,GS02HYPM-WFP03-00-WFPENG000,recovered_wfp,
+Ingest.flord-l-wfp_recovered,/omc_data/whoi/OMC/GS02HYPM/R00001/cg_data/dcl00/LOWER_SN13104-07/00000/E*.DAT,GS02HYPM-WFP03-01-FLORDL000,recovered_wfp,
+Ingest.dosta-ln-wfp_recovered,/omc_data/whoi/OMC/GS02HYPM/R00001/cg_data/dcl00/LOWER_SN13104-07/00000/E*.DAT,GS02HYPM-WFP03-03-DOSTAL000,recovered_wfp,
+Ingest.ctdpf-ckl-wfp_recovered,/omc_data/whoi/OMC/GS02HYPM/R00001/cg_data/dcl00/LOWER_SN13104-07/00000/C*.DAT,GS02HYPM-WFP03-04-CTDPFL000,recovered_wfp,
+Ingest.vel3d-l-wfp_recovered,/omc_data/whoi/OMC/GS02HYPM/R00001/cg_data/dcl00/LOWER_SN13104-07/00000/A*.DAT,GS02HYPM-WFP03-05-VEL3DL000,recovered_wfp,
+Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GS02HYPM/R00001/cg_data/dcl00/CTDMO-G_sn37-12402/*.hex,GS02HYPM-RIM01-02-CTDMOG039,recovered_inst,
+#Ingest.sio-eng-sio_recovered,/omc_data/whoi/OMC/GS02HYPM/R00001/cg_data/dcl00/MSIOC_sn/STA*.DAT,GS02HYPM-RIM01-00-SIOENG000,recovered_host,No recovered data
+#,,GS02HYPM-MPM01-02-ZPLSGA009,recovered_inst,No ZPLSG data
+#,,GS02HYPM-MPM01-02-ZPLSGA010,recovered_inst,No ZPLSG data
