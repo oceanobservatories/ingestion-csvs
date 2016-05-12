@@ -9,17 +9,18 @@ Ingest.pco2a-a-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl12/PC
 Ingest.wavss-a-dcl-full_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl12/WAVSS*/*.wavss.log,CP01CNSM-SBD12-05-WAVSSA000,recovered_host,
 Ingest.metbk-a-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl12/METBK*/*metbk*.log,CP01CNSM-SBD12-06-METBKA000,recovered_host,
 Ingest.fdchp-a-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl12/FDCHP*/*fdchp*.log,CP01CNSM-SBD12-08-FDCHPA000,recovered_host,
-#Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl26/velpt2/*.velpt2.log,CP01CNSM-RID26-04-VELPTA000,recovered_host,no Data
-#Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl26/VELPT_*/*velpt*.aqd,CP01CNSM-RID26-04-VELPTA000,recovered_inst,no Data
-#Ingest.phsen-abcdef-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl26/phsen1/*.phsen1.log,CP01CNSM-RID26-06-PHSEND000,recovered_host,no Data
+Ingest.fdchp-a_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl12/FDCHP_sn10/D2015*/fdchp_*.dat,CP01CNSM-SBD12-08-FDCHPA000,recovered_inst,
+Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl26/VELPT_snAQD-11382/*.velpt1.log,CP01CNSM-RID26-04-VELPTA000,recovered_host,
+Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl26/VELPT_snAQD-11382/*VELPT*.aqd,CP01CNSM-RID26-04-VELPTA000,recovered_inst,
+Ingest.phsen-abcdef-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl26/PHSEN_snP0068/*.phsen1.log,CP01CNSM-RID26-06-PHSEND000,recovered_host,
 #Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl26/PHSEN_*/SAMI*.txt,CP01CNSM-RID26-06-PHSEND000,recovered_inst,no Data
-#Ingest.nutnr-b-dcl-conc_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl26/nutnr/*.nutnr.log,CP01CNSM-RID26-07-NUTNRB000,recovered_host,no Data
-#Ingest.nutnr-b_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl26/NUTNR_*/*nutnr*/*SCH*.DAT,CP01CNSM-RID26-07-NUTNRB000,recovered_inst,no Data
-#Ingest.spkir-abj-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl26/spkir/*.spkir.log,CP01CNSM-RID26-08-SPKIRB000,recovered_host,no Data
-Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl27/OPTAA*/*.optaa*.log,CP01CNSM-RID27-01-OPTAAD000,recovered_host,
+Ingest.nutnr-b-dcl-conc_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl26/NUTNR_sn269/*.nutnr.log,CP01CNSM-RID26-07-NUTNRB000,recovered_host,
+Ingest.nutnr-b_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl26/NUTNR_sn269/SCH*.DAT,CP01CNSM-RID26-07-NUTNRB000,recovered_inst,
+Ingest.spkir-abj-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl26/SPKIR_sn272/*.spkir.log,CP01CNSM-RID26-08-SPKIRB000,recovered_host,
+Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl27/OPTAA_snACS-151/*.optaa1.log,CP01CNSM-RID27-01-OPTAAD000,recovered_host,
 Ingest.flort-dj-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl27/FLORT*/*.flort.log,CP01CNSM-RID27-02-FLORTD000,recovered_host,
 Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl27/CTDBP*/*.ctdbp1.log,CP01CNSM-RID27-03-CTDBPC000,recovered_host,
-#Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl27/CTDBP1_*/*ctdbp*.hex,CP01CNSM-RID27-03-CTDBPC000,recovered_inst,no Data
+Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl27/CTDBP*/6841.hex,CP01CNSM-RID27-03-CTDBPC000,recovered_inst,
 Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl27/DOSTA*/*.dosta*.log,CP01CNSM-RID27-04-DOSTAD000,recovered_host,
 Ingest.adcpt-acfgm-dcl-pd8_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl35/ADCP*/*adcp*.log,CP01CNSM-MFD35-01-ADCPTF000,recovered_host,
 Ingest.presf-abc-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl35/PRESF*/*.presf.log,CP01CNSM-MFD35-02-PRESFB000,recovered_host,
