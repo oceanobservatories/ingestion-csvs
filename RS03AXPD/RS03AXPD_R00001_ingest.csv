@@ -1,0 +1,16 @@
+uframe_route,filename_mask,reference_designator,data_source,
+Ingest.deep-profiler_recovered,/rsn_cabled/rsn_data/DVT_Data/pd03a/data/dataset_*/ctd*.mpk,RS03AXPD-DP03A-01-CTDPFL304,recovered_inst,
+Ingest.deep-profiler_recovered,/rsn_cabled/rsn_data/DVT_Data/pd03a/data/dataset_*/acm*.mpk,RS03AXPD-DP03A-02-VEL3DA303,recovered_inst,
+Ingest.deep-profiler_recovered,/rsn_cabled/rsn_data/DVT_Data/pd03a/data/dataset_*/flcd*.mpk,RS03AXPD-DP03A-03-FLCDRA302,recovered_inst,
+Ingest.deep-profiler_recovered,/rsn_cabled/rsn_data/DVT_Data/pd03a/data/dataset_*/flntu*.mpk,RS03AXPD-DP03A-03-FLNTUA302,recovered_inst,
+# Ingest.deep-profiler_recovered,/rsn_cabled/rsn_data/DVT_Data/pd03a/data/dataset_*/acs*.mpk,RS03AXPD-DP03A-05-OPTAAC302,recovered_inst,No data on server
+Ingest.deep-profiler_recovered,/rsn_cabled/rsn_data/DVT_Data/pd03a/data/dataset_*/optode*.mpk,RS03AXPD-DP03A-06-DOSTAD304,recovered_inst,
+Ingest.deep-profiler_recovered,/rsn_cabled/rsn_data/DVT_Data/pd03a/data/dataset_*/mmp*.mpk,RS03AXPD-DP03A-00-ENG000000,recovered_inst,
+,,,,
+Ingest.deep-profiler_recovered,/rsn_cabled/rsn_data/DVT_Data/pd03a/subset/dataset_*/ctd*.mpk,RS03AXPD-DP03A-01-CTDPFL304,recovered_host,
+Ingest.deep-profiler_recovered,/rsn_cabled/rsn_data/DVT_Data/pd03a/subset/dataset_*/acm*.mpk,RS03AXPD-DP03A-02-VEL3DA303,recovered_host,
+Ingest.deep-profiler_recovered,/rsn_cabled/rsn_data/DVT_Data/pd03a/subset/dataset_*/flcd*.mpk,RS03AXPD-DP03A-03-FLCDRA302,recovered_host,
+Ingest.deep-profiler_recovered,/rsn_cabled/rsn_data/DVT_Data/pd03a/subset/dataset_*/flntu*.mpk,RS03AXPD-DP03A-03-FLNTUA302,recovered_host,
+# Ingest.deep-profiler_recovered,/rsn_cabled/rsn_data/DVT_Data/pd03a/subset/dataset_*/acs*.mpk,RS03AXPD-DP03A-05-OPTAAC302,recovered_host,No data on server
+Ingest.deep-profiler_recovered,/rsn_cabled/rsn_data/DVT_Data/pd03a/subset/dataset_*/optode*.mpk,RS03AXPD-DP03A-06-DOSTAD304,recovered_host,
+Ingest.deep-profiler_recovered,/rsn_cabled/rsn_data/DVT_Data/pd03a/subset/dataset_*/profiler*.mpk,RS03AXPD-DP03A-00-ENG000000,recovered_host,
