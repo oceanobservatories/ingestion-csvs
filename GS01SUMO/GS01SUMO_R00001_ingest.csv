@@ -1,7 +1,7 @@
 uframe_route,filename_mask,reference_designator,data_source,
 Ingest.mopak-o-dcl_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl11/MOPAK*/*.mopak.log,GS01SUMO-SBD11-01-MOPAK0000,recovered_host,
 Ingest.metbk-a-dcl_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl11/METBK-Log_snLGR018/*.metbk*.log,GS01SUMO-SBD11-06-METBKA000,recovered_host,
-Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl11/DOSTA_sn379/*.dosta.log,GS01SUMO-SBD11-04-DOSTAD000,recovered_host,
+Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl11/DOSTA_sn379/*.dosta1.log,GS01SUMO-SBD11-04-DOSTAD000,recovered_host,
 Ingest.spkir-abj-dcl_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl11/SPKIR_sn269/*.spkir1.log,GS01SUMO-SBD11-05-SPKIRB000,recovered_host,
 Ingest.nutnr-b-dcl-conc_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl11/NUTNR*/*.nutnr1.log,GS01SUMO-SBD11-08-NUTNRB000,recovered_host,
 #,,,,
@@ -22,7 +22,7 @@ Ingest.nutnr-b-dcl-conc_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl
 Ingest.spkir-abj-dcl_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/SPKIR*/*.spkir2.log,GS01SUMO-RID16-08-SPKIRB000,recovered_host,
 #,,,,
 Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/ADCP_sn21002/*.000,GS01SUMO-RII11-02-ADCPSN010,recovered_inst,
-Ingest.phsen-abcdef-imodem_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/PHSEN_snP0137/*.DAT,GS01SUMO-RII11-02-PHSENE041,recovered_inst,
+Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/PHSEN_snP0137/SAMI*.txt,GS01SUMO-RII11-02-PHSENE041,recovered_inst,
 #,,GS01SUMO-RII11-02-CTDBPP031,recovered_host,No Parser
 #,,GS01SUMO-RII11-02-DOSTAD031,recovered_host,No Parser
 #,,GS01SUMO-RII11-02-FLORDG031,recovered_host,No Parser
