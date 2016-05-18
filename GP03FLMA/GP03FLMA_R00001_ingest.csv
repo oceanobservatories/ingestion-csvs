@@ -3,21 +3,21 @@ Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/adcp/*.000,GP03FLM
 #,,,,
 Ingest.ctdmo-ghqr-sio_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/ctdmo/CTD*.DAT,GP03FLMA-RIM01-02-CTDMOG000,recovered_host,"This reference designator serves as a template. The parser will overwrite the last two characters with the inductive modem ID for each instrument. If the ID is 49 or greater, the CTDMOG will be changed to CTDMOH."
 #,,,,"The following are the nominal designators, but the designators in column C represent the actual imodem IDs used"
-Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/mc/SBE37*57*.hex,GP03FLMA-RIM01-02-CTDMOG057,recovered_inst,GP03FLMA-RIM01-02-CTDMOG040
-Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/mc/SBE37*20*.hex,GP03FLMA-RIM01-02-CTDMOG020,recovered_inst,GP03FLMA-RIM01-02-CTDMOG041
-Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/mc/SBE37*60*.hex,GP03FLMA-RIM01-02-CTDMOG060,recovered_inst,GP03FLMA-RIM01-02-CTDMOG042
-Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/mc/SBE37*15*.hex,GP03FLMA-RIM01-02-CTDMOG015,recovered_inst,GP03FLMA-RIM01-02-CTDMOG043
-Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/mc/SBE37*54*.hex,GP03FLMA-RIM01-02-CTDMOG054,recovered_inst,GP03FLMA-RIM01-02-CTDMOG044
-Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/mc/SBE37*62*.hex,GP03FLMA-RIM01-02-CTDMOG062,recovered_inst,GP03FLMA-RIM01-02-CTDMOG045
-Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/mc/SBE37*52*.hex,GP03FLMA-RIM01-02-CTDMOG052,recovered_inst,GP03FLMA-RIM01-02-CTDMOG046
-Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/mc/SBE37*19*.hex,GP03FLMA-RIM01-02-CTDMOG019,recovered_inst,GP03FLMA-RIM01-02-CTDMOG047
-Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/mc/SBE37*56*.hex,GP03FLMA-RIM01-02-CTDMOG056,recovered_inst,GP03FLMA-RIM01-02-CTDMOG048
-Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/mc/SBE37*26*.hex,GP03FLMA-RIM01-02-CTDMOH026,recovered_inst,GP03FLMA-RIM01-02-CTDMOH049
-Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/mc/SBE37*29*.hex,GP03FLMA-RIM01-02-CTDMOH029,recovered_inst,GP03FLMA-RIM01-02-CTDMOH050
-Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/mc/SBE37*67*.hex,GP03FLMA-RIM01-02-CTDMOH067,recovered_inst,GP03FLMA-RIM01-02-CTDMOH051
+Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/mc/SBE37*03710257*.hex,GP03FLMA-RIM01-02-CTDMOG040,recovered_inst,
+Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/mc/SBE37*03710220*.hex,GP03FLMA-RIM01-02-CTDMOG041,recovered_inst,
+Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/mc/SBE37*03710260*.hex,GP03FLMA-RIM01-02-CTDMOG042,recovered_inst,
+Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/mc/SBE37*03710215*.hex,GP03FLMA-RIM01-02-CTDMOG043,recovered_inst,
+Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/mc/SBE37*03710254*.hex,GP03FLMA-RIM01-02-CTDMOG044,recovered_inst,
+Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/mc/SBE37*03710262*.hex,GP03FLMA-RIM01-02-CTDMOG045,recovered_inst,
+Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/mc/SBE37*03710252*.hex,GP03FLMA-RIM01-02-CTDMOG046,recovered_inst,
+Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/mc/SBE37*03710219*.hex,GP03FLMA-RIM01-02-CTDMOG047,recovered_inst,
+Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/mc/SBE37*03710256*.hex,GP03FLMA-RIM01-02-CTDMOG048,recovered_inst,
+Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/mc/SBE37*03710226*.hex,GP03FLMA-RIM01-02-CTDMOH049,recovered_inst,
+Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/mc/SBE37*03710229*.hex,GP03FLMA-RIM01-02-CTDMOH050,recovered_inst,
+Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/mc/SBE37*03710267*.hex,GP03FLMA-RIM01-02-CTDMOH051,recovered_inst,
 #,,,,
 Ingest.dosta-abcdjm-sio_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/dosta/DOS*.DAT,GP03FLMA-RIS01-03-DOSTAD000,recovered_host,
 Ingest.flort-dj-sio_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/flort/FLO*.DAT,GP03FLMA-RIS01-05-FLORTD000,recovered_host,
 Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/sami/SAMI*.txt,GP03FLMA-RIS01-04-PHSENF000,recovered_inst,
-Ingest.sio-eng-sio_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/Main_SIOC/status/STA*.DAT,GP03FLMA-FMM01-01-SIOENG000,recovered_host,
-Ingest.sio-eng-sio_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/Secondary_SIOC/status/STA*.DAT,GP03FLMA-FMS01-01-SIOENG000,recovered_host,
+Ingest.sio-eng-sio_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/Main_SIOC/status/STA*.DAT,GP03FLMA-RIM01-00-SIOENG000,recovered_host,
+Ingest.sio-eng-sio_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/Secondary_SIOC/status/STA*.DAT,GP03FLMA-RIS01-00-SIOENG000,recovered_host,
