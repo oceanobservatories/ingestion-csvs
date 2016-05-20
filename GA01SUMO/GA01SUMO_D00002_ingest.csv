@@ -38,13 +38,13 @@ Ingest.hyd-o-dcl_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl11/hy
 Ingest.hyd-o-dcl_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl12/hyd*/*hyd*.log,GA01SUMO-SBD12-03-HYDGN0000,telemetered,,
 #,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl11/imm/ctdbp01/ctdbp01*.DAT,GA01SUMO-RII11-02-CTDBPP031,telemetered,,Parser Not available
 #,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl11/imm/ctdbp01/ctdbp01*.DAT,GA01SUMO-RII11-02-FLORDG031,telemetered,,"No Parser Available, ATTACHED TO ctdbpp"
-Ingest.pco2w-abc-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl11/imm/pco2w1/pco2w*.DAT,GA01SUMO-RII11-02-PCO2WC025,telemetered,,
+Ingest.pco2w-abc-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl11/imm/pco2w1/pco2w*.DAT,GA01SUMO-RII11-02-PCO2WC051,telemetered,,
 #,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl11/imm/ctdbp02/ctdbp02*.DAT,GA01SUMO-RII11-02-CTDBPP032,telemetered,,Parser Not available
 #,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl11/imm/ctdbp02/ctdbp02*.DAT,GA01SUMO-RII11-02-FLORDG032,telemetered,,"No Parser Available, ATTACHED TO ctdbpp"
-Ingest.pco2w-abc-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl11/imm/pco2w2/pco2w*.DAT,GA01SUMO-RII11-02-PCO2WC026,telemetered,,
+Ingest.pco2w-abc-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl11/imm/pco2w2/pco2w*.DAT,GA01SUMO-RII11-02-PCO2WC052,telemetered,,
 #,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl11/imm/ctdbp03/ctdbp03*.DAT,GA01SUMO-RII11-02-CTDBPP033,telemetered,,
 #,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl11/imm/ctdbp03/ctdbp03*.DAT,GA01SUMO-RII11-02-FLORDG033,telemetered,,
-#Ingest.pco2w-abc-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl11/imm/pco2w3/pco2w*.DAT,GA01SUMO-RII11-02-PCO2WC027,telemetered,,No Data available
+#Ingest.pco2w-abc-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl11/imm/pco2w3/pco2w*.DAT,GA01SUMO-RII11-02-PCO2WC053,telemetered,,No Data available
 Ingest.adcps-jln-stc_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl11/imm/adcp/adcp*.DAT,GA01SUMO-RII11-02-ADCPSN010,telemetered,,
 Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00002/irid2shore/cpm_status*.txt,GA01SUMO-SBC11-00-CPMENG000,telemetered,,
 Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl11/syslog/*syslog.log,GA01SUMO-SBD11-00-DCLENG000,telemetered,,
