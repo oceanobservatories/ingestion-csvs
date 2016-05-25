@@ -1,5 +1,5 @@
 uframe_route,filename_mask,reference_designator,data_source,
-Ingest.mopak-o-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00003/dcl17/mopak/*.mopak.log,CE06ISSM-SBD17-01-MOPAK0000,telemetered,
+#Ingest.mopak-o-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00003/dcl17/mopak/*.mopak.log,CE06ISSM-SBD17-01-MOPAK0000,telemetered,
 Ingest.velpt-ab-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00003/dcl17/velpt*/*.velpt*.log,CE06ISSM-SBD17-04-VELPTA000,telemetered,
 #,/omc_data/whoi/OMC/CE06ISSM/D00003/dcl17/ucspp/*.ucspp*.log,CE06ISSM-SBD17-05-ACOMM0000,telemetered,ACOMM communications log with the uCSPP. No driver exists to process this data set
 #,/omc_data/whoi/OMC/CE06ISSM/D00003/dcl17/ctdbp*/*.ctdbp*.log,CE06ISSM-SBD17-06-CTDBPC000,telemetered,"CTDBP with FLORT attached, no driver currently exists for this data set"
