@@ -1,8 +1,8 @@
-uframe_route,filename_mask,reference_designator,data_source
-Ingest.glider-eng-glider_telemetered,/omc_data/whoi/OMC/GP05MOAS-PG002/D00001/merged-from-glider/gp_*.mrg,GP05MOAS-PG515-00-ENG000000,telemetered
-Ingest.ctdgv-m-glider_telemetered,/omc_data/whoi/OMC/GP05MOAS-PG002/D00001/merged-from-glider/gp_*.mrg,GP05MOAS-PG515-01-CTDGVM000,telemetered
-Ingest.dosta-abcdjm-glider_telemetered,/omc_data/whoi/OMC/GP05MOAS-PG002/D00001/merged-from-glider/gp_*.mrg,GP05MOAS-PG515-02-DOSTAM000,telemetered
-Ingest.flort-m-glider_telemetered,/omc_data/whoi/OMC/GP05MOAS-PG002/D00001/merged-from-glider/gp_*.mrg,GP05MOAS-PG515-03-FLORTM000,telemetered
-Ingest.flort-m-glider_telemetered,/omc_data/whoi/OMC/GP05MOAS-PG002/D00001/merged-from-glider/gp_*.mrg,GP05MOAS-PG515-04-FLORTO000,telemetered
-Ingest.nutnr-m-glider_telemetered,/omc_data/whoi/OMC/GP05MOAS-PG002/D00001/merged-from-glider/gp_*.mrg,GP05MOAS-PG515-05-NUTNRM000,telemetered
-Ingest.parad-m-glider_telemetered,/omc_data/whoi/OMC/GP05MOAS-PG002/D00001/merged-from-glider/gp_*.mrg,GP05MOAS-PG515-06-PARADM000,telemetered
+uframe_route,filename_mask,reference_designator,data_source,
+Ingest.glider-eng-glider_telemetered,/omc_data/whoi/OMC/GP05MOAS-PG002/D00001/merged-from-glider/gp_*.mrg,GP05MOAS-PG515-00-ENG000000,telemetered,
+Ingest.ctdgv-m-glider_telemetered,/omc_data/whoi/OMC/GP05MOAS-PG002/D00001/merged-from-glider/gp_*.mrg,GP05MOAS-PG515-01-CTDGVM000,telemetered,
+#Ingest.dosta-abcdjm-glider_telemetered,/omc_data/whoi/OMC/GP05MOAS-PG002/D00001/merged-from-glider/gp_*.mrg,GP05MOAS-PG515-02-DOSTAM000,telemetered,Not installed
+Ingest.flort-m-glider_telemetered,/omc_data/whoi/OMC/GP05MOAS-PG002/D00001/merged-from-glider/gp_*.mrg,GP05MOAS-PG515-03-FLORTM000,telemetered,
+Ingest.flort-m-glider_telemetered,/omc_data/whoi/OMC/GP05MOAS-PG002/D00001/merged-from-glider/gp_*.mrg,GP05MOAS-PG515-04-FLORTO000,telemetered,
+#Ingest.nutnr-m-glider_telemetered,/omc_data/whoi/OMC/GP05MOAS-PG002/D00001/merged-from-glider/gp_*.mrg,GP05MOAS-PG515-05-NUTNRM000,telemetered,Not installed
+Ingest.parad-m-glider_telemetered,/omc_data/whoi/OMC/GP05MOAS-PG002/D00001/merged-from-glider/gp_*.mrg,GP05MOAS-PG515-06-PARADM000,telemetered,
