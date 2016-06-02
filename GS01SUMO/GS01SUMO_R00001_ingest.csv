@@ -9,7 +9,7 @@ Ingest.metbk-a-dcl_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl12/ME
 Ingest.pco2a-a-dcl_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl12/PCO2A*/*.pco2a.log,GS01SUMO-SBD12-04-PCO2AA000,recovered_host,
 Ingest.wavss-a-dcl-full_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl12/WAVSS*/*.wavss.log,GS01SUMO-SBD12-05-WAVSSA000,recovered_host,
 Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl12/OPTAA*/*.optaa*.log,GS01SUMO-SBD12-01-OPTAAD000,recovered_host,
-ingest.fdchp-a-dcl_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl12/FDCHP*/*.fdchp.log,GS01SUMO-SBD12-08-FDCHPA000,recovered_host,
+Ingest.fdchp-a-dcl_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl12/FDCHP*/*.fdchp.log,GS01SUMO-SBD12-08-FDCHPA000,recovered_host,
 Ingest.flort-dj-dcl_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl12/FLORT*/*.flort1.log,GS01SUMO-SBD12-02-FLORTD000,recovered_host,
 #,,,,
 Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/OPTAA*/*.optaa*.log,GS01SUMO-RID16-01-OPTAAD000,recovered_host,
