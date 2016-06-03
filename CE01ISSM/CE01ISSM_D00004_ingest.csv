@@ -2,12 +2,12 @@ uframe_route,filename_mask,reference_designator,data_source,
 Ingest.mopak-o-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl17/mopak/*.mopak.log,CE01ISSM-SBD17-01-MOPAK0000,telemetered,
 Ingest.velpt-ab-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl17/velpt*/*.velpt*.log,CE01ISSM-SBD17-04-VELPTA000,telemetered,
 #,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl17/ucspp/*.ucspp*.log,CE01ISSM-SBD17-05-ACOMM0000,telemetered,ACOMM communications log with the uCSPP. No driver exists to process this data set
-#,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl17/ctdbp*/*.ctdbp*.log,CE01ISSM-SBD17-06-CTDBPC000,telemetered,"CTDBP with FLORT attached, no driver currently exists for this data set"
-#,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl17/ctdbp*/*.ctdbp*.log,CE01ISSM-SBD17-06-FLORTD000,telemetered,"CTDBP with FLORT attached, no driver currently exists for this data set"
+#,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl17/ctdbp*/*.ctdbp*.log,CE01ISSM-SBD17-03-CTDBPC000,telemetered,"CTDBP with FLORT attached, no driver currently exists for this data set"
+#,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl17/ctdbp*/*.ctdbp*.log,CE01ISSM-SBD17-03-FLORTD000,telemetered,"CTDBP with FLORT attached, no driver currently exists for this data set"
 Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl16/optaa*/*.optaa*.log,CE01ISSM-RID16-01-OPTAAD000,telemetered,
 Ingest.flort-dj-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl16/flort/*.flort.log,CE01ISSM-RID16-02-FLORTD000,telemetered,
 Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl16/ctdbp1/*.ctdbp*.log,CE01ISSM-RID16-03-CTDBPC000,telemetered,Uses record stream ctdbp_cdef_dcl_ce_instrument
-Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl16/ctdbp1/*.ctdbp*.log,CE01ISSM-RID16-03-DOSTAD000,telemetered,The data for the DOSTA is available in */dcl16/ctdbp1.  Uses record stream ctdbp_cdef_dcl_ce_dosta.
+Ingest.dosta-abcdjm-ctdbp-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl16/ctdbp1/*.ctdbp*.log,CE01ISSM-RID16-03-DOSTAD000,telemetered,The data for the DOSTA is available in */dcl16/ctdbp1.  Uses record stream ctdbp_cdef_dcl_ce_dosta.
 Ingest.velpt-ab-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl16/velpt*/*.velpt*.log,CE01ISSM-RID16-04-VELPTA000,telemetered,
 Ingest.pco2w-abc-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl16/pco2w*/*.pco2w*.log,CE01ISSM-RID16-05-PCO2WB000,telemetered,
 Ingest.phsen-abcdef-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl16/phsen*/*.phsen*.log,CE01ISSM-RID16-06-PHSEND000,telemetered,
