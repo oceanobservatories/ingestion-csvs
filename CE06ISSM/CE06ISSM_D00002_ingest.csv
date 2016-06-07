@@ -12,10 +12,10 @@ Ingest.pco2w-abc-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00002/dcl16/pco2w1
 Ingest.phsen-abcdef-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00002/dcl16/phsen1/*.phsen*.log,CE06ISSM-RID16-06-PHSEND000,telemetered,
 Ingest.nutnr-b-dcl-conc_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00002/dcl16/nutnr/*.nutnr.log,CE06ISSM-RID16-07-NUTNRB000,telemetered,
 Ingest.spkir-abj-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00002/dcl16/spkir/*.spkir.log,CE06ISSM-RID16-08-SPKIRB000,telemetered,
-Ingest.vel3d-cd-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00002/dcl35/vel3d/*.vel3d.log,CE06ISSM-MFD35-01-VEL3DD000,telemetered,"DCL system alters operation of VEL3D, data is not available until after recovery"
+#Ingest.vel3d-cd-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00002/dcl35/vel3d/*.vel3d.log,CE06ISSM-MFD35-01-VEL3DD000,telemetered,"DCL system alters operation of VEL3D, data is not available until after recovery"
 Ingest.presf-abc-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00002/dcl35/presf/*.presf.log,CE06ISSM-MFD35-02-PRESFA000,telemetered,
 Ingest.adcpt-acfgm-dcl-pd0_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00002/dcl35/adcpt/*.adcpt.log,CE06ISSM-MFD35-04-ADCPTM000,telemetered,
-Ingest.pco2w-abc-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00002/dcl35/pco2w2/*.pco2w.log,CE06ISSM-MFD35-05-PCO2WB000,telemetered,
+Ingest.pco2w-abc-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00002/dcl35/pco2w2/*.pco2w2.log,CE06ISSM-MFD35-05-PCO2WB000,telemetered,
 Ingest.phsen-abcdef-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00002/dcl35/phsen2/*.phsen*.log,CE06ISSM-MFD35-06-PHSEND000,telemetered,
 Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00002/dcl37/optaa2/*.optaa*.log,CE06ISSM-MFD37-01-OPTAAD000,telemetered,No OPTAA-D file/data (although we a serial number for it). 
 Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00002/dcl37/ctdbp2/*.ctdbp*.log,CE06ISSM-MFD37-03-CTDBPC000,telemetered,Uses record stream ctdbp_cdef_dcl_ce_instrument

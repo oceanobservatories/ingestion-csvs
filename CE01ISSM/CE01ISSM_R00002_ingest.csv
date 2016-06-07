@@ -23,7 +23,7 @@ Ingest.dosta-abcdjm-ctdbp-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00002/cg_da
 #,,CE01ISSM-MFD37-06-CAMDSA000,recovered_host,No data,
 #,,CE01ISSM-MFD37-07-ZPLSCC000,recovered_host,No data,
 ,,,,,
-Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CE01ISSM/R00002/cg_data/cpm1/irid2shore/cpm_status*.txt,CE01ISSM-SBC11-00-CPMENG000,recovered_host,,
+#Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CE01ISSM/R00002/cg_data/cpm1/irid2shore/cpm_status*.txt,CE01ISSM-SBC11-00-CPMENG000,recovered_host,,
 Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00002/cg_data/dcl16/syslog*/*syslog*.log,CE01ISSM-RID16-00-DCLENG000,recovered_host,,
 Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00002/cg_data/dcl17/syslog*/*syslog*.log,CE01ISSM-SBD17-00-DCLENG000,recovered_host,,
 Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CE01ISSM/R00002/cg_data/cpm3/syslog*/cpm_status*.txt,CE01ISSM-MFC31-00-CPMENG000,recovered_host,Only one file,
@@ -35,7 +35,7 @@ Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CE01ISSM/R00002/instrmts/dcl16/VELP
 Ingest.nutnr-b_recovered,/omc_data/whoi/OMC/CE01ISSM/R00002/instrmts/dcl16/NUTNR*/ce01issm_nutnr*/*.DAT,CE01ISSM-RID16-07-NUTNRB000,recovered_inst,,
 Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CE01ISSM/R00002/instrmts/dcl17/VELPT*/ce01issm_velpt*.aqd,CE01ISSM-SBD17-04-VELPTA000,recovered_inst,,CE06ISSM-RID16-03-DOSTAD000
 Ingest.adcpt-m-dspec_recovered,/omc_data/whoi/OMC/CE01ISSM/R00002/instrmts/dcl35/ADCPT*/DSpec*.txt,CE01ISSM-MFD35-04-ADCPTM000,recovered_inst,,CE06ISSM-RID16-04-VELPTA000
-Ingest.adcpt-m-fcoeff_recovered,/omc_data/whoi/OMC/CE01ISSM/R00002/instrmts/dcl35/ADCPT*/FCoeff*.txt,CE01ISSM-MFD35-04-ADCPTM000,recovered_inst,No,CE06ISSM-RID16-05-PCO2WB000
+#Ingest.adcpt-m-fcoeff_recovered,/omc_data/whoi/OMC/CE01ISSM/R00002/instrmts/dcl35/ADCPT*/FCoeff*.txt,CE01ISSM-MFD35-04-ADCPTM000,recovered_inst,No,CE06ISSM-RID16-05-PCO2WB000
 Ingest.adcpt-m-log9_recovered,/omc_data/whoi/OMC/CE01ISSM/R00002/instrmts/dcl35/ADCPT*/*LOG9.TXT,CE01ISSM-MFD35-04-ADCPTM000,recovered_inst,,CE06ISSM-RID16-06-PHSEND000
 Ingest.adcpt-m-wvs_recovered,/omc_data/whoi/OMC/CE01ISSM/R00002/instrmts/dcl35/ADCPT*/*.WVS,CE01ISSM-MFD35-04-ADCPTM000,recovered_inst,,CE06ISSM-RID16-07-NUTNRB000
 Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CE01ISSM/R00002/instrmts/dcl37/CTDBP*/ce01issm_ctdbp*.hex,CE01ISSM-MFD37-03-CTDBPC000,recovered_inst,,CE06ISSM-MFD35-01-VEL3DD000
