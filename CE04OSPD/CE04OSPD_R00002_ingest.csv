@@ -6,9 +6,9 @@ Ingest.deep-profiler_recovered,/rsn_cabled/rsn_data/DVT_Data/pd01b/data/dataset_
 Ingest.deep-profiler_recovered,/rsn_cabled/rsn_data/DVT_Data/pd01b/data/dataset_2015*/optode*.mpk,CE04OSPD-DP01B-06-DOSTAD105,recovered_inst
 Ingest.deep-profiler_recovered,/rsn_cabled/rsn_data/DVT_Data/pd01b/data/dataset_2015*/mmp*.mpk,CE04OSPD-DP01B-00-ENG000000,recovered_inst
 ,,,
-Ingest.deep-profiler_recovered,/rsn_cabled/rsn_data/DVT_Data/pd01b/subset/dataset_2015*/ctd*.mpk,CE04OSPD-DP01B-01-CTDPFL105,recovered_host
-Ingest.deep-profiler_recovered,/rsn_cabled/rsn_data/DVT_Data/pd01b/subset/dataset_2015*/acm*.mpk,CE04OSPD-DP01B-02-VEL3DA105,recovered_host
-Ingest.deep-profiler_recovered,/rsn_cabled/rsn_data/DVT_Data/pd01b/subset/dataset_2015*/flcd*.mpk,CE04OSPD-DP01B-04-FLCDRA103,recovered_host
-Ingest.deep-profiler_recovered,/rsn_cabled/rsn_data/DVT_Data/pd01b/subset/dataset_2015*/flntu*.mpk,CE04OSPD-DP01B-04-FLNTUA103,recovered_host
-Ingest.deep-profiler_recovered,/rsn_cabled/rsn_data/DVT_Data/pd01b/subset/dataset_2015*/optode*.mpk,CE04OSPD-DP01B-06-DOSTAD105,recovered_host
-Ingest.deep-profiler_recovered,/rsn_cabled/rsn_data/DVT_Data/pd01b/subset/dataset_2015*/profiler*.mpk,CE04OSPD-DP01B-00-ENG000000,recovered_host
+Ingest.deep-profiler_recovered,/rsn_cabled/rsn_data/DVT_Data/pd01b/subset/dataset_2015*/ctd*.mpk,CE04OSPD-DP01B-01-CTDPFL105,recovered_wfp
+Ingest.deep-profiler_recovered,/rsn_cabled/rsn_data/DVT_Data/pd01b/subset/dataset_2015*/acm*.mpk,CE04OSPD-DP01B-02-VEL3DA105,recovered_wfp
+Ingest.deep-profiler_recovered,/rsn_cabled/rsn_data/DVT_Data/pd01b/subset/dataset_2015*/flcd*.mpk,CE04OSPD-DP01B-04-FLCDRA103,recovered_wfp
+Ingest.deep-profiler_recovered,/rsn_cabled/rsn_data/DVT_Data/pd01b/subset/dataset_2015*/flntu*.mpk,CE04OSPD-DP01B-04-FLNTUA103,recovered_wfp
+Ingest.deep-profiler_recovered,/rsn_cabled/rsn_data/DVT_Data/pd01b/subset/dataset_2015*/optode*.mpk,CE04OSPD-DP01B-06-DOSTAD105,recovered_wfp
+Ingest.deep-profiler_recovered,/rsn_cabled/rsn_data/DVT_Data/pd01b/subset/dataset_2015*/profiler*.mpk,CE04OSPD-DP01B-00-ENG000000,recovered_wfp
