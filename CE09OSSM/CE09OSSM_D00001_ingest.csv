@@ -9,7 +9,7 @@ Ingest.wavss-a-dcl-full_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00001/cg_data/d
 Ingest.adcpt-acfgm-dcl-pd0_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00001/cg_data/dcl26/adcpt/*.adcpt.log,CE09OSSM-RID26-01-ADCPTC000,telemetered,,
 Ingest.velpt-ab-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00001/cg_data/dcl26/velpt2/*.velpt*.log,CE09OSSM-RID26-04-VELPTA000,telemetered,,
 Ingest.phsen-abcdef-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00001/cg_data/dcl26/phsen/*.phsen.log,CE09OSSM-RID26-06-PHSEND000,telemetered,,
-Ingest.nutnr-b-dcl-full_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00001/cg_data/dcl26/nutnr/*.nutnr.log,CE09OSSM-RID26-07-NUTNRB000,telemetered,,
+Ingest.nutnr-b-dcl-conc_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00001/cg_data/dcl26/nutnr/*.nutnr.log,CE09OSSM-RID26-07-NUTNRB000,telemetered,,
 Ingest.spkir-abj-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00001/cg_data/dcl26/spkir/*.spkir.log,CE09OSSM-RID26-08-SPKIRB000,telemetered,,
 Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00001/cg_data/dcl27/optaa1/*.optaa*.log,CE09OSSM-RID27-01-OPTAAD000,telemetered,,
 Ingest.flort-dj-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00001/cg_data/dcl27/flort/*.flort.log,CE09OSSM-RID27-02-FLORTD000,telemetered,,
