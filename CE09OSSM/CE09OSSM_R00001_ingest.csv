@@ -40,7 +40,7 @@ Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl35/PCO
 Ingest.phsen-abcdef-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl35/phsen2/*.phsen2.log,CE09OSSM-MFD35-06-PHSEND000,recovered_host,Recovered DCL data
 Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl35/PHSEN_*/*phsen*.txt,CE09OSSM-MFD35-06-PHSEND000,recovered_inst,Recovered Instrument data
 Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl37/syslog/*.syslog.log,CE09OSSM-MFD37-00-DCLENG000,recovered_host,
-Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl37/optaa2/*.optaa2.log,CE09OSSM-MFD37-01-OPTAAC000,recovered_host,
+Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl37/optaa2/*.optaa2.log,CE09OSSM-MFD37-01-OPTAAD000,recovered_host,
 Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl37/ctdbp2/*.ctdbp2.log,CE09OSSM-MFD37-03-CTDBPE000,recovered_host,Recovered DCL data
 Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl37/CTDBP_*/*ctdbp2*.hex,CE09OSSM-MFD37-03-CTDBPE000,recovered_inst,
 Ingest.dosta-abcdjm-ctdbp-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl37/ctdbp2/*.ctdbp2.log,CE09OSSM-MFD37-04-DOSTAD000,recovered_host,Recovered DCL data
