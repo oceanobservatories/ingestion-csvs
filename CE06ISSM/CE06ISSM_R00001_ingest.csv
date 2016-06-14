@@ -1,8 +1,8 @@
 uframe_route,filename_mask,reference_designator,data_source,
-Ingest.mopak-o-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00001/cg_data/dcl17/mopak/*.mopak.log,CE06ISSM-SBD17-01-MOPAK0000,recovered_host,
+Ingest.mopak-o-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00001/cg_data/dcl17/mopak/*.mopak.log,CE06ISSM-SBD17-01-MOPAK0000,recovered_host,No data in files
 Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00001/cg_data/dcl17/velpt1/*.velpt1.log,CE06ISSM-SBD17-04-VELPTA000,recovered_host,Recovered DCL data
-#Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00001/cg_data/dcl17/ctdbp3/*.ctdbp3.log,CE06ISSM-SBD17-03-CTDBPC000,recovered_host,No parser exists for this data set
-#Ingest.dosta-abcdjm-ctdbp-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00001/cg_data/dcl17/ctdbp3/*.ctdbp3.log,CE06ISSM-SBD17-03-FLORTD000,recovered_host,No parser exists for this data set
+#,/omc_data/whoi/OMC/CE06ISSM/R00001/cg_data/dcl17/ctdbp3/*.ctdbp3.log,CE06ISSM-SBD17-03-CTDBPC000,recovered_host,No parser exists for this data set
+#,/omc_data/whoi/OMC/CE06ISSM/R00001/cg_data/dcl17/ctdbp3/*.ctdbp3.log,CE06ISSM-SBD17-03-FLORTD000,recovered_host,No parser exists for this data set
 Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00001/cg_data/dcl16/optaa1/*.optaa*.log,CE06ISSM-RID16-01-OPTAAD000,recovered_host,
 Ingest.flort-dj-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00001/cg_data/dcl16/flort/*.flort.log,CE06ISSM-RID16-02-FLORTD000,recovered_host,
 Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00001/cg_data/dcl16/ctdbp1/*.ctdbp1.log,CE06ISSM-RID16-03-CTDBPC000,recovered_host,Recovered DCL data
@@ -21,7 +21,7 @@ Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00001/cg_data/dcl37/o
 Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00001/cg_data/dcl37/ctdbp2/*.ctdbp2.log,CE06ISSM-MFD37-03-CTDBPC000,recovered_host,Recovered DCL data
 Ingest.dosta-abcdjm-ctdbp-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00001/cg_data/dcl37/ctdbp2/*.ctdbp2.log,CE06ISSM-MFD37-04-DOSTAD000,recovered_host,Recovered DCL data
 #,/omc_data/whoi/OMC/CE06ISSM/R00001/cg_data/dcl37/camds/*.camds.png,CE06ISSM-MFD37-06-CAMDSA000,recovered_host,Instrument was not deployed
-# Ingest.zplsc-c-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00001/cg_data/dcl37/zplsc/*.zplsc.log,CE06ISSM-MFD37-07-ZPLSCC000,recovered_host,Instrument was not deployed
+#Ingest.zplsc-c-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00001/cg_data/dcl37/zplsc/*.zplsc.log,CE06ISSM-MFD37-07-ZPLSCC000,recovered_host,Instrument was not deployed
 #,,,,
 #,,,,
 Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CE06ISSM/R00001/cg_data/irid2shore/cpm_status*.txt,CE06ISSM-SBC11-00-CPMENG000,recovered_host,
@@ -32,6 +32,8 @@ Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00001/cg_data/dcl35
 Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00001/cg_data/dcl37/syslog/*.syslog.log,CE06ISSM-MFD37-00-DCLENG000,recovered_host,
 #,,,,
 #,,,,
+#,/omc_data/whoi/OMC/CE06ISSM/R00001/instrmts/dcl17/CTDBP-C_*/*_ctdbp3_*.hex,CE06ISSM-SBD17-03-CTDBPC000,recovered_inst,No parser exists for this data set
+#,/omc_data/whoi/OMC/CE06ISSM/R00001/instrmts/dcl17/CTDBP-C_*/*_ctdbp3_*.hex,CE06ISSM-SBD17-03-FLORTD000,recovered_inst,No parser exists for this data set
 Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CE06ISSM/R00001/instrmts/dcl17/VELPT*/*velpt*.aqd,CE06ISSM-SBD17-04-VELPTA000,recovered_inst,Recovered Instrument data
 Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CE06ISSM/R00001/instrmts/dcl16/CTDBP*/*ctdbp*.hex,CE06ISSM-RID16-03-CTDBPC000,recovered_inst,Recovered Instrument data
 Ingest.dosta-abcdjm-ctdbp_recovered,/omc_data/whoi/OMC/CE06ISSM/R00001/instrmts/dcl16/CTDBP*/*ctdbp*.hex,CE06ISSM-RID16-03-DOSTAD000,recovered_inst,Recovered Instrument data
@@ -39,7 +41,8 @@ Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CE06ISSM/R00001/instrmts/dcl16/VELP
 Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/CE06ISSM/R00001/instrmts/dcl16/PCO2W*/*pco2w*.txt,CE06ISSM-RID16-05-PCO2WB000,recovered_inst,Recovered Instrument data
 Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CE06ISSM/R00001/instrmts/dcl16/PHSEN*/*phsen*.txt,CE06ISSM-RID16-06-PHSEND000,recovered_inst,Recovered Instrument data
 Ingest.nutnr-b_recovered,/omc_data/whoi/OMC/CE06ISSM/R00001/instrmts/dcl16/NUTNR*/*nutnr*/SCH*.DAT,CE06ISSM-RID16-07-NUTNRB000,recovered_inst,Recovered Instrument data
-Ingest.presf-abc_recovered,/omc_data/whoi/OMC/CE06ISSM/R00001/instrmts/dcl35/PRESF*/*presf*.hex,CE06ISSM-MFD35-02-PRESFA000,recovered_inst,Recovered Instrument data
+Ingest.vel3d-cd-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00001/instrmts/dcl35/VEL3D-D_*/*vel3d*.VEC,CE06ISSM-MFD35-01-VEL3DD000,recovered_inst,Recovered Instrument data
+Ingest.presf-abc_recovered,/omc_data/whoi/OMC/CE06ISSM/R00001/instrmts/dcl35/PRESF*/*presf*.hex,CE06ISSM-MFD35-02-PRESFA000,recovered_inst,Recovered Instrument data. This parser doesn't seem to be working properly.
 Ingest.adcpt-m-dspec_recovered,/omc_data/whoi/OMC/CE06ISSM/R00001/instrmts/dcl35/ADCPT*/DSpec*.txt,CE06ISSM-MFD35-04-ADCPTM000,recovered_inst,Recovered Instrument data
 #Ingest.adcpt-m-fcoeff_recovered,/omc_data/whoi/OMC/CE06ISSM/R00001/instrmts/dcl35/ADCPT*/Fcoeff*.txt,CE06ISSM-MFD35-04-ADCPTM000,recovered_inst,Data not on server
 Ingest.adcpt-m-log9_recovered,/omc_data/whoi/OMC/CE06ISSM/R00001/instrmts/dcl35/ADCPT*/*ADCPT*LOG9.TXT,CE06ISSM-MFD35-04-ADCPTM000,recovered_inst,Recovered Instrument data
