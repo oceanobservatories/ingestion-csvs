@@ -2,11 +2,11 @@ uframe_route,filename_mask,reference_designator,data_source,
 Ingest.mopak-o-dcl_recovered,/omc_data/whoi/OMC/CE02SHSM/R00001/cg_data/dcl11/mopak/*.mopak.log,CE02SHSM-SBD11-01-MOPAK0000,recovered_host,
 Ingest.hyd-o-dcl_recovered,/omc_data/whoi/OMC/CE02SHSM/R00001/cg_data/dcl11/hyd1/*.hyd1.log,CE02SHSM-SBD11-02-HYDGN0000,recovered_host,
 Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CE02SHSM/R00001/cg_data/dcl11/velpt1/*.velpt1.log,CE02SHSM-SBD11-04-VELPTA000,recovered_host,Recovered DCL data
-Ingest.metbk-a-dcl_recovered,/omc_data/whoi/OMC/CE02SHSM/R00001/cg_data/dcl11/metbk/*.metbk.log ,CE02SHSM-SBD11-06-METBKA000,recovered_host,
+Ingest.metbk-a-dcl_recovered,/omc_data/whoi/OMC/CE02SHSM/R00001/cg_data/dcl11/metbk/*.metbk.log,CE02SHSM-SBD11-06-METBKA000,recovered_host,
 Ingest.hyd-o-dcl_recovered,/omc_data/whoi/OMC/CE02SHSM/R00001/cg_data/dcl12/hyd2/*.hyd2.log,CE02SHSM-SBD12-03-HYDGN0000,recovered_host,
 Ingest.pco2a-a-dcl_recovered,/omc_data/whoi/OMC/CE02SHSM/R00001/cg_data/dcl12/pco2a/*.pco2a.log,CE02SHSM-SBD12-04-PCO2AA000,recovered_host,
-Ingest.wavss-a-dcl_recovered,/omc_data/whoi/OMC/CE02SHSM/R00001/cg_data/dcl12/wavss/*.wavss.log ,CE02SHSM-SBD12-05-WAVSSA000,recovered_host,
-Ingest.fdchp-a-dcl_recovered,/omc_data/whoi/OMC/CE02SHSM/R00001/cg_data/dcl12/fdchp/*.fdchp.log ,CE02SHSM-SBD12-08-FDCHPA000,recovered_host,Recovered DCL data
+Ingest.wavss-a-dcl-full_recovered,/omc_data/whoi/OMC/CE02SHSM/R00001/cg_data/dcl12/wavss/*.wavss.log,CE02SHSM-SBD12-05-WAVSSA000,recovered_host,
+Ingest.fdchp-a-dcl_recovered,/omc_data/whoi/OMC/CE02SHSM/R00001/cg_data/dcl12/fdchp/*.fdchp.log,CE02SHSM-SBD12-08-FDCHPA000,recovered_host,Recovered DCL data
 Ingest.adcpt-acfgm-dcl-pd0_recovered,/omc_data/whoi/OMC/CE02SHSM/R00001/cg_data/dcl26/adcpt/*.adcpt.log,CE02SHSM-RID26-01-ADCPTA000,recovered_host,Recovered DCL data
 Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CE02SHSM/R00001/cg_data/dcl26/velpt2/*.velpt2.log,CE02SHSM-RID26-04-VELPTA000,recovered_host,Recovered DCL data
 Ingest.phsen-abcdef-dcl_recovered,/omc_data/whoi/OMC/CE02SHSM/R00001/cg_data/dcl26/phsen/*.phsen.log,CE02SHSM-RID26-06-PHSEND000,recovered_host,Recovered DCL data
@@ -27,7 +27,9 @@ Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE02SHSM/R00001/cg_data/dcl27
 #,,,,
 #,,,,
 Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CE02SHSM/R00001/instrmts/dcl11/VELPT_*/*velpt*.aqd,CE02SHSM-SBD11-04-VELPTA000,recovered_inst,Recovered Instrument data
-# Ingest.fdchp-a_recovered,/omc_data/whoi/OMC/CE02SHSM/R00001/instrmts/dcl12/FDCHP_*/*fdchp*/fdchp*.dat ,CE02SHSM-SBD12-08-FDCHPA000,recovered_inst,Data file structure on server does not match
+Ingest.pco2a-a-dcl_recovered,/omc_data/whoi/OMC/CE02SHSM/R00001/instrmts/dcl12/PCO2A_*/*pc02a*.log,CE02SHSM-SBD12-04-PCO2AA000,recovered_inst,Recovered Instrument data
+#,/omc_data/whoi/OMC/CE02SHSM/R00001/instrmts/dcl12/WAVSS_*/,CE02SHSM-SBD12-05-WAVSSA000,recovered_inst,No driver exists for recovered instrument wavss data.
+Ingest.fdchp-a_recovered,/omc_data/whoi/OMC/CE02SHSM/R00001/instrmts/dcl12/FDCHP_*/*fdchp*/*/fdchp*.dat,CE02SHSM-SBD12-08-FDCHPA000,recovered_inst,Recovered Instrument data
 Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/CE02SHSM/R00001/instrmts/dcl26/ADCPT_*/*adcpt*.000,CE02SHSM-RID26-01-ADCPTA000,recovered_inst,Recovered Instrument data
 Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CE02SHSM/R00001/instrmts/dcl26/VELPT_*/*velpt*.aqd,CE02SHSM-RID26-04-VELPTA000,recovered_inst,Recovered Instrument data
 Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CE02SHSM/R00001/instrmts/dcl26/PHSEN_*/*phsen*.txt,CE02SHSM-RID26-06-PHSEND000,recovered_inst,Recovered Instrument data
