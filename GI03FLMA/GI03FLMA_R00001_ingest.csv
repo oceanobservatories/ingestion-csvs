@@ -1,4 +1,4 @@
-uframe_route,filename_mask,reference_designator,data_source,
+uframe_route,filename_mask,reference_designator,data_source
 Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/GI03FLMA/R00001/cg_data/dcl00/ADCPS-L_sn20503/*.000,GI03FLMA-RIM01-02-ADCPSL003,recovered_inst
 Ingest.adcps-jln-stc_recovered,/omc_data/whoi/OMC/GI03FLMA/R00001/cg_data/dcl00/ADCPS-L_sn20503/ADC*.DAT,GI03FLMA-RIM01-02-ADCPSL003,recovered_host
 Ingest.dosta-abcdjm-sio_recovered,/omc_data/whoi/OMC/GI03FLMA/R00001/cg_data/dcl00/DOSTA-D_sn228/DOS*.DAT,GI03FLMA-RIS01-03-DOSTAD000,recovered_host
