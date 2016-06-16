@@ -4,6 +4,7 @@ Ingest.adcps-jln-stc_recovered,/omc_data/whoi/OMC/GI03FLMB/R00001/cg_data/dcl00/
 Ingest.dosta-abcdjm-sio_recovered,/omc_data/whoi/OMC/GI03FLMB/R00001/cg_data/dcl00/DOSTA-D_sn126/DOS*.DAT,GI03FLMB-RIS01-03-DOSTAD000,recovered_host
 Ingest.flort-dj-sio_recovered,/omc_data/whoi/OMC/GI03FLMB/R00001/cg_data/dcl00/FLORT-D_sn1107/FLO*.DAT,GI03FLMB-RIS01-05-FLORTD000,recovered_host
 Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/GI03FLMB/R00001/cg_data/dcl00/PHSEN-F_snP0104/SAMI*.txt,GI03FLMB-RIS01-04-PHSENF000,recovered_inst
+Ingest.phsen-abcdef-imodem_recovered,/omc_data/whoi/OMC/GI03FLMB/R00001/cg_data/dcl00/PHSEN-F_snP0104/PHS*.DAT,GI03FLMB-RIS01-04-PHSENF000,recovered_host
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GI03FLMB/R00001/cg_data/dcl00/CTDMO-G_sn11535/*.hex,GI03FLMB-RIM01-02-CTDMOG063,recovered_inst
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GI03FLMB/R00001/cg_data/dcl00/CTDMO-G_sn11593/*.hex,GI03FLMB-RIM01-02-CTDMOG067,recovered_inst
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GI03FLMB/R00001/cg_data/dcl00/CTDMO-G_sn11594/*.hex,GI03FLMB-RIM01-02-CTDMOG068,recovered_inst
@@ -20,6 +21,7 @@ Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GI03FLMB/R00001/cg_data/dcl00/CTD
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GI03FLMB/R00001/cg_data/dcl00/CTDMO-H_sn12223/*.hex,GI03FLMB-RIM01-02-CTDMOH071,recovered_inst
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GI03FLMB/R00001/cg_data/dcl00/CTDMO-H_sn12224/*.hex,GI03FLMB-RI000-00-CTDMOH000,recovered_inst
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GI03FLMB/R00001/cg_data/dcl00/CTDMO-H_sn12226/*.hex,GI03FLMB-RI000-00-CTDMOH700,recovered_inst
+Ingest.ctdmo-ghqr-sio_recovered,/omc_data/whoi/OMC/GI03FLMB/R00001/cg_data/dcl00/CTDMOs_all/*.DAT,GI03FLMA-RIM01-02-CTDMOG000,recovered_host
 Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/GI03FLMB/R00001/cg_data/dcl00/VELPT-B_snAQD11973/*.aqd,GI03FLMB-RI000-00-VELPTB000,recovered_inst
 Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/GI03FLMB/R00001/cg_data/dcl00/VELPT-B_snAQD11974/*.aqd,GI03FLMB-RI000-00-VELPTB700,recovered_inst
 Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/GI03FLMB/R00001/cg_data/dcl00/VELPT-B_snAQD11976/*.aqd,GI03FLMB-RI000-00-VELPTB400,recovered_inst
