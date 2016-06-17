@@ -1,6 +1,6 @@
 uframe_route,filename_mask,reference_designator,data_source,
 Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/adcp/*.000,GP03FLMA-RIM01-02-ADCPSL003,recovered_inst,
-#,,,,
+#Ingest.adcps-jln-stc_recovered,,GP03FLMA-RIM01-02-ADCPSL003,recovered_host,No data on server
 Ingest.ctdmo-ghqr-sio_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/ctdmo/CTD*.DAT,GP03FLMA-RIM01-02-CTDMOG000,recovered_host,"This reference designator serves as a template. The parser will overwrite the last two characters with the inductive modem ID for each instrument. If the ID is 49 or greater, the CTDMOG will be changed to CTDMOH."
 #,,,,"The following are the nominal designators, but the designators in column C represent the actual imodem IDs used"
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/mc/SBE37*03710257*.hex,GP03FLMA-RIM01-02-CTDMOG040,recovered_inst,
@@ -19,5 +19,6 @@ Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/mc/SBE37*03710267
 Ingest.dosta-abcdjm-sio_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/dosta/DOS*.DAT,GP03FLMA-RIS01-03-DOSTAD000,recovered_host,
 Ingest.flort-dj-sio_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/flort/FLO*.DAT,GP03FLMA-RIS01-05-FLORTD000,recovered_host,
 Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/sami/SAMI*.txt,GP03FLMA-RIS01-04-PHSENF000,recovered_inst,
+Ingest.phsen-abcdef-imodem_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/phsen/PHS*.DAT,GP03FLMA-RIS01-04-PHSENF000,recovered_host,
 Ingest.sio-eng-sio_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/Main_SIOC/status/STA*.DAT,GP03FLMA-RIM01-00-SIOENG000,recovered_host,
 Ingest.sio-eng-sio_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/Secondary_SIOC/status/STA*.DAT,GP03FLMA-RIS01-00-SIOENG000,recovered_host,
