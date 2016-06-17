@@ -1,8 +1,8 @@
 uframe_route,filename_mask,reference_designator,data_source,
 #,,CE01ISSM-SBD17-01-MOPAK0000,telemetered,No MOPAK telemetered data in this deployment
 Ingest.velpt-ab-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00001/dcl17/velpt*/*.velpt*.log,CE01ISSM-SBD17-04-VELPTA000,telemetered,No science data in files. Probably due to 'top of the day' issue
-#,,CE01ISSM-SBD17-03-CTDBPC000,telemetered,CTDBP with FLORT not installed in the spring/summer
-#,,CE01ISSM-SBD17-03-FLORTD000,telemetered,CTDBP with FLORT not installed in the spring/summer
+#,,CE01ISSM-SBD17-06-CTDBPC000,telemetered,CTDBP with FLORT not installed in the spring/summer
+#,,CE01ISSM-SBD17-06-FLORTD000,telemetered,CTDBP with FLORT not installed in the spring/summer
 Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00001/dcl16/optaa*/*.optaa*.log,CE01ISSM-RID16-01-OPTAAD000,telemetered,
 Ingest.flort-dj-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00001/dcl16/flort/*.flort.log,CE01ISSM-RID16-02-FLORTD000,telemetered,
 Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00001/dcl16/ctdbp1/*.ctdbp*.log,CE01ISSM-RID16-03-CTDBPC000,telemetered,No science data in files. Probably due to 'top of the day' issue
@@ -19,7 +19,7 @@ Ingest.pco2w-abc-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00001/dcl35/pco2w*
 Ingest.phsen-abcdef-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00001/dcl35/phsen*/*.phsen*.log,CE01ISSM-MFD35-06-PHSEND000,telemetered,
 Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00001/dcl37/optaa*/*.optaa*.log,CE01ISSM-MFD37-01-OPTAAD000,telemetered,
 Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00001/dcl37/ctdbp2/*.ctdbp*.log,CE01ISSM-MFD37-03-CTDBPC000,telemetered,No science data in files. Probably due to 'top of the day' issue
-Ingest.dosta-abcdjm-ctdbp-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00001/dcl37/ctdbp2/*.ctdbp*.log,CE01ISSM-MFD37-04-DOSTAD000,telemetered,No data on server
+Ingest.dosta-abcdjm-ctdbp-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00001/dcl37/ctdbp2/*.ctdbp*.log,CE01ISSM-MFD37-03-DOSTAD000,telemetered,No data on server
 #,,CE01ISSM-MFD37-06-CAMDSA000,telemetered,"Instrument not deployed, no data available"
 #Ingest.zplsc-c-dcl_telemetered,,CE01ISSM-MFD37-07-ZPLSCC000,telemetered,"Instrument not deployed, no data available"
 # Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00001/irid2shore/cpm_status*.txt,CE01ISSM-SBC11-00-CPMENG000,telemetered,No data on server
