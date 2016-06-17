@@ -1,8 +1,10 @@
 uframe_route,filename_mask,reference_designator,data_source,
 Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/GA03FLMA/R00001/cg_data/dcl00/ADCPS_sn20503/*.000,GA03FLMA-RIM01-02-ADCPSL003,recovered_inst,
-#Ingest.dosta-abcdjm-sio_recovered,/omc_data/whoi/OMC/GA03FLMA/R00001/cg_data/dcl00/DOSTA_sn428/DOS*.DAT,GA03FLMA-RIS01-03-DOSTAD000,recovered_host,
+#Ingest.adcps-jln-stc_recovered,/omc_data/whoi/OMC/GA03FLMA/R00001/cg_data/dcl00/ADCPS_sn20503/ADC*.DAT,GA03FLMA-RIM01-02-ADCPSL003,recovered_host,No data on server
+#Ingest.dosta-abcdjm-sio_recovered,/omc_data/whoi/OMC/GA03FLMA/R00001/cg_data/dcl00/DOSTA_sn428/DOS*.DAT,GA03FLMA-RIS01-03-DOSTAD000,recovered_host,No data on server
 Ingest.flort-dj-sio_recovered,/omc_data/whoi/OMC/GA03FLMA/R00001/cg_data/dcl00/FLORD_sn1215/FLO*.DAT,GA03FLMA-RIS01-05-FLORTD000,recovered_host,
 Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/GA03FLMA/R00001/cg_data/dcl00/PHSEN_snP0141/SAMI*.txt,GA03FLMA-RIS01-04-PHSENF000,recovered_inst,
+#Ingest.phsen-abcdef-imodem_recovered,/omc_data/whoi/OMC/GA03FLMA/R00001/cg_data/dcl00/PHSEN_snP0141/PHS*.DAT,GA03FLMA-RIS01-04-PHSENF000,recovered_host,No data on server
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GA03FLMA/R00001/cg_data/dcl00/CTDMO_sn12401/*.hex,GA03FLMA-RIM01-02-CTDMOG040,recovered_inst,29
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GA03FLMA/R00001/cg_data/dcl00/CTDMO_sn12584/*.hex,GA03FLMA-RIM01-02-CTDMOG041,recovered_inst,39
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GA03FLMA/R00001/cg_data/dcl00/CTDMO_sn12408/*.hex,GA03FLMA-RIM01-02-CTDMOG042,recovered_inst,59
@@ -15,5 +17,6 @@ Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GA03FLMA/R00001/cg_data/dcl00/CTD
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GA03FLMA/R00001/cg_data/dcl00/CTDMO_sn12394/*.hex,GA03FLMA-RIM01-02-CTDMOH049,recovered_inst,748
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GA03FLMA/R00001/cg_data/dcl00/CTDMO_sn12618/*.hex,GA03FLMA-RIM01-02-CTDMOH050,recovered_inst,999
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GA03FLMA/R00001/cg_data/dcl00/CTDMO_sn12619/*.hex,GA03FLMA-RIM01-02-CTDMOH051,recovered_inst,1501
+#Ingest.ctdmo-ghqr-sio_recovered,/omc_data/whoi/OMC/GA03FLMA/R00001/cg_data/dcl00/CTDMOs_all/*.DAT,GA03FLMA-RIM01-02-CTDMOG000,recovered_host,No data on server
 Ingest.sio-eng-sio_recovered,/omc_data/whoi/OMC/GA03FLMA/R00001/cg_data/dcl00/MSIOC/STA*.DAT,GA03FLMA-RIM01-00-SIOENG000,recovered_host,
 Ingest.sio-eng-sio_recovered,/omc_data/whoi/OMC/GA03FLMA/R00001/cg_data/dcl00/SSIOC/STA*.DAT,GA03FLMA-RIS01-00-SIOENG000,recovered_host,
