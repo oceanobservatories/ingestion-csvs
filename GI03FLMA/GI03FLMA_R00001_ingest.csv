@@ -1,8 +1,10 @@
 uframe_route,filename_mask,reference_designator,data_source
 Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/GI03FLMA/R00001/cg_data/dcl00/ADCPS-L_sn20503/*.000,GI03FLMA-RIM01-02-ADCPSL003,recovered_inst
+Ingest.adcps-jln-stc_recovered,/omc_data/whoi/OMC/GI03FLMA/R00001/cg_data/dcl00/ADCPS-L_sn20503/ADC*.DAT,GI03FLMA-RIM01-02-ADCPSL003,recovered_host
 Ingest.dosta-abcdjm-sio_recovered,/omc_data/whoi/OMC/GI03FLMA/R00001/cg_data/dcl00/DOSTA-D_sn228/DOS*.DAT,GI03FLMA-RIS01-03-DOSTAD000,recovered_host
 Ingest.flort-dj-sio_recovered,/omc_data/whoi/OMC/GI03FLMA/R00001/cg_data/dcl00/FLORT-D_sn1122/FLO*.DAT,GI03FLMA-RIS01-05-FLORTD000,recovered_host
 Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/GI03FLMA/R00001/cg_data/dcl00/PHSEN-F_snP0079/SAMI*.txt,GI03FLMA-RIS01-04-PHSENF000,recovered_inst
+Ingest.phsen-abcdef-imodem_recovered,/omc_data/whoi/OMC/GI03FLMA/R00001/cg_data/dcl00/PHSEN-F_snP0079/PHS*.DAT,GI03FLMA-RIS01-04-PHSENF000,recovered_host
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GI03FLMA/R00001/cg_data/dcl00/CTDMO-G_sn11533/*.hex,GI03FLMA-RIM01-02-CTDMOG041,recovered_inst
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GI03FLMA/R00001/cg_data/dcl00/CTDMO-G_sn11534/*.hex,GI03FLMA-RIM01-02-CTDMOG044,recovered_inst
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GI03FLMA/R00001/cg_data/dcl00/CTDMO-G_sn11604/*.hex,GI03FLMA-RIM01-02-CTDMOG047,recovered_inst
@@ -19,6 +21,7 @@ Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GI03FLMA/R00001/cg_data/dcl00/CTD
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GI03FLMA/R00001/cg_data/dcl00/CTDMO-H_sn12225/*.hex,GI03FLMA-RI000-00-CTDMOH000,recovered_inst
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GI03FLMA/R00001/cg_data/dcl00/CTDMO-H_sn12227/*.hex,GI03FLMA-RI000-00-CTDMOH700,recovered_inst
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GI03FLMA/R00001/cg_data/dcl00/CTDMO-H_sn12389/*.hex,GI03FLMA-RI000-00-CTDMOH400,recovered_inst
+Ingest.ctdmo-ghqr-sio_recovered,/omc_data/whoi/OMC/GI03FLMA/R00001/cg_data/dcl00/CTDMOs_all/*.DAT,GI03FLMA-RIM01-02-CTDMOG000,recovered_host
 Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/GI03FLMA/R00001/cg_data/dcl00/VELPT-B_snAQD11669/*.aqd,GI03FLMA-RI000-00-VELPTB000,recovered_inst
 Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/GI03FLMA/R00001/cg_data/dcl00/VELPT-B_snAQD11964/*.aqd,GI03FLMA-RI000-00-VELPTB700,recovered_inst
 Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/GI03FLMA/R00001/cg_data/dcl00/VELPT-B_snAQD11967/*.aqd,GI03FLMA-RI000-00-VELPTB400,recovered_inst
