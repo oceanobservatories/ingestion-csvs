@@ -18,17 +18,15 @@ Ingest.dosta-abcdjm-dcl_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/d
 Ingest.nutnr-b-dcl-full_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl16/nutnr2/*.nutnr2.log,GA01SUMO-RID16-07-NUTNRB000,telemetered,
 Ingest.spkir-abj-dcl_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl16/spkir2/*.spkir2.log,GA01SUMO-RID16-08-SPKIRB000,telemetered,
 Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl11/imm/ctdmo01/ctdmo*.DAT,GA01SUMO-RII11-02-CTDMOQ011,telemetered,
-Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl11/imm/ctdmo02/ctdmo*.DAT,GA01SUMO-RII11-02-CTDMOQ031,telemetered,
-Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl11/imm/ctdmo03/ctdmo*.DAT,GA01SUMO-RII11-02-CTDMOQ012,telemetered,
-Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl11/imm/ctdmo04/ctdmo*.DAT,GA01SUMO-RII11-02-CTDMOQ013,telemetered,
-Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl11/imm/ctdmo05/ctdmo*.DAT,GA01SUMO-RII11-02-CTDMOQ033,telemetered,
-Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl11/imm/ctdmo06/ctdmo*.DAT,GA01SUMO-RII11-02-CTDMOQ014,telemetered,
-Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl11/imm/ctdmo07/ctdmo*.DAT,GA01SUMO-RII11-02-CTDMOQ015,telemetered,
-Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl11/imm/ctdmo08/ctdmo*.DAT,GA01SUMO-RII11-02-CTDMOQ016,telemetered,
-Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl11/imm/ctdmo09/ctdmo*.DAT,GA01SUMO-RII11-02-CTDMOQ017,telemetered,
-Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl11/imm/ctdmo10/ctdmo*.DAT,GA01SUMO-RII11-02-CTDMOR018,telemetered,
-#Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl11/imm/ctdmo11/ctdmo*.DAT,GA01SUMO-RII11-02-CTDMOR019,telemetered,No Data
-#Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl11/imm/ctdmo12/ctdmo*.DAT,GA01SUMO-RII11-02-CTDMOR020,telemetered,No Data
+Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl11/imm/ctdmo02/ctdmo*.DAT,GA01SUMO-RII11-02-CTDMOQ012,telemetered,
+Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl11/imm/ctdmo03/ctdmo*.DAT,GA01SUMO-RII11-02-CTDMOQ013,telemetered,
+Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl11/imm/ctdmo04/ctdmo*.DAT,GA01SUMO-RII11-02-CTDMOQ014,telemetered,
+Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl11/imm/ctdmo05/ctdmo*.DAT,GA01SUMO-RII11-02-CTDMOQ015,telemetered,
+Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl11/imm/ctdmo06/ctdmo*.DAT,GA01SUMO-RII11-02-CTDMOQ016,telemetered,
+Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl11/imm/ctdmo07/ctdmo*.DAT,GA01SUMO-RII11-02-CTDMOQ017,telemetered,
+Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl11/imm/ctdmo08/ctdmo*.DAT,GA01SUMO-RII11-02-CTDMOQ018,telemetered,
+Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl11/imm/ctdmo09/ctdmo*.DAT,GA01SUMO-RII11-02-CTDMOQ019,telemetered,
+Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl11/imm/ctdmo10/ctdmo*.DAT,GA01SUMO-RII11-02-CTDMOQ020,telemetered,
 # Ingest.dosta-abcdjm-dcl_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl11/imm/ctdbp01/ctdbp01*.DAT,GA01SUMO-RII11-02-DOSTAD031,telemetered,No Parser Available attached to CTDBPP
 # Ingest.dosta-abcdjm-dcl_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl11/imm/ctdbp02/ctdbp02*.DAT,GA01SUMO-RII11-02-DOSTAD032,telemetered,No Parser Available attached to CTDBPP
 # Ingest.dosta-abcdjm-dcl_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00002/cg_data/dcl11/imm/ctdbp03/ctdbp03*.DAT,GA01SUMO-RII11-02-DOSTAD033,telemetered,No Parser Available attached to CTDBPP
