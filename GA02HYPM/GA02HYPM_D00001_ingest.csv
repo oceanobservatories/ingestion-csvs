@@ -11,5 +11,5 @@ Ingest.ctdmo-ghqr-sio_telemetered,/omc_data/whoi/OMC/GA02HYPM/D00001/*ctdmo*.dat
 Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GA02HYPM/D00001/node*p1_*.status_*.dat,GA02HYPM-RIM01-00-SIOENG000,telemetered,
 Ingest.wfp-eng-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GA02HYPM/D00001/*.we_wfp_1399422.dat,GA02HYPM-WFP03-00-WFPENG000,telemetered,
 Ingest.wfp-eng-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GA02HYPM/D00001/*.we_wfp_1399421.dat,GA02HYPM-WFP02-00-WFPENG000,telemetered,
-#,,GA02HYPM-MPM01-02-ZPLSGA009,telemetered,GA02HYPM-MPC04-01-ZPLSGA000 was not installed on this deployment
-#,,GA02HYPM-MPM01-02-ZPLSGA010,telemetered,
+#,,GA02HYPM-MPM01-02-ZPLSGA009,telemetered,Not installed
+#,,GA02HYPM-MPM01-02-ZPLSGA010,telemetered,Not installed
