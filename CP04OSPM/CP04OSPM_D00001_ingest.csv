@@ -7,4 +7,3 @@ Ingest.flort-kn-stc-imodem_telemetered,/omc_data/whoi/OMC/CP04OSPM/D00001/imm/mm
 Ingest.parad-k-stc-imodem_telemetered,/omc_data/whoi/OMC/CP04OSPM/D00001/imm/mmp/E*.DAT,CP04OSPM-WFP01-05-PARADK000,telemetered
 Ingest.mopak-o-dcl_telemetered,/omc_data/whoi/OMC/CP04OSPM/D00001/3dmgx3/*_*.3dmgx3.log,CP04OSPM-SBS11-02-MOPAK0000,telemetered
 Ingest.cg-stc-eng-stc_telemetered,/omc_data/whoi/OMC/CP04OSPM/D00001/irid2shore/stc_status.*_*.txt,CP04OSPM-SBS01-00-STCENG000,telemetered
-Ingest.rte-o-dcl_telemetered,/omc_data/whoi/OMC/CP04OSPM/D00001/rte/*.rte.log,CP04OSPM-SBS01-00-RTE000000,telemetered
