@@ -1,0 +1,6 @@
+uframe_route,filename_mask,reference_designator,data_source,
+#Ingest.glider-eng-glider_telemetered,,CP05MOAS-GL376-00-ENG000000,telemetered,Bladder failure - no data
+#Ingest.parad-m-glider_telemetered,,CP05MOAS-GL376-05-PARADM000,telemetered,Bladder failure - no data
+#Ingest.flort-m-glider_telemetered,,CP05MOAS-GL376-02-FLORTM000,telemetered,Bladder failure - no data
+#Ingest.dosta-abcdjm-glider_telemetered,,CP05MOAS-GL376-04-DOSTAM000,telemetered,Bladder failure - no data
+#Ingest.ctdgv-m-glider_telemetered,,CP05MOAS-GL376-03-CTDGVM000,telemetered,Bladder failure - no data

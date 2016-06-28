@@ -1,0 +1,7 @@
+uframe_route,filename_mask,reference_designator,data_source,
+#Ingest.glider-eng-glider_recovered,,CP05MOAS-GL376-00-ENG000000,recovered_host,Glider lost - no data
+#Ingest.parad-m-glider_recovered,,CP05MOAS-GL376-05-PARADM000,recovered_host,Glider lost - no data
+#Ingest.flort-m-glider_recovered,,CP05MOAS-GL376-02-FLORTM000,recovered_host,Glider lost - no data
+#Ingest.dosta-abcdjm-glider_recovered,,CP05MOAS-GL376-04-DOSTAM000,recovered_host,Glider lost - no data
+#Ingest.ctdgv-m-glider_recovered,,CP05MOAS-GL376-03-CTDGVM000,recovered_host,Glider lost - no data
+#Ingest.adcpa-m-glider_recovered,,CP05MOAS-GL376-01-ADCPAM000,recovered_host,Glider lost - no data
