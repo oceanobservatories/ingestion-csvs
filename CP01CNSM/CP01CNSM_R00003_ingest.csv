@@ -1,8 +1,6 @@
 uframe_route,filename_mask,reference_designator,data_source,
 #Ingest.mopak-o-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl11/mopak/*.mopak.log,CP01CNSM-SBD11-01-MOPAK0000,recovered_host,No data
 #Ingest.hyd-o-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl11/hyd1/*.hyd1.log,CP01CNSM-SBD11-02-HYDGN0000,recovered_host,No data
-#Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl11/velpt1/*.velpt1.log,CP01CNSM-SBD12-04-VELPTA000,recovered_host,No data
-#Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl11/VELPT_*/*velpt*.aqd,CP01CNSM-SBD12-04-VELPTA000,recovered_inst,No data
 Ingest.metbk-a-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl11/METBK-Log_sn/*.metbk*.log,CP01CNSM-SBD11-06-METBKA000,recovered_host,
 #Ingest.hyd-o-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl12/hyd2/*.hyd2.log,CP01CNSM-SBD12-03-HYDGN0000,recovered_host,No data
 Ingest.pco2a-a-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl12/PCO2A*/*pco2a*.log,CP01CNSM-SBD12-04-PCO2AA000,recovered_host,
