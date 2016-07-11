@@ -5,6 +5,7 @@ Ingest.dofst-k-wfp_recovered,/omc_data/whoi/OMC/CP02PMUO/R00001/dcl00/CWFP_sn129
 Ingest.wfp-eng-stc-imodem_recovered,/omc_data/whoi/OMC/CP02PMUO/R00001/dcl00/CWFP_sn12936-01/E*.DA?,CP02PMUO-WFP01-00-WFPENG000,recovered_wfp,
 Ingest.flort-kn-stc-imodem_recovered,/omc_data/whoi/OMC/CP02PMUO/R00001/dcl00/CWFP_sn12936-01/E*.DA?,CP02PMUO-WFP01-04-FLORTK000,recovered_wfp,
 Ingest.parad-k-stc-imodem_recovered,/omc_data/whoi/OMC/CP02PMUO/R00001/dcl00/CWFP_sn12936-01/E*.DA?,CP02PMUO-WFP01-05-PARADK000,recovered_wfp,
-Ingest.adcps-jln-stc_recovered,/omc_data/whoi/OMC/CP02PMUO/R00001/dcl00/cg_data/imm/adcps/adcps*.DAT,CP02PMUO-RII01-02-ADCPSL010,recovered_inst,No recovered ADCP data
+#Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/CP02PMUO/R00001/dcl00/ADCP*/*RDI_*.000,CP02PMUO-RII01-02-ADCPSL010,recovered_inst,No data on server
+Ingest.adcps-jln-stc_recovered,/omc_data/whoi/OMC/CP02PMUO/R00001/dcl00/cg_data/imm/adcps/adcps*.DAT,CP02PMUO-RII01-02-ADCPSL010,recovered_host,
 Ingest.mopak-o-dcl_recovered,/omc_data/whoi/OMC/CP02PMUO/R00001/dcl00/cg_data/3dmgx3/*.3dmgx3.log,CP02PMUO-SBS01-01-MOPAK0000,recovered_host,
 Ingest.cg-stc-eng-stc_recovered,/omc_data/whoi/OMC/CP02PMUO/R00001/dcl00/cg_data/irid2shore/stc_status.*.txt,CP02PMUO-SBS01-00-STCENG000,recovered_host,
