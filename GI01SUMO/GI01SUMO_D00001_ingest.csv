@@ -51,5 +51,4 @@ Ingest.phsen-abcdef-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00001/cg_dat
 Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00001/irid2shore/cpm_status*.txt,GI01SUMO-SBC11-00-CPMENG000,telemetered,
 Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00001/cg_data/dcl11/syslog*/*syslog*.log,GI01SUMO-SBD11-00-DCLENG000,telemetered,
 Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00001/cg_data/dcl12/syslog*/*syslog*.log,GI01SUMO-SBD12-00-DCLENG000,telemetered,
-#Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00001/cg_data/syslog/cpm_status.txt,GI01SUMO-RIC21-00-CPMENG000,telemetered,RefDes no longer exists
 Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00001/cg_data/dcl16/syslog*/*syslog*.log,GI01SUMO-RID16-00-DCLENG000,telemetered,

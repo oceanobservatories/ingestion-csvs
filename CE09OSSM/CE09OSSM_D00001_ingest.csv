@@ -20,7 +20,7 @@ Ingest.presf-abc-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00001/cg_data/dcl3
 Ingest.adcpt-acfgm-dcl-pd0_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00001/cg_data/dcl35/adcps/*.adcps.log,CE09OSSM-MFD35-04-ADCPSJ000,telemetered,,
 Ingest.pco2w-abc-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00001/cg_data/dcl35/pco2w/*.pco2w.log,CE09OSSM-MFD35-05-PCO2WB000,telemetered,,
 Ingest.phsen-abcdef-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00001/cg_data/dcl35/phsen2/*.phsen*.log,CE09OSSM-MFD35-06-PHSEND000,telemetered,,
-Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00001/cg_data/dcl37/optaa2/*.optaa*.log,CE09OSSM-MFD37-01-OPTAAD000,telemetered,,
+Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00001/cg_data/dcl37/optaa2/*.optaa*.log,CE09OSSM-MFD37-01-OPTAAC000,telemetered,,
 Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00001/cg_data/dcl37/ctdbp2/*.ctdbp*.log,CE09OSSM-MFD37-03-CTDBPE000,telemetered,Uses record stream ctdbp_cdef_dcl_ce_instrument,
 Ingest.dosta-abcdjm-ctdbp-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00001/cg_data/dcl37/ctdbp2/*.ctdbp*.log,CE09OSSM-MFD37-03-DOSTAD000,telemetered,The data for the DOSTA is available in */dcl37/ctdbp2.  Uses record stream ctdbp_cdef_dcl_ce_dosta.,
 #,,CE09OSSM-MFD37-07-ZPLSCC000,telemetered,Instrument set to internally log,CE09OSSM-MFD37-07-ZPLSCC000
