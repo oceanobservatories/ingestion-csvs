@@ -43,6 +43,7 @@ Ingest.adcpt-m-dspec_recovered,/omc_data/whoi/OMC/CE01ISSM/R00002/instrmts/dcl35
 #Ingest.adcpt-m-fcoeff_recovered,/omc_data/whoi/OMC/CE01ISSM/R00002/instrmts/dcl35/ADCPT*/FCoeff*.txt,CE01ISSM-MFD35-04-ADCPTM000,recovered_inst,Files not available on server
 Ingest.adcpt-m-log9_recovered,/omc_data/whoi/OMC/CE01ISSM/R00002/instrmts/dcl35/ADCPT*/*LOG9.TXT,CE01ISSM-MFD35-04-ADCPTM000,recovered_inst,
 Ingest.adcpt-m-wvs_recovered,/omc_data/whoi/OMC/CE01ISSM/R00002/instrmts/dcl35/ADCPT*/*.WVS,CE01ISSM-MFD35-04-ADCPTM000,recovered_inst,
+Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/CE01ISSM/R00002/instrmts/dcl35/ADCPT*/*.000,CE01ISSM-MDF35-04-ADCPTM000,recovered_inst,
 Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/CE01ISSM/R00002/instrmts/dcl35/PCO2W_*/*pco2w2*.txt,CE01ISSM-MFD35-05-PCO2WB000,recovered_inst,
 Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CE01ISSM/R00002/instrmts/dcl35/PHSEN_*/*_phsen2_*.txt,CE01ISSM-MFD35-06-PHSEND000,recovered_inst,
 Ingest.presf-abc-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00002/instrmts/dcl35/PRESF_*/*_presf_*.hex,CE01ISSM-MFD35-02-PRESFA000,recovered_inst,mi.dataset.driver.presf_abc.dcl.presf_abc_dcl_recovered_driver not parsing this data

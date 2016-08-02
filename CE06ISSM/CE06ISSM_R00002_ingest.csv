@@ -46,6 +46,7 @@ Ingest.adcpt-m-dspec_recovered,/omc_data/whoi/OMC/CE06ISSM/R00002/instrmts/dcl35
 Ingest.adcpt-m-fcoeff_recovered,/omc_data/whoi/OMC/CE06ISSM/R00002/instrmts/dcl35/ADCPT*/FCoeff*.txt,CE06ISSM-MFD35-04-ADCPTM000,recovered_inst,Recovered Instrument data
 Ingest.adcpt-m-log9_recovered,/omc_data/whoi/OMC/CE06ISSM/R00002/instrmts/dcl35/ADCPT*/*ADCPT*LOG9.TXT,CE06ISSM-MFD35-04-ADCPTM000,recovered_inst,Recovered Instrument data
 Ingest.adcpt-m-wvs_recovered,/omc_data/whoi/OMC/CE06ISSM/R00002/instrmts/dcl35/ADCPT*/*ADCPT*.WVS,CE06ISSM-MFD35-04-ADCPTM000,recovered_inst,Recovered Instrument data
+Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/CE06ISSM/R00002/instrmts/dcl35/ADCPT*/*.000,CE06ISSM-MDF35-04-ADCPTM000,recovered_inst,
 Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/CE06ISSM/R00002/instrmts/dcl35/PCO2W*/*pco2w*.txt,CE06ISSM-MFD35-05-PCO2WB000,recovered_inst,Recovered Instrument data
 Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CE06ISSM/R00002/instrmts/dcl35/PHSEN*/*phsen*.txt,CE06ISSM-MFD35-06-PHSEND000,recovered_inst,Recovered Instrument data
 Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CE06ISSM/R00002/instrmts/dcl37/CTDBP*/*.hex,CE06ISSM-MFD37-03-CTDBPC000,recovered_inst,Recovered Instrument data
