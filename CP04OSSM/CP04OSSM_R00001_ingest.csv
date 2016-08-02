@@ -16,7 +16,7 @@ Ingest.flort-dj-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00001/cg_data/dcl27/F
 Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CP04OSSM/R00001/cg_data/dcl27/CTDBP_sn16-50004/SBE*.hex,CP04OSSM-RID27-03-CTDBPC000,recovered_inst,
 Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00001/cg_data/dcl27/CTDBP_sn16-50004/*.ctdbp1.log,CP04OSSM-RID27-03-CTDBPC000,recovered_host,Blank raw data files
 Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00001/cg_data/dcl27/DOSTA_sn375/*dosta1.log,CP04OSSM-RID27-04-DOSTAD000,recovered_host,Blank raw data files
-Ingest.adcpt-acfgm-dcl-pd8_recovered,/omc_data/whoi/OMC/CP04OSSM/R00001/cg_data/dcl35/ADCP_sn21496/_RDI*.000,CP04OSSM-MFD35-01-ADCPSJ000,recovered_inst,
+Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/CP04OSSM/R00001/cg_data/dcl35/ADCP_sn21496/_RDI*.000,CP04OSSM-MFD35-01-ADCPSJ000,recovered_inst,
 Ingest.adcpt-acfgm-dcl-pd8_recovered,/omc_data/whoi/OMC/CP04OSSM/R00001/cg_data/dcl35/ADCP_sn21496/*adcp.log,CP04OSSM-MFD35-01-ADCPSJ000,recovered_host,
 #Ingest.presf-abc_recovered,/omc_data/whoi/OMC/CP04OSSM/R00001/cg_data/dcl35/PRESF_sn26P76848-1388/PRESF*.hex,CP04OSSM-MFD35-02-PRESFC000,recovered_inst,No driver exists
 Ingest.presf-abc-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00001/cg_data/dcl35/PRESF_sn26P76848-1388/*.presf.log,CP04OSSM-MFD35-02-PRESFC000,recovered_host,
