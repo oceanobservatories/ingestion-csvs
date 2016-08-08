@@ -1,0 +1,8 @@
+uframe_route,filename_mask,reference_designator,data_source,
+Ingest.adcps-jln-sio_telemetered,/omc_data/whoi/OMC/GP03FLMA/D00004/*adcps_*.dat,GP03FLMA-RIM01-02-ADCPSL003,telemetered,
+Ingest.ctdmo-ghqr-sio_telemetered,/omc_data/whoi/OMC/GP03FLMA/D00004/*ctdmo_*.dat,GP03FLMA-RIM01-02-CTDMOG000,telemetered,This reference designator serves as a template
+Ingest.dosta-abcdjm-sio_telemetered,/omc_data/whoi/OMC/GP03FLMA/D00004/*dosta*.dat,GP03FLMA-RIS01-03-DOSTAD000,telemetered,
+Ingest.flort-dj-sio_telemetered,/omc_data/whoi/OMC/GP03FLMA/D00004/*flort_*.dat,GP03FLMA-RIS01-05-FLORTD000,telemetered,
+#Ingest.phsen-abcdef-sio_telemetered,/omc_data/whoi/OMC/GP03FLMA/D00004/*phsen_*.dat,GP03FLMA-RIS01-04-PHSENF000,telemetered,No data on server
+#Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GP03FLMA/D00004/*status_1327701.dat,GP03FLMA-RIM01-00-SIOENG000,telemetered,Need feedback from MIO about which status files are assigned to which ref des
+#Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GP03FLMA/D00004/*status_1487801.dat,GP03FLMA-RIS01-00-SIOENG000,telemetered,Need feedback from MIO about which status files are assigned to which ref des
