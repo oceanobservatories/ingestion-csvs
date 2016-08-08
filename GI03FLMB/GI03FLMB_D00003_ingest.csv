@@ -1,0 +1,16 @@
+uframe_route,filename_mask,reference_designator,data_source,
+Ingest.flort-dj-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00003/*flort*.dat,GI03FLMB-RIS01-05-FLORTD000,telemetered,
+Ingest.phsen-abcdef-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00003/*phsen*.dat,GI03FLMB-RIS01-04-PHSENF000,telemetered,
+Ingest.dosta-abcdjm-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00003/*dosta*.dat,GI03FLMB-RIS01-03-DOSTAD000,telemetered,
+Ingest.adcps-jln-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00003/*adcps*.dat,GI03FLMB-RIM01-02-ADCPSL007,telemetered,
+Ingest.ctdmo-ghqr-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00003/*ctdmo*.dat,GI03FLMB-RIM01-02-CTDMOG000,telemetered,
+#,,GI03FLMB-RI000-00-CTDMOH000,telemetered,Does not telemeter data
+#,,GI03FLMB-RI000-00-CTDMOH700,telemetered,Does not telemeter data
+#,,GI03FLMB-RI000-00-CTDMOH400,telemetered,Does not telemeter data
+#,,GI03FLMB-RI000-00-CTDMOH100,telemetered,Does not telemeter data
+#,,GI03FLMB-RI000-00-VELPTB000,telemetered,Does not telemeter data
+#,,GI03FLMB-RI000-00-VELPTB700,telemetered,Does not telemeter data
+#,,GI03FLMB-RI000-00-VELPTB400,telemetered,Does not telemeter data
+#,,GI03FLMB-RI000-00-VELPTB100,telemetered,Does not telemeter data
+#Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00003/*status_1011801.dat,GI03FLMB-RIS01-00-SIOENG000,telemetered,Need feedback from MIO about which status files are assigned to which ref des
+#Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00003/*status_1328201.dat,GI03FLMB-RIM01-00-SIOENG000,telemetered,Need feedback from MIO about which status files are assigned to which ref des
