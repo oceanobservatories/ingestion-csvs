@@ -1,9 +1,0 @@
-uframe_route,filename_mask,reference_designator,data_source,
-Ingest.dosta-abcdjm-cspp_telemetered,/omc_data/whoi/OMC/CE07SHSP/D00001/extract/ucspp_*_PPD_OPT.txt,CE07SHSP-SP001-01-DOSTAJ000,telemetered,
-Ingest.velpt-j-cspp_telemetered,/omc_data/whoi/OMC/CE07SHSP/D00001/extract/ucspp_*_PPD_ADCP.txt,CE07SHSP-SP001-02-VELPTJ000,telemetered,
-# Ingest.optaa-dj-cspp_telemetered,/omc_data/whoi/OMC/CE07SHSP/D00001/extract/ucspp_*_ACD_ACS.txt,CE07SHSP-SP001-04-OPTAAJ000,telemetered,Not sent in Telemetered data
-# Ingest.nutnr-j-cspp_telemetered,/omc_data/whoi/OMC/CE07SHSP/D00001/extract/ucspp_*_SND_SNA.txt,CE07SHSP-SP001-05-NUTNRJ000,telemetered,Not sent in Telemetered data
-Ingest.spkir-abj-cspp_telemetered,/omc_data/whoi/OMC/CE07SHSP/D00001/extract/ucspp_*_PPD_OCR.txt,CE07SHSP-SP001-06-SPKIRJ000,telemetered,
-Ingest.flort-dj-cspp_telemetered,/omc_data/whoi/OMC/CE07SHSP/D00001/extract/ucspp_*_PPD_TRIP.txt,CE07SHSP-SP001-07-FLORTJ000,telemetered,
-Ingest.ctdpf-j-cspp_telemetered,/omc_data/whoi/OMC/CE07SHSP/D00001/extract/ucspp_*_PPD_CTD.txt,CE07SHSP-SP001-08-CTDPFJ000,telemetered,
-Ingest.parad-j-cspp_telemetered,/omc_data/whoi/OMC/CE07SHSP/D00001/extract/ucspp_*_PPD_PARS.txt,CE07SHSP-SP001-09-PARADJ000,telemetered,
