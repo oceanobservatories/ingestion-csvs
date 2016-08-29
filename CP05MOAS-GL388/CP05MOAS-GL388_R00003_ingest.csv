@@ -1,7 +1,7 @@
 uframe_route,filename_mask,reference_designator,data_source,
-#Ingest.glider-eng-glider_recovered,/omc_data/whoi/OMC/CP05MOAS-GL388/R00003/merged-from-glider/cp_*.mrg,CP05MOAS-GL388-00-ENG000000,recovered_host,No data on server
-#Ingest.parad-m-glider_recovered,/omc_data/whoi/OMC/CP05MOAS-GL388/R00003/merged-from-glider/cp_*.mrg,CP05MOAS-GL388-05-PARADM000,recovered_host,No data on server
-#Ingest.flort-m-glider_recovered,/omc_data/whoi/OMC/CP05MOAS-GL388/R00003/merged-from-glider/cp_*.mrg,CP05MOAS-GL388-02-FLORTM000,recovered_host,No data on server
-#Ingest.dosta-abcdjm-glider_recovered,/omc_data/whoi/OMC/CP05MOAS-GL388/R00003/merged-from-glider/cp_*.mrg,CP05MOAS-GL388-04-DOSTAM000,recovered_host,No data on server
-#Ingest.ctdgv-m-glider_recovered,/omc_data/whoi/OMC/CP05MOAS-GL388/R00003/merged-from-glider/cp_*.mrg,CP05MOAS-GL388-03-CTDGVM000,recovered_host,No data on server
+Ingest.glider-eng-glider_recovered,/omc_data/whoi/OMC/CP05MOAS-GL388/R00003/merged/cp_*.mrg,CP05MOAS-GL388-00-ENG000000,recovered_host,
+Ingest.parad-m-glider_recovered,/omc_data/whoi/OMC/CP05MOAS-GL388/R00003/merged/cp_*.mrg,CP05MOAS-GL388-05-PARADM000,recovered_host,
+Ingest.flort-m-glider_recovered,/omc_data/whoi/OMC/CP05MOAS-GL388/R00003/merged/cp_*.mrg,CP05MOAS-GL388-02-FLORTM000,recovered_host,
+Ingest.dosta-abcdjm-glider_recovered,/omc_data/whoi/OMC/CP05MOAS-GL388/R00003/merged/cp_*.mrg,CP05MOAS-GL388-04-DOSTAM000,recovered_host,
+Ingest.ctdgv-m-glider_recovered,/omc_data/whoi/OMC/CP05MOAS-GL388/R00003/merged/cp_*.mrg,CP05MOAS-GL388-03-CTDGVM000,recovered_host,
 #Ingest.adcpa-m-glider_recovered,/omc_data/whoi/OMC/CP05MOAS-GL388/R00003/dvl/*.PD0,CP05MOAS-GL388-01-ADCPAM000,recovered_host,No data on server
