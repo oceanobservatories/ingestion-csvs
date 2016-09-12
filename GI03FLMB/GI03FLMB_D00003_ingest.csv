@@ -12,5 +12,5 @@ Ingest.ctdmo-ghqr-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00003/*ctdmo*.dat
 #,,GI03FLMB-RI000-00-VELPTB700,telemetered,Does not telemeter data
 #,,GI03FLMB-RI000-00-VELPTB400,telemetered,Does not telemeter data
 #,,GI03FLMB-RI000-00-VELPTB100,telemetered,Does not telemeter data
-#Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00003/*status_1011801.dat,GI03FLMB-RIS01-00-SIOENG000,telemetered,Need feedback from MIO about which status files are assigned to which ref des
-#Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00003/*status_1328201.dat,GI03FLMB-RIM01-00-SIOENG000,telemetered,Need feedback from MIO about which status files are assigned to which ref des
+Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00003/*status_1011801.dat,GI03FLMB-RIS01-00-SIOENG000,telemetered,
+Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00003/*status_1328201.dat,GI03FLMB-RIM01-00-SIOENG000,telemetered,
