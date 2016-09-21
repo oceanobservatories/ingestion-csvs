@@ -31,6 +31,7 @@ uframe_route,filename_mask,reference_designator,data_source,
 #Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/dcl35/PHSEN_*/SAMI*.txt,CP01CNSM-MFD35-06-PHSEND000,recovered_inst,NOT recovered yet
 #Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/dcl37/OPTAA*/*.optaa2.log,CP01CNSM-MFD37-01-OPTAAD000,recovered_host,NOT recovered yet
 #Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/dcl37/CTDBP*/*ctdbp*.log,CP01CNSM-MFD37-03-CTDBPD000,recovered_host,NOT recovered yet
+#Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/dcl37/CTDBP*/SBE*.hex,CP01CNSM-MFD37-03-CTDBPD000,recovered_inst,NOT recovered yet
 #Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/dcl37/DOSTA*/*dosta*.log,CP01CNSM-MFD37-04-DOSTAD000,recovered_host,NOT recovered yet
 #,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/dcl37/ZPLSC_*/*.zplsc.log,CP01CNSM-MFD37-07-ZPLSCC000,recovered_host,No driver exists
 #,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/dcl37/ZPLSC_*/DATA/*/*.01A,CP01CNSM-MFD37-07-ZPLSCC000,recovered_inst,No driver exists
