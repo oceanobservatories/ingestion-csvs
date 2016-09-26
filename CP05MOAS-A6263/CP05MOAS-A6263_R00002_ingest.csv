@@ -1,0 +1,8 @@
+uframe_route,filename_mask,reference_designator,data_source
+Ingest.flort-kn-auv_recovered,/omc_data/whoi/OMC/CP05MOAS-A6263/R00002/*.csv,CP05MOAS-A6263-01-FLORTN000,recovered_host
+Ingest.dosta-ln-auv_recovered,/omc_data/whoi/OMC/CP05MOAS-A6263/R00002/*.csv,CP05MOAS-A6263-02-DOSTAN000,recovered_host
+Ingest.ctdav-n-auv_recovered,/omc_data/whoi/OMC/CP05MOAS-A6263/R00002/*.csv,CP05MOAS-A6263-03-CTDAVN000,recovered_host
+,/omc_data/whoi/OMC/CP05MOAS-A6263/R00002/*.csv,CP05MOAS-A6263-04-NUTNRN000,recovered_host
+,/omc_data/whoi/OMC/CP05MOAS-A6263/R00002/*.csv,CP05MOAS-A6263-05-ADCPAN000,recovered_host
+Ingest.parad-n-auv_recovered,/omc_data/whoi/OMC/CP05MOAS-A6263/R00002/*.csv,CP05MOAS-A6263-06-PARADN000,recovered_host
+Ingest.auv-eng-auv_recovered,/omc_data/whoi/OMC/CP05MOAS-A6263/R00002/*.csv,CP05MOAS-A6263-00-ENG000000,recovered_host
