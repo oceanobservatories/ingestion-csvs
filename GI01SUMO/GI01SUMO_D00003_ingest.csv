@@ -1,52 +1,52 @@
-uframe_route,filename_mask,reference_designator,data_source,
-Ingest.mopak-o-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/mopak/*.mopak.log,GI01SUMO-SBD11-01-MOPAK0000,telemetered,
-Ingest.hyd-o-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/hyd1/*hyd*.log,GI01SUMO-SBD11-03-HYDGN0000,telemetered,
-Ingest.dosta-abcdjm-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/dosta1/*dosta*.log,GI01SUMO-SBD11-04-DOSTAD000,telemetered,
-Ingest.spkir-abj-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/spkir1/*spkir*.log,GI01SUMO-SBD11-05-SPKIRB000,telemetered,
-Ingest.metbk-a-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/metbk1/*metbk*.log,GI01SUMO-SBD11-06-METBKA000,telemetered,
-Ingest.nutnr-b-dcl-full_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/nutnr1/*nutnr*.log,GI01SUMO-SBD11-08-NUTNRB000,telemetered,
-Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl12/optaa1/*optaa*.log,GI01SUMO-SBD12-01-OPTAAD000,telemetered,
-Ingest.flort-dj-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl12/flort1/*flort*.log,GI01SUMO-SBD12-02-FLORTD000,telemetered,
-Ingest.hyd-o-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl12/hyd2/*hyd*.log,GI01SUMO-SBD12-03-HYDGN0000,telemetered,
-Ingest.pco2a-a-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl12/pco2a/*pco2a*.log,GI01SUMO-SBD12-04-PCO2AA000,telemetered,
-Ingest.wavss-a-dcl-full_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl12/wavss/*wavss*.log,GI01SUMO-SBD12-05-WAVSSA000,telemetered,
-Ingest.metbk-a-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl12/metbk2/*metbk*.log,GI01SUMO-SBD12-06-METBKA000,telemetered,
-Ingest.fdchp-a-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl12/fdchp/*fdchp*.log,GI01SUMO-SBD12-08-FDCHPA000,telemetered,
-Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl16/optaa2/*optaa*.log,GI01SUMO-RID16-01-OPTAAD000,telemetered,
-Ingest.flort-dj-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl16/flort2/*flort*.log,GI01SUMO-RID16-02-FLORTD000,telemetered,
-Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl16/ctdbp/*ctdbp*.log,GI01SUMO-RID16-03-CTDBPF000,telemetered,
-Ingest.velpt-ab-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl16/velpt/*velpt*.log,GI01SUMO-RID16-04-VELPTA000,telemetered,
-Ingest.pco2w-abc-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl16/pco2w/*pco2w*.log,GI01SUMO-RID16-05-PCO2WB000,telemetered,
-Ingest.dosta-abcdjm-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl16/dosta2/*dosta*.log,GI01SUMO-RID16-06-DOSTAD000,telemetered,
-Ingest.nutnr-b-dcl-full_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl16/nutnr2/*nutnr*.log,GI01SUMO-RID16-07-NUTNRB000,telemetered,
-Ingest.spkir-abj-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl16/spkir2/*spkir*.log,GI01SUMO-RID16-08-SPKIRB000,telemetered,
-Ingest.adcps-jln-stc_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/adcp/adcp*.DAT,GI01SUMO-RII11-02-ADCPSN010,telemetered,
-#,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/ctdbp01/ctdbp*.DAT,GI01SUMO-RII11-02-CTDBPP031,telemetered,Parser Not available
-#,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/ctdbp02/ctdbp*.DAT,GI01SUMO-RII11-02-CTDBPP032,telemetered,Parser Not available
-#,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/ctdbp03/ctdbp*.DAT,GI01SUMO-RII11-02-CTDBPP033,telemetered,Parser Not available
-Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/ctdmo01/ctdmo*.DAT,GI01SUMO-RII11-02-CTDMOQ011,telemetered,
-Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/ctdmo02/ctdmo*.DAT,GI01SUMO-RII11-02-CTDMOQ012,telemetered,
-Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/ctdmo03/ctdmo*.DAT,GI01SUMO-RII11-02-CTDMOQ013,telemetered,
-Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/ctdmo04/ctdmo*.DAT,GI01SUMO-RII11-02-CTDMOQ014,telemetered,
-Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/ctdmo05/ctdmo*.DAT,GI01SUMO-RII11-02-CTDMOQ015,telemetered,
-Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/ctdmo06/ctdmo*.DAT,GI01SUMO-RII11-02-CTDMOQ016,telemetered,
-Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/ctdmo07/ctdmo*.DAT,GI01SUMO-RII11-02-CTDMOQ017,telemetered,
-Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/ctdmo08/ctdmo*.DAT,GI01SUMO-RII11-02-CTDMOR018,telemetered,
-Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/ctdmo09/ctdmo*.DAT,GI01SUMO-RII11-02-CTDMOR019,telemetered,
-Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/ctdmo10/ctdmo*.DAT,GI01SUMO-RII11-02-CTDMOR020,telemetered,
-#Ingest.dosta-abcdjm-ctdbp-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/ctbp01/ctdbp*.DAT,GI01SUMO-RII11-02-DOSTAD031,telemetered,Parser Not Available
-#Ingest.dosta-abcdjm-ctdbp-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/ctbp02/ctdbp*.DAT,GI01SUMO-RII11-02-DOSTAD032,telemetered,Parser Not Available
-#Ingest.dosta-abcdjm-ctdbp-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/ctbp03/ctdbp*.DAT,GI01SUMO-RII11-02-DOSTAD033,telemetered,Parser Not Available
-#,,GI01SUMO-RII11-02-FLORDG031,telemetered,Parser Not Available
-#,,GI01SUMO-RII11-02-FLORDG032,telemetered,Parser Not Available
-#,,GI01SUMO-RII11-02-FLORDG033,telemetered,Parser Not Available
-Ingest.pco2w-abc-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/pco2w1/pco2w*.DAT,GI01SUMO-RII11-02-PCO2WC051,telemetered,
-Ingest.pco2w-abc-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/pco2w2/pco2w*.DAT,GI01SUMO-RII11-02-PCO2WC052,telemetered,
-Ingest.pco2w-abc-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/pco2w3/pco2w*.DAT,GI01SUMO-RII11-02-PCO2WC053,telemetered,
-Ingest.phsen-abcdef-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/phsen1/phsen*.DAT,GI01SUMO-RII11-02-PHSENE041,telemetered,
-Ingest.phsen-abcdef-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/phsen2/phsen*.DAT,GI01SUMO-RII11-02-PHSENE042,telemetered,
-#,,,,
-Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/irid2shore/cpm_status*.txt,GI01SUMO-SBC11-00-CPMENG000,telemetered,
-Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/syslog/*syslog*.log,GI01SUMO-SBD11-00-DCLENG000,telemetered,
-Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl12/syslog/*syslog*.log,GI01SUMO-SBD12-00-DCLENG000,telemetered,
-Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl16/syslog/*syslog*.log,GI01SUMO-RID16-00-DCLENG000,telemetered,
+uframe_route,filename_mask,reference_designator,data_source
+Ingest.mopak-o-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/mopak/*.mopak.log,GI01SUMO-SBD11-01-MOPAK0000,telemetered
+Ingest.hyd-o-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/hyd1/*hyd*.log,GI01SUMO-SBD11-03-HYDGN0000,telemetered
+Ingest.dosta-abcdjm-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/dosta1/*dosta*.log,GI01SUMO-SBD11-04-DOSTAD000,telemetered
+Ingest.spkir-abj-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/spkir1/*spkir*.log,GI01SUMO-SBD11-05-SPKIRB000,telemetered
+Ingest.metbk-a-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/metbk1/*metbk*.log,GI01SUMO-SBD11-06-METBKA000,telemetered
+Ingest.nutnr-b-dcl-full_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/nutnr1/*nutnr*.log,GI01SUMO-SBD11-08-NUTNRB000,telemetered
+Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl12/optaa1/*optaa*.log,GI01SUMO-SBD12-01-OPTAAD000,telemetered
+Ingest.flort-dj-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl12/flort1/*flort*.log,GI01SUMO-SBD12-02-FLORTD000,telemetered
+Ingest.hyd-o-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl12/hyd2/*hyd*.log,GI01SUMO-SBD12-03-HYDGN0000,telemetered
+Ingest.pco2a-a-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl12/pco2a/*pco2a*.log,GI01SUMO-SBD12-04-PCO2AA000,telemetered
+Ingest.wavss-a-dcl-full_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl12/wavss/*wavss*.log,GI01SUMO-SBD12-05-WAVSSA000,telemetered
+Ingest.metbk-a-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl12/metbk2/*metbk*.log,GI01SUMO-SBD12-06-METBKA000,telemetered
+Ingest.fdchp-a-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl12/fdchp/*fdchp*.log,GI01SUMO-SBD12-08-FDCHPA000,telemetered
+Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl16/optaa2/*optaa*.log,GI01SUMO-RID16-01-OPTAAD000,telemetered
+Ingest.flort-dj-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl16/flort2/*flort*.log,GI01SUMO-RID16-02-FLORTD000,telemetered
+Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl16/ctdbp/*ctdbp*.log,GI01SUMO-RID16-03-CTDBPF000,telemetered
+Ingest.velpt-ab-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl16/velpt/*velpt*.log,GI01SUMO-RID16-04-VELPTA000,telemetered
+Ingest.pco2w-abc-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl16/pco2w/*pco2w*.log,GI01SUMO-RID16-05-PCO2WB000,telemetered
+Ingest.dosta-abcdjm-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl16/dosta2/*dosta*.log,GI01SUMO-RID16-06-DOSTAD000,telemetered
+Ingest.nutnr-b-dcl-full_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl16/nutnr2/*nutnr*.log,GI01SUMO-RID16-07-NUTNRB000,telemetered
+Ingest.spkir-abj-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl16/spkir2/*spkir*.log,GI01SUMO-RID16-08-SPKIRB000,telemetered
+Ingest.adcps-jln-stc_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/adcp/adcp*.DAT,GI01SUMO-RII11-02-ADCPSN010,telemetered
+Ingest.ctdbp-p-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/ctdbp01/ctdbp*.DAT,GI01SUMO-RII11-02-CTDBPP031,telemetered
+Ingest.ctdbp-p-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/ctdbp02/ctdbp*.DAT,GI01SUMO-RII11-02-CTDBPP032,telemetered
+Ingest.ctdbp-p-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/ctdbp03/ctdbp*.DAT,GI01SUMO-RII11-02-CTDBPP033,telemetered
+Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/ctdmo01/ctdmo*.DAT,GI01SUMO-RII11-02-CTDMOQ011,telemetered
+Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/ctdmo02/ctdmo*.DAT,GI01SUMO-RII11-02-CTDMOQ012,telemetered
+Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/ctdmo03/ctdmo*.DAT,GI01SUMO-RII11-02-CTDMOQ013,telemetered
+Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/ctdmo04/ctdmo*.DAT,GI01SUMO-RII11-02-CTDMOQ014,telemetered
+Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/ctdmo05/ctdmo*.DAT,GI01SUMO-RII11-02-CTDMOQ015,telemetered
+Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/ctdmo06/ctdmo*.DAT,GI01SUMO-RII11-02-CTDMOQ016,telemetered
+Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/ctdmo07/ctdmo*.DAT,GI01SUMO-RII11-02-CTDMOQ017,telemetered
+Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/ctdmo08/ctdmo*.DAT,GI01SUMO-RII11-02-CTDMOR018,telemetered
+Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/ctdmo09/ctdmo*.DAT,GI01SUMO-RII11-02-CTDMOR019,telemetered
+Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/ctdmo10/ctdmo*.DAT,GI01SUMO-RII11-02-CTDMOR020,telemetered
+Ingest.dosta-abcdjm-ctdbp-p-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/ctdbp01/ctdbp*.DAT,GI01SUMO-RII11-02-DOSTAD031,telemetered
+Ingest.dosta-abcdjm-ctdbp-p-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/ctdbp02/ctdbp*.DAT,GI01SUMO-RII11-02-DOSTAD032,telemetered
+Ingest.dosta-abcdjm-ctdbp-p-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/ctdbp03/ctdbp*.DAT,GI01SUMO-RII11-02-DOSTAD033,telemetered
+Ingest.flord-g-ctdbp-p-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/ctdbp01/ctdbp*.DAT,GI01SUMO-RII11-02-FLORDG031,telemetered
+Ingest.flord-g-ctdbp-p-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/ctdbp02/ctdbp*.DAT,GI01SUMO-RII11-02-FLORDG032,telemetered
+Ingest.flord-g-ctdbp-p-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/ctdbp03/ctdbp*.DAT,GI01SUMO-RII11-02-FLORDG033,telemetered
+Ingest.pco2w-abc-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/pco2w1/pco2w*.DAT,GI01SUMO-RII11-02-PCO2WC051,telemetered
+Ingest.pco2w-abc-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/pco2w2/pco2w*.DAT,GI01SUMO-RII11-02-PCO2WC052,telemetered
+Ingest.pco2w-abc-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/pco2w3/pco2w*.DAT,GI01SUMO-RII11-02-PCO2WC053,telemetered
+Ingest.phsen-abcdef-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/phsen1/phsen*.DAT,GI01SUMO-RII11-02-PHSENE041,telemetered
+Ingest.phsen-abcdef-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/imm/phsen2/phsen*.DAT,GI01SUMO-RII11-02-PHSENE042,telemetered
+#,,,
+Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/irid2shore/cpm_status*.txt,GI01SUMO-SBC11-00-CPMENG000,telemetered
+Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl11/syslog/*syslog*.log,GI01SUMO-SBD11-00-DCLENG000,telemetered
+Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl12/syslog/*syslog*.log,GI01SUMO-SBD12-00-DCLENG000,telemetered
+Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00003/cg_data/dcl16/syslog/*syslog*.log,GI01SUMO-RID16-00-DCLENG000,telemetered

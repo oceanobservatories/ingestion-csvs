@@ -21,9 +21,9 @@ Ingest.dosta-abcdjm-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00002/cg_data/d
 Ingest.nutnr-b-dcl-full_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00002/cg_data/dcl16/nutnr*/*nutnr*.log,GI01SUMO-RID16-07-NUTNRB000,telemetered,
 Ingest.spkir-abj-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00002/cg_data/dcl16/spkir*/*spkir*.log,GI01SUMO-RID16-08-SPKIRB000,telemetered,
 Ingest.adcps-jln-stc_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00002/cg_data/dcl11/imm/adcp/adcp*.DAT,GI01SUMO-RII11-02-ADCPSN010,telemetered,
-#,/omc_data/whoi/OMC/GI01SUMO/D00002/cg_data/dcl11/imm/ctdbp01/ctdbp*.DAT,GI01SUMO-RII11-02-CTDBPP031,telemetered,Parser Not available
-#,/omc_data/whoi/OMC/GI01SUMO/D00002/cg_data/dcl11/imm/ctdbp02/ctdbp*.DAT,GI01SUMO-RII11-02-CTDBPP032,telemetered,Parser Not available
-#,/omc_data/whoi/OMC/GI01SUMO/D00002/cg_data/dcl11/imm/ctdbp03/ctdbp*.DAT,GI01SUMO-RII11-02-CTDBPP033,telemetered,Parser Not available
+Ingest.ctdbp-p-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00002/cg_data/dcl11/imm/ctdbp01/ctdbp*.DAT,GI01SUMO-RII11-02-CTDBPP031,telemetered,
+Ingest.ctdbp-p-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00002/cg_data/dcl11/imm/ctdbp02/ctdbp*.DAT,GI01SUMO-RII11-02-CTDBPP032,telemetered,
+Ingest.ctdbp-p-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00002/cg_data/dcl11/imm/ctdbp03/ctdbp*.DAT,GI01SUMO-RII11-02-CTDBPP033,telemetered,
 Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00002/cg_data/dcl11/imm/ctdmo01/ctdmo*.DAT,GI01SUMO-RII11-02-CTDMOQ011,telemetered,
 Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00002/cg_data/dcl11/imm/ctdmo02/ctdmo*.DAT,GI01SUMO-RII11-02-CTDMOQ012,telemetered,
 Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00002/cg_data/dcl11/imm/ctdmo03/ctdmo*.DAT,GI01SUMO-RII11-02-CTDMOQ013,telemetered,
@@ -34,12 +34,12 @@ Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00002/cg_data/
 Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00002/cg_data/dcl11/imm/ctdmo08/ctdmo*.DAT,GI01SUMO-RII11-02-CTDMOR018,telemetered,
 Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00002/cg_data/dcl11/imm/ctdmo09/ctdmo*.DAT,GI01SUMO-RII11-02-CTDMOR019,telemetered,
 Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00002/cg_data/dcl11/imm/ctdmo10/ctdmo*.DAT,GI01SUMO-RII11-02-CTDMOR020,telemetered,
-#Ingest.dosta-abcdjm-ctdbp-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00002/cg_data/dcl11/imm/ctbp01/CTBP*.DAT,GI01SUMO-RII11-02-DOSTAD031,telemetered,Parser Not Available
-#Ingest.dosta-abcdjm-ctdbp-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00002/cg_data/dcl11/imm/ctbp02/CTBP*.DAT,GI01SUMO-RII11-02-DOSTAD032,telemetered,Parser Not Available
-#Ingest.dosta-abcdjm-ctdbp-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00002/cg_data/dcl11/imm/ctbp03/CTBP*.DAT,GI01SUMO-RII11-02-DOSTAD033,telemetered,Parser Not Available
-#,,GI01SUMO-RII11-02-FLORDG031,telemetered,Parser Not Available
-#,,GI01SUMO-RII11-02-FLORDG032,telemetered,Parser Not Available
-#,,GI01SUMO-RII11-02-FLORDG033,telemetered,Parser Not Available
+Ingest.dosta-abcdjm-ctdbp-p-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00002/cg_data/dcl11/imm/ctdbp01/ctdbp*.DAT,GI01SUMO-RII11-02-DOSTAD031,telemetered,
+Ingest.dosta-abcdjm-ctdbp-p-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00002/cg_data/dcl11/imm/ctdbp02/ctdbp*.DAT,GI01SUMO-RII11-02-DOSTAD032,telemetered,
+Ingest.dosta-abcdjm-ctdbp-p-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00002/cg_data/dcl11/imm/ctdbp03/ctdbp*.DAT,GI01SUMO-RII11-02-DOSTAD033,telemetered,
+Ingest.flord-g-ctdbp-p-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00002/cg_data/dcl11/imm/ctdbp01/ctdbp*.DAT,GI01SUMO-RII11-02-FLORDG031,telemetered,
+Ingest.flord-g-ctdbp-p-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00002/cg_data/dcl11/imm/ctdbp02/ctdbp*.DAT,GI01SUMO-RII11-02-FLORDG032,telemetered,
+Ingest.flord-g-ctdbp-p-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00002/cg_data/dcl11/imm/ctdbp03/ctdbp*.DAT,GI01SUMO-RII11-02-FLORDG033,telemetered,
 Ingest.pco2w-abc-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00002/cg_data/dcl11/imm/pco2w1/pco2w*.DAT,GI01SUMO-RII11-02-PCO2WC051,telemetered,
 Ingest.pco2w-abc-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00002/cg_data/dcl11/imm/pco2w2/pco2w*.DAT,GI01SUMO-RII11-02-PCO2WC052,telemetered,
 Ingest.pco2w-abc-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00002/cg_data/dcl11/imm/pco2w3/pco2w*.DAT,GI01SUMO-RII11-02-PCO2WC053,telemetered,
