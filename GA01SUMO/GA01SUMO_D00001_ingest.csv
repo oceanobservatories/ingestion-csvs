@@ -36,14 +36,14 @@ Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/
 #Ingest.phsen-abcdef-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl11/imm/phsen2/phsen*.DAT,GA01SUMO-RII11-02-PHSENE042,telemetered,
 Ingest.hyd-o-dcl_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl11/hyd*/*hyd*.log,GA01SUMO-SBD11-03-HYDGN0000,telemetered,
 Ingest.hyd-o-dcl_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl12/hyd*/*hyd*.log,GA01SUMO-SBD12-03-HYDGN0000,telemetered,
-#,,GA01SUMO-RII11-02-CTDBPP031,telemetered,
-#,,GA01SUMO-RII11-02-FLORDG031,telemetered,
+#,,GA01SUMO-RII11-02-CTDBPP031,telemetered,Not installed
+#,,GA01SUMO-RII11-02-FLORDG031,telemetered,Not installed
 Ingest.pco2w-abc-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl11/imm/pco2w1/pco2w*.DAT,GA01SUMO-RII11-02-PCO2WC051,telemetered,
-#,,GA01SUMO-RII11-02-CTDBPP032,telemetered,
-#,,GA01SUMO-RII11-02-FLORDG032,telemetered,
+#,,GA01SUMO-RII11-02-CTDBPP032,telemetered,Not installed
+#,,GA01SUMO-RII11-02-FLORDG032,telemetered,Not installed
 Ingest.pco2w-abc-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl11/imm/pco2w2/pco2w*.DAT,GA01SUMO-RII11-02-PCO2WC052,telemetered,
-#,,GA01SUMO-RII11-02-CTDBPP033,telemetered,
-#,,GA01SUMO-RII11-02-FLORDG033,telemetered,
+#,,GA01SUMO-RII11-02-CTDBPP033,telemetered,Not installed
+#,,GA01SUMO-RII11-02-FLORDG033,telemetered,Not installed
 Ingest.pco2w-abc-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl11/imm/pco2w3/pco2w*.DAT,GA01SUMO-RII11-02-PCO2WC053,telemetered,
 Ingest.adcps-jln-stc_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl11/imm/adcp/adcp*.DAT,GA01SUMO-RII11-02-ADCPSN010,telemetered,
 Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/irid2shore/cpm_status*.txt,GA01SUMO-SBC11-00-CPMENG000,telemetered,

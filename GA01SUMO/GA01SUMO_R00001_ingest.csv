@@ -28,21 +28,21 @@ Ingest.spkir-abj-dcl_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl16/
 Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl16/ADCP_sn21639/*.000,GA01SUMO-RII11-02-ADCPSN010,recovered_inst,
 Ingest.phsen-abcdef-imodem_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl16/PHSEN_snP0070/*.DAT,GA01SUMO-RII11-02-PHSENE041,recovered_host,
 #Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl16/PHSEN_snP0070/*.txt,GA01SUMO-RII11-02-PHSENE041,recovered_inst,No data on server
-#,,GA01SUMO-RII11-02-CTDBPP031,recovered_host,Parser Not available
-#,,GA01SUMO-RII11-02-DOSTAD031,recovered_host,Parser Not available
-#,,GA01SUMO-RII11-02-FLORDG031,recovered_host,Parser Not available
+#,,GA01SUMO-RII11-02-CTDBPP031,recovered_host,Not installed
+#,,GA01SUMO-RII11-02-DOSTAD031,recovered_host,Not installed
+#,,GA01SUMO-RII11-02-FLORDG031,recovered_host,Not installed
 Ingest.pco2w-abc-imodem_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl16/PCO2W_snC0106/*.DAT,GA01SUMO-RII11-02-PCO2WC051,recovered_host,
 Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl16/PCO2W_snC0106/*.txt,GA01SUMO-RII11-02-PCO2WC051,recovered_inst,
-#,,GA01SUMO-RII11-02-CTDBPP032,recovered_host,Parser Not available
-#,,GA01SUMO-RII11-02-DOSTAD032,recovered_host,Parser Not available
-#,,GA01SUMO-RII11-02-FLORDG032,recovered_host,Parser Not available
+#,,GA01SUMO-RII11-02-CTDBPP032,recovered_host,Not installed
+#,,GA01SUMO-RII11-02-DOSTAD032,recovered_host,Not installed
+#,,GA01SUMO-RII11-02-FLORDG032,recovered_host,Not installed
 Ingest.pco2w-abc-imodem_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl16/PCO2W_snC0108/*.DAT,GA01SUMO-RII11-02-PCO2WC052,recovered_host,
 #Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl16/PCO2W_snC0108/*.txt,GA01SUMO-RII11-02-PCO2WC052,recovered_inst,No data on server
 Ingest.phsen-abcdef-imodem_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl16/PHSEN_snP0140/*.DAT,GA01SUMO-RII11-02-PHSENE042,recovered_host,
 Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl16/PHSEN_snP0140/*.txt,GA01SUMO-RII11-02-PHSENE042,recovered_inst,
-#,,GA01SUMO-RII11-02-CTDBPP033,recovered_host,Parser Not available
-#,,GA01SUMO-RII11-02-DOSTAD033,recovered_host,Parser Not available
-#,,GA01SUMO-RII11-02-FLORDG033,recovered_host,Parser Not available
+#,,GA01SUMO-RII11-02-CTDBPP033,recovered_host,Not installed
+#,,GA01SUMO-RII11-02-DOSTAD033,recovered_host,Not installed
+#,,GA01SUMO-RII11-02-FLORDG033,recovered_host,Not installed
 Ingest.pco2w-abc-imodem_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl16/PCO2W_snC0109/*.DAT,GA01SUMO-RII11-02-PCO2WC053,recovered_host,No data on server
 Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl16/PCO2W_snC0109/*.txt,GA01SUMO-RII11-02-PCO2WC053,recovered_inst,
 #,,,,
