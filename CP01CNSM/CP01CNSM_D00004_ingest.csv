@@ -10,11 +10,11 @@ Ingest.fdchp-a-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00004/cg_data/dcl12/
 Ingest.velpt-ab-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00004/cg_data/dcl16/velpt*/*velpt*.log,CP01CNSM-RID26-04-VELPTA000,telemetered,
 # Ingest.phsen-abcdef-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00004/cg_data/dcl16/phsen*/*phsen*.log,CP01CNSM-RID26-06-PHSEND000,telemetered,Not deployed
 Ingest.nutnr-b-dcl-full_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00004/cg_data/dcl16/nutnr*/*nutnr*.log,CP01CNSM-RID26-07-NUTNRB000,telemetered,
-# Ingest.spkir-abj-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00004/cg_data/dcl16/spkir*/*spkir*.log,CP01CNSM-RID26-08-SPKIRB000,telemetered,No data on server
-# Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00004/cg_data/dcl27/optaa*/*optaa*.log,CP01CNSM-RID27-01-OPTAAD000,telemetered,No data from DCL 27 on server
-# Ingest.flort-dj-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00004/cg_data/dcl27/flort*/*flort*.log,CP01CNSM-RID27-02-FLORTD000,telemetered,No data from DCL 27 on server
-# Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00004/cg_data/dcl27/ctdbp*/*ctdbp*.log,CP01CNSM-RID27-03-CTDBPC000,telemetered,No data from DCL 27 on server
-# Ingest.dosta-abcdjm-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00004/cg_data/dcl27/dosta*/*dosta*.log,CP01CNSM-RID27-04-DOSTAD000,telemetered,No data from DCL 27 on server
+# Ingest.spkir-abj-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00004/cg_data/dcl16/spkir*/*spkir*.log,CP01CNSM-RID26-08-SPKIRB000,telemetered,No telemetered data expected
+# Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00004/cg_data/dcl27/optaa*/*optaa*.log,CP01CNSM-RID27-01-OPTAAD000,telemetered,No telemetered data expected
+# Ingest.flort-dj-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00004/cg_data/dcl27/flort*/*flort*.log,CP01CNSM-RID27-02-FLORTD000,telemetered,No telemetered data expected
+# Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00004/cg_data/dcl27/ctdbp*/*ctdbp*.log,CP01CNSM-RID27-03-CTDBPC000,telemetered,No telemetered data expected
+# Ingest.dosta-abcdjm-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00004/cg_data/dcl27/dosta*/*dosta*.log,CP01CNSM-RID27-04-DOSTAD000,telemetered,No telemetered data expected
 # Ingest.adcpt-acfgm-dcl-pd8_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00004/cg_data/dcl35/adcp*/*adcp*.log,CP01CNSM-MFD35-01-ADCPTF000,telemetered,Not deployed
 # Ingest.presf-abc-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00004/cg_data/dcl35/presf*/*presf*.log,CP01CNSM-MFD35-02-PRESFB000,telemetered,Not deployed
 # Ingest.velpt-ab-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00004/cg_data/dcl35/velpt*/*velpt*.log,CP01CNSM-MFD35-04-VELPTA000,telemetered,Not deployed
@@ -25,11 +25,11 @@ Ingest.nutnr-b-dcl-full_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00004/cg_data/d
 # Ingest.dosta-abcdjm-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00004/cg_data/dcl37/dosta*/*dosta*.log,CP01CNSM-MFD37-04-DOSTAD000,telemetered,Not deployed
 # Ingest.zplsc-c-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00004/cg_data/dcl37/zplsc*/*zplsc*.log,CP01CNSM-MFD37-07-ZPLSCC000,telemetered,Not deployed
 Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00004/irid2shore/cpm_status*.txt,CP01CNSM-SBC11-00-CPMENG000,telemetered,
-# Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00004/cg_data/cpm2/syslog/cpm_status*.txt,CP01CNSM-RIC21-00-CPMENG000,telemetered,No Data on server
+# Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00004/cg_data/cpm2/syslog/cpm_status*.txt,CP01CNSM-RIC21-00-CPMENG000,telemetered,No telemetered data expected
 # Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00004/cg_data/cpm3/syslog/cpm_status*.txt,CP01CNSM-MFC31-00-CPMENG000,telemetered,Not deployed
 Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00004/cg_data/dcl11/syslog*/*syslog*.log,CP01CNSM-SBD11-00-DCLENG000,telemetered,
 Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00004/cg_data/dcl12/syslog*/*syslog*.log,CP01CNSM-SBD12-00-DCLENG000,telemetered,
 Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00004/cg_data/dcl16/syslog*/*syslog*.log,CP01CNSM-RID26-00-DCLENG000,telemetered,
-# Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00004/cg_data/dcl27/syslog*/*syslog*.log,CP01CNSM-RID27-00-DCLENG000,telemetered,No Data on server
+# Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00004/cg_data/dcl27/syslog*/*syslog*.log,CP01CNSM-RID27-00-DCLENG000,telemetered,No telemetered data expected
 # Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00004/cg_data/dcl35/syslog*/*syslog*.log,CP01CNSM-MFD35-00-DCLENG000,telemetered,Not deployed
 # Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00004/cg_data/dcl37/syslog*/*syslog*.log,CP01CNSM-MFD37-00-DCLENG000,telemetered,Not deployed
