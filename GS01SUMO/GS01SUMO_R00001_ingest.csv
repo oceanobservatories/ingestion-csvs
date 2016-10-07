@@ -37,14 +37,14 @@ Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/PCO2
 #,,GS01SUMO-RII11-02-CTDBPP032,recovered_host,Not deployed
 #,,GS01SUMO-RII11-02-DOSTAD032,recovered_host,Not deployed
 #,,GS01SUMO-RII11-02-FLORDG032,recovered_host,Not deployed
-#Ingest.pco2w-abc-imodem_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/PCO2W_snC0105/*.DAT,GS01SUMO-RII11-02-PCO2WC052,recovered_host,No data on server
-Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/PCO2W_snC0105/SAMI*.txt,GS01SUMO-RII11-02-PCO2WC052,recovered_inst,
+#Ingest.pco2w-abc-imodem_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/PCO2W_snC0104/*.DAT,GS01SUMO-RII11-02-PCO2WC052,recovered_host,Not deployed
+#Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/PCO2W_snC0104/SAMI*.txt,GS01SUMO-RII11-02-PCO2WC052,recovered_inst,Not deployed
 # Ingest.phsen-abcdef-imodem_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/PHSEN_snP0101/*.DAT,GS01SUMO-RII11-02-PHSENE042,recovered_host,Not Deployed
 #,,GS01SUMO-RII11-02-CTDBPP033,recovered_host,Not deployed
 #,,GS01SUMO-RII11-02-DOSTAD033,recovered_host,Not deployed
 #,,GS01SUMO-RII11-02-FLORDG033,recovered_host,Not deployed
-#Ingest.pco2w-abc-imodem_recovered,/*.DAT,GS01SUMO-RII11-02-PCO2WC053,recovered_host,No data on server
-#Ingest.pco2w-abc_recovered,/SAMI*.txt,GS01SUMO-RII11-02-PCO2WC053,recovered_inst,No data on server
+#Ingest.pco2w-abc-imodem_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/PCO2W_snC0105/*.DAT,GS01SUMO-RII11-02-PCO2WC053,recovered_host,No data on server
+Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/PCO2W_snC0105/SAMI*.txt,GS01SUMO-RII11-02-PCO2WC053,recovered_inst,
 #,,,,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/CTDMO_sn37-12304/*.hex,GS01SUMO-RII11-02-CTDMOQ011,recovered_inst,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/CTDMO_sn37-12305/*.hex,GS01SUMO-RII11-02-CTDMOQ031,recovered_inst,
