@@ -8,7 +8,7 @@ uframe_route,filename_mask,reference_designator,data_source,
 #Ingest.metbk-a-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl12/metbk*/*metbk*.log,CP01CNSM-SBD12-06-METBKA000,recovered_host,Buoy exploded - data not recoverable
 #Ingest.fdchp-a-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl12/fdchp*/*fdchp*.log,CP01CNSM-SBD12-08-FDCHPA000,recovered_host,Not deployed
 #Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl26/velpt2/*.velpt2.log,CP01CNSM-RID26-04-VELPTA000,recovered_host,Instrument setup incorrectly - data not retrievable
-#Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/instrmts/dcl26/VELPT_*/*velpt*.aqd,CP01CNSM-RID26-04-VELPTA000,recovered_inst,File path does not exist
+#Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl26/VELPT_*/*velpt*.aqd,CP01CNSM-RID26-04-VELPTA000,recovered_inst,Instrument Data Not Recoverable
 #Ingest.phsen-abcdef-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl26/phsen1/*.phsen1.log,CP01CNSM-RID26-06-PHSEND000,recovered_host,File path does not exist
 Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl26/PHSEN_*/SAMI*.txt,CP01CNSM-RID26-06-PHSEND000,recovered_inst,Data File suspicious
 #Ingest.nutnr-b-dcl-conc_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/cg_data/dcl26/nutnr/*.nutnr.log,CP01CNSM-RID26-07-NUTNRB000,recovered_host,File path does not exist
