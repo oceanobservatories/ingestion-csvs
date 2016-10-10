@@ -32,8 +32,8 @@ Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/
 # Ingest.dosta-abcdjm-dcl_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl11/imm/dosta/dosta*.DAT,GA01SUMO-RII11-02-DOSTAD031,telemetered,Not installed
 # Ingest.dosta-abcdjm-dcl_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl11/imm/dosta/dosta*.DAT,GA01SUMO-RII11-02-DOSTAD032,telemetered,Not installed
 # Ingest.dosta-abcdjm-dcl_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl11/imm/dosta/dosta*.DAT,GA01SUMO-RII11-02-DOSTAD033,telemetered,Not installed
-#Ingest.phsen-abcdef-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl11/imm/phsen1/phsen*.DAT,GA01SUMO-RII11-02-PHSENE041,telemetered,
-#Ingest.phsen-abcdef-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl11/imm/phsen2/phsen*.DAT,GA01SUMO-RII11-02-PHSENE042,telemetered,
+Ingest.phsen-abcdef-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl11/imm/phsen1/phsen*.DAT,GA01SUMO-RII11-02-PHSENE041,telemetered,
+Ingest.phsen-abcdef-imodem_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl11/imm/phsen2/phsen*.DAT,GA01SUMO-RII11-02-PHSENE042,telemetered,
 Ingest.hyd-o-dcl_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl11/hyd*/*hyd*.log,GA01SUMO-SBD11-03-HYDGN0000,telemetered,
 Ingest.hyd-o-dcl_telemetered,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl12/hyd*/*hyd*.log,GA01SUMO-SBD12-03-HYDGN0000,telemetered,
 #,,GA01SUMO-RII11-02-CTDBPP031,telemetered,Not installed
