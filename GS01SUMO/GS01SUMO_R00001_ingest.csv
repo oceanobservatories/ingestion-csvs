@@ -18,7 +18,7 @@ Ingest.flort-dj-dcl_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/F
 Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/CTDBP*/*ctdbp.log,GS01SUMO-RID16-03-CTDBPF000,recovered_host,
 Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/CTDBP*/*.hex,GS01SUMO-RID16-03-CTDBPF000,recovered_inst,
 Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/VELPT*/*.velpt*.log,GS01SUMO-RID16-04-VELPTA000,recovered_host,
-#Ingest.velpt-ab_recovered,,GS01SUMO-RID16-04-VELPTA000,recovered_inst,No data on server
+#Ingest.velpt-ab_recovered,,GS01SUMO-RID16-04-VELPTA000,recovered_inst,Data not expected
 Ingest.pco2w-abc-dcl_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/PCO2W_snC0070/*.pco2w.log,GS01SUMO-RID16-05-PCO2WB000,recovered_host,
 #Ingest.pco2w-abc_recovered,,GS01SUMO-RID16-05-PCO2WB000,recovered_inst,No data on server
 Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/DOSTA_sn382/*dosta2.log,GS01SUMO-RID16-06-DOSTAD000,recovered_host,
@@ -39,7 +39,7 @@ Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/PCO2
 #,,GS01SUMO-RII11-02-FLORDG032,recovered_host,Not deployed
 #Ingest.pco2w-abc-imodem_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/PCO2W_snC0104/*.DAT,GS01SUMO-RII11-02-PCO2WC052,recovered_host,Not deployed
 #Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/PCO2W_snC0104/SAMI*.txt,GS01SUMO-RII11-02-PCO2WC052,recovered_inst,Not deployed
-# Ingest.phsen-abcdef-imodem_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/PHSEN_snP0101/*.DAT,GS01SUMO-RII11-02-PHSENE042,recovered_host,Not Deployed
+# Ingest.phsen-abcdef-imodem_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/PHSEN_snP0101/*.DAT,GS01SUMO-RII11-02-PHSENE042,recovered_host,Not deployed
 #,,GS01SUMO-RII11-02-CTDBPP033,recovered_host,Not deployed
 #,,GS01SUMO-RII11-02-DOSTAD033,recovered_host,Not deployed
 #,,GS01SUMO-RII11-02-FLORDG033,recovered_host,Not deployed
