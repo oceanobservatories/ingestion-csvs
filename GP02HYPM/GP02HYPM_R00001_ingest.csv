@@ -11,5 +11,5 @@ Ingest.flord-l-wfp_recovered,/omc_data/whoi/OMC/GP02HYPM/R00001/wfp_12774/E*.DA?
 Ingest.wfp-eng-stc-imodem_recovered,/omc_data/whoi/OMC/GP02HYPM/R00001/wfp_12774/E*.DA?,GP02HYPM-WFP03-00-WFPENG000,recovered_wfp,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP02HYPM/R00001/mc/raw/SBE37*.hex,GP02HYPM-RIM01-02-CTDMOG039,recovered_inst,"Nominal imodem ID is 39, but actual for this deployment is 61"
 Ingest.sio-eng-sio_recovered,/omc_data/whoi/OMC/GP02HYPM/R00001/SIOC/status/STA*.DA?,GP02HYPM-RIM01-00-SIOENG000,recovered_host,
-#,,GP02HYPM-MPM01-02-ZPLSGA009,recovered_inst,"No ZPLSG data and no parser available yet, what recovered data type is TBD"
-#,,GP02HYPM-MPM01-02-ZPLSGA010,recovered_inst,"No ZPLSG data and no parser available yet, what recovered data type is TBD"
+#,,GP02HYPM-MPM01-02-ZPLSGA009,recovered_inst,Not deployed
+#,,GP02HYPM-MPM01-02-ZPLSGA010,recovered_inst,Not deployed

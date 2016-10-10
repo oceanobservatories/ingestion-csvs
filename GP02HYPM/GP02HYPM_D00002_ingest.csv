@@ -12,5 +12,5 @@ Ingest.dosta-ln-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00002/*.we
 Ingest.flord-l-wfp-sio_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00002/*.we_wfp_1328321.dat,GP02HYPM-WFP03-01-FLORDL000,telemetered,
 Ingest.wfp-eng-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00002/*.we_wfp_1328321.dat,GP02HYPM-WFP03-00-WFPENG000,telemetered,
 Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00002/*status_1328301.dat,GP02HYPM-RIM01-00-SIOENG000,telemetered,
-#,,GP02HYPM-MPM01-02-ZPLSGA009,telemetered,No ZPLSG data and no parser available yet
-#,,GP02HYPM-MPM01-02-ZPLSGA010,telemetered,No ZPLSG data and no parser available yet
+#,,GP02HYPM-MPM01-02-ZPLSGA009,telemetered,Not deployed
+#,,GP02HYPM-MPM01-02-ZPLSGA010,telemetered,Not deployed
