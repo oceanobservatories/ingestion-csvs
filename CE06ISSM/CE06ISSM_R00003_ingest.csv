@@ -3,6 +3,7 @@ uframe_route,filename_mask,reference_designator,data_source,
 Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/cg_data/dcl17/velpt1/*.velpt1.log,CE06ISSM-SBD17-04-VELPTA000,recovered_host,Recovered DCL data
 #Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/cg_data/dcl17/ctdbp3/*.ctdbp3.log,CE06ISSM-SBD17-06-CTDBPC000,recovered_host,No Recovered data on server
 #Ingest.dosta-abcdjm-ctdbp-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/cg_data/dcl17/ctdbp3/*.ctdbp3.log,CE06ISSM-SBD17-06-FLORTD000,recovered_host,No Recovered data on server
+# 
 Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/cg_data/dcl16/optaa1/*.optaa*.log,CE06ISSM-RID16-01-OPTAAD000,recovered_host,
 Ingest.flort-dj-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/cg_data/dcl16/flort/*.flort.log,CE06ISSM-RID16-02-FLORTD000,recovered_host,
 Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/cg_data/dcl16/ctdbp1/*.ctdbp1.log,CE06ISSM-RID16-03-CTDBPC000,recovered_host,Recovered DCL data
@@ -12,17 +13,18 @@ Ingest.pco2w-abc-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/cg_data/dcl16/
 Ingest.phsen-abcdef-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/cg_data/dcl16/phsen1/*.phsen*.log,CE06ISSM-RID16-06-PHSEND000,recovered_host,Recovered DCL data
 Ingest.nutnr-b-dcl-conc_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/cg_data/dcl16/nutnr/*.nutnr.log,CE06ISSM-RID16-07-NUTNRB000,recovered_host,Recovered DCL data
 Ingest.spkir-abj-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/cg_data/dcl16/spkir/*.spkir.log,CE06ISSM-RID16-08-SPKIRB000,recovered_host,
+# 
 #Ingest.vel3d-cd-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/cg_data/dcl35/vel3d/*.vel3d.log,CE06ISSM-MFD35-01-VEL3DD000,recovered_host,DCL not deployed
 #Ingest.presf-abc-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/cg_data/dcl35/presf/*.presf.log,CE06ISSM-MFD35-02-PRESFA000,recovered_host,DCL not deployed
 #Ingest.adcpt-acfgm-dcl-pd0_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/cg_data/dcl35/adcpt/*.adcpt.log,CE06ISSM-MFD35-04-ADCPTM000,recovered_host,DCL not deployed
 #Ingest.pco2w-abc-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/cg_data/dcl35/pco2w2/*.pco2w2.log,CE06ISSM-MFD35-05-PCO2WB000,recovered_host,DCL not deployed
 #Ingest.phsen-abcdef-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/cg_data/dcl35/phsen2/*.phsen2.log,CE06ISSM-MFD35-06-PHSEND000,recovered_host,DCL not deployed
+# 
 #Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/cg_data/dcl37/optaa2/*.optaa2.log,CE06ISSM-MFD37-01-OPTAAD000,recovered_host,DCL not deployed
 #Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/cg_data/dcl37/ctdbp2/*.ctdbp2.log,CE06ISSM-MFD37-03-CTDBPC000,recovered_host,DCL not deployed
 #Ingest.dosta-abcdjm-ctdbp-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/cg_data/dcl37/ctdbp2/*.ctdbp2.log,CE06ISSM-MFD37-03-DOSTAD000,recovered_host,DCL not deployed
 #,/omc_data/whoi/OMC/CE06ISSM/R00003/cg_data/dcl37/camds/*.camds.png,CE06ISSM-MFD37-06-CAMDSA000,recovered_host,DCL not deployed
 #,/omc_data/whoi/OMC/CE06ISSM/R00003/cg_data/dcl37/zplsc/*.zplsc.log,CE06ISSM-MFD37-07-ZPLSCC000,recovered_host,DCL not deployed. No driver for this instrument.
-#,,,,
 #,,,,
 Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/cg_data/irid2shore/cpm_status*.txt,CE06ISSM-SBC11-00-CPMENG000,recovered_host,
 # Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/cg_data/cpm3/syslog/cpm_status.txt,CE06ISSM-MFC31-00-CPMENG000,recovered_host,This is a single file updated every minute. There will only be 1 of these files and the data in it will be from the last update.
@@ -34,21 +36,24 @@ Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/cg_data/dcl16
 Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/instrmts/dcl17/VELPT*/*velpt*.aqd,CE06ISSM-SBD17-04-VELPTA000,recovered_inst,Recovered Instrument data
 #,/omc_data/whoi/OMC/CE06ISSM/R00003/instrmts/dcl17/CTDBP-C_*/*_ctdbp3_*.hex,CE06ISSM-SBD17-06-CTDBPC000,recovered_inst,No parser exists for this data set
 #,/omc_data/whoi/OMC/CE06ISSM/R00003/instrmts/dcl17/CTDBP-C_*/*_ctdbp3_*.hex,CE06ISSM-SBD17-06-FLORTD000,recovered_inst,No parser exists for this data set
+# 
 Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/instrmts/dcl16/CTDBP*/*ctdbp*.hex,CE06ISSM-RID16-03-CTDBPC000,recovered_inst,Recovered Instrument data
 Ingest.dosta-abcdjm-ctdbp_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/instrmts/dcl16/CTDBP*/*ctdbp*.hex,CE06ISSM-RID16-03-DOSTAD000,recovered_inst,Recovered Instrument data
 Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/instrmts/dcl16/VELPT*/*velpt*.aqd,CE06ISSM-RID16-04-VELPTA000,recovered_inst,Recovered Instrument data
 Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/instrmts/dcl16/PCO2W*/*pco2w*.txt,CE06ISSM-RID16-05-PCO2WB000,recovered_inst,Recovered Instrument data
 Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/instrmts/dcl16/PHSEN*/*phsen*.txt,CE06ISSM-RID16-06-PHSEND000,recovered_inst,Recovered Instrument data
 Ingest.nutnr-b_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/instrmts/dcl16/NUTNR*/*nutnr*/SCH*.DAT,CE06ISSM-RID16-07-NUTNRB000,recovered_inst,Recovered Instrument data
-Ingest.vel3d-cd-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/instrmts/dcl35/VEL3D_*/*vel3d*.VEC,CE06ISSM-MFD35-01-VEL3DD000,recovered_inst,Recovered Instrument data
-Ingest.presf-abc-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/instrmts/dcl35/PRESF*/*presf*.hex,CE06ISSM-MFD35-02-PRESFA000,recovered_inst,Recovered Instrument data
-Ingest.adcpt-m-dspec_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/instrmts/dcl35/ADCPT*/DSpec*.txt,CE06ISSM-MFD35-04-ADCPTM000,recovered_inst,Recovered Instrument data
-Ingest.adcpt-m-fcoeff_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/instrmts/dcl35/ADCPT*/FCoeff*.txt,CE06ISSM-MFD35-04-ADCPTM000,recovered_inst,Recovered Instrument data
-Ingest.adcpt-m-log9_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/instrmts/dcl35/ADCPT*/*LOG9.TXT,CE06ISSM-MFD35-04-ADCPTM000,recovered_inst,Recovered Instrument data
-Ingest.adcpt-m-wvs_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/instrmts/dcl35/ADCPT*/*.WVS,CE06ISSM-MFD35-04-ADCPTM000,recovered_inst,Recovered Instrument data
-Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/instrmts/dcl35/ADCPT*/*.000,CE06ISSM-MDF35-04-ADCPTM000,recovered_inst,
+# 
+# Ingest.vel3d-cd-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/instrmts/dcl35/VEL3D_*/*vel3d*.VEC,CE06ISSM-MFD35-01-VEL3DD000,recovered_inst,Recovered Instrument data
+Ingest.presf-abc_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/instrmts/dcl35/PRESF*/*presf*.hex,CE06ISSM-MFD35-02-PRESFA000,recovered_inst,Recovered Instrument data
+# Ingest.adcpt-m-dspec_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/instrmts/dcl35/ADCPT*/DSpec*.txt,CE06ISSM-MFD35-04-ADCPTM000,recovered_inst,Recovered Instrument data
+# Ingest.adcpt-m-fcoeff_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/instrmts/dcl35/ADCPT*/FCoeff*.txt,CE06ISSM-MFD35-04-ADCPTM000,recovered_inst,Recovered Instrument data
+# Ingest.adcpt-m-log9_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/instrmts/dcl35/ADCPT*/*LOG9.TXT,CE06ISSM-MFD35-04-ADCPTM000,recovered_inst,Recovered Instrument data
+# Ingest.adcpt-m-wvs_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/instrmts/dcl35/ADCPT*/*.WVS,CE06ISSM-MFD35-04-ADCPTM000,recovered_inst,Recovered Instrument data
+# Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/instrmts/dcl35/ADCPT*/*.000,CE06ISSM-MFD35-04-ADCPTM000,recovered_inst,
 Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/instrmts/dcl35/PCO2W*/*pco2w*.txt,CE06ISSM-MFD35-05-PCO2WB000,recovered_inst,Recovered Instrument data
 #Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/instrmts/dcl35/PHSEN*/*phsen*.txt,CE06ISSM-MFD35-06-PHSEND000,recovered_inst,Instrument not deployed
+# 
 Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/instrmts/dcl37/CTDBP*/*.hex,CE06ISSM-MFD37-03-CTDBPC000,recovered_inst,Recovered Instrument data
 Ingest.dosta-abcdjm-ctdbp_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/instrmts/dcl37/CTDBP*/*.hex,CE06ISSM-MFD37-03-DOSTAD000,recovered_inst,Recovered Instrument data
 #,/omc_data/whoi/OMC/CE06ISSM/R00003/instrmts/dcl37/ZPLSC_*/*zplsc*/DATA/*/*.01A,CE06ISSM-MFD37-07-ZPLSCC000,recovered_inst,Recovered Instrument data. No data on server or driver for this instrument.
