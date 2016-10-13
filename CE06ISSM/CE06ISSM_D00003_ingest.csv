@@ -3,7 +3,7 @@ uframe_route,filename_mask,reference_designator,data_source,
 Ingest.velpt-ab-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00003/dcl17/velpt*/*.velpt*.log,CE06ISSM-SBD17-04-VELPTA000,telemetered,
 #,/omc_data/whoi/OMC/CE06ISSM/D00003/dcl17/ctdbp*/*.ctdbp*.log,CE06ISSM-SBD17-06-CTDBPC000,telemetered,"CTDBP with FLORT attached, no driver currently exists for this data set"
 #,/omc_data/whoi/OMC/CE06ISSM/D00003/dcl17/ctdbp*/*.ctdbp*.log,CE06ISSM-SBD17-06-FLORTD000,telemetered,"CTDBP with FLORT attached, no driver currently exists for this data set"
-# 
+# ,,,,
 #Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00003/dcl16/optaa*/*.optaa*.log,CE06ISSM-RID16-01-OPTAAD000,telemetered,
 Ingest.flort-dj-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00003/dcl16/flort/*.flort.log,CE06ISSM-RID16-02-FLORTD000,telemetered,
 Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00003/dcl16/ctdbp1/*.ctdbp*.log,CE06ISSM-RID16-03-CTDBPC000,telemetered,Uses record stream ctdbp_cdef_dcl_ce_instrument
@@ -13,19 +13,19 @@ Ingest.pco2w-abc-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00003/dcl16/pco2w*
 Ingest.phsen-abcdef-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00003/dcl16/phsen*/*.phsen*.log,CE06ISSM-RID16-06-PHSEND000,telemetered,
 Ingest.nutnr-b-dcl-conc_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00003/dcl16/nutnr/*.nutnr.log,CE06ISSM-RID16-07-NUTNRB000,telemetered,
 Ingest.spkir-abj-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00003/dcl16/spkir/*.spkir.log,CE06ISSM-RID16-08-SPKIRB000,telemetered,
-# 
+# ,,,,
 #,,CE06ISSM-MFD35-01-VEL3DD000,telemetered,No CPM/DCL systems on MFN. All instruments set to internally record
 #,,CE06ISSM-MFD35-02-PRESFA000,telemetered,No CPM/DCL systems on MFN. All instruments set to internally record
 #,,CE06ISSM-MFD35-04-ADCPTM000,telemetered,No CPM/DCL systems on MFN. All instruments set to internally record
 #,,CE06ISSM-MFD35-05-PCO2WB000,telemetered,Not installed
 #,,CE06ISSM-MFD35-06-PHSEND000,telemetered,Instrument not available for deployment
-# 
+# ,,,,
 #,,CE06ISSM-MFD37-01-OPTAAD000,telemetered,Not installed
 #,,CE06ISSM-MFD37-03-CTDBPC000,telemetered,No CPM/DCL systems on MFN. All instruments set to internally record
 #,,CE06ISSM-MFD37-03-DOSTAD000,telemetered,No CPM/DCL systems on MFN. All instruments set to internally record
 #,,CE06ISSM-MFD37-06-CAMDSA000,telemetered,Instrument not available for deployment
 #,,CE06ISSM-MFD37-07-ZPLSCC000,telemetered,No CPM/DCL systems on MFN. All instruments set to internally record
-# 
+# ,,,,
 Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00003/irid2shore/cpm_status*.txt,CE06ISSM-SBC11-00-CPMENG000,telemetered,
 Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00003/dcl16/syslog/*.syslog.log,CE06ISSM-RID16-00-DCLENG000,telemetered,
 Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00003/dcl17/syslog/*.syslog.log,CE06ISSM-SBD17-00-DCLENG000,telemetered,

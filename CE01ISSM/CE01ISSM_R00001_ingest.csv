@@ -3,7 +3,7 @@ Ingest.mopak-o-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/cg_data/dcl17/mo
 # Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/cg_data/dcl17/velpt*/*velpt*.log,CE01ISSM-SBD17-04-VELPTA000,recovered_host,No data in files due to DCL failure
 #,,CE01ISSM-SBD17-06-CTDBPC000,recovered_host,CTDBP with FLORT not installed in the spring/summer
 #,,CE01ISSM-SBD17-06-FLORTD000,recovered_host,CTDBP with FLORT not installed in the spring/summer
-# 
+# ,,,,
 Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/cg_data/dcl16/optaa*/*optaa*.log,CE01ISSM-RID16-01-OPTAAD000,recovered_host,
 Ingest.flort-dj-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/cg_data/dcl16/flort*/*flort*.log,CE01ISSM-RID16-02-FLORTD000,recovered_host,
 # Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/cg_data/dcl16/ctdbp*/*ctdbp*.log,CE01ISSM-RID16-03-CTDBPC000,recovered_host,No data in files due to DCL failure
@@ -13,13 +13,13 @@ Ingest.pco2w-abc-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/cg_data/dcl16/
 Ingest.phsen-abcdef-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/cg_data/dcl16/phsen*/*phsen*.log,CE01ISSM-RID16-06-PHSEND000,recovered_host,
 Ingest.nutnr-b-dcl-conc_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/cg_data/dcl16/nutnr*/*nutnr*.log,CE01ISSM-RID16-07-NUTNRB000,recovered_host,
 Ingest.spkir-abj-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/cg_data/dcl16/spkir*/*spkir*.log,CE01ISSM-RID16-08-SPKIRB000,recovered_host,
-# 
+# ,,,,
 # Ingest.vel3d-cd-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/cg_data/dcl35/vel3d*/*vel3d*.log,CE01ISSM-MFD35-01-VEL3DD000,recovered_host,No data in files due to DCL failure
 Ingest.presf-abc-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/cg_data/dcl35/presf*/*presf*.log,CE01ISSM-MFD35-02-PRESFA000,recovered_host,
 Ingest.adcpt-acfgm-dcl-pd0_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/cg_data/dcl35/adcpt*/*adcpt*.log,CE01ISSM-MFD35-04-ADCPTM000,recovered_host,
 Ingest.pco2w-abc-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/cg_data/dcl35/pco2w*/*pco2w*.log,CE01ISSM-MFD35-05-PCO2WB000,recovered_host,
 Ingest.phsen-abcdef-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/cg_data/dcl35/phsen*/*phsen*.log,CE01ISSM-MFD35-06-PHSEND000,recovered_host,
-# 
+# ,,,,
 Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/cg_data/dcl37/optaa*/*optaa*.log,CE01ISSM-MFD37-01-OPTAAD000,recovered_host,
 # Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/cg_data/dcl37/ctdbp*/*ctdbp*.log,CE01ISSM-MFD37-03-CTDBPC000,recovered_host,No data in files due to DCL failure
 # Ingest.dosta-abcdjm-ctdbp-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/cg_data/dcl37/ctdbp*/*ctdbp*.log,CE01ISSM-MFD37-03-DOSTAD000,recovered_host,The data for the DOSTA is available in */dcl37/ctdbp2. No data in files due to DCL failure
@@ -37,14 +37,14 @@ Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/cg_data/dcl37
 Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/instrmt/dcl17/VELPT*/ce01issm_velpt*.aqd,CE01ISSM-SBD17-04-VELPTA000,recovered_inst,
 #,,CE01ISSM-SBD17-06-CTDBPC000,recovered_host,CTDBP with FLORT not installed in the spring/summer
 #,,CE01ISSM-SBD17-06-FLORTD000,recovered_host,CTDBP with FLORT not installed in the spring/summer
-# 
+# ,,,,
 Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/instrmt/dcl16/CTDBP*/ce01issm_ctdbp*.hex,CE01ISSM-RID16-03-CTDBPC000,recovered_inst,
 Ingest.dosta-abcdjm-ctdbp_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/instrmt/dcl16/CTDBP*/ce01issm_ctdbp*.hex,CE01ISSM-RID16-03-DOSTAD000,recovered_inst,
 Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/instrmt/dcl16/VELPT*/ce01issm_velpt*.aqd,CE01ISSM-RID16-04-VELPTA000,recovered_inst,
 Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/instrmt/dcl16/PCO2W*/ce01issm_pco2w*.txt,CE01ISSM-RID16-05-PCO2WB000,recovered_inst,
 Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/instrmt/dcl16/PHSEN*/ce01issm_phsen*.txt,CE01ISSM-RID16-06-PHSEND000,recovered_inst,
 # Ingest.nutnr-b_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/instrmt/dcl16/NUTNR*/ce01issm_nutnr*/*.DAT,CE01ISSM-RID16-07-NUTNRB000,recovered_inst,mi.dataset.driver.nutnr_b.nutnr_b_recovered_driver not parsing this data
-# 
+# ,,,,
 Ingest.vel3d-cd-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/instrmt/dcl35/VEL3D_*/*_vel3d*.VEC,CE01ISSM-MFD35-01-VEL3DD000,recovered_inst,
 Ingest.presf-abc_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/instrmt/dcl35/PRESF_*/*_presf_*.hex,CE01ISSM-MFD35-02-PRESFA000,recovered_inst,
 Ingest.adcpt-m-dspec_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/instrmt/dcl35/ADCPT*/ce01issm_adcpt_*/DSpec*.txt,CE01ISSM-MFD35-04-ADCPTM000,recovered_inst,
@@ -54,6 +54,6 @@ Ingest.adcpt-m-wvs_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/instrmt/dcl35/AD
 Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/instrmt/dcl35/ADCPT*/*.000,CE01ISSM-MFD35-04-ADCPTM000,recovered_inst,
 Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/instrmt/dcl35/PCO2W_*/*_pco2w*.txt,CE01ISSM-MFD35-05-PCO2WB000,recovered_inst,
 Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/instrmt/dcl35/PHSEN_*/*_phsen_*.txt,CE01ISSM-MFD35-06-PHSEND000,recovered_inst,
-# 
+# ,,,,
 Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/instrmt/dcl37/CTDBP*/ce01issm_ctdbp*.hex,CE01ISSM-MFD37-03-CTDBPC000,recovered_inst,
 Ingest.dosta-abcdjm-ctdbp_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/instrmt/dcl37/CTDBP*/ce01issm_ctdbp*.hex,CE01ISSM-MFD37-03-DOSTAD000,recovered_inst,
