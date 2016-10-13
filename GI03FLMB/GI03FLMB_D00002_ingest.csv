@@ -4,13 +4,13 @@ Ingest.phsen-abcdef-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00002/*phsen*.d
 Ingest.dosta-abcdjm-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00002/*dosta_*.dat,GI03FLMB-RIS01-03-DOSTAD000,telemetered,
 Ingest.adcps-jln-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00002/*adcps_*.dat,GI03FLMB-RIM01-02-ADCPSL007,telemetered,
 Ingest.ctdmo-ghqr-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00002/*ctdmo_*.dat,GI03FLMB-RIM01-02-CTDMOG000,telemetered,
-#,,GI03FLMB-RI000-00-CTDMOH000,telemetered,4 CTDMO not installed on secondary controller
-#,,GI03FLMB-RI000-00-CTDMOH700,telemetered,
-#,,GI03FLMB-RI000-00-CTDMOH400,telemetered,
-#,,GI03FLMB-RI000-00-CTDMOH100,telemetered,
-#,,GI03FLMB-RI000-00-VELPTB000,telemetered,No Velpt installed
-#,,GI03FLMB-RI000-00-VELPTB700,telemetered,
-#,,GI03FLMB-RI000-00-VELPTB400,telemetered,
-#,,GI03FLMB-RI000-00-VELPTB100,telemetered,
+#,,GI03FLMB-RI000-00-CTDMOH000,telemetered,Does not telemeter data
+#,,GI03FLMB-RI000-00-CTDMOH700,telemetered,Does not telemeter data
+#,,GI03FLMB-RI000-00-CTDMOH400,telemetered,Does not telemeter data
+#,,GI03FLMB-RI000-00-CTDMOH100,telemetered,Does not telemeter data
+#,,GI03FLMB-RI000-00-VELPTB000,telemetered,Does not telemeter data
+#,,GI03FLMB-RI000-00-VELPTB700,telemetered,Does not telemeter data
+#,,GI03FLMB-RI000-00-VELPTB400,telemetered,Does not telemeter data
+#,,GI03FLMB-RI000-00-VELPTB100,telemetered,Does not telemeter data
 Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00002/*status_1487401.dat,GI03FLMB-RIS01-00-SIOENG000,telemetered,
 Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00002/*status_1487601.dat,GI03FLMB-RIM01-00-SIOENG000,telemetered,

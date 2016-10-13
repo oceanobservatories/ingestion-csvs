@@ -19,7 +19,7 @@ Ingest.flort-dj-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl16/F
 Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl16/CTDBP*/*ctdbp.log,GI01SUMO-RID16-03-CTDBPF000,recovered_host,
 #,,GI01SUMO-RID16-03-CTDBPF000,recovered_inst,no inst data available due to damaged Y-cable
 Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl16/VELPT*/*.velpt*.log,GI01SUMO-RID16-04-VELPTA000,recovered_host,
-#,,GI01SUMO-RID16-04-VELPTA000,recovered_inst,no inst data
+#,,GI01SUMO-RID16-04-VELPTA000,recovered_inst,Instrument did not log data internally
 Ingest.pco2w-abc-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl16/PCO2W*/*.pco2w.log,GI01SUMO-RID16-05-PCO2WB000,recovered_host,
 Ingest.dosta-abcdjm-ctdbp-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl16/CTDBP*/*ctdbp.log,GI01SUMO-RID16-06-DOSTAD000,recovered_host,
 Ingest.nutnr-b-dcl-conc_recovered,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl16/NUTNR*/*.nutnr2.log,GI01SUMO-RID16-07-NUTNRB000,recovered_host,
@@ -28,24 +28,24 @@ Ingest.spkir-abj-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl16/
 Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl11/imm/ADCP_sn21717/*018.000,GI01SUMO-RII11-02-ADCPSN010,recovered_inst,
 Ingest.adcps-jln-stc_recovered,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl11/imm/ADCP_sn21717/adcp_*.DAT,GI01SUMO-RII11-02-ADCPSN010,recovered_host,
 Ingest.phsen-abcdef-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl11/imm/PHSEN_snP0071/*.DAT,GI01SUMO-RII11-02-PHSENE041,recovered_host,
-#,,GI01SUMO-RII11-02-PHSENE041,recovered_inst,no inst data available
-#,,GI01SUMO-RII11-02-CTDBPP031,recovered_host,not installed
-#,,GI01SUMO-RII11-02-DOSTAD031,recovered_host,not installed
-#,,GI01SUMO-RII11-02-FLORDG031,recovered_host,not installed
-#Ingest.pco2w-abc-imodem_recovered,/*.DAT,GI01SUMO-RII11-02-PCO2WC051,recovered_host,No data on server
-#Ingest.pco2w-abc_recovered,/SAMI*.txt,GI01SUMO-RII11-02-PCO2WC051,recovered_inst,No data on server
-#,,GI01SUMO-RII11-02-CTDBPP032,recovered_host,not installed
-#,,GI01SUMO-RII11-02-DOSTAD032,recovered_host,not installed
-#,,GI01SUMO-RII11-02-FLORDG032,recovered_host,not installed
-#Ingest.pco2w-abc-imodem_recovered,/*.DAT,GI01SUMO-RII11-02-PCO2WC052,recovered_host,No data on server
-#Ingest.pco2w-abc_recovered,/SAMI*.txt,GI01SUMO-RII11-02-PCO2WC052,recovered_inst,No data on server
+#,,GI01SUMO-RII11-02-PHSENE041,recovered_inst,no inst data available - instrument came apart during deployment
+#,,GI01SUMO-RII11-02-CTDBPP031,recovered_host,Not deployed
+#,,GI01SUMO-RII11-02-DOSTAD031,recovered_host,Not deployed
+#,,GI01SUMO-RII11-02-FLORDG031,recovered_host,Not deployed
+#Ingest.pco2w-abc-imodem_recovered,/*.DAT,GI01SUMO-RII11-02-PCO2WC051,recovered_host,Not deployed
+#Ingest.pco2w-abc_recovered,/SAMI*.txt,GI01SUMO-RII11-02-PCO2WC051,recovered_inst,Not deployed
+#,,GI01SUMO-RII11-02-CTDBPP032,recovered_host,Not deployed
+#,,GI01SUMO-RII11-02-DOSTAD032,recovered_host,Not deployed
+#,,GI01SUMO-RII11-02-FLORDG032,recovered_host,Not deployed
+#Ingest.pco2w-abc-imodem_recovered,/*.DAT,GI01SUMO-RII11-02-PCO2WC052,recovered_host,Not deployed
+#Ingest.pco2w-abc_recovered,/SAMI*.txt,GI01SUMO-RII11-02-PCO2WC052,recovered_inst,Not deployed
 Ingest.phsen-abcdef-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl11/imm/PHSEN_snP0101/*.DAT,GI01SUMO-RII11-02-PHSENE042,recovered_host,
 Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl11/imm/PHSEN_snP0101/SAMI*.txt,GI01SUMO-RII11-02-PHSENE042,recovered_inst,
-#,,GI01SUMO-RII11-02-CTDBPP033,recovered_host,not installed
-#,,GI01SUMO-RII11-02-DOSTAD033,recovered_host,not installed
-#,,GI01SUMO-RII11-02-FLORDG033,recovered_host,not installed
-#Ingest.pco2w-abc-imodem_recovered,/*.DAT,GI01SUMO-RII11-02-PCO2WC053,recovered_host,No data on server
-#Ingest.pco2w-abc_recovered,/SAMI*.txt,GI01SUMO-RII11-02-PCO2WC053,recovered_inst,No data on server
+#,,GI01SUMO-RII11-02-CTDBPP033,recovered_host,Not deployed
+#,,GI01SUMO-RII11-02-DOSTAD033,recovered_host,Not deployed
+#,,GI01SUMO-RII11-02-FLORDG033,recovered_host,Not deployed
+#Ingest.pco2w-abc-imodem_recovered,/*.DAT,GI01SUMO-RII11-02-PCO2WC053,recovered_host,Not deployed
+#Ingest.pco2w-abc_recovered,/SAMI*.txt,GI01SUMO-RII11-02-PCO2WC053,recovered_inst,Not deployed
 #,,,,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl11/imm/CTDMO_sn37-11477/*.hex,GI01SUMO-RII11-02-CTDMOQ011,recovered_inst,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl11/imm/CTDMO_sn37-11476/*.hex,GI01SUMO-RII11-02-CTDMOQ031,recovered_inst,
