@@ -1,8 +1,8 @@
 uframe_route,filename_mask,reference_designator,data_source,
 #Ingest.mopak-o-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00004/dcl17/mopak/*.mopak.log,CE06ISSM-SBD17-01-MOPAK0000,telemetered,MOPAK data files are too large to telemetered via Iridium. Data available upon recovery
 Ingest.velpt-ab-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00004/dcl17/velpt1/*.velpt*.log,CE06ISSM-SBD17-04-VELPTA000,telemetered,
-# ,/omc_data/whoi/OMC/CE06ISSM/D00004/dcl17/ctdbp*/*.ctdbp*.log,CE06ISSM-SBD17-06-CTDBPC000,telemetered,CTDBP with FLORT not installed in the spring/summer,no parser
-# ,/omc_data/whoi/OMC/CE06ISSM/D00004/dcl17/ctdbp*/*.ctdbp*.log,CE06ISSM-SBD17-06-FLORTD000,telemetered,CTDBP with FLORT not installed in the spring/summer,no parser
+# ,/omc_data/whoi/OMC/CE06ISSM/D00004/dcl17/ctdbp*/*.ctdbp*.log,CE06ISSM-SBD17-06-CTDBPC000,telemetered,CTDBP with FLORT not installed in the spring/summer. No parser
+# ,/omc_data/whoi/OMC/CE06ISSM/D00004/dcl17/ctdbp*/*.ctdbp*.log,CE06ISSM-SBD17-06-FLORTD000,telemetered,CTDBP with FLORT not installed in the spring/summer. No parser
 # ,,,,
 Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00004/dcl16/optaa1/*.optaa*.log,CE06ISSM-RID16-01-OPTAAD000,telemetered,
 Ingest.flort-dj-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00004/dcl16/flort/*.flort.log,CE06ISSM-RID16-02-FLORTD000,telemetered,
