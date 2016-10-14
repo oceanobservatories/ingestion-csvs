@@ -32,8 +32,8 @@ uframe_route,filename_mask,reference_designator,data_source,
 #Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00002/dcl37/OPTAA*/*.optaa2.log,CP01CNSM-MFD37-01-OPTAAD000,recovered_host,
 #Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00002/dcl37/CTDBP*/*ctdbp*.log,CP01CNSM-MFD37-03-CTDBPD000,recovered_host,
 #Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00002/dcl37/DOSTA*/*dosta*.log,CP01CNSM-MFD37-04-DOSTAD000,recovered_host,
-#,/omc_data/whoi/OMC/CP01CNSM/R00002/cg_data/dcl37/zplsc/*.zplsc.log,CP01CNSM-MFD37-07-ZPLSCC000,recovered_host,No driver exists
-#,/omc_data/whoi/OMC/CP01CNSM/R00002/dcl37/ZPLSC_*/*zplsc*/DATA/*/*.01A,CP01CNSM-MFD37-07-ZPLSCC000,recovered_host,No driver exists
+#,,CP01CNSM-MFD37-07-ZPLSCC000,recovered_host,No driver exists
+#,,CP01CNSM-MFD37-07-ZPLSCC000,recovered_inst,No driver exists
 #Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP01CNSM/R00002/cg_data/irid2shore/cpm_status*.txt,CP01CNSM-SBC11-00-CPMENG000,recovered_host,
 #Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP01CNSM/R00002/cg_data/cpm2/syslog/cpm_status.txt,CP01CNSM-RIC21-00-CPMENG000,recovered_host,
 #Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP01CNSM/R00002/cg_data/cpm3/syslog/cpm_status.txt,CP01CNSM-MFC31-00-CPMENG000,recovered_host,
