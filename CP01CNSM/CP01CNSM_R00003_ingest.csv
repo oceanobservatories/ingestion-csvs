@@ -21,8 +21,9 @@ Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl27
 Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl27/CTDBP*/6841.hex,CP01CNSM-RID27-03-CTDBPC000,recovered_inst,
 Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl27/DOSTA*/*.dosta*.log,CP01CNSM-RID27-04-DOSTAD000,recovered_host,
 Ingest.adcpt-acfgm-dcl-pd8_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl35/ADCP*/*adcp*.log,CP01CNSM-MFD35-01-ADCPTF000,recovered_host,
+Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl35/ADCP*/*RDI*.000,CP01CNSM-MFD35-01-ADCPTF000,recovered_inst,
 Ingest.presf-abc-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl35/PRESF*/*.presf.log,CP01CNSM-MFD35-02-PRESFB000,recovered_host,
-#Ingest.presf-abc_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl35/PRESF_*/PRESF*.hex,CP01CNSM-MFD35-02-PRESFB000,recovered_inst,No driver exists
+Ingest.presf-abc_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl35/PRESF*/PRESF*.hex,CP01CNSM-MFD35-02-PRESFB000,recovered_inst,
 Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl35/VELPT*/*velpt*.log,CP01CNSM-MFD35-04-VELPTA000,recovered_host,
 Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl35/VELPT_*/VELPT*.aqd,CP01CNSM-MFD35-04-VELPTA000,recovered_inst,
 Ingest.pco2w-abc-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl35/PCO2W*/*.pco2w.log,CP01CNSM-MFD35-05-PCO2WB000,recovered_host,

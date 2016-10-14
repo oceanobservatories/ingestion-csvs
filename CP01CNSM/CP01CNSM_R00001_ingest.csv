@@ -20,6 +20,7 @@ Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl27/CTDBP*/
 Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl27/CTDBP*/SBE*.hex,CP01CNSM-RID27-03-CTDBPC000,recovered_inst,
 Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl27/DOSTA*/*.dosta*.log,CP01CNSM-RID27-04-DOSTAD000,recovered_host,
 #Ingest.adcpt-acfgm-dcl-pd8_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl35/ADCP*/*adcp*.log,CP01CNSM-MFD35-01-ADCPTF000,recovered_host,Instrument setup incorrectly - data not retrievable
+#Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl35/ADCP*/*RDI*.000,CP01CNSM-MFD35-01-ADCPTF000,recovered_inst,Instrument setup incorrectly - data not retrievable
 #Ingest.presf-abc-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl35/PRESF*/*.presf.log,CP01CNSM-MFD35-02-PRESFB000,recovered_host,Instrument setup incorrectly - data not retrievable
 #Ingest.presf-abc_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl35/PRESF_*/PRESF*.hex,CP01CNSM-MFD35-02-PRESFB000,recovered_inst,Instrument setup incorrectly - data not retrievable
 #Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl35/velpt*/*velpt*.log,CP01CNSM-MFD35-04-VELPTA000,recovered_host,No Data
