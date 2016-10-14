@@ -32,7 +32,7 @@ Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/cg_data/dcl17
 Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/cg_data/cpm3/syslog*/cpm_status*.txt,CE01ISSM-MFC31-00-CPMENG000,recovered_host,Only one file
 Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/cg_data/dcl35/syslog*/*syslog*.log,CE01ISSM-MFD35-00-DCLENG000,recovered_host,
 Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/cg_data/dcl37/syslog*/*syslog*.log,CE01ISSM-MFD37-00-DCLENG000,recovered_host,
-# 
+# ,,,,
 #,,,,The following assume we are processing data directly from the instrument
 Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CE01ISSM/R00001/instrmt/dcl17/VELPT*/ce01issm_velpt*.aqd,CE01ISSM-SBD17-04-VELPTA000,recovered_inst,
 #,,CE01ISSM-SBD17-06-CTDBPC000,recovered_host,CTDBP with FLORT not installed in the spring/summer

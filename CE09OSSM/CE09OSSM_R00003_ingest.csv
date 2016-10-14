@@ -52,7 +52,7 @@
 # Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CE09OSSM/R00003/instrmts/dcl27/CTDBP_*/*.hex,CE09OSSM-RID27-03-CTDBPC000,recovered_inst,
 # #,,,,
 # Ingest.vel3d-cd-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00003/instrmts/dcl35/VEL3D_*/*.VEC,CE09OSSM-MFD35-01-VEL3DD000,recovered_inst,
-# #,/omc_data/whoi/OMC/CE09OSSM/R00003/instrmts/dcl35/PRESF_*/*presf*.hex,CE09OSSM-MFD35-02-PRESFC000,recovered_inst,No driver for this recovered instrument
+# Ingest.presf-abc_recovered,/omc_data/whoi/OMC/CE09OSSM/R00003/instrmts/dcl35/PRESF_*/*presf*.hex,CE09OSSM-MFD35-02-PRESFC000,recovered_inst,
 # Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/CE09OSSM/R00003/instrmts/dcl35/ADCPS_*/*.000,CE09OSSM-MFD35-04-ADCPSJ000,recovered_inst,Correct route?
 # Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/CE09OSSM/R00003/instrmts/dcl35/PCO2W_*/*pco2w*.txt,CE09OSSM-MFD35-05-PCO2WB000,recovered_inst,Recovered Instrument data
 # Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CE09OSSM/R00003/instrmts/dcl35/PHSEN_*/*phsen*.txt,CE09OSSM-MFD35-06-PHSEND000,recovered_inst,Recovered Instrument data

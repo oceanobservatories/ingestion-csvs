@@ -28,7 +28,7 @@ uframe_route,filename_mask,reference_designator,data_source,
 # Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE02SHSM/R00003/cg_data/dcl27/syslog/*.syslog.log,CE02SHSM-RID27-00-DCLENG000,recovered_host,
 # # ,,,,
 # Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CE02SHSM/R00003/instrmts/dcl11/VELPT_*/*velpt*.aqd,CE02SHSM-SBD11-04-VELPTA000,recovered_inst,Recovered Instrument data
-# #
+# # ,,,,
 # # ,/omc_data/whoi/OMC/CE02SHSM/R00003/instrmts/dcl12/PCO2A_*/*poc2a*.log,CE02SHSM-SBD12-04-PCO2AA000,recovered_inst,No driver exists for recovered pco2a data
 # # ,/omc_data/whoi/OMC/CE02SHSM/R00003/instrmts/dcl12/WAVSS_*/,CE02SHSM-SBD12-05-WAVSSA000,recovered_inst,No driver exists for recovered instrument wavss data.
 # #Ingest.fdchp-a_recovered,/omc_data/whoi/OMC/CE02SHSM/R00003/instrmts/dcl12/FDCHP_*/*fdchp*/*/fdchp*.dat,CE02SHSM-SBD12-08-FDCHPA000,recovered_inst,Recovered Instrument data
@@ -37,5 +37,5 @@ uframe_route,filename_mask,reference_designator,data_source,
 # Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CE02SHSM/R00003/instrmts/dcl26/VELPT_*/*velpt*.aqd,CE02SHSM-RID26-04-VELPTA000,recovered_inst,Recovered Instrument data
 # Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CE02SHSM/R00003/instrmts/dcl26/PHSEN_*/*phsen*.txt,CE02SHSM-RID26-06-PHSEND000,recovered_inst,Recovered Instrument data
 # Ingest.nutnr-b_recovered,/omc_data/whoi/OMC/CE02SHSM/R00003/instrmts/dcl26/NUTNR_*/*nutnr*/*SCH*.DAT,CE02SHSM-RID26-07-NUTNRB000,recovered_inst,Recovered Instrument data
-# #
+# # ,,,,
 # Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CE02SHSM/R00003/instrmts/dcl27/CTDBP_*/*ctdbp*.hex,CE02SHSM-RID27-03-CTDBPC000,recovered_inst,Recovered Instrument data
