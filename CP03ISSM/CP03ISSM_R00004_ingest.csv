@@ -18,7 +18,7 @@ uframe_route,filename_mask,reference_designator,data_source,
 #Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00004/cg_data/dcl27/DOSTA_sn130/*dosta1*.log,CP03ISSM-RID27-04-DOSTAD000,recovered_host,not recovered yet
 #Ingest.adcpt-acfgm-dcl-pd8_recovered,/omc_data/whoi/OMC/CP03ISSM/R00004/cg_data/dcl35/ADCP_sn18594/_RDI*.000,CP03ISSM-MFD35-01-ADCPTF000,recovered_inst,not recovered yet
 #Ingest.adcpt-acfgm-dcl-pd8_recovered,/omc_data/whoi/OMC/CP03ISSM/R00004/cg_data/dcl35/ADCP_sn18594/*adcp.log,CP03ISSM-MFD35-01-ADCPTF000,recovered_host,not recovered yet
-#Ingest.presf-abc_recovered,/omc_data/whoi/OMC/CP03ISSM/R00004/cg_data/dcl35/PRESF_sn1329/PRESF*.hex,CP03ISSM-MFD35-02-PRESFB000,recovered_inst,No driver exists
+#Ingest.presf-abc_recovered,/omc_data/whoi/OMC/CP03ISSM/R00004/cg_data/dcl35/PRESF_sn1329/PRESF*.hex,CP03ISSM-MFD35-02-PRESFB000,recovered_inst,not recovered yet
 #Ingest.presf-abc-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00004/cg_data/dcl35/PRESF_sn1329/*presf.log,CP03ISSM-MFD35-02-PRESFB000,recovered_host,not recovered yet
 #Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CP03ISSM/R00004/cg_data/dcl35/VELPT_sn12234/*.aqd,CP03ISSM-MFD35-04-VELPTA000,recovered_inst,not recovered yet
 #Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00004/cg_data/dcl35/VELPT_sn12234/*velpt2.log,CP03ISSM-MFD35-04-VELPTA000,recovered_host,not recovered yet
@@ -30,7 +30,7 @@ uframe_route,filename_mask,reference_designator,data_source,
 #Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CP03ISSM/R00004/cg_data/dcl37/CTDBP_sn16-50058/SBE*.hex,CP03ISSM-MFD37-03-CTDBPD000,recovered_inst,not recovered yet
 #Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00004/cg_data/dcl37/CTDBP_sn16-50058/*ctdbp2*.log,CP03ISSM-MFD37-03-CTDBPD000,recovered_host,not recovered yet
 #Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00004/cg_data/dcl37/DOSTA_sn225/*dosta2*.log,CP03ISSM-MFD37-04-DOSTAD000,recovered_host,not recovered yet
-# Ingest.zplsc-c-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/R00004/cg_data/dcl37/ZPLSC_sn55080,CP03ISSM-MFD37-07-ZPLSCC000,recovered_host,not recovered yet
+# Ingest.zplsc-c-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/R00004/cg_data/dcl37/ZPLSC_sn55080,CP03ISSM-MFD37-07-ZPLSCC000,recovered_host,No parser
 # Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP03ISSM/R00004/cg_data/irid2shore/cpm_status*.txt,CP03ISSM-SBC11-00-CPMENG000,recovered_host,not recovered yet
 # Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP03ISSM/R00004/cg_data/cpm2/syslog/cpm_status*.txt,CP03ISSM-RIC21-00-CPMENG000,recovered_host,not recovered yet
 # Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP03ISSM/R00004/cg_data/cpm3/syslog/cpm_status*.txt,CP03ISSM-MFC31-00-CPMENG000,recovered_host,not recovered yet

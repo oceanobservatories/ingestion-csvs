@@ -18,7 +18,7 @@ Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl27/CTD
 # Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl27/DOSTA_sn389/*dosta*.log,CP03ISSM-RID27-04-DOSTAD000,recovered_host,No data on server
 Ingest.adcpt-acfgm-dcl-pd8_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl35/ADCP_sn19221/_RDI*.000,CP03ISSM-MFD35-01-ADCPTF000,recovered_inst,
 #Ingest.presf-abc-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl35/PRESF_sn26P76848-1387/*presf.log,CP03ISSM-MFD35-02-PRESFB000,recovered_host,No data on server
-#Ingest.presf-abc_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl35/PRESF_sn26P76848-1387/PRESF*.hex,CP03ISSM-MFD35-02-PRESFB000,recovered_inst,No driver exists
+Ingest.presf-abc_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl35/PRESF_sn26P76848-1387/PRESF*.hex,CP03ISSM-MFD35-02-PRESFB000,recovered_inst,
 Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl35/VELPT_snAQD-11412/*.aqd,CP03ISSM-MFD35-04-VELPTA000,recovered_inst,
 #Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl35/VELPT_snAQD-11412/*velpt.log,CP03ISSM-MFD35-04-VELPTA000,recovered_host,No data on server
 Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl35/PCO2W_snC0071/SAMI*.txt,CP03ISSM-MFD35-05-PCO2WB000,recovered_inst,
