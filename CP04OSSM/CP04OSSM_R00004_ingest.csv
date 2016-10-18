@@ -1,7 +1,7 @@
 uframe_route,filename_mask,reference_designator,data_source,
 #Ingest.mopak-o-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl11/MOPAK_sn/*.mopak.log,CP04OSSM-SBD11-01-MOPAK0000,recovered_host,not recovered yet
 #Ingest.hyd-o-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/d11/Hydrogen_sn/*.hyd1.log,CP04OSSM-SBD11-02-HYDGN0000,recovered_host,not recovered yet
-#Ingest.metbk-a-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl11/METBK-Log_sn/*.metbk.log ,CP04OSSM-SBD11-06-METBKA000,recovered_host,not recovered yet
+#Ingest.metbk-a-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl11/METBK-Log_sn/*.metbk.log,CP04OSSM-SBD11-06-METBKA000,recovered_host,not recovered yet
 #Ingest.hyd-o-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl12/Hydrogen_sn/*.hyd2.log,CP04OSSM-SBD12-03-HYDGN0000,recovered_host,not recovered yet
 #Ingest.pco2a-a-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl12/PCO2A_sn34-229-50A/*.pco2a.log,CP04OSSM-SBD12-04-PCO2AA000,recovered_host,not recovered yet
 #Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl26/VELPT_sn11377/*.aqd,CP04OSSM-RID26-04-VELPTA000,recovered_inst,not recovered yet
