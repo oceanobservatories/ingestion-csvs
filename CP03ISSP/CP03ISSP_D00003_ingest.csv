@@ -7,3 +7,7 @@ Ingest.spkir-abj-cspp_telemetered,/omc_data/whoi/OMC/CP03ISSP/D00003/extract/ucs
 Ingest.flort-dj-cspp_telemetered,/omc_data/whoi/OMC/CP03ISSP/D00003/extract/ucspp_*_PPD_TRIP.txt,CP03ISSP-SP001-09-FLORTJ000,telemetered,
 Ingest.ctdpf-j-cspp_telemetered,/omc_data/whoi/OMC/CP03ISSP/D00003/extract/ucspp_*_PPD_CTD.txt,CP03ISSP-SP001-08-CTDPFJ000,telemetered,
 Ingest.parad-j-cspp_telemetered,/omc_data/whoi/OMC/CP03ISSP/D00003/extract/ucspp_*_PPD_PARS.txt,CP03ISSP-SP001-10-PARADJ000,telemetered,
+Ingest.dbg-pdbg-cspp_telemetered,/omc_data/whoi/OMC/CP03ISSP/D00003/extract/*PDBG.txt,CP03ISSP-SP001-00-SPPENG000,telemetered,
+#Ingest.wc-hmr-cspp_telemetered,/omc_data/whoi/OMC/CP03ISSP/D00003/extract/*WC_HMR.txt,CP03ISSP-SP001-00-SPPENG000,telemetered,No data on server
+#Ingest.wc-sbe-cspp_telemetered,/omc_data/whoi/OMC/CP03ISSP/D00003/extract/*WC_SBE.txt,CP03ISSP-SP001-00-SPPENG000,telemetered,No data on server
+#Ingest.wc-wm-cspp_telemetered,/omc_data/whoi/OMC/CP03ISSP/D00003/extract/*WC_WM.txt,CP03ISSP-SP001-00-SPPENG000,telemetered,No data on server
