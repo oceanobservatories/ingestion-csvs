@@ -31,7 +31,7 @@ Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00001/cg_data/
 Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00001/cg_data/dcl11/imm/ctdmo11/ctdmo*.DAT,GS01SUMO-RII11-02-CTDMOR019,telemetered,
 Ingest.ctdmo-ghqr-imodem_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00001/cg_data/dcl11/imm/ctdmo12/ctdmo*.DAT,GS01SUMO-RII11-02-CTDMOR020,telemetered,
 Ingest.phsen-abcdef-imodem_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00001/cg_data/dcl11/imm/phsen1/phsen*.DAT,GS01SUMO-RII11-02-PHSENE041,telemetered,
-Ingest.phsen-abcdef-imodem_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00001/cg_data/dcl11/imm/phsen2/phsen*.DAT,GS01SUMO-RII11-02-PHSENE042,telemetered,
+#Ingest.phsen-abcdef-imodem_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00001/cg_data/dcl11/imm/phsen2/phsen*.DAT,GS01SUMO-RII11-02-PHSENE042,telemetered,Not deployed
 Ingest.adcps-jln-stc_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00001/cg_data/dcl11/imm/adcp/adcp*.DAT,GS01SUMO-RII11-02-ADCPSN010,telemetered,
 Ingest.pco2w-abc-imodem_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00001/cg_data/dcl11/imm/pco2w1/pco2w1*.DAT,GS01SUMO-RII11-02-PCO2WC051,telemetered,
 #Ingest.pco2w-abc-imodem_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00001/cg_data/dcl11/imm/pco2w2/pco2w2*.DAT,GS01SUMO-RII11-02-PCO2WC052,telemetered,Not deployed
