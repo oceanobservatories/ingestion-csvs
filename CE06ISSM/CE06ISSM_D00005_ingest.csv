@@ -6,8 +6,8 @@ Ingest.velpt-ab-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl17/velpt1/
 # ,,,,
 Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl16/optaa1/*.optaa*.log,CE06ISSM-RID16-01-OPTAAD000,telemetered,
 Ingest.flort-dj-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl16/flort/*.flort.log,CE06ISSM-RID16-02-FLORTD000,telemetered,
-# Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl16/ctdbp1/*.ctdbp*.log,CE06ISSM-RID16-03-CTDBPC000,telemetered,ctdbp-cdef-dcl_telemetered does not parse the Fall 2016 deployment data
-# Ingest.dosta-abcdjm-ctdbp-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl16/ctdbp1/*.ctdbp*.log,CE06ISSM-RID16-03-DOSTAD000,telemetered,dosta-abcdjm-ctdbp-dcl_telemetered does not parse the Fall 2016 deployment data
+Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl16/ctdbp1/*.ctdbp*.log,CE06ISSM-RID16-03-CTDBPC000,telemetered,
+Ingest.dosta-abcdjm-ctdbp-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl16/ctdbp1/*.ctdbp*.log,CE06ISSM-RID16-03-DOSTAD000,telemetered,
 Ingest.velpt-ab-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl16/velpt2/*.velpt*.log,CE06ISSM-RID16-04-VELPTA000,telemetered,
 Ingest.pco2w-abc-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl16/pco2w1/*.pco2w*.log,CE06ISSM-RID16-05-PCO2WB000,telemetered,
 Ingest.phsen-abcdef-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl16/phsen1/*.phsen*.log,CE06ISSM-RID16-06-PHSEND000,telemetered,
@@ -21,8 +21,8 @@ Ingest.pco2w-abc-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl35/pco2w2
 Ingest.phsen-abcdef-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl35/phsen2/*.phsen*.log,CE06ISSM-MFD35-06-PHSEND000,telemetered,
 # ,,,,
 # Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl37/optaa2/*.optaa*.log,CE06ISSM-MFD37-01-OPTAAD000,telemetered,Instrument not deployed
-# Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl37/ctdbp2/*.ctdbp*.log,CE06ISSM-MFD37-03-CTDBPC000,telemetered,ctdbp-cdef-dcl_telemetered does not parse the Fall 2016 deployment data
-# Ingest.dosta-abcdjm-ctdbp-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl37/ctdbp2/*.ctdbp*.log,CE06ISSM-MFD37-03-DOSTAD000,telemetered,dosta-abcdjm-ctdbp-dcl_telemetered does not parse the Fall 2016 deployment data
+Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl37/ctdbp2/*.ctdbp*.log,CE06ISSM-MFD37-03-CTDBPC000,telemetered,
+Ingest.dosta-abcdjm-ctdbp-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl37/ctdbp2/*.ctdbp*.log,CE06ISSM-MFD37-03-DOSTAD000,telemetered,
 #,,CE06ISSM-MFD37-06-CAMDSA000,,"Data recorded internally by CAMDS, no DCL data recorded"
 Ingest.zplsc-c-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl37/zplsc/*.zplsc*.log,CE06ISSM-MFD37-07-ZPLSCC000,telemetered,
 # ,,,,
