@@ -29,7 +29,7 @@ Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00004/cg_data/dcl37
 Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00004/cg_data/dcl37/ctdbp*/*.ctdbp*.log,CE09OSSM-MFD37-03-CTDBPE000,telemetered,
 Ingest.dosta-abcdjm-ctdbp-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00004/cg_data/dcl37/ctdbp*/*.ctdbp*.log,CE09OSSM-MFD37-03-DOSTAD000,telemetered,
 Ingest.zplsc-c-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00004/cg_data/dcl37/zplsc/*.zplsc.log,CE09OSSM-MFD37-07-ZPLSCC000,telemetered,
-#,,CE09OSSM-MFD37-06-CAMDSA000,telemetered,DCL failed
+#,,CE09OSSM-MFD37-06-CAMDSA000,telemetered,Instrument not deployed
 # ,,,,
 Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00004/irid2shore/cpm_status.*.txt,CE09OSSM-SBC11-00-CPMENG000,telemetered,
 Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00004/cg_data/cpm2/syslog/cpm_status.txt,CE09OSSM-RIC21-00-CPMENG000,telemetered,This file is always overwritten when a newer file is telemetered to shore approximately every 3 hours.

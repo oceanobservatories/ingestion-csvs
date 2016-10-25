@@ -23,7 +23,7 @@ Ingest.phsen-abcdef-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl35/phs
 # Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl37/optaa2/*.optaa*.log,CE06ISSM-MFD37-01-OPTAAD000,telemetered,Instrument not deployed
 Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl37/ctdbp2/*.ctdbp*.log,CE06ISSM-MFD37-03-CTDBPC000,telemetered,
 Ingest.dosta-abcdjm-ctdbp-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl37/ctdbp2/*.ctdbp*.log,CE06ISSM-MFD37-03-DOSTAD000,telemetered,
-#,,CE06ISSM-MFD37-06-CAMDSA000,,"Data recorded internally by CAMDS, no DCL data recorded"
+#,,CE06ISSM-MFD37-06-CAMDSA000,,Instrument not deployed
 Ingest.zplsc-c-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl37/zplsc/*.zplsc*.log,CE06ISSM-MFD37-07-ZPLSCC000,telemetered,
 # ,,,,
 Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/irid2shore/cpm_status*.txt,CE06ISSM-SBC11-00-CPMENG000,telemetered,
