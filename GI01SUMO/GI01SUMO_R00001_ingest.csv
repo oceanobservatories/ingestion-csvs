@@ -20,10 +20,10 @@ Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl16
 #Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl16/CTDBP*/*.hex,GI01SUMO-RID16-03-CTDBPF000,recovered_inst,no inst data available due to damaged Y-cable
 Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl16/VELPT*/*.velpt*.log,GI01SUMO-RID16-04-VELPTA000,recovered_host,
 #Ingest.velpt-ab_recovered,,GI01SUMO-RID16-04-VELPTA000,recovered_inst,Instrument did not log data internally
-Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl16/PCO2W*/*.txt,GI01SUMO-RID16-05-PCO2WB000,recovered_inst,no inst data available
+#Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl16/PCO2W*/*.txt,GI01SUMO-RID16-05-PCO2WB000,recovered_inst,no inst data available
 Ingest.pco2w-abc-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl16/PCO2W*/*.pco2w.log,GI01SUMO-RID16-05-PCO2WB000,recovered_host,
 Ingest.dosta-abcdjm-ctdbp-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl16/CTDBP*/*ctdbp.log,GI01SUMO-RID16-06-DOSTAD000,recovered_host,
-Ingest.nutnr-b_recovered,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl16/NUTNR*/*.DAT,GI01SUMO-RID16-07-NUTNRB000,recovered_inst,no inst data available
+#Ingest.nutnr-b_recovered,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl16/NUTNR*/*.DAT,GI01SUMO-RID16-07-NUTNRB000,recovered_inst,no inst data available
 Ingest.nutnr-b-dcl-conc_recovered,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl16/NUTNR*/*.nutnr2.log,GI01SUMO-RID16-07-NUTNRB000,recovered_host,
 Ingest.spkir-abj-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl16/SPKIR*/*.spkir2.log,GI01SUMO-RID16-08-SPKIRB000,recovered_host,
 #,,,,
