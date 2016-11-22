@@ -1,6 +1,6 @@
 uframe_route,filename_mask,reference_designator,data_source,Note
-Ingest.glider-eng-glider_telemetered,/omc_data/whoi/OMC/CP05MOAS-GL335/D00003_temp/merged-from-glider/cp_*.mrg,CP05MOAS-GL335-00-ENG000000,telemetered,filename mask should point to D00003 once the raw data repository is fixed
-Ingest.parad-m-glider_telemetered,/omc_data/whoi/OMC/CP05MOAS-GL335/D00003_temp/merged-from-glider/cp_*.mrg,CP05MOAS-GL335-05-PARADM000,telemetered,filename mask should point to D00003 once the raw data repository is fixed
-Ingest.flort-m-glider_telemetered,/omc_data/whoi/OMC/CP05MOAS-GL335/D00003_temp/merged-from-glider/cp_*.mrg,CP05MOAS-GL335-02-FLORTM000,telemetered,filename mask should point to D00003 once the raw data repository is fixed
-Ingest.dosta-abcdjm-glider_telemetered,/omc_data/whoi/OMC/CP05MOAS-GL335/D00003_temp/merged-from-glider/cp_*.mrg,CP05MOAS-GL335-04-DOSTAM000,telemetered,filename mask should point to D00003 once the raw data repository is fixed
-Ingest.ctdgv-m-glider_telemetered,/omc_data/whoi/OMC/CP05MOAS-GL335/D00003_temp/merged-from-glider/cp_*.mrg,CP05MOAS-GL335-03-CTDGVM000,telemetered,filename mask should point to D00003 once the raw data repository is fixed
+Ingest.glider-eng-glider_telemetered,/omc_data/whoi/OMC/CP05MOAS-GL335/D00003/merged-from-glider/cp_*.mrg,CP05MOAS-GL335-00-ENG000000,telemetered,
+Ingest.parad-m-glider_telemetered,/omc_data/whoi/OMC/CP05MOAS-GL335/D00003/merged-from-glider/cp_*.mrg,CP05MOAS-GL335-05-PARADM000,telemetered,
+Ingest.flort-m-glider_telemetered,/omc_data/whoi/OMC/CP05MOAS-GL335/D00003/merged-from-glider/cp_*.mrg,CP05MOAS-GL335-02-FLORTM000,telemetered,
+Ingest.dosta-abcdjm-glider_telemetered,/omc_data/whoi/OMC/CP05MOAS-GL335/D00003/merged-from-glider/cp_*.mrg,CP05MOAS-GL335-04-DOSTAM000,telemetered,
+Ingest.ctdgv-m-glider_telemetered,/omc_data/whoi/OMC/CP05MOAS-GL335/D00003/merged-from-glider/cp_*.mrg,CP05MOAS-GL335-03-CTDGVM000,telemetered,
