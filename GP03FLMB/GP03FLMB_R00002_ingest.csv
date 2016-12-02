@@ -1,8 +1,8 @@
 uframe_route,filename_mask,reference_designator,data_source,
 Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/GP03FLMB/R00002/cg_data/dcl00/ADCP_sn20504/*.000,GP03FLMB-RIM01-02-ADCPSL007,recovered_inst,
 Ingest.adcps-jln-stc_recovered,/omc_data/whoi/OMC/GP03FLMB/R00002/cg_data/dcl00/ADCP_sn20504/ADC*.DAT,GP03FLMB-RIM01-02-ADCPSL007,recovered_host,Unable to parse files
-#Ingest.ctdmo-ghqr-sio_recovered,,GP03FLMB-RIM01-02-CTDMOG000,recovered_host,No data on server
-# Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMB/R00002/cg_data/dcl00/CTDMO-G_sn11646/SBE37*11646*.hex,GP03FLMB-RIM01-02-CTDMOG060,recovered_inst,No data on server
+#Ingest.ctdmo-ghqr-sio_recovered,,GP03FLMB-RIM01-02-CTDMOG000,recovered_host,Recovered data not available
+# Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMB/R00002/cg_data/dcl00/CTDMO-G_sn11646/SBE37*11646*.hex,GP03FLMB-RIM01-02-CTDMOG060,recovered_inst,Recovered data not available
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMB/R00002/cg_data/dcl00/CTDMO-G_sn11653/SBE37*11653*.hex,GP03FLMB-RIM01-02-CTDMOG061,recovered_inst,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMB/R00002/cg_data/dcl00/CTDMO-G_sn11641/SBE37*11641*.hex,GP03FLMB-RIM01-02-CTDMOG062,recovered_inst,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMB/R00002/cg_data/dcl00/CTDMO-G_sn11650/SBE37*11650*.hex,GP03FLMB-RIM01-02-CTDMOG063,recovered_inst,
@@ -10,7 +10,7 @@ Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMB/R00002/cg_data/dcl00/CTD
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMB/R00002/cg_data/dcl00/CTDMO-G_sn11640/SBE37*11640*.hex,GP03FLMB-RIM01-02-CTDMOG065,recovered_inst,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMB/R00002/cg_data/dcl00/CTDMO-G_sn11639/SBE37*11639*.hex,GP03FLMB-RIM01-02-CTDMOG066,recovered_inst,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMB/R00002/cg_data/dcl00/CTDMO-G_sn10223/SBE37*10223*.hex,GP03FLMB-RIM01-02-CTDMOG067,recovered_inst,
-# Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMB/R00002/cg_data/dcl00/CTDMO-G_sn11654/SBE37*11654*.hex,GP03FLMB-RIM01-02-CTDMOG068,recovered_inst,No data on server
+# Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMB/R00002/cg_data/dcl00/CTDMO-G_sn11654/SBE37*11654*.hex,GP03FLMB-RIM01-02-CTDMOG068,recovered_inst,Recovered data not available
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMB/R00002/cg_data/dcl00/CTDMO-H_sn10228/SBE37*10228*.hex,GP03FLMB-RIM01-02-CTDMOH069,recovered_inst,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMB/R00002/cg_data/dcl00/CTDMO-H_sn11680/SBE37*11680*.hex,GP03FLMB-RIM01-02-CTDMOH070,recovered_inst,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMB/R00002/cg_data/dcl00/CTDMO-H_sn11703/SBE37*11703*.hex,GP03FLMB-RIM01-02-CTDMOH071,recovered_inst,
