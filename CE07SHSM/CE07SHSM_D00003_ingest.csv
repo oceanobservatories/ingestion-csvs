@@ -28,8 +28,8 @@ Ingest.phsen-abcdef-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00003/cg_data/d
 Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00003/cg_data/dcl37/optaa2/*.optaa*.log,CE07SHSM-MFD37-01-OPTAAD000,telemetered,
 Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00003/cg_data/dcl37/ctdbp2/*.ctdbp*.log,CE07SHSM-MFD37-03-CTDBPC000,telemetered,Uses record stream ctdbp_cdef_dcl_ce_instrument
 Ingest.dosta-abcdjm-ctdbp-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00003/cg_data/dcl37/ctdbp2/*.ctdbp*.log,CE07SHSM-MFD37-03-DOSTAD000,telemetered,The data for the DOSTA is available in */dcl37/ctdbp2.  Uses record stream ctdbp_cdef_dcl_ce_dosta.
-#,,CE07SHSM-MFD37-07-ZPLSCC000,telemetered,Instrument set to internally log
 #,,CE07SHSM-MFD37-06-CAMDSA000,telemetered,Instrument set to internally log
+Ingest.zplsc-c-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00003/cg_data/dcl37/zplsc/*zplsc*.log,CE07SHSM-MFD37-07-ZPLSCC000,telemetered,
 # ,,,,
 Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00003/irid2shore/cpm_status*.txt,CE07SHSM-SBC11-00-CPMENG000,telemetered,
 Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00003/cg_data/cpm2/syslog/cpm_status.txt,CE07SHSM-RIC21-00-CPMENG000,telemetered,This file is always overwritten when a newer file is telemetered to shore approximately every 3 hours.
