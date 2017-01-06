@@ -1,14 +1,14 @@
 uframe_route,filename_mask,reference_designator,data_source
-# Ingest.dosta-abcdjm-cspp_recovered,/omc_data/whoi/OMC/CE06ISSP/R00003/extract/*OPT.txt,CE06ISSP-SP001-02-DOSTAJ000,recovered_cspp
-# Ingest.optaa-dj-cspp_recovered,/omc_data/whoi/OMC/CE06ISSP/R00003/extract/*ACS.txt,CE06ISSP-SP001-04-OPTAAJ000,recovered_cspp
-# Ingest.velpt-j-cspp_recovered,/omc_data/whoi/OMC/CE06ISSP/R00003/extract/*ADCP.txt,CE06ISSP-SP001-05-VELPTJ000,recovered_cspp
-# Ingest.nutnr-j-cspp_recovered,/omc_data/whoi/OMC/CE06ISSP/R00003/extract/*SNA.txt,CE06ISSP-SP001-06-NUTNRJ000,recovered_cspp
-# Ingest.spkir-abj-cspp_recovered,/omc_data/whoi/OMC/CE06ISSP/R00003/extract/*OCR.txt,CE06ISSP-SP001-07-SPKIRJ000,recovered_cspp
-# Ingest.flort-dj-cspp_recovered,/omc_data/whoi/OMC/CE06ISSP/R00003/extract/*TRIP.txt,CE06ISSP-SP001-08-FLORTJ000,recovered_cspp
-# Ingest.ctdpf-j-cspp_recovered,/omc_data/whoi/OMC/CE06ISSP/R00003/extract/*CTD.txt,CE06ISSP-SP001-09-CTDPFJ000,recovered_cspp
-# Ingest.parad-j-cspp_recovered,/omc_data/whoi/OMC/CE06ISSP/R00003/extract/*PARS.txt,CE06ISSP-SP001-10-PARADJ000,recovered_cspp
-# #,,,
-# Ingest.dbg-pdbg-cspp_recovered,/omc_data/whoi/OMC/CE06ISSP/R00003/extract/*PDBG.txt,CE06ISSP-SP001-00-SPPENG000,recovered_cspp
-# Ingest.wc-hmr-cspp_recovered,/omc_data/whoi/OMC/CE06ISSP/R00003/extract/*WC_HMR.txt,CE06ISSP-SP001-00-SPPENG000,recovered_cspp
-# Ingest.wc-sbe-cspp_recovered,/omc_data/whoi/OMC/CE06ISSP/R00003/extract/*WC_SBE.txt,CE06ISSP-SP001-00-SPPENG000,recovered_cspp
-# Ingest.wc-wm-cspp_recovered,/omc_data/whoi/OMC/CE06ISSP/R00003/extract/*WC_WM.txt,CE06ISSP-SP001-00-SPPENG000,recovered_cspp
+Ingest.dosta-abcdjm-cspp_recovered,/omc_data/whoi/OMC/CE06ISSP/R00003/extract/*OPT.txt,CE06ISSP-SP001-02-DOSTAJ000,recovered_cspp
+Ingest.optaa-dj-cspp_recovered,/omc_data/whoi/OMC/CE06ISSP/R00003/extract/*ACS.txt,CE06ISSP-SP001-04-OPTAAJ000,recovered_cspp
+Ingest.velpt-j-cspp_recovered,/omc_data/whoi/OMC/CE06ISSP/R00003/extract/*ADCP.txt,CE06ISSP-SP001-05-VELPTJ000,recovered_cspp
+Ingest.nutnr-j-cspp_recovered,/omc_data/whoi/OMC/CE06ISSP/R00003/extract/*SNA.txt,CE06ISSP-SP001-06-NUTNRJ000,recovered_cspp
+Ingest.spkir-abj-cspp_recovered,/omc_data/whoi/OMC/CE06ISSP/R00003/extract/*OCR.txt,CE06ISSP-SP001-07-SPKIRJ000,recovered_cspp
+Ingest.flort-dj-cspp_recovered,/omc_data/whoi/OMC/CE06ISSP/R00003/extract/*TRIP.txt,CE06ISSP-SP001-08-FLORTJ000,recovered_cspp
+Ingest.ctdpf-j-cspp_recovered,/omc_data/whoi/OMC/CE06ISSP/R00003/extract/*CTD.txt,CE06ISSP-SP001-09-CTDPFJ000,recovered_cspp
+Ingest.parad-j-cspp_recovered,/omc_data/whoi/OMC/CE06ISSP/R00003/extract/*PARS.txt,CE06ISSP-SP001-10-PARADJ000,recovered_cspp
+#,,,
+Ingest.dbg-pdbg-cspp_recovered,/omc_data/whoi/OMC/CE06ISSP/R00003/extract/*PDBG.txt,CE06ISSP-SP001-00-SPPENG000,recovered_cspp
+Ingest.wc-hmr-cspp_recovered,/omc_data/whoi/OMC/CE06ISSP/R00003/extract/*WC_HMR.txt,CE06ISSP-SP001-00-SPPENG000,recovered_cspp
+Ingest.wc-sbe-cspp_recovered,/omc_data/whoi/OMC/CE06ISSP/R00003/extract/*WC_SBE.txt,CE06ISSP-SP001-00-SPPENG000,recovered_cspp
+Ingest.wc-wm-cspp_recovered,/omc_data/whoi/OMC/CE06ISSP/R00003/extract/*WC_WM.txt,CE06ISSP-SP001-00-SPPENG000,recovered_cspp
