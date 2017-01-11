@@ -15,7 +15,7 @@ Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00006/cg_data/dcl27
 Ingest.flort-dj-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00006/cg_data/dcl27/flort*/*flort*.log,CP01CNSM-RID27-02-FLORTD000,telemetered
 Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00006/cg_data/dcl27/ctdbp*/*ctdbp*.log,CP01CNSM-RID27-03-CTDBPC000,telemetered
 Ingest.dosta-abcdjm-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00006/cg_data/dcl27/dosta*/*dosta*.log,CP01CNSM-RID27-04-DOSTAD000,telemetered
-Ingest.adcpt-acfgm-dcl-pd8_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00006/cg_data/dcl35/adcp*/*adcp*.log,CP01CNSM-MFD35-01-ADCPTF000,telemetered
+#Ingest.adcpt-acfgm-dcl-pd8_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00006/cg_data/dcl35/adcp*/*adcp*.log,CP01CNSM-MFD35-01-ADCPTF000,telemetered,instrument not deployed (raw dta has test data only)
 Ingest.presf-abc-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00006/cg_data/dcl35/presf*/*presf*.log,CP01CNSM-MFD35-02-PRESFB000,telemetered
 Ingest.velpt-ab-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00006/cg_data/dcl35/velpt*/*velpt*.log,CP01CNSM-MFD35-04-VELPTA000,telemetered
 Ingest.pco2w-abc-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00006/cg_data/dcl35/pco2w*/*pco2w*.log,CP01CNSM-MFD35-05-PCO2WB000,telemetered
