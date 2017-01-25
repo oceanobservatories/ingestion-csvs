@@ -40,10 +40,10 @@ Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl12
 Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/cg_data/dcl35/syslog/*.syslog.log,CE09OSSM-MFD35-00-DCLENG000,recovered_host,
 # ,,,,
 Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl11/VELPT_*/*velpt*.aqd,CE09OSSM-SBD11-04-VELPTA000,recovered_inst,
-# 
+# ,,,,
 # ,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl12/PCO2A_*/*pc02a*.log,CE09OSSM-SBD12-04-PCO2AA000,recovered_inst,No driver for this recovered instrument
 # ,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl12/WAVSS_*/ce09ossm_wavss_*/,CE09OSSM-SBD12-05-WAVSSA000,recovered_inst,No driver for this recovered instrument
-# 
+# ,,,,
 Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl26/ADCPT_*/*adcpt*.000,CE09OSSM-RID26-01-ADCPTC000,recovered_inst,
 Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl26/VELPT_*/*velpt*.aqd,CE09OSSM-RID26-04-VELPTA000,recovered_inst,
 Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CE09OSSM/R00001/instrmts/dcl26/PHSEN_*/*phsen*.txt,CE09OSSM-RID26-06-PHSEND000,recovered_inst,
