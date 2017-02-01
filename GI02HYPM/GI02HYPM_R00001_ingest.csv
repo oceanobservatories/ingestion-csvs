@@ -7,5 +7,5 @@ Ingest.wfp-eng-stc-imodem_recovered,/omc_data/whoi/OMC/GI02HYPM/R00001/cg_data/d
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GI02HYPM/R00001/cg_data/dcl00/CTDMO-G_sn12190/*.hex,GI02HYPM-RIM01-02-CTDMOG039,recovered_inst,
 Ingest.ctdmo-ghqr-sio_recovered,/omc_data/whoi/OMC/GI02HYPM/R00001/cg_data/dcl00/CTDMO-G_sn12190/*.DAT,GI02HYPM-RIM01-02-CTDMOG039,recovered_host,
 Ingest.sio-eng-sio_recovered,/omc_data/whoi/OMC/GI02HYPM/R00001/cg_data/dcl00/MSIOC_sn/STA*.DA?,GI02HYPM-RIM01-00-SIOENG000,recovered_host,
-#,,GI02HYPM-MPM01-02-ZPLSGA009,recovered_inst,No parser
-#,,GI02HYPM-MPM01-02-ZPLSGA010,recovered_inst,No parser
+#,,GI02HYPM-MPM01-02-ZPLSGA009,recovered_inst,Not deployed
+#,,GI02HYPM-MPM01-02-ZPLSGA010,recovered_inst,Not deployed
