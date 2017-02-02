@@ -1,0 +1,8 @@
+uframe_route,filename_mask,reference_designator,data_source,
+#Ingest.flort-dj-sio_telemetered,/omc_data/whoi/OMC/GA03FLMA/D00003/*flort*.dat,GA03FLMA-RIS01-05-FLORTD000,telemetered,No data on server
+#Ingest.phsen-abcdef-sio_telemetered,/omc_data/whoi/OMC/GA03FLMA/D00003/*phsen*.dat,GA03FLMA-RIS01-04-PHSENF000,telemetered,No data on server
+#Ingest.dosta-abcdjm-sio_telemetered,/omc_data/whoi/OMC/GA03FLMA/D00003/*dosta*.dat,GA03FLMA-RIS01-03-DOSTAD000,telemetered,No data on server
+#Ingest.adcps-jln-sio_telemetered,/omc_data/whoi/OMC/GA03FLMA/D00003/*adcps*.dat,GA03FLMA-RIM01-02-ADCPSL003,telemetered,No data on server
+#Ingest.ctdmo-ghqr-sio_telemetered,/omc_data/whoi/OMC/GA03FLMA/D00003/*ctdmo*.dat,GA03FLMA-RIM01-02-CTDMOG000,telemetered,No data on server
+#Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GA03FLMA/D00003/*status_1487501.dat,GA03FLMA-RIS01-00-SIOENG000,telemetered,No data on server
+#Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GA03FLMA/D00003/*status_1487901.dat,GA03FLMA-RIM01-00-SIOENG000,telemetered,No data on server
