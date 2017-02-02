@@ -1,6 +1,6 @@
 uframe_route,filename_mask,reference_designator,data_source,
 Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/GP03FLMB/R00001/adcp/*.000,GP03FLMB-RIM01-02-ADCPSL007,recovered_inst,
-#Ingest.adcps-jln-stc_recovered,,GP03FLMB-RIM01-02-ADCPSL007,recovered_host,No data on server
+#Ingest.adcps-jln-stc_recovered,,GP03FLMB-RIM01-02-ADCPSL007,recovered_host,Data not expected
 Ingest.ctdmo-ghqr-sio_recovered,/omc_data/whoi/OMC/GP03FLMB/R00001/ctdmo/CTD*.DAT,GP03FLMB-RIM01-02-CTDMOG000,recovered_host,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMB/R00001/mc/SBE37*55*.hex,GP03FLMB-RIM01-02-CTDMOG060,recovered_inst,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMB/R00001/mc/SBE37*21*.hex,GP03FLMB-RIM01-02-CTDMOG061,recovered_inst,
@@ -17,6 +17,6 @@ Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMB/R00001/mc/SBE37*64*.hex,
 Ingest.dosta-abcdjm-sio_recovered,/omc_data/whoi/OMC/GP03FLMB/R00001/dosta/DOS*.DAT,GP03FLMB-RIS01-03-DOSTAD000,recovered_host,
 Ingest.flort-dj-sio_recovered,/omc_data/whoi/OMC/GP03FLMB/R00001/flort/FLO*.DAT,GP03FLMB-RIS01-05-FLORTD000,recovered_host,
 Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/GP03FLMB/R00001/sami/SAMI*.txt,GP03FLMB-RIS01-04-PHSENF000,recovered_inst,
-#Ingest.phsen-abcdef-imodem_recovered,,GP03FLMB-RIS01-04-PHSENF000,recovered_host,No data on server
+#Ingest.phsen-abcdef-imodem_recovered,,GP03FLMB-RIS01-04-PHSENF000,recovered_host,Data not expected
 Ingest.sio-eng-sio_recovered,/omc_data/whoi/OMC/GP03FLMB/R00001/Main_SIOC/status/STA*.DAT,GP03FLMB-RIM01-00-SIOENG000,recovered_host,
 Ingest.sio-eng-sio_recovered,/omc_data/whoi/OMC/GP03FLMB/R00001/Secondary_SIOC/status/STA*.DAT,GP03FLMB-RIS01-00-SIOENG000,recovered_host,
