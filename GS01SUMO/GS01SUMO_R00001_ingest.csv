@@ -11,7 +11,7 @@ Ingest.pco2a-a-dcl_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl12/PC
 Ingest.wavss-a-dcl-full_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl12/WAVSS*/*.wavss.log,GS01SUMO-SBD12-05-WAVSSA000,recovered_host,
 Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl12/OPTAA*/*.optaa*.log,GS01SUMO-SBD12-01-OPTAAD000,recovered_host,
 Ingest.fdchp-a-dcl_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl12/FDCHP*/*.fdchp.log,GS01SUMO-SBD12-08-FDCHPA000,recovered_host,
-#Ingest.fdchp-a_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl12/FDCHP*/fdchp*.dat,GS01SUMO-SBD12-08-FDCHPA000,recovered_inst,No data on server
+#Ingest.fdchp-a_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl12/FDCHP*/fdchp*.dat,GS01SUMO-SBD12-08-FDCHPA000,recovered_inst,Data not expected
 Ingest.flort-dj-dcl_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl12/FLORT*/*.flort1.log,GS01SUMO-SBD12-02-FLORTD000,recovered_host,
 #Ingest.hyd-o-dcl_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl12/hyd*/*hyd*.log,GS01SUMO-SBD12-03-HYDGN0000,recovered_host,No data on server
 Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/OPTAA*/*.optaa*.log,GS01SUMO-RID16-01-OPTAAD000,recovered_host,
@@ -28,12 +28,12 @@ Ingest.nutnr-b_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/NUTNR*
 Ingest.spkir-abj-dcl_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/SPKIR*/*.spkir2.log,GS01SUMO-RID16-08-SPKIRB000,recovered_host,
 Ingest.adcps-jln-stc_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/ADCP_sn21002/adcp*.DAT,GS01SUMO-RII11-02-ADCPSN010,recovered_host,
 Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/ADCP_sn21002/*.000,GS01SUMO-RII11-02-ADCPSN010,recovered_inst,
-#Ingest.phsen-abcdef-imodem_recovered,,GS01SUMO-RII11-02-PHSENE041,recovered_host,No data on server
+#Ingest.phsen-abcdef-imodem_recovered,,GS01SUMO-RII11-02-PHSENE041,recovered_host,Data not expected
 Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/PHSEN_snP0137/SAMI*.txt,GS01SUMO-RII11-02-PHSENE041,recovered_inst,
 #,,GS01SUMO-RII11-02-CTDBPP031,recovered_host,Not deployed
 #,,GS01SUMO-RII11-02-DOSTAD031,recovered_host,Not deployed
 #,,GS01SUMO-RII11-02-FLORDG031,recovered_host,Not deployed
-#Ingest.pco2w-abc-imodem_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/PCO2W_snC0103/*.DAT,GS01SUMO-RII11-02-PCO2WC051,recovered_host,No data on server
+#Ingest.pco2w-abc-imodem_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/PCO2W_snC0103/*.DAT,GS01SUMO-RII11-02-PCO2WC051,recovered_host,Data not expected
 Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/PCO2W_snC0103/SAMI*.txt,GS01SUMO-RII11-02-PCO2WC051,recovered_inst,
 #,,GS01SUMO-RII11-02-CTDBPP032,recovered_host,Not deployed
 #,,GS01SUMO-RII11-02-DOSTAD032,recovered_host,Not deployed
@@ -45,7 +45,7 @@ Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/PCO2
 #,,GS01SUMO-RII11-02-CTDBPP033,recovered_host,Not deployed
 #,,GS01SUMO-RII11-02-DOSTAD033,recovered_host,Not deployed
 #,,GS01SUMO-RII11-02-FLORDG033,recovered_host,Not deployed
-#Ingest.pco2w-abc-imodem_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/PCO2W_snC0105/*.DAT,GS01SUMO-RII11-02-PCO2WC053,recovered_host,No data on server
+#Ingest.pco2w-abc-imodem_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/PCO2W_snC0105/*.DAT,GS01SUMO-RII11-02-PCO2WC053,recovered_host,Data not expected
 Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/PCO2W_snC0105/SAMI*.txt,GS01SUMO-RII11-02-PCO2WC053,recovered_inst,
 #,,,,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/CTDMO_sn37-12304/*.hex,GS01SUMO-RII11-02-CTDMOQ011,recovered_inst,
