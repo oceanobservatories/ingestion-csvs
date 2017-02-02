@@ -1,10 +1,10 @@
 uframe_route,filename_mask,reference_designator,data_source,
 Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/GS03FLMB/R00001/cg_data/dcl00/ADCPS_sn21446/*.000,GS03FLMB-RIM01-02-ADCPSL007,recovered_inst,
-#Ingest.adcps-jln-stc_recovered,/omc_data/whoi/OMC/GS03FLMB/R00001/cg_data/dcl00/ADCPS_sn21446/ADC*.DAT,GS03FLMB-RIM01-02-ADCPSL007,recovered_host,No data on server
+#Ingest.adcps-jln-stc_recovered,/omc_data/whoi/OMC/GS03FLMB/R00001/cg_data/dcl00/ADCPS_sn21446/ADC*.DAT,GS03FLMB-RIM01-02-ADCPSL007,recovered_host,Data not expected
 Ingest.dosta-abcdjm-sio_recovered,/omc_data/whoi/OMC/GS03FLMB/R00001/cg_data/dcl00/DOSTA_sn392/DOS*.DAT,GS03FLMB-RIS01-03-DOSTAD000,recovered_host,
 Ingest.flort-dj-sio_recovered,/omc_data/whoi/OMC/GS03FLMB/R00001/cg_data/dcl00/FLORD_sn1217/FLO*.DAT,GS03FLMB-RIS01-05-FLORTD000,recovered_host,
 Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/GS03FLMB/R00001/cg_data/dcl00/PHSEN_snP0144/SAMI*.txt,GS03FLMB-RIS01-04-PHSENF000,recovered_inst,
-#Ingest.phsen-abcdef-imodem_recovered,/omc_data/whoi/OMC/GS03FLMB/R00001/cg_data/dcl00/PHSEN_snP0144/PHS*.DAT,GS03FLMB-RIS01-04-PHSENF000,recovered_host,No data on server
+#Ingest.phsen-abcdef-imodem_recovered,/omc_data/whoi/OMC/GS03FLMB/R00001/cg_data/dcl00/PHSEN_snP0144/PHS*.DAT,GS03FLMB-RIS01-04-PHSENF000,recovered_host,Data not expected
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GS03FLMB/R00001/cg_data/dcl00/CTDMO_sn37-12587/*.hex,GS03FLMB-RIM01-02-CTDMOG060,recovered_inst,29
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GS03FLMB/R00001/cg_data/dcl00/CTDMO_sn37-12377/*.hex,GS03FLMB-RIM01-02-CTDMOG061,recovered_inst,39
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GS03FLMB/R00001/cg_data/dcl00/CTDMO_sn37-12313/*.hex,GS03FLMB-RIM01-02-CTDMOG062,recovered_inst,59
@@ -17,6 +17,6 @@ Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GS03FLMB/R00001/cg_data/dcl00/CTD
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GS03FLMB/R00001/cg_data/dcl00/CTDMO_sn37-12393/*.hex,GS03FLMB-RIM01-02-CTDMOH069,recovered_inst,748
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GS03FLMB/R00001/cg_data/dcl00/CTDMO_sn37-12392/*.hex,GS03FLMB-RIM01-02-CTDMOH070,recovered_inst,999
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GS03FLMB/R00001/cg_data/dcl00/CTDMO_sn37-12384/*.hex,GS03FLMB-RIM01-02-CTDMOH071,recovered_inst,1501
-#Ingest.ctdmo-ghqr-sio_recovered,/omc_data/whoi/OMC/GS03FLMB/R00001/cg_data/dcl00/CTDMOs_all/*.DAT,GS03FLMB-RIM01-02-CTDMOG000,recovered_host,No data on server
+#Ingest.ctdmo-ghqr-sio_recovered,/omc_data/whoi/OMC/GS03FLMB/R00001/cg_data/dcl00/CTDMOs_all/*.DAT,GS03FLMB-RIM01-02-CTDMOG000,recovered_host,Data not expected
 Ingest.sio-eng-sio_recovered,/omc_data/whoi/OMC/GS03FLMB/R00001/cg_data/dcl00/MSIOC/STA*.DAT,GS03FLMB-RIM01-00-SIOENG000,recovered_host,
 Ingest.sio-eng-sio_recovered,/omc_data/whoi/OMC/GS03FLMB/R00001/cg_data/dcl00/SSIOC/STA*.DAT,GS03FLMB-RIS01-00-SIOENG000,recovered_host,
