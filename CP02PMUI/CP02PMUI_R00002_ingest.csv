@@ -8,4 +8,4 @@ Ingest.parad-k-stc-imodem_recovered,/omc_data/whoi/OMC/CP02PMUI/R00002/dcl00/CWF
 Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/CP02PMUI/R00002/dcl00/ADCP_sn20499/SN_20499_Recovered_Data_RDI_000.000,CP02PMUI-RII01-02-ADCPTG010,recovered_inst,
 #Ingest.adcps-jln-stc_recovered,/omc_data/whoi/OMC/CP02PMUI/R00002/dcl00/cg_data/imm/adcpt/adcpt*.DAT,CP02PMUI-RII01-02-ADCPTG010,recovered_host,No data on server
 #Ingest.mopak-o-dcl_recovered,/omc_data/whoi/OMC/CP02PMUI/R00002/dcl00/cg_data/3dmgx3/*_*.3dmgx3.log,CP02PMUI-SBS01-01-MOPAK0000,recovered_host,No MOPAK data on server
-#Ingest.cg-stc-eng-stc_recovered,/omc_data/whoi/OMC/CP02PMUI/R00002/dcl00/cg_data/irid2shore/stc_status.*_*.txt,CP02PMUI-SBS01-00-STCENG000,recovered_host,No CG data folder on server
+#Ingest.cg-stc-eng-stc_recovered,/omc_data/whoi/OMC/CP02PMUI/R00002/dcl00/cg_data/irid2shore/stc_status.*_*.txt,CP02PMUI-SBS01-00-STCENG000,recovered_host,No data on server

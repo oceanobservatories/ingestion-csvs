@@ -6,8 +6,8 @@ Ingest.metbk-a-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl11/ME
 Ingest.pco2a-a-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl12/PCO2A_sn34-260-50A/*pco2a.log,CP03ISSM-SBD12-04-PCO2AA000,recovered_host,
 Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl26/VELPT_snAQD-12747/*.aqd,CP03ISSM-RID26-04-VELPTA000,recovered_inst,
 Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl26/VELPT_snAQD-12747/*velpt1.log,CP03ISSM-RID26-04-VELPTA000,recovered_host,
-#Ingest.phsen-abcdef-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl26/PHSEN_snP00100/SAMI*.txt,CP03ISSM-RID26-06-PHSEND000,recovered_inst,No data on server
-#Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl26/PHSEN_snP00100/*phsen1.log,CP03ISSM-RID26-06-PHSEND000,recovered_host,No data on server
+#Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl26/PHSEN_snP00100/SAMI*.txt,CP03ISSM-RID26-06-PHSEND000,recovered_inst,Not deployed
+#Ingest.phsen-abcdef-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl26/PHSEN_snP00100/*phsen1.log,CP03ISSM-RID26-06-PHSEND000,recovered_host,Not deployed
 Ingest.nutnr-b_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl26/NUTNR_sn283/SCH*.DAT,CP03ISSM-RID26-07-NUTNRB000,recovered_inst,
 Ingest.nutnr-b-dcl-full_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl26/NUTNR_sn283/*nutnr.log,CP03ISSM-RID26-07-NUTNRB000,recovered_host,
 Ingest.spkir-abj-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl26/SPKIR_sn290/*.spkir*.log,CP03ISSM-RID26-08-SPKIRB000,recovered_host,
@@ -16,7 +16,7 @@ Ingest.flort-dj-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl27/F
 Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl27/CTDBP_sn16-50109/SBE*.hex,CP03ISSM-RID27-03-CTDBPC000,recovered_inst,
 Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl27/CTDBP_sn16-50109/*ctdbp1*.log,CP03ISSM-RID27-03-CTDBPC000,recovered_host,
 Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl27/DOSTA_sn508/*dosta1*.log,CP03ISSM-RID27-04-DOSTAD000,recovered_host,
-Ingest.adcpt-acfgm-dcl-pd8_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl35/ADCP_sn20530/_RDI*.000,CP03ISSM-MFD35-01-ADCPTF000,recovered_inst,
+Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl35/ADCP_sn20530/_RDI*.000,CP03ISSM-MFD35-01-ADCPTF000,recovered_inst,
 Ingest.adcpt-acfgm-dcl-pd8_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl35/ADCP_sn20530/*adcp.log,CP03ISSM-MFD35-01-ADCPTF000,recovered_host,
 Ingest.presf-abc_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl35/PRESF_sn26P71826-1352/PRESF*.hex,CP03ISSM-MFD35-02-PRESFB000,recovered_inst,
 Ingest.presf-abc-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl35/PRESF_sn26P71826-1352/*presf.log,CP03ISSM-MFD35-02-PRESFB000,recovered_host,
@@ -30,7 +30,8 @@ Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl37/O
 Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl37/CTDBP_sn16-50110/SBE*.hex,CP03ISSM-MFD37-03-CTDBPD000,recovered_inst,
 Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl37/CTDBP_sn16-50110/*ctdbp2*.log,CP03ISSM-MFD37-03-CTDBPD000,recovered_host,
 Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl37/DOSTA_sn507/*dosta2*.log,CP03ISSM-MFD37-04-DOSTAD000,recovered_host,
-# Ingest.zplsc-c-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl37/ZPLSC_sn55100/*zplsc.log,CP03ISSM-MFD37-07-ZPLSCC000,recovered_host,No parser
+#,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl37/ZPLSC_sn55100/*zplsc.log,CP03ISSM-MFD37-07-ZPLSCC000,recovered_host,No driver exists
+#,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl37/ZPLSC_sn55100/DATA/*/*.01A,CP03ISSM-MFD37-07-ZPLSCC000,recovered_inst,No driver exists
 # Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/irid2shore/cpm_status*.txt,CP03ISSM-SBC11-00-CPMENG000,recovered_host,No data on server
 # Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/cpm2/syslog/cpm_status*.txt,CP03ISSM-RIC21-00-CPMENG000,recovered_host,No data on server
 # Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/cpm3/syslog/cpm_status*.txt,CP03ISSM-MFC31-00-CPMENG000,recovered_host,No data on server
