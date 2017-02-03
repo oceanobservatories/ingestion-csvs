@@ -1,42 +1,43 @@
 uframe_route,filename_mask,reference_designator,data_source,
-#Ingest.mopak-o-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl11/MOPAK_sn/*.mopak.log,CP04OSSM-SBD11-01-MOPAK0000,recovered_host,not recovered yet
-#Ingest.hyd-o-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/d11/Hydrogen_sn/*.hyd1.log,CP04OSSM-SBD11-02-HYDGN0000,recovered_host,not recovered yet
-#Ingest.metbk-a-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl11/METBK-Log_sn/*.metbk.log,CP04OSSM-SBD11-06-METBKA000,recovered_host,not recovered yet
-#Ingest.hyd-o-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl12/Hydrogen_sn/*.hyd2.log,CP04OSSM-SBD12-03-HYDGN0000,recovered_host,not recovered yet
-#Ingest.pco2a-a-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl12/PCO2A_sn34-229-50A/*.pco2a.log,CP04OSSM-SBD12-04-PCO2AA000,recovered_host,not recovered yet
-#Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl26/VELPT_sn11377/*.aqd,CP04OSSM-RID26-04-VELPTA000,recovered_inst,not recovered yet
-#Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl26/VELPT_sn11377/*.velpt1.log,CP04OSSM-RID26-04-VELPTA000,recovered_host,not recovered yet
-#Ingest.phsen-abcdef-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl26/PHSEN_snP0155/*.phsen1.log,CP04OSSM-RID26-06-PHSEND000,recovered_host,not recovered yet
-#Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl26/PHSEN_snP0155/SAMI*.txt,CP04OSSM-RID26-06-PHSEND000,recovered_inst,not recovered yet
-#Ingest.nutnr-b_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl26/NUTNR_sn261/SCH*.DAT,CP04OSSM-RID26-07-NUTNRB000,recovered_inst,not recovered yet
-#Ingest.nutnr-b-dcl-full_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl26/NUTNR_sn261/*.nutnr.log,CP04OSSM-RID26-07-NUTNRB000,recovered_host,not recovered yet
-#Ingest.spkir-abj-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl26/SPKIR_sn274/*.spkir.log,CP04OSSM-RID26-08-SPKIRB000,recovered_host,not recovered yet
-#Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl27/OPTAA_snACS240/*.optaa1.log,CP04OSSM-RID27-01-OPTAAD000,recovered_host,not recovered yet
-#Ingest.flort-dj-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl27/FLORT_sn994/*.flort.log,CP04OSSM-RID27-02-FLORTD000,recovered_host,not recovered yet
-#Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl27/CTDBP_sn16P71174-7208/SBE*.hex,CP04OSSM-RID27-03-CTDBPC000,recovered_inst,not recovered yet
-#Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl27/CTDBP_sn16P71174-7208/*.ctdbp1.log,CP04OSSM-RID27-03-CTDBPC000,recovered_host,not recovered yet
-#Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl27/DOSTA_sn410/*dosta1.log,CP04OSSM-RID27-04-DOSTAD000,recovered_host,not recovered yet
-#Ingest.adcpt-acfgm-dcl-pd8_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl35/ADCP_sn22642/_RDI*.000,CP04OSSM-MFD35-01-ADCPSJ000,recovered_inst,not recovered yet
-#Ingest.adcpt-acfgm-dcl-pd8_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl35/ADCP_sn22642/*.adcp.log,CP04OSSM-MFD35-01-ADCPSJ000,recovered_host,not recovered yet
-#Ingest.presf-abc_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl35/PRESF_sn26-1400/PRESF*.hex,CP04OSSM-MFD35-02-PRESFC000,recovered_inst,not recovered yet
-#Ingest.presf-abc-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl35/PRESF_sn26-1400/*.presf.log,CP04OSSM-MFD35-02-PRESFC000,recovered_host,not recovered yet
-#Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl35/VELPT_sn9984/*.aqd,CP04OSSM-MFD35-04-VELPTB000,recovered_inst,not recovered yet
-#Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl35/VELPT_sn9984/*.velpt2.log,CP04OSSM-MFD35-04-VELPTB000,recovered_host,not recovered yet
-#Ingest.pco2w-abc-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl35/PCO2W_snC0099/*.pco2w.log,CP04OSSM-MFD35-05-PCO2WB000,recovered_host,not recovered yet
-#Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl35/PCO2W_snC0099/SAMI*.txt,CP04OSSM-MFD35-05-PCO2WB000,recovered_inst,not recovered yet
-#Ingest.phsen-abcdef-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl35/PHSEN_snP0156/*.phsen2.log,CP04OSSM-MFD35-06-PHSEND000,recovered_host,not recovered yet
-#Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl35/PHSEN_snP0156/SAMI*.txt,CP04OSSM-MFD35-06-PHSEND000,recovered_inst,not recovered yet
-#Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl37/OPTAA_snACS241/,CP04OSSM-MFD37-01-OPTAAD000,recovered_host,not recovered yet
-#Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl37/CTDBP_sn16-50067/SBE*.hex,CP04OSSM-MFD37-03-CTDBPE000,recovered_inst,not recovered yet
-#Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl37/CTDBP_sn16-50067/*.ctdbp.log,CP04OSSM-MFD37-03-CTDBPE000,recovered_host,not recovered yet
-#Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl37/DOSTA_sn412/,CP04OSSM-MFD37-04-DOSTAD000,recovered_host,not recovered yet
-#,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl37/ZPLSC_sn55077,CP04OSSM-MFD37-07-ZPLSCC000,recovered_host,No driver exists
-# Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/irid2shore/cpm_status*.txt,CP04OSSM-SBC11-00-CPMENG000,recovered_host,not recovered yet
-# Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/cpm2/syslog/cpm_status*.txt,CP04OSSM-RIC21-00-CPMENG000,recovered_host,not recovered yet
-# Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/cpm3/syslog/cpm_status*.txt,CP04OSSM-MFC31-00-CPMENG000,recovered_host,not recovered yet
-# Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl11/syslog/*.syslog.log,CP04OSSM-SBD11-00-DCLENG000,recovered_host,not recovered yet
-# Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl12/syslog/*.syslog.log,CP04OSSM-SBD12-00-DCLENG000,recovered_host,not recovered yet
-# Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/dcl26/syslog/*.syslog.log,CP04OSSM-RID26-00-DCLENG000,recovered_host,not recovered yet
-# Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/dcl27/syslog/*.syslog.log,CP04OSSM-RID27-00-DCLENG000,recovered_host,not recovered yet
-# Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl35/syslog/*.syslog.log,CP04OSSM-MFD35-00-DCLENG000,recovered_host,not recovered yet
-# Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/dcl37/syslog/*.syslog.log,CP04OSSM-MFD37-00-DCLENG000,recovered_host,not recovered yet
+Ingest.mopak-o-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl11/mopak/*.mopak.log,CP04OSSM-SBD11-01-MOPAK0000,recovered_host,
+Ingest.hyd-o-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl11/hyd1/*.hyd1.log,CP04OSSM-SBD11-02-HYDGN0000,recovered_host,
+Ingest.metbk-a-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl11/metbk/*.metbk.log,CP04OSSM-SBD11-06-METBKA000,recovered_host,
+Ingest.hyd-o-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl12/hyd2/*.hyd2.log,CP04OSSM-SBD12-03-HYDGN0000,recovered_host,
+Ingest.pco2a-a-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl12/pco2a/*.pco2a.log,CP04OSSM-SBD12-04-PCO2AA000,recovered_host,
+#Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/instruments/dcl26/VELPT_snAQD-11412/*.aqd,CP04OSSM-RID26-04-VELPTA000,recovered_inst,No data expected
+Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl26/velpt1/*.velpt1.log,CP04OSSM-RID26-04-VELPTA000,recovered_host,
+Ingest.phsen-abcdef-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl26/phsen1/*.phsen1.log,CP04OSSM-RID26-06-PHSEND000,recovered_host,
+Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/instruments/dcl26/PHSEN_snP0096/SAMI*.txt,CP04OSSM-RID26-06-PHSEND000,recovered_inst,
+Ingest.nutnr-b_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/instruments/dcl26/NUTNR_sn266/SCH*.DAT,CP04OSSM-RID26-07-NUTNRB000,recovered_inst,
+Ingest.nutnr-b-dcl-full_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl26/nutnr/*.nutnr.log,CP04OSSM-RID26-07-NUTNRB000,recovered_host,
+Ingest.spkir-abj-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl26/spkir/*.spkir.log,CP04OSSM-RID26-08-SPKIRB000,recovered_host,
+Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl27/optaa1/*.optaa1.log,CP04OSSM-RID27-01-OPTAAD000,recovered_host,
+Ingest.flort-dj-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl27/flort/*.flort.log,CP04OSSM-RID27-02-FLORTD000,recovered_host,
+Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/instruments/dcl27/CTDBP_sn16-50003/SBE*.hex,CP04OSSM-RID27-03-CTDBPC000,recovered_inst,
+Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl27/ctdbp1/*.ctdbp1.log,CP04OSSM-RID27-03-CTDBPC000,recovered_host,
+Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl27/dosta1/*dosta1.log,CP04OSSM-RID27-04-DOSTAD000,recovered_host,
+Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/instruments/dcl35/ADCP_sn22642/_RDI*.000,CP04OSSM-MFD35-01-ADCPSJ000,recovered_inst,
+Ingest.adcpt-acfgm-dcl-pd8_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl35/adcp/*.adcp.log,CP04OSSM-MFD35-01-ADCPSJ000,recovered_host,
+Ingest.presf-abc_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/instruments/dcl35/PRESF_sn26P76848-1386/PRESF*.hex,CP04OSSM-MFD35-02-PRESFC000,recovered_inst,
+Ingest.presf-abc-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl35/presf/*.presf.log,CP04OSSM-MFD35-02-PRESFC000,recovered_host,
+Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/instruments/dcl35/VELPT_snAQD-9952/*.aqd,CP04OSSM-MFD35-04-VELPTB000,recovered_inst,
+Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl35/velpt2/*.velpt2.log,CP04OSSM-MFD35-04-VELPTB000,recovered_host,
+Ingest.pco2w-abc-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl35/pco2w/*.pco2w.log,CP04OSSM-MFD35-05-PCO2WB000,recovered_host,
+Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/instruments/dcl35/PCO2W_snC0071/SAMI*.txt,CP04OSSM-MFD35-05-PCO2WB000,recovered_inst,
+Ingest.phsen-abcdef-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl35/phsen2/*.phsen2.log,CP04OSSM-MFD35-06-PHSEND000,recovered_host,
+Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/instruments/dcl35/PHSEN_snP0098/SAMI*.txt,CP04OSSM-MFD35-06-PHSEND000,recovered_inst,
+Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl37/optaa2/*.optaa2.log,CP04OSSM-MFD37-01-OPTAAD000,recovered_host,
+Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/instruments/dcl37/CTDBP_sn16-50067/SBE*.hex,CP04OSSM-MFD37-03-CTDBPE000,recovered_inst,
+Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl37/ctdbp2/*.ctdbp2.log,CP04OSSM-MFD37-03-CTDBPE000,recovered_host,
+Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl37/dosta2/*dosta2.log,CP04OSSM-MFD37-04-DOSTAD000,recovered_host,
+#,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl37/zplsc/*.zplsc.log,CP04OSSM-MFD37-07-ZPLSCC000,recovered_host,No driver exists
+#,,CP04OSSM-MFD37-07-ZPLSCC000,recovered_inst,No driver exists
+Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/cpm1/irid2shore/cpm_status*.txt,CP04OSSM-SBC11-00-CPMENG000,recovered_host,
+Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/cpm2/syslog/cpm_status*.txt,CP04OSSM-RIC21-00-CPMENG000,recovered_host,
+Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/cpm3/syslog/cpm_status*.txt,CP04OSSM-MFC31-00-CPMENG000,recovered_host,
+Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl11/syslog/*.syslog.log,CP04OSSM-SBD11-00-DCLENG000,recovered_host,
+Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl12/syslog/*.syslog.log,CP04OSSM-SBD12-00-DCLENG000,recovered_host,
+Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl26/syslog/*.syslog.log,CP04OSSM-RID26-00-DCLENG000,recovered_host,
+Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl27/syslog/*.syslog.log,CP04OSSM-RID27-00-DCLENG000,recovered_host,
+Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl35/syslog/*.syslog.log,CP04OSSM-MFD35-00-DCLENG000,recovered_host,
+Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00004/cg_data/dcl37/syslog/*.syslog.log,CP04OSSM-MFD37-00-DCLENG000,recovered_host,

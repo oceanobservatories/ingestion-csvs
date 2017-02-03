@@ -31,6 +31,7 @@ Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CP04OSSM/R00001/cg_data/dcl37/CTD
 Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00001/cg_data/dcl37/CTDBP_sn16-50002/*.ctdbp2.log,CP04OSSM-MFD37-03-CTDBPE000,recovered_host,
 Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00001/cg_data/dcl37/DOSTA_sn376/*dosta2.log,CP04OSSM-MFD37-04-DOSTAD000,recovered_host,
 #,,CP04OSSM-MFD37-07-ZPLSCC000,recovered_host,Not deployed
+#,,CP04OSSM-MFD37-07-ZPLSCC000,recovered_inst,Not deployed
 # Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP04OSSM/R00001/cg_data/irid2shore/cpm_status*.txt,CP04OSSM-SBC11-00-CPMENG000,recovered_host,No data on server
 # Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP04OSSM/R00001/cg_data/cpm2/syslog/cpm_status*.txt,CP04OSSM-RIC21-00-CPMENG000,recovered_host,No data on server
 # Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP04OSSM/R00001/cg_data/cpm3/syslog/cpm_status*.txt,CP04OSSM-MFC31-00-CPMENG000,recovered_host,No data on server
