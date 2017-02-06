@@ -1,0 +1,8 @@
+uframe_route,filename_mask,reference_designator,data_source,
+#Ingest.flort-dj-sio_telemetered,,GS03FLMB-RIS01-05-FLORTD000,telemetered,No glider deployed so telemetered data will not be available
+#Ingest.phsen-abcdef-sio_telemetered,,GS03FLMB-RIS01-04-PHSENF000,telemetered,No glider deployed so telemetered data will not be available
+#Ingest.dosta-abcdjm-sio_telemetered,,GS03FLMB-RIS01-03-DOSTAD000,telemetered,No glider deployed so telemetered data will not be available
+#Ingest.adcps-jln-sio_telemetered,,GS03FLMB-RIM01-02-ADCPSL007,telemetered,No glider deployed so telemetered data will not be available
+#Ingest.ctdmo-ghqr-sio_telemetered,,GS03FLMB-RIM01-02-CTDMOG000,telemetered,No glider deployed so telemetered data will not be available
+#Ingest.sio-eng-sio_telemetered,,GS03FLMB-RIS01-00-SIOENG000,telemetered,No glider deployed so telemetered data will not be available
+#Ingest.sio-eng-sio_telemetered,,GS03FLMB-RIM01-00-SIOENG000,telemetered,No glider deployed so telemetered data will not be available

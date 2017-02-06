@@ -3,6 +3,6 @@ Ingest.adcps-jln-sio_telemetered,/omc_data/whoi/OMC/GP03FLMB/D00004/*adcps_*.dat
 Ingest.ctdmo-ghqr-sio_telemetered,/omc_data/whoi/OMC/GP03FLMB/D00004/*ctdmo_*.dat,GP03FLMB-RIM01-02-CTDMOG000,telemetered,
 Ingest.dosta-abcdjm-sio_telemetered,/omc_data/whoi/OMC/GP03FLMB/D00004/*dosta_*.dat,GP03FLMB-RIS01-03-DOSTAD000,telemetered,
 Ingest.flort-dj-sio_telemetered,/omc_data/whoi/OMC/GP03FLMB/D00004/*flort_*.dat,GP03FLMB-RIS01-05-FLORTD000,telemetered,
-#Ingest.phsen-abcdef-sio_telemetered,/omc_data/whoi/OMC/GP03FLMB/D00004/*phsen_*.dat,GP03FLMB-RIS01-04-PHSENF000,telemetered,No data on server
+#Ingest.phsen-abcdef-sio_telemetered,/omc_data/whoi/OMC/GP03FLMB/D00004/*phsen_*.dat,GP03FLMB-RIS01-04-PHSENF000,telemetered,Data not expected
 Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GP03FLMB/D00004/*status_1328601.dat,GP03FLMB-RIS01-00-SIOENG000,telemetered,
 Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GP03FLMB/D00004/*status_1328501.dat,GP03FLMB-RIM01-00-SIOENG000,telemetered,
