@@ -1,6 +1,6 @@
 uframe_route,filename_mask,reference_designator,data_source
-Ingest.flobn-c-subcon_recovered,/RSN/RS01SUM2/R00001/*flobn*.log,RS01SUM2-MJ01B-00-FLOBNC101,recovered_inst
-Ingest.flobn-c-subcon_recovered,/RSN/RS01SUM2/R00001/*flobn*.log,RS01SUM2-MJ01B-00-FLOBNM101,recovered_inst
-Ingest.osmoi-a-subcon_recovered,/RSN/RS01SUM2/R00001/*osmoi*.log,RS01SUM2-MJ01B-00-OSMOIA101,recovered_inst
-Ingest.ppsdn-a-subcon_recovered,/RSN/RS03INT1/R00001/*ppsdn*.log,RS03INT1-MJ03C-07-PPSDNA301,recovered_inst
-Ingest.rasfl-a-subcon_recovered,/RSN/RS03INT1/R00001/*rasfl*.log,RS03INT1-MJ03C-07-RASFLA301,recovered_inst
+#Ingest.flobn-c-subcon_recovered,/RSN/RS01SUM2/R00001/*flobn*.log,RS01SUM2-MJ01B-00-FLOBNC101,recovered_inst
+#Ingest.flobn-c-subcon_recovered,/RSN/RS01SUM2/R00001/*flobn*.log,RS01SUM2-MJ01B-00-FLOBNM101,recovered_inst
+#Ingest.osmoi-a-subcon_recovered,/RSN/RS01SUM2/R00001/*osmoi*.log,RS01SUM2-MJ01B-00-OSMOIA101,recovered_inst
+#Ingest.ppsdn-a-subcon_recovered,/RSN/RS03INT1/R00001/*ppsdn*.log,RS03INT1-MJ03C-07-PPSDNA301,recovered_inst
+#Ingest.rasfl-a-subcon_recovered,/RSN/RS03INT1/R00001/*rasfl*.log,RS03INT1-MJ03C-07-RASFLA301,recovered_inst
