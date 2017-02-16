@@ -26,7 +26,7 @@ Ingest.spkir-abj-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00004/cg_data/dcl16/
 #,,CE01ISSM-MFD37-06-CAMDSA000,recovered_host,System was not deployed
 #,,CE01ISSM-MFD37-07-ZPLSCC000,recovered_host,System was not deployed
 # ,,,,
-#Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CE01ISSM/R00004/cg_data/cpm1/irid2shore/cpm_status*.txt,CE01ISSM-SBC11-00-CPMENG000,recovered_host,
+Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CE01ISSM/R00004/cg_data/irid2shore/cpm_status*.txt,CE01ISSM-SBC11-00-CPMENG000,recovered_host,
 Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00004/cg_data/dcl16/syslog*/*syslog*.log,CE01ISSM-RID16-00-DCLENG000,recovered_host,
 Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00004/cg_data/dcl17/syslog*/*syslog*.log,CE01ISSM-SBD17-00-DCLENG000,recovered_host,
 #Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CE01ISSM/R00004/cg_data/cpm3/syslog*/cpm_status*.txt,CE01ISSM-MFC31-00-CPMENG000,recovered_host,System was not deployed
@@ -57,4 +57,4 @@ Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/CE01ISSM/R00004/instrmts/dcl35/PCO
 Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CE01ISSM/R00004/instrmts/dcl37/CTDBP*/*.hex,CE01ISSM-MFD37-03-CTDBPC000,recovered_inst,File does not exist on server
 Ingest.dosta-abcdjm-ctdbp_recovered,/omc_data/whoi/OMC/CE01ISSM/R00004/instrmts/dcl37/CTDBP*/*.hex,CE01ISSM-MFD37-03-DOSTAD000,recovered_inst,
 #,,CE01ISSM-MFD37-06-CAMDSA000,recovered_inst,
-#,/omc_data/whoi/OMC/CE01ISSM/R00004/instrmts/dcl37/ZPLSC_*/ce01issm_zplsc_*/DATA/*/*.01A,CE01ISSM-MFD37-07-ZPLSCC000,recovered_inst,No driver
+#,/omc_data/whoi/OMC/CE01ISSM/R00004/instrmts/dcl37/ZPLSC_*/ce01issm_zplsc_*/DATA/*/*.01A,CE01ISSM-MFD37-07-ZPLSCC000,recovered_inst,"data available, No driver"
