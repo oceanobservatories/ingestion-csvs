@@ -1,8 +1,8 @@
 uframe_route,filename_mask,reference_designator,data_source,
 Ingest.mopak-o-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00005/cg_data/dcl17/mopak*/*mopak*.log,CE01ISSM-SBD17-01-MOPAK0000,recovered_host,
 Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00005/cg_data/dcl17/velpt*/*velpt*.log,CE01ISSM-SBD17-04-VELPTA000,recovered_host,
-#,/omc_data/whoi/OMC/CE01ISSM/R00005/cg_data/dcl17/ctdbp*/*ctdbp3.log,CE01ISSM-SBD17-06-CTDBPC000,recovered_host,No parser exists for this data set
-#,/omc_data/whoi/OMC/CE01ISSM/R00005/cg_data/dcl17/ctdbp*/*ctdbp3.log,CE01ISSM-SBD17-06-FLORTD000,recovered_host,No parser exists for this data set
+#,/omc_data/whoi/OMC/CE01ISSM/R00005/cg_data/dcl17/ctdbp*/*ctdbp3.log,CE01ISSM-SBD17-06-CTDBPC000,recovered_host,No data avaialable. No parser exists for this data set
+#,/omc_data/whoi/OMC/CE01ISSM/R00005/cg_data/dcl17/ctdbp*/*ctdbp3.log,CE01ISSM-SBD17-06-FLORTD000,recovered_host,No data avaialable. No parser exists for this data set
 # ,,,,
 Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00005/cg_data/dcl16/optaa*/*optaa*.log,CE01ISSM-RID16-01-OPTAAD000,recovered_host,
 Ingest.flort-dj-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00005/cg_data/dcl16/flort*/*flort*.log,CE01ISSM-RID16-02-FLORTD000,recovered_host,
@@ -26,7 +26,7 @@ Ingest.spkir-abj-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00005/cg_data/dcl16/
 # ,,CE01ISSM-MFD37-06-CAMDSA000,recovered_host,System was not deployed
 # ,,CE01ISSM-MFD37-07-ZPLSCC000,recovered_host,System was not deployed
 # ,,,,
-# Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CE01ISSM/R00005/cg_data/cpm1/irid2shore/cpm_status*.txt,CE01ISSM-SBC11-00-CPMENG000,recovered_host,
+Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CE01ISSM/R00005/cg_data/irid2shore/cpm_status*.txt,CE01ISSM-SBC11-00-CPMENG000,recovered_host,
 Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00005/cg_data/dcl16/syslog*/*syslog*.log,CE01ISSM-RID16-00-DCLENG000,recovered_host,
 Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00005/cg_data/dcl17/syslog*/*syslog*.log,CE01ISSM-SBD17-00-DCLENG000,recovered_host,
 # Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CE01ISSM/R00005/cg_data/cpm3/syslog*/cpm_status*.txt,CE01ISSM-MFC31-00-CPMENG000,recovered_host,System was not deployed
