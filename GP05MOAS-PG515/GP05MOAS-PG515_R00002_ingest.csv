@@ -4,5 +4,5 @@ Ingest.ctdgv-m-glider_recovered,/omc_data/whoi/OMC/GP05MOAS-PG515/R00002/merged/
 #Ingest.dosta-abcdjm-glider_recovered,/omc_data/whoi/OMC/GP05MOAS-PG515/R00002/merged/gp_*.mrg,GP05MOAS-PG515-02-DOSTAM000,recovered_host,Not deployed
 Ingest.flort-m-glider_recovered,/omc_data/whoi/OMC/GP05MOAS-PG515/R00002/merged/gp_*.mrg,GP05MOAS-PG515-02-FLORTM000,recovered_host,refdes changes for next deployment
 #Ingest.flort-o-glider_recovered,/omc_data/whoi/OMC/GP05MOAS-PG515/R00002/merged/gp_*.mrg,GP05MOAS-PG515-03-FLORTO000,recovered_host,refdes changes for next deployment. No parser
-#Ingest.nutnr-m_recovered,/omc_data/whoi/OMC/GP05MOAS-PG515/R00002/merged/gp_*.mrg,GP05MOAS-PG515-05-NUTNRM000,recovered_host,Not deployed
+#Ingest.nutnr-m-glider_telemetered,/omc_data/whoi/OMC/GP05MOAS-PG515/R00002/merged/gp_*.mrg,GP05MOAS-PG515-05-NUTNRM000,recovered_host,Not deployed
 Ingest.parad-m-glider_recovered,/omc_data/whoi/OMC/GP05MOAS-PG515/R00002/merged/gp_*.mrg,GP05MOAS-PG515-04-PARADM000,recovered_host,refdes changes for next deployment
