@@ -26,7 +26,7 @@ Ingest.dosta-abcdjm-ctdbp-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00002/cg_da
 #,,CE01ISSM-MFD37-06-CAMDSA000,recovered_host,No data
 #,,CE01ISSM-MFD37-07-ZPLSCC000,recovered_host,No data
 # ,,,,
-#Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CE01ISSM/R00002/cg_data/cpm1/irid2shore/cpm_status*.txt,CE01ISSM-SBC11-00-CPMENG000,recovered_host,No data
+Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CE01ISSM/R00002/cg_data/irid2shore/cpm_status*.txt,CE01ISSM-SBC11-00-CPMENG000,recovered_host,
 Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00002/cg_data/dcl16/syslog*/*syslog*.log,CE01ISSM-RID16-00-DCLENG000,recovered_host,
 Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00002/cg_data/dcl17/syslog*/*syslog*.log,CE01ISSM-SBD17-00-DCLENG000,recovered_host,
 # Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CE01ISSM/R00002/cg_data/cpm3/syslog*/cpm_status*.txt,CE01ISSM-MFC31-00-CPMENG000,recovered_host,Only one file
