@@ -1,8 +1,8 @@
 uframe_route,filename_mask,reference_designator,data_source,
 #Ingest.mopak-o-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00005/dcl17/mopak/*.mopak.log,CE01ISSM-SBD17-01-MOPAK0000,telemetered,
 Ingest.velpt-ab-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00005/dcl17/velpt*/*.velpt*.log,CE01ISSM-SBD17-04-VELPTA000,telemetered,
-#,/omc_data/whoi/OMC/CE01ISSM/D00005/dcl17/ctdbp*/*.ctdbp*.log,CE01ISSM-SBD17-06-CTDBPC000,telemetered,"CTDBP with FLORT attached, no driver currently exists for this data set"
-#,/omc_data/whoi/OMC/CE01ISSM/D00005/dcl17/ctdbp*/*.ctdbp*.log,CE01ISSM-SBD17-06-FLORTD000,telemetered,"CTDBP with FLORT attached, no driver currently exists for this data set"
+#,/omc_data/whoi/OMC/CE01ISSM/D00005/dcl17/ctdbp*/*.ctdbp*.log,CE01ISSM-SBD17-06-CTDBPC000,telemetered,"No data on server, CTDBP with FLORT attached, no driver currently exists for this data set"
+#,/omc_data/whoi/OMC/CE01ISSM/D00005/dcl17/ctdbp*/*.ctdbp*.log,CE01ISSM-SBD17-06-FLORTD000,telemetered,"No data on server, CTDBP with FLORT attached, no driver currently exists for this data set"
 # ,,,,
 Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00005/dcl16/optaa*/*.optaa*.log,CE01ISSM-RID16-01-OPTAAD000,telemetered,
 Ingest.flort-dj-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00005/dcl16/flort/*.flort.log,CE01ISSM-RID16-02-FLORTD000,telemetered,
