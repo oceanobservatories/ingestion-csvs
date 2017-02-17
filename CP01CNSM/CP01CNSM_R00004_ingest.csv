@@ -7,19 +7,19 @@ Ingest.pco2a-a-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl12/PC
 Ingest.wavss-a-dcl-full_recovered,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl12/WAVSS*/*.wavss.log,CP01CNSM-SBD12-05-WAVSSA000,recovered_host,
 Ingest.metbk-a-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl12/METBK-Log_sn*/*metbk*.log,CP01CNSM-SBD12-06-METBKA000,recovered_host,
 #Ingest.fdchp-a-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl12/FDCHP*/*fdchp*.log,CP01CNSM-SBD12-08-FDCHPA000,recovered_host,
-#Ingest.fdchp-a_recovered,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl12/FDCHP_sn10/D2015*/fdchp_*.dat,CP01CNSM-SBD12-08-FDCHPA000,recovered_inst,
+#Ingest.fdchp-a_recovered,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl12/FDCHP_sn23/D2015*/fdchp_*.dat,CP01CNSM-SBD12-08-FDCHPA000,recovered_inst,
 Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl26/VELPT_snAQD-8532/*.velpt1.log,CP01CNSM-RID26-04-VELPTA000,recovered_host,
-#Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl26/VELPT_snAQD-11382/*VELPT*.aqd,CP01CNSM-RID26-04-VELPTA000,recovered_inst,
+#Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl26/VELPT_snAQD-8532/*VELPT*.aqd,CP01CNSM-RID26-04-VELPTA000,recovered_inst,
 #Ingest.phsen-abcdef-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl26/PHSEN_snP0068/*.phsen1.log,CP01CNSM-RID26-06-PHSEND000,recovered_host,Not deployed
 #Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl26/PHSEN_*/SAMI*.txt,CP01CNSM-RID26-06-PHSEND000,recovered_inst,Not deployed
 Ingest.nutnr-b-dcl-full_recovered,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl26/NUTNR_sn284/*.nutnr.log,CP01CNSM-RID26-07-NUTNRB000,recovered_host,
-#Ingest.nutnr-b_recovered,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl26/NUTNR_sn269/SCH*.DAT,CP01CNSM-RID26-07-NUTNRB000,recovered_inst,
-#Ingest.spkir-abj-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl26/SPKIR_sn291/*.spkir.log,CP01CNSM-RID26-08-SPKIRB000,recovered_host,
+#Ingest.nutnr-b_recovered,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl26/NUTNR_sn284/SCH*.DAT,CP01CNSM-RID26-07-NUTNRB000,recovered_inst,
+Ingest.spkir-abj-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl26/SPKIR_sn291/*.spkir.log,CP01CNSM-RID26-08-SPKIRB000,recovered_host,
 Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl27/OPTAA_sn152/*.optaa1.log,CP01CNSM-RID27-01-OPTAAD000,recovered_host,
 Ingest.flort-dj-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl27/FLORT*/*.flort.log,CP01CNSM-RID27-02-FLORTD000,recovered_host,
 Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl27/CTDBP*/*.ctdbp1.log,CP01CNSM-RID27-03-CTDBPC000,recovered_host,
 #Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl27/CTDBP*/6841.hex,CP01CNSM-RID27-03-CTDBPC000,recovered_inst,
-#Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl27/DOSTA*/*.dosta*.log,CP01CNSM-RID27-04-DOSTAD000,recovered_host,
+Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl27/DOSTA*/*.dosta*.log,CP01CNSM-RID27-04-DOSTAD000,recovered_host,
 #Ingest.adcpt-acfgm-dcl-pd8_recovered,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl35/ADCP*/*adcp*.log,CP01CNSM-MFD35-01-ADCPTF000,recovered_host,Not deployed
 #Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl35/ADCP*/*RDI*.000,CP01CNSM-MFD35-01-ADCPTF000,recovered_inst,Not deployed
 #Ingest.presf-abc-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl35/PRESF*/*.presf.log,CP01CNSM-MFD35-02-PRESFB000,recovered_host,Not deployed
@@ -34,14 +34,14 @@ Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl27
 #Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl37/CTDBP*/*ctdbp*.log,CP01CNSM-MFD37-03-CTDBPD000,recovered_host,Not deployed
 #Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl37/CTDBP*/SBE*.hex,CP01CNSM-MFD37-03-CTDBPD000,recovered_inst,Not deployed
 #Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl37/DOSTA*/*dosta*.log,CP01CNSM-MFD37-04-DOSTAD000,recovered_host,Not deployed
-#,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl37/ZPLSC_*/*.zplsc.log,CP01CNSM-MFD37-07-ZPLSCC000,recovered_host,No driver exists
-#,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl37/ZPLSC_*/DATA/*/*.01A,CP01CNSM-MFD37-07-ZPLSCC000,recovered_inst,No driver exists
+#,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl37/ZPLSC_*/*.zplsc.log,CP01CNSM-MFD37-07-ZPLSCC000,recovered_host,Not deployed
+#,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl37/ZPLSC_*/DATA/*/*.01A,CP01CNSM-MFD37-07-ZPLSCC000,recovered_inst,Not deployed
 #Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/irid2shore/cpm_status*.txt,CP01CNSM-SBC11-00-CPMENG000,recovered_host,
-#Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/cpm2/syslog/cpm_status.txt,CP01CNSM-RIC21-00-CPMENG000,recovered_host,
+#Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/cpm2/syslog/cpm_status.txt,CP01CNSM-RIC21-00-CPMENG000,recovered_host,Not deployed
 #Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/cpm3/syslog/cpm_status.txt,CP01CNSM-MFC31-00-CPMENG000,recovered_host,Not deployed
 #Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl11/syslog/*.syslog.log,CP01CNSM-SBD11-00-DCLENG000,recovered_host,
 #Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl12/syslog/*.syslog.log,CP01CNSM-SBD12-00-DCLENG000,recovered_host,
 #Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl26/syslog/*.syslog.log,CP01CNSM-RID26-00-DCLENG000,recovered_host,
-#Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl27/syslog/*.syslog.log,CP01CNSM-RID27-00-DCLENG000,recovered_host,
+#Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl27/syslog/*.syslog.log,CP01CNSM-RID27-00-DCLENG000,recovered_host,Not deployed
 #Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl35/syslog/*.syslog.log,CP01CNSM-MFD35-00-DCLENG000,recovered_host,Not deployed
 #Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl37/syslog/*.syslog.log,CP01CNSM-MFD37-00-DCLENG000,recovered_host,Not deployed
