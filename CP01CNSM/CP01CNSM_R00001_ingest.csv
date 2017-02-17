@@ -9,9 +9,9 @@ uframe_route,filename_mask,reference_designator,data_source,
 #Ingest.fdchp-a-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl12/fdchp*/*fdchp*.log,CP01CNSM-SBD12-08-FDCHPA000,recovered_host,Not deployed
 #Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl26/velpt2/*.velpt2.log,CP01CNSM-RID26-04-VELPTA000,recovered_host,Instrument setup incorrectly - data not retrievable
 #Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl26/VELPT_*/*velpt*.aqd,CP01CNSM-RID26-04-VELPTA000,recovered_inst,Instrument Data Not Recoverable
-#Ingest.phsen-abcdef-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl26/phsen1/*.phsen1.log,CP01CNSM-RID26-06-PHSEND000,recovered_host,File path does not exist
+Ingest.phsen-abcdef-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl26/PHSEN_snP0096/*.phsen1.log,CP01CNSM-RID26-06-PHSEND000,recovered_host,
 Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl26/PHSEN_*/SAMI*.txt,CP01CNSM-RID26-06-PHSEND000,recovered_inst,Data File suspicious
-#Ingest.nutnr-b-dcl-conc_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/cg_data/dcl26/nutnr/*.nutnr.log,CP01CNSM-RID26-07-NUTNRB000,recovered_host,File path does not exist
+#Ingest.nutnr-b-dcl-conc_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl26/NUTNR*/*.nutnr.log,CP01CNSM-RID26-07-NUTNRB000,recovered_host,missing
 Ingest.nutnr-b_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl26/NUTNR_*/*SCH*.DAT,CP01CNSM-RID26-07-NUTNRB000,recovered_inst,
 #Ingest.spkir-abj-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl26/spkir/*.spkir.log,CP01CNSM-RID26-08-SPKIRB000,recovered_host,Data not recoverable
 Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl27/OPTAA*/*.optaa1.log,CP01CNSM-RID27-01-OPTAAD000,recovered_host,
@@ -23,7 +23,7 @@ Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl27/DOSTA
 #Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl35/ADCP*/*RDI*.000,CP01CNSM-MFD35-01-ADCPTF000,recovered_inst,Instrument setup incorrectly - data not retrievable
 #Ingest.presf-abc-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl35/PRESF*/*.presf.log,CP01CNSM-MFD35-02-PRESFB000,recovered_host,Instrument setup incorrectly - data not retrievable
 #Ingest.presf-abc_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl35/PRESF_*/PRESF*.hex,CP01CNSM-MFD35-02-PRESFB000,recovered_inst,Instrument setup incorrectly - data not retrievable
-#Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl35/velpt*/*velpt*.log,CP01CNSM-MFD35-04-VELPTA000,recovered_host,No Data
+#Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl35/VELPT_*/*velpt*.log,CP01CNSM-MFD35-04-VELPTA000,recovered_host,No Data
 Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl35/VELPT_*/*VELPT*.aqd,CP01CNSM-MFD35-04-VELPTA000,recovered_inst,
 #Ingest.pco2w-abc-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl35/PCO2W_/*.pco2w.log,CP01CNSM-MFD35-05-PCO2WB000,recovered_host,No Data
 Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl35/PCO2W_*/SAMI*.txt,CP01CNSM-MFD35-05-PCO2WB000,recovered_inst,Data File suspicious
@@ -35,12 +35,12 @@ Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl37/CTDBP*/SBE*
 Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl37/DOSTA*/*dosta*.log,CP01CNSM-MFD37-04-DOSTAD000,recovered_host,
 #,,CP01CNSM-MFD37-07-ZPLSCC000,recovered_host,Not deployed
 #,,CP01CNSM-MFD37-07-ZPLSCC000,recovered_inst,Not deployed
-#Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/cg_data/irid2shore/cpm_status*.txt,CP01CNSM-SBC11-00-CPMENG000,recovered_host,
-#Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/cg_data/cpm2/syslog/cpm_status.txt,CP01CNSM-RIC21-00-CPMENG000,recovered_host,This is a single file updated every minute. There will only be 1 of these files and the data in it will be from the last update.
-#Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/cg_data/cpm3/syslog/cpm_status.txt,CP01CNSM-MFC31-00-CPMENG000,recovered_host,This is a single file updated every minute. There will only be 1 of these files and the data in it will be from the last update.
-#Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/cg_data/dcl11/syslog/*.syslog.log,CP01CNSM-SBD11-00-DCLENG000,recovered_host,
-#Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/cg_data/dcl12/syslog/*.syslog.log,CP01CNSM-SBD12-00-DCLENG000,recovered_host,
-#Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/cg_data/dcl26/syslog/*.syslog.log,CP01CNSM-RID26-00-DCLENG000,recovered_host,
-#Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/cg_data/dcl27/syslog/*.syslog.log,CP01CNSM-RID27-00-DCLENG000,recovered_host,
-#Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/cg_data/dcl35/syslog/*.syslog.log,CP01CNSM-MFD35-00-DCLENG000,recovered_host,
-#Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/cg_data/dcl37/syslog/*.syslog.log,CP01CNSM-MFD37-00-DCLENG000,recovered_host,
+#Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/irid2shore/cpm_status*.txt,CP01CNSM-SBC11-00-CPMENG000,recovered_host,
+#Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/cpm2/syslog/cpm_status.txt,CP01CNSM-RIC21-00-CPMENG000,recovered_host,This is a single file updated every minute. There will only be 1 of these files and the data in it will be from the last update.
+#Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/cpm3/syslog/cpm_status.txt,CP01CNSM-MFC31-00-CPMENG000,recovered_host,This is a single file updated every minute. There will only be 1 of these files and the data in it will be from the last update.
+#Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl11/syslog/*.syslog.log,CP01CNSM-SBD11-00-DCLENG000,recovered_host,
+#Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl12/syslog/*.syslog.log,CP01CNSM-SBD12-00-DCLENG000,recovered_host,
+#Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl26/syslog/*.syslog.log,CP01CNSM-RID26-00-DCLENG000,recovered_host,
+#Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl27/syslog/*.syslog.log,CP01CNSM-RID27-00-DCLENG000,recovered_host,
+#Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl35/syslog/*.syslog.log,CP01CNSM-MFD35-00-DCLENG000,recovered_host,
+#Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl37/syslog/*.syslog.log,CP01CNSM-MFD37-00-DCLENG000,recovered_host,

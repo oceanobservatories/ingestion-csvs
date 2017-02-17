@@ -34,8 +34,8 @@ Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/dcl37/o
 Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/dcl37/ctdbp2/*ctdbp2.log,CP01CNSM-MFD37-03-CTDBPD000,recovered_host,
 Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CP01CNSM/R00005/instruments/dcl37/CTDBP*/SBE*.hex,CP01CNSM-MFD37-03-CTDBPD000,recovered_inst,
 Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/dcl37/dosta2/*dosta2.log,CP01CNSM-MFD37-04-DOSTAD000,recovered_host,
-#,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/dcl37/zplsc/*.zplsc.log,CP01CNSM-MFD37-07-ZPLSCC000,recovered_host,No driver exists
-#,/omc_data/whoi/OMC/CP01CNSM/R00005/instruments/dcl37/ZPLSC*/*/*.01A,CP01CNSM-MFD37-07-ZPLSCC000,recovered_inst,No driver exists
+#,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/dcl37/zplsc/*.zplsc.log,CP01CNSM-MFD37-07-ZPLSCC000,recovered_host,Data in files. No driver exists
+#,/omc_data/whoi/OMC/CP01CNSM/R00005/instruments/dcl37/ZPLSC*/*/*.01A,CP01CNSM-MFD37-07-ZPLSCC000,recovered_inst,Data in files. No driver exists
 Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/cpm1/irid2shore/cpm_status*.txt,CP01CNSM-SBC11-00-CPMENG000,recovered_host,
 Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/cpm2/syslog/cpm_status.txt,CP01CNSM-RIC21-00-CPMENG000,recovered_host,
 Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/cpm3/syslog/cpm_status.txt,CP01CNSM-MFC31-00-CPMENG000,recovered_host,
