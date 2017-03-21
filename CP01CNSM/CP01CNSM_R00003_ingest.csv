@@ -1,8 +1,8 @@
 uframe_route,filename_mask,reference_designator,data_source,
-#Ingest.mopak-o-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl11/mopak/*.mopak.log,CP01CNSM-SBD11-01-MOPAK0000,recovered_host,No data
-#Ingest.hyd-o-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl11/hyd1/*.hyd1.log,CP01CNSM-SBD11-02-HYDGN0000,recovered_host,No data
+#Ingest.mopak-o-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl11/mopak/*.mopak.log,CP01CNSM-SBD11-01-MOPAK0000,recovered_host,Data not available
+#Ingest.hyd-o-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl11/hyd1/*.hyd1.log,CP01CNSM-SBD11-02-HYDGN0000,recovered_host,Data not available
 Ingest.metbk-a-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl11/METBK-Log_sn/*.metbk*.log,CP01CNSM-SBD11-06-METBKA000,recovered_host,
-#Ingest.hyd-o-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl12/hyd2/*.hyd2.log,CP01CNSM-SBD12-03-HYDGN0000,recovered_host,No data
+#Ingest.hyd-o-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl12/hyd2/*.hyd2.log,CP01CNSM-SBD12-03-HYDGN0000,recovered_host,Data not available
 Ingest.pco2a-a-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl12/PCO2A*/*pco2a*.log,CP01CNSM-SBD12-04-PCO2AA000,recovered_host,
 Ingest.wavss-a-dcl-full_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl12/WAVSS*/*.wavss.log,CP01CNSM-SBD12-05-WAVSSA000,recovered_host,
 Ingest.metbk-a-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl12/METBK-Log_sn/*metbk*.log,CP01CNSM-SBD12-06-METBKA000,recovered_host,
@@ -36,12 +36,12 @@ Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl37/CTD
 Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl37/DOSTA*/*dosta*.log,CP01CNSM-MFD37-04-DOSTAD000,recovered_host,
 #,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl37/ZPLSC_*/*.zplsc.log,CP01CNSM-MFD37-07-ZPLSCC000,recovered_host,Data in files. No driver exists
 #,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl37/ZPLSC_*/DATA/*/*.01A,CP01CNSM-MFD37-07-ZPLSCC000,recovered_inst,Data in files. No driver exists
-#Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/irid2shore/cpm_status*.txt,CP01CNSM-SBC11-00-CPMENG000,recovered_host,No data
-#Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/cpm2/syslog/cpm_status.txt,CP01CNSM-RIC21-00-CPMENG000,recovered_host,No data
-#Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/cpm3/syslog/cpm_status.txt,CP01CNSM-MFC31-00-CPMENG000,recovered_host,No data
-#Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl11/syslog/*.syslog.log,CP01CNSM-SBD11-00-DCLENG000,recovered_host,No data
-#Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl12/syslog/*.syslog.log,CP01CNSM-SBD12-00-DCLENG000,recovered_host,No data
-#Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl26/syslog/*.syslog.log,CP01CNSM-RID26-00-DCLENG000,recovered_host,No data
-#Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl27/syslog/*.syslog.log,CP01CNSM-RID27-00-DCLENG000,recovered_host,No data
-#Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl35/syslog/*.syslog.log,CP01CNSM-MFD35-00-DCLENG000,recovered_host,No data
-#Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl37/syslog/*.syslog.log,CP01CNSM-MFD37-00-DCLENG000,recovered_host,No data
+#Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/irid2shore/cpm_status*.txt,CP01CNSM-SBC11-00-CPMENG000,recovered_host,Data not available
+#Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/cpm2/syslog/cpm_status.txt,CP01CNSM-RIC21-00-CPMENG000,recovered_host,Data not available
+#Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/cpm3/syslog/cpm_status.txt,CP01CNSM-MFC31-00-CPMENG000,recovered_host,Data not available
+#Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl11/syslog/*.syslog.log,CP01CNSM-SBD11-00-DCLENG000,recovered_host,Data not available
+#Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl12/syslog/*.syslog.log,CP01CNSM-SBD12-00-DCLENG000,recovered_host,Data not available
+#Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl26/syslog/*.syslog.log,CP01CNSM-RID26-00-DCLENG000,recovered_host,Data not available
+#Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl27/syslog/*.syslog.log,CP01CNSM-RID27-00-DCLENG000,recovered_host,Data not available
+#Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl35/syslog/*.syslog.log,CP01CNSM-MFD35-00-DCLENG000,recovered_host,Data not available
+#Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl37/syslog/*.syslog.log,CP01CNSM-MFD37-00-DCLENG000,recovered_host,Data not available

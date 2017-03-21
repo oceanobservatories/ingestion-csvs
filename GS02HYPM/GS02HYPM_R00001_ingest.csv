@@ -12,5 +12,5 @@ Ingest.vel3d-l-wfp_recovered,/omc_data/whoi/OMC/GS02HYPM/R00001/cg_data/dcl00/LO
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GS02HYPM/R00001/cg_data/dcl00/CTDMO-G_sn37-12402/*.hex,GS02HYPM-RIM01-02-CTDMOG039,recovered_inst,
 #Ingest.ctdmo-ghqr-sio_recovered,/omc_data/whoi/OMC/GS02HYPM/R00001/cg_data/dcl00/CTDMO-G_sn37-12402/*.DAT,GS02HYPM-RIM01-02-CTDMOG039,recovered_host,Data not expected
 #Ingest.sio-eng-sio_recovered,/omc_data/whoi/OMC/GS02HYPM/R00001/cg_data/dcl00/MSIOC_sn/STA*.DA?,GS02HYPM-RIM01-00-SIOENG000,recovered_host,Data not expected
-#,,GS02HYPM-MPM01-02-ZPLSGA009,recovered_inst,No ZPLSG data
-#,,GS02HYPM-MPM01-02-ZPLSGA010,recovered_inst,No ZPLSG data
+#,,GS02HYPM-MPM01-02-ZPLSGA009,recovered_inst,Not deployed
+#,,GS02HYPM-MPM01-02-ZPLSGA010,recovered_inst,Not deployed
