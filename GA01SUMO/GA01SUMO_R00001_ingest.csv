@@ -5,19 +5,19 @@ Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl
 Ingest.spkir-abj-dcl_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl11/SPKIR_*/*.spkir1.log,GA01SUMO-SBD11-05-SPKIRB000,recovered_host,
 Ingest.nutnr-b_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl11/NUTNR*/*.DAT,GA01SUMO-SBD11-08-NUTNRB000,recovered_inst,
 Ingest.nutnr-b-dcl-full_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl11/NUTNR*/*.log,GA01SUMO-SBD11-08-NUTNRB000,recovered_host,
-#Ingest.hyd-o-dcl_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl11/hyd*/*hyd*.log,GA01SUMO-SBD11-03-HYDGN0000,recovered_host,No data on server
+#Ingest.hyd-o-dcl_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl11/hyd*/*hyd*.log,GA01SUMO-SBD11-03-HYDGN0000,recovered_host,Data not available
 Ingest.metbk-a-dcl_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl12/METBK-Log*/*.metbk*.log,GA01SUMO-SBD12-06-METBKA000,recovered_host,
 Ingest.pco2a-a-dcl_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl12/PCO2A*/*.pco2a.log,GA01SUMO-SBD12-04-PCO2AA000,recovered_host,
 Ingest.wavss-a-dcl-full_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl12/WAVSS*/*.wavss.log,GA01SUMO-SBD12-05-WAVSSA000,recovered_host,
 Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl12/OPTAA*/*.optaa*.log,GA01SUMO-SBD12-01-OPTAAD000,recovered_host,
 Ingest.flort-dj-dcl_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl12/FLORT*/*.flort*.log,GA01SUMO-SBD12-02-FLORTD000,recovered_host,
-#Ingest.hyd-o-dcl_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl12/hyd*/*hyd*.log,GA01SUMO-SBD12-03-HYDGN0000,recovered_host,No data on server
+#Ingest.hyd-o-dcl_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl12/hyd*/*hyd*.log,GA01SUMO-SBD12-03-HYDGN0000,recovered_host,Data not available
 Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl16/OPTAA*/*.optaa*.log,GA01SUMO-RID16-01-OPTAAD000,recovered_host,
 Ingest.flort-dj-dcl_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl16/FLORT*/*.flort2.log,GA01SUMO-RID16-02-FLORTD000,recovered_host,
 Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl16/CTDBP*/*ctdbp.log,GA01SUMO-RID16-03-CTDBPF000,recovered_host,
 Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl16/CTDBP*/*.hex,GA01SUMO-RID16-03-CTDBPF000,recovered_inst,
 Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl16/VELPT*/*.velpt*.log,GA01SUMO-RID16-04-VELPTA000,recovered_host,
-#Ingest.velpt-ab_recovered,,GA01SUMO-RID16-04-VELPTA000,recovered_inst,No data on server
+#Ingest.velpt-ab_recovered,,GA01SUMO-RID16-04-VELPTA000,recovered_inst,Data not available. Unable to communicate with instrument
 Ingest.pco2w-abc-dcl_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl16/PCO2W_snC0050/*.pco2w.log,GA01SUMO-RID16-05-PCO2WB000,recovered_host,
 Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl16/PCO2W_snC0050/*.txt,GA01SUMO-RID16-05-PCO2WB000,recovered_inst,
 Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl16/DOSTA_sn*/*.dosta2.log,GA01SUMO-RID16-06-DOSTAD000,recovered_host,
@@ -27,7 +27,7 @@ Ingest.spkir-abj-dcl_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl16/
 #Ingest.adcps-jln-stc_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl16/ADCP_sn21639/adcp*.DAT,GA01SUMO-RII11-02-ADCPSN010,recovered_host,Files not formatted properly
 Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl16/ADCP_sn21639/*.000,GA01SUMO-RII11-02-ADCPSN010,recovered_inst,
 Ingest.phsen-abcdef-imodem_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl16/PHSEN_snP0070/*.DAT,GA01SUMO-RII11-02-PHSENE041,recovered_host,
-#Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl16/PHSEN_snP0070/*.txt,GA01SUMO-RII11-02-PHSENE041,recovered_inst,No data on server
+#Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl16/PHSEN_snP0070/*.txt,GA01SUMO-RII11-02-PHSENE041,recovered_inst,Data not available. Unable to communicate with instrument
 #,,GA01SUMO-RII11-02-CTDBPP031,recovered_host,Not installed
 #,,GA01SUMO-RII11-02-DOSTAD031,recovered_host,Not installed
 #,,GA01SUMO-RII11-02-FLORDG031,recovered_host,Not installed
@@ -37,7 +37,7 @@ Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl16/PCO2
 #,,GA01SUMO-RII11-02-DOSTAD032,recovered_host,Not installed
 #,,GA01SUMO-RII11-02-FLORDG032,recovered_host,Not installed
 Ingest.pco2w-abc-imodem_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl16/PCO2W_snC0108/*.DAT,GA01SUMO-RII11-02-PCO2WC052,recovered_host,
-#Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl16/PCO2W_snC0108/*.txt,GA01SUMO-RII11-02-PCO2WC052,recovered_inst,No data on server
+#Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl16/PCO2W_snC0108/*.txt,GA01SUMO-RII11-02-PCO2WC052,recovered_inst,Data not available. Unable to communicate with instrument
 Ingest.phsen-abcdef-imodem_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl16/PHSEN_snP0140/*.DAT,GA01SUMO-RII11-02-PHSENE042,recovered_host,
 Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl16/PHSEN_snP0140/*.txt,GA01SUMO-RII11-02-PHSENE042,recovered_inst,
 #,,GA01SUMO-RII11-02-CTDBPP033,recovered_host,Not installed
