@@ -32,7 +32,7 @@ Ingest.phsen-abcdef-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl
 Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl35/PHSEN_*/SAMI*.txt,CP01CNSM-MFD35-06-PHSEND000,recovered_inst,
 Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl37/OPTAA*/*.optaa2.log,CP01CNSM-MFD37-01-OPTAAD000,recovered_host,
 Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl37/CTDBP*/*ctdbp*.log,CP01CNSM-MFD37-03-CTDBPD000,recovered_host,
-Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl37/CTDBP*/SBE*.hex,CP01CNSM-MFD37-03-CTDBPD000,recovered_inst,
+Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl37/CTDBP*/SBE16plus_01650008_2015_10_27.hex,CP01CNSM-MFD37-03-CTDBPD000,recovered_inst,
 Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl37/DOSTA*/*dosta*.log,CP01CNSM-MFD37-04-DOSTAD000,recovered_host,
 #,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl37/ZPLSC_*/*.zplsc.log,CP01CNSM-MFD37-07-ZPLSCC000,recovered_host,Data in files. No driver exists
 #,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl37/ZPLSC_*/DATA/*/*.01A,CP01CNSM-MFD37-07-ZPLSCC000,recovered_inst,Data in files. No driver exists
