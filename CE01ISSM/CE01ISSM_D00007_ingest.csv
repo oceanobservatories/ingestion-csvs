@@ -20,7 +20,7 @@ Ingest.adcpt-acfgm-dcl-pd0_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00007/cg_dat
 Ingest.pco2w-abc-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00007/cg_data/dcl35/pco2w*/*.pco2w*.log,CE01ISSM-MFD35-05-PCO2WB000,telemetered,
 Ingest.phsen-abcdef-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00007/cg_data/dcl35/phsen*/*.phsen*.log,CE01ISSM-MFD35-06-PHSEND000,telemetered,
 # ,,,,
-# Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00007/cg_data/dcl37/optaa*/*.optaa*.log,CE01ISSM-MFD37-01-OPTAAD000,telemetered,OPTAA not deployed Fall 2016
+Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00007/cg_data/dcl37/optaa*/*.optaa*.log,CE01ISSM-MFD37-01-OPTAAD000,telemetered,
 Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00007/cg_data/dcl37/ctdbp*/*.ctdbp*.log,CE01ISSM-MFD37-03-CTDBPC000,telemetered,
 Ingest.dosta-abcdjm-ctdbp-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00007/cg_data/dcl37/ctdbp*/*.ctdbp*.log,CE01ISSM-MFD37-03-DOSTAD000,telemetered,
 # ,,CE01ISSM-MFD37-06-CAMDSA000,telemetered,Instrument not deployed

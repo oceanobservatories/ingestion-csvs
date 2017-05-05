@@ -6,7 +6,7 @@ Ingest.metbk-a-dcl_telemetered,/omc_data/whoi/OMC/CE02SHSM/D00005/cg_data/dcl11/
 # ,,,
 Ingest.hyd-o-dcl_telemetered,/omc_data/whoi/OMC/CE02SHSM/D00005/cg_data/dcl12/hyd2/*.hyd*.log,CE02SHSM-SBD12-03-HYDGN0000,telemetered
 Ingest.pco2a-a-dcl_telemetered,/omc_data/whoi/OMC/CE02SHSM/D00005/cg_data/dcl12/pco2a/*.pco2a.log,CE02SHSM-SBD12-04-PCO2AA000,telemetered
-# Ingest.wavss-a-dcl-full_telemetered,/omc_data/whoi/OMC/CE02SHSM/D00005/cg_data/dcl12/wavss/*.wavss.log,CE02SHSM-SBD12-05-WAVSSA000,telemetered
+Ingest.wavss-a-dcl-full_telemetered,/omc_data/whoi/OMC/CE02SHSM/D00005/cg_data/dcl12/wavss/*.wavss.log,CE02SHSM-SBD12-05-WAVSSA000,telemetered
 Ingest.fdchp-a-dcl_telemetered,/omc_data/whoi/OMC/CE02SHSM/D00005/cg_data/dcl12/fdchp/*.fdchp.log,CE02SHSM-SBD12-08-FDCHPA000,telemetered
 # ,,,
 Ingest.adcpt-acfgm-dcl-pd0_telemetered,/omc_data/whoi/OMC/CE02SHSM/D00005/cg_data/dcl26/adcpt/*.adcpt.log,CE02SHSM-RID26-01-ADCPTA000,telemetered
