@@ -10,8 +10,8 @@ Ingest.fdchp-a-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl12/FD
 Ingest.fdchp-a_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl12/FDCHP_sn10/D2015*/fdchp_*.dat,CP01CNSM-SBD12-08-FDCHPA000,recovered_inst,
 Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl26/VELPT_snAQD-11382/*.velpt1.log,CP01CNSM-RID26-04-VELPTA000,recovered_host,
 Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl26/VELPT_snAQD-11382/*VELPT*.aqd,CP01CNSM-RID26-04-VELPTA000,recovered_inst,
-Ingest.phsen-abcdef-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl26/PHSEN_snP0068/*.phsen1.log,CP01CNSM-RID26-06-PHSEND000,recovered_host,
-#Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl26/PHSEN_*/SAMI*.txt,CP01CNSM-RID26-06-PHSEND000,recovered_inst,No data
+#Ingest.phsen-abcdef-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl26/PHSEN_snP0068/*.phsen1.log,CP01CNSM-RID26-06-PHSEND000,recovered_host,Not deployed
+#Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl26/PHSEN_*/SAMI*.txt,CP01CNSM-RID26-06-PHSEND000,recovered_inst,Not deployed
 Ingest.nutnr-b-dcl-full_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl26/NUTNR_sn269/*.nutnr.log,CP01CNSM-RID26-07-NUTNRB000,recovered_host,
 Ingest.nutnr-b_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl26/NUTNR_sn269/SCH*.DAT,CP01CNSM-RID26-07-NUTNRB000,recovered_inst,
 Ingest.spkir-abj-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl26/SPKIR_sn272/*.spkir.log,CP01CNSM-RID26-08-SPKIRB000,recovered_host,
