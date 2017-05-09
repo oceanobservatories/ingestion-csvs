@@ -8,7 +8,7 @@ Ingest.wavss-a-dcl-full_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00003/cg_data/d
 Ingest.metbk-a-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00003/cg_data/dcl12/metbk*/*metbk*.log,CP01CNSM-SBD12-06-METBKA000,telemetered,
 Ingest.fdchp-a-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00003/cg_data/dcl12/fdchp*/*fdchp*.log,CP01CNSM-SBD12-08-FDCHPA000,telemetered,
 Ingest.velpt-ab-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00003/cg_data/dcl26/velpt*/*velpt*.log,CP01CNSM-RID26-04-VELPTA000,telemetered,
-#Ingest.phsen-abcdef-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00003/cg_data/dcl26/phsen*/*phsen*.log,CP01CNSM-RID26-06-PHSEND000,telemetered,Not deployed
+#Ingest.phsen-abcdef-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00003/cg_data/dcl26/phsen*/*phsen*.log,CP01CNSM-RID26-06-PHSEND000,telemetered,Not deployed. Existing files on the CI server are empty.
 Ingest.nutnr-b-dcl-full_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00003/cg_data/dcl26/nutnr*/*nutnr*.log,CP01CNSM-RID26-07-NUTNRB000,telemetered,
 Ingest.spkir-abj-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00003/cg_data/dcl26/spkir*/*spkir*.log,CP01CNSM-RID26-08-SPKIRB000,telemetered,
 Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00003/cg_data/dcl27/optaa*/*optaa*.log,CP01CNSM-RID27-01-OPTAAD000,telemetered,
