@@ -1,8 +1,8 @@
 uframe_route,filename_mask,reference_designator,data_source,
-#Ingest.mopak-o-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl11/MOPAK_sn/*.mopak.log,CP03ISSM-SBD11-01-MOPAK0000,recovered_host,No data on server
+#Ingest.mopak-o-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl11/MOPAK_sn/*.mopak.log,CP03ISSM-SBD11-01-MOPAK0000,recovered_host,No data available. It was not routinely captured.
 Ingest.hyd-o-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl11/hyd1/*.hyd1.log,CP03ISSM-SBD11-02-HYDGN0000,recovered_host,
 Ingest.metbk-a-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl11/METBK-Log_snLGR023/*.metbk*.log,CP03ISSM-SBD11-06-METBKA000,recovered_host,
-#Ingest.hyd-o-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl12/Hydrogen_sn/*.hyd2.log,CP03ISSM-SBD12-03-HYDGN0000,recovered_host,No data on server
+#Ingest.hyd-o-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl12/Hydrogen_sn/*.hyd2.log,CP03ISSM-SBD12-03-HYDGN0000,recovered_host,No data available. It was not routinely captured.
 Ingest.pco2a-a-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl12/PCO2A_sn34-260-50A/*pco2a.log,CP03ISSM-SBD12-04-PCO2AA000,recovered_host,
 Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl26/VELPT_snAQD-12747/*.aqd,CP03ISSM-RID26-04-VELPTA000,recovered_inst,
 Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl26/VELPT_snAQD-12747/*velpt1.log,CP03ISSM-RID26-04-VELPTA000,recovered_host,
@@ -32,9 +32,9 @@ Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl37
 Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl37/DOSTA_sn507/*dosta2*.log,CP03ISSM-MFD37-04-DOSTAD000,recovered_host,
 #,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl37/ZPLSC_sn55100/*zplsc.log,CP03ISSM-MFD37-07-ZPLSCC000,recovered_host,No driver exists
 #,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl37/ZPLSC_sn55100/DATA/*/*.01A,CP03ISSM-MFD37-07-ZPLSCC000,recovered_inst,No driver exists
-# Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/irid2shore/cpm_status*.txt,CP03ISSM-SBC11-00-CPMENG000,recovered_host,No data on server
-# Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/cpm2/syslog/cpm_status*.txt,CP03ISSM-RIC21-00-CPMENG000,recovered_host,No data on server
-# Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/cpm3/syslog/cpm_status*.txt,CP03ISSM-MFC31-00-CPMENG000,recovered_host,No data on server
+# Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/irid2shore/cpm_status*.txt,CP03ISSM-SBC11-00-CPMENG000,recovered_host,No data available. It was not routinely captured.
+# Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/cpm2/syslog/cpm_status*.txt,CP03ISSM-RIC21-00-CPMENG000,recovered_host,No data available. It was not routinely captured.
+# Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/cpm3/syslog/cpm_status*.txt,CP03ISSM-MFC31-00-CPMENG000,recovered_host,No data available. It was not routinely captured.
 Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl11/syslog/*.syslog.log,CP03ISSM-SBD11-00-DCLENG000,recovered_host,
 Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl12/syslog/*.syslog.log,CP03ISSM-SBD12-00-DCLENG000,recovered_host,
 Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl26/syslog/*.syslog.log,CP03ISSM-RID26-00-DCLENG000,recovered_host,
