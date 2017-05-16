@@ -1,6 +1,6 @@
 uframe_route,filename_mask,reference_designator,data_source,
 Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/GI03FLMA/R00002/cg_data/dcl00/ADCPS_sn23380/*.000,GI03FLMA-RIM01-02-ADCPSL003,recovered_inst,
-Ingest.adcps-jln-stc_recovered,/omc_data/whoi/OMC/GI03FLMA/R00002/cg_data/dcl00/ADCPS_sn23380/ADC*.DAT,GI03FLMA-RIM01-02-ADCPSL003,recovered_host,Unable to parse files
+Ingest.adcps-jln-sio_telemetered,/omc_data/whoi/OMC/GI03FLMA/R00002/cg_data/dcl00/ADCPS_sn23380/ADC*.DAT,GI03FLMA-RIM01-02-ADCPSL003,recovered_host,
 Ingest.dosta-abcdjm-sio_recovered,/omc_data/whoi/OMC/GI03FLMA/R00002/cg_data/dcl00/DOSTA_sn465/DOS*.DAT,GI03FLMA-RIS01-03-DOSTAD000,recovered_host,
 Ingest.flort-dj-sio_recovered,/omc_data/whoi/OMC/GI03FLMA/R00002/cg_data/dcl00/FLORT_sn1298/FLO*.DAT,GI03FLMA-RIS01-05-FLORTD000,recovered_host,
 Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/GI03FLMA/R00002/cg_data/dcl00/PHSEN_snP0174/SAMI*.txt,GI03FLMA-RIS01-04-PHSENF000,recovered_inst,
