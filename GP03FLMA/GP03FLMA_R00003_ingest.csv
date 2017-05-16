@@ -1,6 +1,6 @@
 uframe_route,filename_mask,reference_designator,data_source,
 Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/GP03FLMA/R00003/cg_data/dcl00/ADCPS-L_sn21393/*.000,GP03FLMA-RIM01-02-ADCPSL003,recovered_inst,
-Ingest.adcps-jln-stc_recovered,/omc_data/whoi/OMC/GP03FLMA/R00003/cg_data/dcl00/ADCPS-L_sn21393/ADC*.DAT,GP03FLMA-RIM01-02-ADCPSL003,recovered_host,Unable to parse files
+Ingest.adcps-jln-sio_telemetered,/omc_data/whoi/OMC/GP03FLMA/R00003/cg_data/dcl00/ADCPS-L_sn21393/ADC*.DAT,GP03FLMA-RIM01-02-ADCPSL003,recovered_host,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00003/cg_data/dcl00/CTDMO_sn37-10219/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOG040,recovered_inst,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00003/cg_data/dcl00/CTDMO_sn37-12411/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOG041,recovered_inst,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00003/cg_data/dcl00/CTDMO_sn37-10224/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOG042,recovered_inst,
