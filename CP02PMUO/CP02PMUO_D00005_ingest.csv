@@ -1,5 +1,5 @@
 uframe_route,filename_mask,reference_designator,data_source,
-#Ingest.adcps-jln-stc_telemetered,/omc_data/whoi/OMC/CP02PMUO/D00005/imm/adcpt/adcpt_*_*.DAT,CP02PMUO-RII01-02-ADCPSL010,telemetered,No ADCP Data 
+#Ingest.adcps-jln-stc_telemetered,/omc_data/whoi/OMC/CP02PMUO/D00005/imm/adcpt/adcpt_*_*.DAT,CP02PMUO-RII01-02-ADCPSL010,telemetered,Failed
 Ingest.vel3d-k-wfp-stc_telemetered,/omc_data/whoi/OMC/CP02PMUO/D00005/imm/mmp/A*.DEC,CP02PMUO-WFP01-01-VEL3DK000,telemetered,
 Ingest.ctdpf-ckl-wfp_telemetered,/omc_data/whoi/OMC/CP02PMUO/D00005/imm/mmp/C*.DAT,CP02PMUO-WFP01-03-CTDPFK000,telemetered,
 Ingest.dofst-k-wfp_telemetered,/omc_data/whoi/OMC/CP02PMUO/D00005/imm/mmp/C*.DAT,CP02PMUO-WFP01-02-DOFSTK000,telemetered,

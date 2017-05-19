@@ -1,0 +1,6 @@
+uframe_route,filename_mask,reference_designator,data_source,
+#Ingest.glider-eng-glider_telemetered,/omc_data/whoi/OMC/CP05MOAS-GL388/D00006/merged-from-glider/cp_*.mrg,CP05MOAS-GL388-00-ENG000000,telemetered,upcoming deployment
+#Ingest.parad-m-glider_telemetered,/omc_data/whoi/OMC/CP05MOAS-GL388/D00006/merged-from-glider/cp_*.mrg,CP05MOAS-GL388-05-PARADM000,telemetered,upcoming deployment
+#Ingest.flort-m-glider_telemetered,/omc_data/whoi/OMC/CP05MOAS-GL388/D00005/merged-from-glider/cp_*.mrg,CP05MOAS-GL388-02-FLORTM000,telemetered,upcoming deployment
+#Ingest.dosta-abcdjm-glider_telemetered,/omc_data/whoi/OMC/CP05MOAS-GL388/D00005/merged-from-glider/cp_*.mrg,CP05MOAS-GL388-04-DOSTAM000,telemetered,upcoming deployment
+#Ingest.ctdgv-m-glider_telemetered,/omc_data/whoi/OMC/CP05MOAS-GL388/D00005/merged-from-glider/cp_*.mrg,CP05MOAS-GL388-03-CTDGVM000,telemetered,upcoming deployment
