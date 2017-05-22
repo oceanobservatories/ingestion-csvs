@@ -13,7 +13,7 @@ Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/CTD
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/CTDMO-H_sn11683/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOH049,recovered_inst,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/CTDMO-H_sn11681/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOH050,recovered_inst,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/CTDMO-H_sn11704/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOH051,recovered_inst,
-#Ingest.ctdmo-ghqr-sio_recovered,,GP03FLMA-RIM01-02-CTDMOG000,recovered_host,
+#Ingest.ctdmo-ghqr-sio_ctRecovered,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/ctdmo/CTD*.DAT,GP03FLMA-RIM01-02-CTDMOG000,recovered_host,No data
 Ingest.dosta-abcdjm-sio_recovered,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/DOSTA_sn127/DOS*.DAT,GP03FLMA-RIS01-03-DOSTAD000,recovered_host,
 Ingest.flort-dj-sio_recovered,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/FLORD_sn1116/FLO*.DAT,GP03FLMA-RIS01-05-FLORTD000,recovered_host,
 Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/PHSEN_snP0103/SAMI*.txt,GP03FLMA-RIS01-04-PHSENF000,recovered_inst,

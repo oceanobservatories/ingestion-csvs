@@ -17,6 +17,6 @@ Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GS03FLMB/R00002/instruments/CTDMO
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GS03FLMB/R00002/instruments/CTDMO_sn37-13649/*.hex,GS03FLMB-RIM01-02-CTDMOH069,recovered_inst
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GS03FLMB/R00002/instruments/CTDMO_sn37-13650/*.hex,GS03FLMB-RIM01-02-CTDMOH070,recovered_inst
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GS03FLMB/R00002/instruments/CTDMO_sn37-13633/*.hex,GS03FLMB-RIM01-02-CTDMOH071,recovered_inst
-Ingest.ctdmo-ghqr-sio_recovered,/omc_data/whoi/OMC/GS03FLMB/R00002/cg_data/MSIOC_sn14885/CTD/*.DAT,GS03FLMB-RIM01-02-CTDMOG000,recovered_host
+Ingest.ctdmo-ghqr-sio_ctRecovered,/omc_data/whoi/OMC/GS03FLMB/R00002/cg_data/MSIOC_sn14885/CTD/*.DAT,GS03FLMB-RIM01-02-CTDMOG000,recovered_host
 Ingest.sio-eng-sio_recovered,/omc_data/whoi/OMC/GS03FLMB/R00002/cg_data/MSIOC_sn14885/STATUS/STA*.DAT,GS03FLMB-RIM01-00-SIOENG000,recovered_host
 Ingest.sio-eng-sio_recovered,/omc_data/whoi/OMC/GS03FLMB/R00002/cg_data/SSIOC_sn14884/STATUS/STA*.DAT,GS03FLMB-RIS01-00-SIOENG000,recovered_host

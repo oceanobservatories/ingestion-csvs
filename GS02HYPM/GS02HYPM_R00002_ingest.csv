@@ -10,7 +10,7 @@ Ingest.dosta-ln-wfp_recovered,/omc_data/whoi/OMC/GS02HYPM/R00002/instruments/GWF
 Ingest.ctdpf-ckl-wfp_recovered,/omc_data/whoi/OMC/GS02HYPM/R00002/instruments/GWFP_sn13452-02/00000/C*.DA?,GS02HYPM-WFP03-04-CTDPFL000,recovered_wfp,
 Ingest.vel3d-l-wfp_recovered,/omc_data/whoi/OMC/GS02HYPM/R00002/instruments/GWFP_sn13452-02/00000/A*.DA?,GS02HYPM-WFP03-05-VEL3DL000,recovered_wfp,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GS02HYPM/R00002/instruments/CTDMO_sn37-13644/*.hex,GS02HYPM-RIM01-02-CTDMOG039,recovered_inst,
-Ingest.ctdmo-ghqr-sio_recovered,/omc_data/whoi/OMC/GS02HYPM/R00002/cg_data/MSIOC_sn14871/CTD/*.DAT,GS02HYPM-RIM01-02-CTDMOG039,recovered_host,
+Ingest.ctdmo-ghqr-sio_ctRecovered,/omc_data/whoi/OMC/GS02HYPM/R00002/cg_data/MSIOC_sn14871/CTD/*.DAT,GS02HYPM-RIM01-02-CTDMOG039,recovered_host,
 Ingest.sio-eng-sio_recovered,/omc_data/whoi/OMC/GS02HYPM/R00002/cg_data/MSIOC_sn14871/STATUS/STA*.DA?,GS02HYPM-RIM01-00-SIOENG000,recovered_host,
 #,,GS02HYPM-MPM01-02-ZPLSGA009,recovered_inst,Not deployed
 #,,GS02HYPM-MPM01-02-ZPLSGA010,recovered_inst,Not deployed
