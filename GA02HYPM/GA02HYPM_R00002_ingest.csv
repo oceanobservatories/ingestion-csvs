@@ -5,7 +5,7 @@ uframe_route,filename_mask,reference_designator,data_source,
 #Ingest.flord-l-wfp_recovered,,GA02HYPM-WFP02-01-FLORDL000,recovered_wfp,Mooring not recovered
 #Ingest.wfp-eng-stc-imodem_recovered,,GA02HYPM-WFP02-00-WFPENG000,recovered_wfp,Mooring not recovered
 #Ingest.ctdmo-ghqr_recovered,,GA02HYPM-RIM01-02-CTDMOG039,recovered_inst,Mooring not recovered
-#Ingest.ctdmo-ghqr-sio_recovered,,GA02HYPM-RIM01-02-CTDMOG039,recovered_host,Mooring not recovered
+#Ingest.ctdmo-ghqr-sio_ctRecovered,,GA02HYPM-RIM01-02-CTDMOG039,recovered_host,Mooring not recovered
 #Ingest.sio-eng-sio_recovered,,GA02HYPM-RIM01-00-SIOENG000,recovered_host,Mooring not recovered
 #,,GA02HYPM-MPM01-02-ZPLSGA009,recovered_inst,Not installed
 #,,GA02HYPM-MPM01-02-ZPLSGA010,recovered_inst,Not installed
