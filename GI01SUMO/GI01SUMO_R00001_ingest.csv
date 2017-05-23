@@ -65,7 +65,7 @@ Ingest.ctdmo-ghqr-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dc
 Ingest.ctdmo-ghqr-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl11/imm/CTDMO_sn37-11476/*.DAT,GI01SUMO-RII11-02-CTDMOQ031,recovered_host,,
 Ingest.ctdmo-ghqr-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl11/imm/CTDMO_sn37-11475/*.DAT,GI01SUMO-RII11-02-CTDMOQ012,recovered_host,,
 Ingest.ctdmo-ghqr-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl11/imm/CTDMO_sn37-11482/*.DAT,GI01SUMO-RII11-02-CTDMOQ013,recovered_host,,
-Ingest.ctdmo-ghqr-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl11/imm/CTDMO_sn37-11481/*.DAT,GI01SUMO-RII11-02-CTDMOQ033,recovered_host,,
+Ingest.ctdmo-ghqr-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl11/imm/CTDMO_sn37-11481/*.DAT*,GI01SUMO-RII11-02-CTDMOQ033,recovered_host,,
 Ingest.ctdmo-ghqr-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl11/imm/CTDMO_sn37-11480/*.DAT,GI01SUMO-RII11-02-CTDMOQ014,recovered_host,,
 Ingest.ctdmo-ghqr-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl11/imm/CTDMO_sn37-11479/*.DAT,GI01SUMO-RII11-02-CTDMOQ015,recovered_host,,
 Ingest.ctdmo-ghqr-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl11/imm/CTDMO_sn37-11478/*.DAT,GI01SUMO-RII11-02-CTDMOQ016,recovered_host,,
