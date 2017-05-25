@@ -1,5 +1,5 @@
 uframe_route,filename_mask,reference_designator,data_source,
-#Ingest.vel3d-k-wfp-stc_recovered,/omc_data/whoi/OMC/CP02PMUI/R00003/cg_data/dcl00/imm/mmp/A*.DA?,CP02PMUI-WFP01-01-VEL3DK000,recovered_wfp,not expected - Correct format Data not available
+#Ingest.vel3d-k-wfp-stc_recovered,/omc_data/whoi/OMC/CP02PMUI/R00003/cg_data/dcl00/imm/mmp/A*.DA?,CP02PMUI-WFP01-01-VEL3DK000,recovered_wfp,data should be identical to D00003 - Correct format Data not available
 Ingest.ctdpf-ckl-wfp_recovered,/omc_data/whoi/OMC/CP02PMUI/R00003/cg_data/dcl00/imm/mmp/C*.DA?,CP02PMUI-WFP01-03-CTDPFK000,recovered_wfp,
 Ingest.dofst-k-wfp_recovered,/omc_data/whoi/OMC/CP02PMUI/R00003/cg_data/dcl00/imm/mmp/C*.DA?,CP02PMUI-WFP01-02-DOFSTK000,recovered_wfp,
 Ingest.wfp-eng-stc-imodem_recovered,/omc_data/whoi/OMC/CP02PMUI/R00003/cg_data/dcl00/imm/mmp/E*.DA?,CP02PMUI-WFP01-00-WFPENG000,recovered_wfp,
