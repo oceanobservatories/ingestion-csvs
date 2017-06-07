@@ -1,6 +1,6 @@
 uframe_route,filename_mask,reference_designator,data_source,
 Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/adcp/*.000,GP03FLMA-RIM01-02-ADCPSL003,recovered_inst,
-#Ingest.adcps-jln-stc_recovered,,GP03FLMA-RIM01-02-ADCPSL003,recovered_host,Data not expected
+#Ingest.adcps-jln-sio_telemetered,,GP03FLMA-RIM01-02-ADCPSL003,recovered_host,Data not expected
 Ingest.ctdmo-ghqr-sio_ctRecovered,/omc_data/whoi/OMC/GP03FLMA/R00001/ctdmo/CTD*.DAT,GP03FLMA-RIM01-02-CTDMOG000,recovered_host,"This reference designator serves as a template. The parser will overwrite the last two characters with the inductive modem ID for each instrument. If the ID is 49 or greater, the CTDMOG will be changed to CTDMOH."
 #,,,,"The following are the nominal designators, but the designators in column C represent the actual imodem IDs used"
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/mc/SBE37*03710257*.hex,GP03FLMA-RIM01-02-CTDMOG040,recovered_inst,

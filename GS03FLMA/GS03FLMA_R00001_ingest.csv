@@ -1,6 +1,6 @@
 uframe_route,filename_mask,reference_designator,data_source,
 Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/ADCPS_sn21450/*.000,GS03FLMA-RIM01-02-ADCPSL003,recovered_inst,
-#Ingest.adcps-jln-stc_recovered,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/ADCPS_sn21450/ADC*.DAT,GS03FLMA-RIM01-02-ADCPSL003,recovered_host,Data not expected
+#Ingest.adcps-jln-sio_telemetered,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/ADCPS_sn21450/ADC*.DAT,GS03FLMA-RIM01-02-ADCPSL003,recovered_host,Data not expected
 Ingest.dosta-abcdjm-sio_recovered,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/DOSTA_sn393/DOS*.DAT,GS03FLMA-RIS01-03-DOSTAD000,recovered_host,
 Ingest.flort-dj-sio_recovered,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/FLORD_sn1216/FLO*.DAT,GS03FLMA-RIS01-05-FLORTD000,recovered_host,
 Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/PHSEN_snP0147/SAMI*.txt,GS03FLMA-RIS01-04-PHSENF000,recovered_inst,
