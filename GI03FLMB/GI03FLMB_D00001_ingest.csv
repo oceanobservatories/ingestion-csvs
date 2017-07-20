@@ -3,7 +3,7 @@ Ingest.flort-dj-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00001/*flort_*.dat,
 Ingest.phsen-abcdef-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00001/*phsen_*.dat,GI03FLMB-RIS01-04-PHSENF000,telemetered,
 Ingest.dosta-abcdjm-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00001/*dosta_*.dat,GI03FLMB-RIS01-03-DOSTAD000,telemetered,
 Ingest.adcps-jln-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00001/*adcps_*.dat,GI03FLMB-RIM01-02-ADCPSL007,telemetered,
-Ingest.ctdmo-ghqr-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00001/*ctdmo_*.dat,GI03FLMB-RIM01-02-CTDMOG000,telemetered,
+Ingest.ctdmo-ghqr-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00001/*ctdmo_*.dat,GI03FLMB-RIM01-02-CTDMOG000,telemetered,Wildcard refdes
 #,,GI03FLMB-RI000-00-CTDMOH000,telemetered,Does not telemeter data
 #,,GI03FLMB-RI000-00-CTDMOH700,telemetered,Does not telemeter data
 #,,GI03FLMB-RI000-00-CTDMOH400,telemetered,Does not telemeter data
@@ -14,3 +14,15 @@ Ingest.ctdmo-ghqr-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00001/*ctdmo_*.da
 #,,GI03FLMB-RI000-00-VELPTB100,telemetered,Does not telemeter data
 Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00001/*status_1236901.dat,GI03FLMB-RIS01-00-SIOENG000,telemetered,
 Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GI03FLMB/D00001/*status_1328501.dat,GI03FLMB-RIM01-00-SIOENG000,telemetered,
+#,/omc_data/whoi/OMC/GI03FLMB/D00001/*ctdmo_*.dat,GI03FLMB-RIM01-02-CTDMOG060,telemetered,Data assigned to refdes after ingestion with wildcard refdes.
+#,/omc_data/whoi/OMC/GI03FLMB/D00001/*ctdmo_*.dat,GI03FLMB-RIM01-02-CTDMOG061,telemetered,Data assigned to refdes after ingestion with wildcard refdes.
+#,/omc_data/whoi/OMC/GI03FLMB/D00001/*ctdmo_*.dat,GI03FLMB-RIM01-02-CTDMOG062,telemetered,Data assigned to refdes after ingestion with wildcard refdes.
+#,/omc_data/whoi/OMC/GI03FLMB/D00001/*ctdmo_*.dat,GI03FLMB-RIM01-02-CTDMOG063,telemetered,Data assigned to refdes after ingestion with wildcard refdes.
+#,/omc_data/whoi/OMC/GI03FLMB/D00001/*ctdmo_*.dat,GI03FLMB-RIM01-02-CTDMOG064,telemetered,Data assigned to refdes after ingestion with wildcard refdes.
+#,/omc_data/whoi/OMC/GI03FLMB/D00001/*ctdmo_*.dat,GI03FLMB-RIM01-02-CTDMOG065,telemetered,Data assigned to refdes after ingestion with wildcard refdes.
+#,/omc_data/whoi/OMC/GI03FLMB/D00001/*ctdmo_*.dat,GI03FLMB-RIM01-02-CTDMOG066,telemetered,Data assigned to refdes after ingestion with wildcard refdes.
+#,/omc_data/whoi/OMC/GI03FLMB/D00001/*ctdmo_*.dat,GI03FLMB-RIM01-02-CTDMOG067,telemetered,Data assigned to refdes after ingestion with wildcard refdes.
+#,/omc_data/whoi/OMC/GI03FLMB/D00001/*ctdmo_*.dat,GI03FLMB-RIM01-02-CTDMOG068,telemetered,Data assigned to refdes after ingestion with wildcard refdes.
+#,/omc_data/whoi/OMC/GI03FLMB/D00001/*ctdmo_*.dat,GI03FLMB-RIM01-02-CTDMOH069,telemetered,Data assigned to refdes after ingestion with wildcard refdes.
+#,/omc_data/whoi/OMC/GI03FLMB/D00001/*ctdmo_*.dat,GI03FLMB-RIM01-02-CTDMOH070,telemetered,Data assigned to refdes after ingestion with wildcard refdes.
+#,/omc_data/whoi/OMC/GI03FLMB/D00001/*ctdmo_*.dat,GI03FLMB-RIM01-02-CTDMOH071,telemetered,Data assigned to refdes after ingestion with wildcard refdes.

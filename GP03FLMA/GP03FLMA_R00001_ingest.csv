@@ -1,8 +1,7 @@
 uframe_route,filename_mask,reference_designator,data_source,
 Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/adcp/*.000,GP03FLMA-RIM01-02-ADCPSL003,recovered_inst,
 #Ingest.adcps-jln-sio_telemetered,,GP03FLMA-RIM01-02-ADCPSL003,recovered_host,Data not expected
-Ingest.ctdmo-ghqr-sio_ctRecovered,/omc_data/whoi/OMC/GP03FLMA/R00001/ctdmo/CTD*.DAT,GP03FLMA-RIM01-02-CTDMOG000,recovered_host,"This reference designator serves as a template. The parser will overwrite the last two characters with the inductive modem ID for each instrument. If the ID is 49 or greater, the CTDMOG will be changed to CTDMOH."
-#,,,,"The following are the nominal designators, but the designators in column C represent the actual imodem IDs used"
+Ingest.ctdmo-ghqr-sio_ctRecovered,/omc_data/whoi/OMC/GP03FLMA/R00001/ctdmo/CTD*.DAT,GP03FLMA-RIM01-02-CTDMOG000,recovered_host,Wildcard refdes
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/mc/SBE37*03710257*.hex,GP03FLMA-RIM01-02-CTDMOG040,recovered_inst,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/mc/SBE37*03710220*.hex,GP03FLMA-RIM01-02-CTDMOG041,recovered_inst,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/mc/SBE37*03710260*.hex,GP03FLMA-RIM01-02-CTDMOG042,recovered_inst,
@@ -22,3 +21,15 @@ Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/sami/SAMI*.txt,
 Ingest.phsen-abcdef-imodem_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/phsen/PHS*.DAT,GP03FLMA-RIS01-04-PHSENF000,recovered_host,
 Ingest.sio-eng-sio_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/Main_SIOC/status/STA*.DAT,GP03FLMA-RIM01-00-SIOENG000,recovered_host,
 Ingest.sio-eng-sio_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/Secondary_SIOC/status/STA*.DAT,GP03FLMA-RIS01-00-SIOENG000,recovered_host,
+#,/omc_data/whoi/OMC/GP03FLMA/R00001/ctdmo/CTD*.DAT,GP03FLMA-RIM01-02-CTDMOG040,recovered_host,Data assigned to refdes after ingestion with wildcard refdes.
+#,/omc_data/whoi/OMC/GP03FLMA/R00001/ctdmo/CTD*.DAT,GP03FLMA-RIM01-02-CTDMOG041,recovered_host,Data assigned to refdes after ingestion with wildcard refdes.
+#,/omc_data/whoi/OMC/GP03FLMA/R00001/ctdmo/CTD*.DAT,GP03FLMA-RIM01-02-CTDMOG042,recovered_host,Data assigned to refdes after ingestion with wildcard refdes.
+#,/omc_data/whoi/OMC/GP03FLMA/R00001/ctdmo/CTD*.DAT,GP03FLMA-RIM01-02-CTDMOG043,recovered_host,Data assigned to refdes after ingestion with wildcard refdes.
+#,/omc_data/whoi/OMC/GP03FLMA/R00001/ctdmo/CTD*.DAT,GP03FLMA-RIM01-02-CTDMOG044,recovered_host,Data assigned to refdes after ingestion with wildcard refdes.
+#,/omc_data/whoi/OMC/GP03FLMA/R00001/ctdmo/CTD*.DAT,GP03FLMA-RIM01-02-CTDMOG045,recovered_host,Data assigned to refdes after ingestion with wildcard refdes.
+#,/omc_data/whoi/OMC/GP03FLMA/R00001/ctdmo/CTD*.DAT,GP03FLMA-RIM01-02-CTDMOG046,recovered_host,Data assigned to refdes after ingestion with wildcard refdes.
+#,/omc_data/whoi/OMC/GP03FLMA/R00001/ctdmo/CTD*.DAT,GP03FLMA-RIM01-02-CTDMOG047,recovered_host,Data assigned to refdes after ingestion with wildcard refdes.
+#,/omc_data/whoi/OMC/GP03FLMA/R00001/ctdmo/CTD*.DAT,GP03FLMA-RIM01-02-CTDMOG048,recovered_host,Data assigned to refdes after ingestion with wildcard refdes.
+#,/omc_data/whoi/OMC/GP03FLMA/R00001/ctdmo/CTD*.DAT,GP03FLMA-RIM01-02-CTDMOH049,recovered_host,Data assigned to refdes after ingestion with wildcard refdes.
+#,/omc_data/whoi/OMC/GP03FLMA/R00001/ctdmo/CTD*.DAT,GP03FLMA-RIM01-02-CTDMOH050,recovered_host,Data assigned to refdes after ingestion with wildcard refdes.
+#,/omc_data/whoi/OMC/GP03FLMA/R00001/ctdmo/CTD*.DAT,GP03FLMA-RIM01-02-CTDMOH051,recovered_host,Data assigned to refdes after ingestion with wildcard refdes.
