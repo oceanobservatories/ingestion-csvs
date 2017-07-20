@@ -1,8 +1,20 @@
 uframe_route,filename_mask,reference_designator,data_source,
-#Ingest.flort-dj-sio_telemetered,/omc_data/whoi/OMC/GA03FLMB/D00003/*flort*.dat,GA03FLMB-RIS01-05-FLORTD000,telemetered,No data on server
-#Ingest.phsen-abcdef-sio_telemetered,/omc_data/whoi/OMC/GA03FLMB/D00003/*phsen*.dat,GA03FLMB-RIS01-04-PHSENF000,telemetered,No data on server
-#Ingest.dosta-abcdjm-sio_telemetered,/omc_data/whoi/OMC/GA03FLMB/D00003/*dosta*.dat,GA03FLMB-RIS01-03-DOSTAD000,telemetered,No data on server
-#Ingest.adcps-jln-sio_telemetered,/omc_data/whoi/OMC/GA03FLMB/D00003/*adcps*.dat,GA03FLMB-RIM01-02-ADCPSL007,telemetered,No data on server
-#Ingest.ctdmo-ghqr-sio_telemetered,/omc_data/whoi/OMC/GA03FLMB/D00003/*ctdmo*.dat,GA03FLMB-RIM01-02-CTDMOG000,telemetered,No data on server
-#Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GA03FLMB/D00003/*status_1488201.dat,GA03FLMB-RIS01-00-SIOENG000,telemetered,No data on server
-#Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GA03FLMB/D00003/*status_1488101.dat,GA03FLMB-RIM01-00-SIOENG000,telemetered,No data on server
+#Ingest.flort-dj-sio_telemetered,/omc_data/whoi/OMC/GA03FLMB/D00003/*flort*.dat,GA03FLMB-RIS01-05-FLORTD000,telemetered,No data expected due to glider failures
+#Ingest.phsen-abcdef-sio_telemetered,/omc_data/whoi/OMC/GA03FLMB/D00003/*phsen*.dat,GA03FLMB-RIS01-04-PHSENF000,telemetered,No data expected due to glider failures
+#Ingest.dosta-abcdjm-sio_telemetered,/omc_data/whoi/OMC/GA03FLMB/D00003/*dosta*.dat,GA03FLMB-RIS01-03-DOSTAD000,telemetered,No data expected due to glider failures
+#Ingest.adcps-jln-sio_telemetered,/omc_data/whoi/OMC/GA03FLMB/D00003/*adcps*.dat,GA03FLMB-RIM01-02-ADCPSL007,telemetered,No data expected due to glider failures
+#Ingest.ctdmo-ghqr-sio_telemetered,/omc_data/whoi/OMC/GA03FLMB/D00003/*ctdmo*.dat,GA03FLMB-RIM01-02-CTDMOG000,telemetered,No data expected due to glider failures
+#Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GA03FLMB/D00003/*status_1488201.dat,GA03FLMB-RIS01-00-SIOENG000,telemetered,No data expected due to glider failures
+#Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GA03FLMB/D00003/*status_1488101.dat,GA03FLMB-RIM01-00-SIOENG000,telemetered,No data expected due to glider failures
+#,/omc_data/whoi/OMC/GA03FLMB/D00003/*ctdmo*.dat,GA03FLMB-RIM01-02-CTDMOG060,telemetered,Data assigned to refdes after ingestion with wildcard refdes. No data expected due to glider failures
+#,/omc_data/whoi/OMC/GA03FLMB/D00003/*ctdmo*.dat,GA03FLMB-RIM01-02-CTDMOG061,telemetered,Data assigned to refdes after ingestion with wildcard refdes. No data expected due to glider failures
+#,/omc_data/whoi/OMC/GA03FLMB/D00003/*ctdmo*.dat,GA03FLMB-RIM01-02-CTDMOG062,telemetered,Data assigned to refdes after ingestion with wildcard refdes. No data expected due to glider failures
+#,/omc_data/whoi/OMC/GA03FLMB/D00003/*ctdmo*.dat,GA03FLMB-RIM01-02-CTDMOG063,telemetered,Data assigned to refdes after ingestion with wildcard refdes. No data expected due to glider failures
+#,/omc_data/whoi/OMC/GA03FLMB/D00003/*ctdmo*.dat,GA03FLMB-RIM01-02-CTDMOG064,telemetered,Data assigned to refdes after ingestion with wildcard refdes. No data expected due to glider failures
+#,/omc_data/whoi/OMC/GA03FLMB/D00003/*ctdmo*.dat,GA03FLMB-RIM01-02-CTDMOG065,telemetered,Data assigned to refdes after ingestion with wildcard refdes. No data expected due to glider failures
+#,/omc_data/whoi/OMC/GA03FLMB/D00003/*ctdmo*.dat,GA03FLMB-RIM01-02-CTDMOG066,telemetered,Data assigned to refdes after ingestion with wildcard refdes. No data expected due to glider failures
+#,/omc_data/whoi/OMC/GA03FLMB/D00003/*ctdmo*.dat,GA03FLMB-RIM01-02-CTDMOG067,telemetered,Data assigned to refdes after ingestion with wildcard refdes. No data expected due to glider failures
+#,/omc_data/whoi/OMC/GA03FLMB/D00003/*ctdmo*.dat,GA03FLMB-RIM01-02-CTDMOG068,telemetered,Data assigned to refdes after ingestion with wildcard refdes. No data expected due to glider failures
+#,/omc_data/whoi/OMC/GA03FLMB/D00003/*ctdmo*.dat,GA03FLMB-RIM01-02-CTDMOH069,telemetered,Data assigned to refdes after ingestion with wildcard refdes. No data expected due to glider failures
+#,/omc_data/whoi/OMC/GA03FLMB/D00003/*ctdmo*.dat,GA03FLMB-RIM01-02-CTDMOH070,telemetered,Data assigned to refdes after ingestion with wildcard refdes. No data expected due to glider failures
+#,/omc_data/whoi/OMC/GA03FLMB/D00003/*ctdmo*.dat,GA03FLMB-RIM01-02-CTDMOH071,telemetered,Data assigned to refdes after ingestion with wildcard refdes. No data expected due to glider failures
