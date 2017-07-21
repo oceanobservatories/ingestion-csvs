@@ -13,10 +13,22 @@ Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/CTD
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/CTDMO-H_sn11683/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOH049,recovered_inst,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/CTDMO-H_sn11681/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOH050,recovered_inst,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/CTDMO-H_sn11704/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOH051,recovered_inst,
-#Ingest.ctdmo-ghqr-sio_ctRecovered,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/ctdmo/CTD*.DAT,GP03FLMA-RIM01-02-CTDMOG000,recovered_host,No data available from the controller. Data are avaialble from the instrument
+#Ingest.ctdmo-ghqr-sio_ctRecovered,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/ctdmo/CTD*.DAT,GP03FLMA-RIM01-02-CTDMOG000,recovered_host,Wildcard refdes. Data not expected
 Ingest.dosta-abcdjm-sio_recovered,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/DOSTA_sn127/DOS*.DAT,GP03FLMA-RIS01-03-DOSTAD000,recovered_host,
 Ingest.flort-dj-sio_recovered,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/FLORD_sn1116/FLO*.DAT,GP03FLMA-RIS01-05-FLORTD000,recovered_host,
 Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/PHSEN_snP0103/SAMI*.txt,GP03FLMA-RIS01-04-PHSENF000,recovered_inst,
 Ingest.phsen-abcdef-imodem_recovered,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/PHSEN_snP0103/PHS*.DAT,GP03FLMA-RIS01-04-PHSENF000,recovered_host,
 Ingest.sio-eng-sio_recovered,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/MSIOC_SN_13278/STA*.DAT,GP03FLMA-RIM01-00-SIOENG000,recovered_host,
 Ingest.sio-eng-sio_recovered,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/SSIOC_SN_13279/STA*.DAT,GP03FLMA-RIS01-00-SIOENG000,recovered_host,
+#,,GP03FLMA-RIM01-02-CTDMOG040,recovered_host,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
+#,,GP03FLMA-RIM01-02-CTDMOG041,recovered_host,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
+#,,GP03FLMA-RIM01-02-CTDMOG042,recovered_host,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
+#,,GP03FLMA-RIM01-02-CTDMOG043,recovered_host,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
+#,,GP03FLMA-RIM01-02-CTDMOG044,recovered_host,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
+#,,GP03FLMA-RIM01-02-CTDMOG045,recovered_host,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
+#,,GP03FLMA-RIM01-02-CTDMOG046,recovered_host,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
+#,,GP03FLMA-RIM01-02-CTDMOG047,recovered_host,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
+#,,GP03FLMA-RIM01-02-CTDMOG048,recovered_host,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
+#,,GP03FLMA-RIM01-02-CTDMOH049,recovered_host,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
+#,,GP03FLMA-RIM01-02-CTDMOH050,recovered_host,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
+#,,GP03FLMA-RIM01-02-CTDMOH051,recovered_host,Data assigned to refdes after ingestion with wildcard refdes. Data not expected

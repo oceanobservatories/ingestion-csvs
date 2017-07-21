@@ -1,8 +1,8 @@
 uframe_route,filename_mask,reference_designator,data_source,
 Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/GP03FLMB/R00002/cg_data/dcl00/ADCP_sn20504/*.000,GP03FLMB-RIM01-02-ADCPSL007,recovered_inst,
 Ingest.adcps-jln-sio_telemetered,/omc_data/whoi/OMC/GP03FLMB/R00002/cg_data/dcl00/ADCP_sn20504/ADC*.DAT,GP03FLMB-RIM01-02-ADCPSL007,recovered_host,
-#Ingest.ctdmo-ghqr-sio_ctRecovered,,GP03FLMB-RIM01-02-CTDMOG000,recovered_host,Recovered data not available
-# Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMB/R00002/cg_data/dcl00/CTDMO-G_sn11646/SBE37*11646*.hex,GP03FLMB-RIM01-02-CTDMOG060,recovered_inst,Recovered data not available
+#Ingest.ctdmo-ghqr-sio_ctRecovered,,GP03FLMB-RIM01-02-CTDMOG000,recovered_host,Wildcard refdes. Data not expected
+# Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMB/R00002/cg_data/dcl00/CTDMO-G_sn11646/SBE37*11646*.hex,GP03FLMB-RIM01-02-CTDMOG060,recovered_inst,Data not expected
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMB/R00002/cg_data/dcl00/CTDMO-G_sn11653/SBE37*11653*.hex,GP03FLMB-RIM01-02-CTDMOG061,recovered_inst,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMB/R00002/cg_data/dcl00/CTDMO-G_sn11641/SBE37*11641*.hex,GP03FLMB-RIM01-02-CTDMOG062,recovered_inst,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMB/R00002/cg_data/dcl00/CTDMO-G_sn11650/SBE37*11650*.hex,GP03FLMB-RIM01-02-CTDMOG063,recovered_inst,
@@ -10,7 +10,7 @@ Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMB/R00002/cg_data/dcl00/CTD
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMB/R00002/cg_data/dcl00/CTDMO-G_sn11640/SBE37*11640*.hex,GP03FLMB-RIM01-02-CTDMOG065,recovered_inst,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMB/R00002/cg_data/dcl00/CTDMO-G_sn11639/SBE37*11639*.hex,GP03FLMB-RIM01-02-CTDMOG066,recovered_inst,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMB/R00002/cg_data/dcl00/CTDMO-G_sn10223/SBE37*10223*.hex,GP03FLMB-RIM01-02-CTDMOG067,recovered_inst,
-# Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMB/R00002/cg_data/dcl00/CTDMO-G_sn11654/SBE37*11654*.hex,GP03FLMB-RIM01-02-CTDMOG068,recovered_inst,Recovered data not available
+# Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMB/R00002/cg_data/dcl00/CTDMO-G_sn11654/SBE37*11654*.hex,GP03FLMB-RIM01-02-CTDMOG068,recovered_inst,Data not expected
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMB/R00002/cg_data/dcl00/CTDMO-H_sn10228/SBE37*10228*.hex,GP03FLMB-RIM01-02-CTDMOH069,recovered_inst,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMB/R00002/cg_data/dcl00/CTDMO-H_sn11680/SBE37*11680*.hex,GP03FLMB-RIM01-02-CTDMOH070,recovered_inst,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMB/R00002/cg_data/dcl00/CTDMO-H_sn11703/SBE37*11703*.hex,GP03FLMB-RIM01-02-CTDMOH071,recovered_inst,
@@ -20,3 +20,15 @@ Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/GP03FLMB/R00002/cg_data/dcl00/P
 Ingest.phsen-abcdef-imodem_recovered,/omc_data/whoi/OMC/GP03FLMB/R00002/cg_data/dcl00/PHSEN_snP0102/PHS*.DAT,GP03FLMB-RIS01-04-PHSENF000,recovered_host,
 Ingest.sio-eng-sio_recovered,/omc_data/whoi/OMC/GP03FLMB/R00002/cg_data/dcl00/MSIOC_SN_10118/STA*.DAT,GP03FLMB-RIM01-00-SIOENG000,recovered_host,
 Ingest.sio-eng-sio_recovered,/omc_data/whoi/OMC/GP03FLMB/R00002/cg_data/dcl00/SSIOC_SN_13282/STA*.DAT,GP03FLMB-RIS01-00-SIOENG000,recovered_host,
+#,,GP03FLMB-RIM01-02-CTDMOG060,recovered_host,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
+#,,GP03FLMB-RIM01-02-CTDMOG061,recovered_host,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
+#,,GP03FLMB-RIM01-02-CTDMOG062,recovered_host,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
+#,,GP03FLMB-RIM01-02-CTDMOG063,recovered_host,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
+#,,GP03FLMB-RIM01-02-CTDMOG064,recovered_host,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
+#,,GP03FLMB-RIM01-02-CTDMOG065,recovered_host,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
+#,,GP03FLMB-RIM01-02-CTDMOG066,recovered_host,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
+#,,GP03FLMB-RIM01-02-CTDMOG067,recovered_host,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
+#,,GP03FLMB-RIM01-02-CTDMOG068,recovered_host,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
+#,,GP03FLMB-RIM01-02-CTDMOH069,recovered_host,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
+#,,GP03FLMB-RIM01-02-CTDMOH070,recovered_host,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
+#,,GP03FLMB-RIM01-02-CTDMOH071,recovered_host,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
