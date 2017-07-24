@@ -30,11 +30,13 @@ Ingest.adcps-jln-stc_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/
 Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/ADCP_sn21002/*.000,GS01SUMO-RII11-02-ADCPSN010,recovered_inst,
 #Ingest.phsen-abcdef-imodem_recovered,,GS01SUMO-RII11-02-PHSENE041,recovered_host,Data not available
 Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/PHSEN_snP0137/SAMI*.txt,GS01SUMO-RII11-02-PHSENE041,recovered_inst,
+#,,GS01SUMO-RII11-02-CTDBPP031,recovered_inst,Not deployed
 #,,GS01SUMO-RII11-02-CTDBPP031,recovered_host,Not deployed
 #,,GS01SUMO-RII11-02-DOSTAD031,recovered_host,Not deployed
 #,,GS01SUMO-RII11-02-FLORDG031,recovered_host,Not deployed
 #Ingest.pco2w-abc-imodem_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/PCO2W_snC0103/*.DAT,GS01SUMO-RII11-02-PCO2WC051,recovered_host,Data not expected
 Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/PCO2W_snC0103/SAMI*.txt,GS01SUMO-RII11-02-PCO2WC051,recovered_inst,
+#,,GS01SUMO-RII11-02-CTDBPP032,recovered_inst,Not deployed
 #,,GS01SUMO-RII11-02-CTDBPP032,recovered_host,Not deployed
 #,,GS01SUMO-RII11-02-DOSTAD032,recovered_host,Not deployed
 #,,GS01SUMO-RII11-02-FLORDG032,recovered_host,Not deployed
@@ -42,6 +44,7 @@ Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/PCO2
 #Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/PCO2W_snC0104/SAMI*.txt,GS01SUMO-RII11-02-PCO2WC052,recovered_inst,Not deployed
 # Ingest.phsen-abcdef-imodem_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/PHSEN_snP0101/*.DAT,GS01SUMO-RII11-02-PHSENE042,recovered_host,Not deployed
 #Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/GS01SUMO/R00001/cg_data/dcl16/PHSEN_snP0101/*.txt,GS01SUMO-RII11-02-PHSENE042,recovered_inst,Not deployed
+#,,GS01SUMO-RII11-02-CTDBPP033,recovered_inst,Not deployed
 #,,GS01SUMO-RII11-02-CTDBPP033,recovered_host,Not deployed
 #,,GS01SUMO-RII11-02-DOSTAD033,recovered_host,Not deployed
 #,,GS01SUMO-RII11-02-FLORDG033,recovered_host,Not deployed
