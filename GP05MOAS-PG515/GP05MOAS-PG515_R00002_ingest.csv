@@ -2,7 +2,7 @@ uframe_route,filename_mask,reference_designator,data_source,
 Ingest.glider-eng-glider_recovered,/omc_data/whoi/OMC/GP05MOAS-PG515/R00002/merged/gp_*.mrg,GP05MOAS-PG515-00-ENG000000,recovered_host,
 Ingest.ctdgv-m-glider_recovered,/omc_data/whoi/OMC/GP05MOAS-PG515/R00002/merged/gp_*.mrg,GP05MOAS-PG515-01-CTDGVM000,recovered_host,
 #Ingest.dosta-abcdjm-glider_recovered,/omc_data/whoi/OMC/GP05MOAS-PG515/R00002/merged/gp_*.mrg,GP05MOAS-PG515-02-DOSTAM000,recovered_host,Not deployed
-Ingest.flort-m-glider_recovered,/omc_data/whoi/OMC/GP05MOAS-PG515/R00002/merged/gp_*.mrg,GP05MOAS-PG515-02-FLORTM000,recovered_host,refdes changes for next deployment
-#Ingest.flort-o-glider_recovered,/omc_data/whoi/OMC/GP05MOAS-PG515/R00002/merged/gp_*.mrg,GP05MOAS-PG515-03-FLORTO000,recovered_host,refdes changes for next deployment. No parser
+Ingest.flort-m-glider_recovered,/omc_data/whoi/OMC/GP05MOAS-PG515/R00002/merged/gp_*.mrg,GP05MOAS-PG515-03-FLORTM000,recovered_host,Actual deployment port # was 02
+#Ingest.flort-o-glider_recovered,/omc_data/whoi/OMC/GP05MOAS-PG515/R00002/merged/gp_*.mrg,GP05MOAS-PG515-04-FLORTO000,recovered_host,Actual deployment port # was 03. No parser
 #Ingest.nutnr-m-glider_telemetered,/omc_data/whoi/OMC/GP05MOAS-PG515/R00002/merged/gp_*.mrg,GP05MOAS-PG515-05-NUTNRM000,recovered_host,Not deployed
-Ingest.parad-m-glider_recovered,/omc_data/whoi/OMC/GP05MOAS-PG515/R00002/merged/gp_*.mrg,GP05MOAS-PG515-04-PARADM000,recovered_host,refdes changes for next deployment
+Ingest.parad-m-glider_recovered,/omc_data/whoi/OMC/GP05MOAS-PG515/R00002/merged/gp_*.mrg,GP05MOAS-PG515-06-PARADM000,recovered_host,Actual deployment port # was 04
