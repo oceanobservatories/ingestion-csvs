@@ -1,0 +1,7 @@
+uframe_route,filename_mask,reference_designator,data_source,status,notes
+#Ingest.glider-eng-glider_telemetered,/omc_data/whoi/OMC/CP05MOAS-GL380/D00004/merged-from-glider/cp_*.mrg,CP05MOAS-GL380-00-ENG000000,telemetered,Missing,
+#,,CP05MOAS-GL380-01-ADCPAM000,telemetered,Not Expected ,Instrument not set to send data via telemetry
+#Ingest.flort-m-glider_telemetered,/omc_data/whoi/OMC/CP05MOAS-GL380/D00004/merged-from-glider/cp_*.mrg,CP05MOAS-GL380-02-FLORTM000,telemetered,Missing,
+#Ingest.ctdgv-m-glider_telemetered,/omc_data/whoi/OMC/CP05MOAS-GL380/D00004/merged-from-glider/cp_*.mrg,CP05MOAS-GL380-03-CTDGVM000,telemetered,Missing,
+#Ingest.dosta-abcdjm-glider_telemetered,/omc_data/whoi/OMC/CP05MOAS-GL380/D00004/merged-from-glider/cp_*.mrg,CP05MOAS-GL380-04-DOSTAM000,telemetered,Missing,
+#Ingest.parad-m-glider_telemetered,/omc_data/whoi/OMC/CP05MOAS-GL380/D00004/merged-from-glider/cp_*.mrg,CP05MOAS-GL380-05-PARADM000,telemetered,Missing,
