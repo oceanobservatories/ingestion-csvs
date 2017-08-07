@@ -1,7 +1,0 @@
-uframe_route,filename_mask,reference_designator,data_source,
-#Ingest.glider-eng-glider_recovered,,CP05MOAS-GL388-00-ENG000000,recovered_host,Leak - no data
-#Ingest.parad-m-glider_recovered,,CP05MOAS-GL388-05-PARADM000,recovered_host,Leak - no data
-#Ingest.flort-m-glider_recovered,,CP05MOAS-GL388-02-FLORTM000,recovered_host,Leak - no data
-#Ingest.dosta-abcdjm-glider_recovered,,CP05MOAS-GL388-04-DOSTAM000,recovered_host,Leak - no data
-#Ingest.ctdgv-m-glider_recovered,,CP05MOAS-GL388-03-CTDGVM000,recovered_host,Leak - no data
-#Ingest.adcpa-m-glider_recovered,,CP05MOAS-GL388-01-ADCPAM000,recovered_host,Leak - no data
