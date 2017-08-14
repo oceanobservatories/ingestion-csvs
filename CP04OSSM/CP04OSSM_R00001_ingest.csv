@@ -10,7 +10,7 @@ Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CP04OSSM/R00001/cg_data/dcl35/VELPT
 Ingest.pco2w-abc-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00001/cg_data/dcl35/PCO2W_snC0097/*.pco2w.log,CP04OSSM-MFD35-05-PCO2WB000,recovered_host,Available,
 #Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/CP04OSSM/R00001/cg_data/dcl35/PCO2W_snC0097/SAMI*.txt,CP04OSSM-MFD35-05-PCO2WB000,recovered_inst,Missing,No data on server
 Ingest.phsen-abcdef-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00001/cg_data/dcl35/PHSEN_snP0099/*.phsen2.log,CP04OSSM-MFD35-06-PHSEND000,recovered_host,Available,
-#Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CP04OSSM/R00001/cg_data/dcl35/PHSEN_snP0099/SAMI*.txt,CP04OSSM-MFD35-06-PHSEND000,recovered_inst,Missing,No data on server
+#Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CP04OSSM/R00001/cg_data/dcl35/PHSEN_snP0099/SAMI*.txt,CP04OSSM-MFD35-06-PHSEND000,recovered_inst,Not Expected,possible instrument failure
 # Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00001/cg_data/dcl37/syslog/*.syslog.log,CP04OSSM-MFD37-00-DCLENG000,recovered_host,Missing,No data on server
 Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00001/cg_data/dcl37/OPTAA_snACS189/*.optaa2.log,CP04OSSM-MFD37-01-OPTAAD000,recovered_host,Available,
 Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00001/cg_data/dcl37/CTDBP_sn16-50002/*.ctdbp2.log,CP04OSSM-MFD37-03-CTDBPE000,recovered_host,Available,
@@ -24,7 +24,7 @@ Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00001/cg_data/dcl26/V
 Ingest.phsen-abcdef-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00001/cg_data/dcl26/PHSEN_snP0098/*.phsen1.log,CP04OSSM-RID26-06-PHSEND000,recovered_host,Available,
 #Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CP04OSSM/R00001/cg_data/dcl26/PHSEN_snP0098/SAMI*.txt,CP04OSSM-RID26-06-PHSEND000,recovered_inst,Missing,No data on server
 Ingest.nutnr-b-dcl-full_recovered,/omc_data/whoi/OMC/CP04OSSM/R00001/cg_data/dcl26/NUTNR_sn266/*.nutnr.log,CP04OSSM-RID26-07-NUTNRB000,recovered_host,Available,
-#Ingest.nutnr-b_recovered,/omc_data/whoi/OMC/CP04OSSM/R00001/cg_data/dcl26/NUTNR_sn266/SCH*.DAT,CP04OSSM-RID26-07-NUTNRB000,recovered_inst,Missing,No data on server
+#Ingest.nutnr-b_recovered,/omc_data/whoi/OMC/CP04OSSM/R00001/cg_data/dcl26/NUTNR_sn266/SCH*.DAT,CP04OSSM-RID26-07-NUTNRB000,recovered_inst,Not Expected,possible instrument failure
 Ingest.spkir-abj-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00001/cg_data/dcl26/SPKIR_sn271/*.spkir*.log,CP04OSSM-RID26-08-SPKIRB000,recovered_host,Available,
 # Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00001/cg_data/dcl27/syslog/*.syslog.log,CP04OSSM-RID27-00-DCLENG000,recovered_host,Missing,No data on server
 Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CP04OSSM/R00001/cg_data/dcl27/OPTAA_snACS165/*.optaa1.log,CP04OSSM-RID27-01-OPTAAD000,recovered_host,Missing,Blank raw data files
