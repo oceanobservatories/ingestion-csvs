@@ -1,7 +1,7 @@
 uframe_route,filename_mask,reference_designator,data_source,status,notes
 # Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/cpm3/syslog/cpm_status*.txt,CP03ISSM-MFC31-00-CPMENG000,recovered_host,Not Expected,Data not available
 # Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl35/syslog/*.syslog.log,CP03ISSM-MFD35-00-DCLENG000,recovered_host,Not Expected,Data not expected
-#Ingest.adcpt-acfgm-dcl-pd8_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl35/ADCP_sn*/*adcp.log,CP03ISSM-MFD35-01-ADCPTF000,recovered_host,Missing,no data on server
+#Ingest.adcpt-acfgm-dcl-pd8_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl35/ADCP_sn*/*adcp.log,CP03ISSM-MFD35-01-ADCPTF000,recovered_host,Not Expected,Data not expected
 Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl35/ADCP_sn19221/_RDI*.000,CP03ISSM-MFD35-01-ADCPTF000,recovered_inst,Available,
 #Ingest.presf-abc-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl35/PRESF_sn26P76848-1387/*presf.log,CP03ISSM-MFD35-02-PRESFB000,recovered_host,Not Expected,Data not expected
 Ingest.presf-abc_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl35/PRESF_sn26P76848-1387/PRESF*.hex,CP03ISSM-MFD35-02-PRESFB000,recovered_inst,Available,
@@ -16,7 +16,7 @@ Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl35/PCO2
 #Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl37/CTDBP_sn16P71174-7209/*ctdbp.log,CP03ISSM-MFD37-03-CTDBPD000,recovered_host,Not Expected,Data not expected
 Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl37/CTDBP_sn16P71174-7209/SBE*.hex,CP03ISSM-MFD37-03-CTDBPD000,recovered_inst,Available,
 #Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl37/DOSTA_sn390/*dosta*.log,CP03ISSM-MFD37-04-DOSTAD000,recovered_host,Not Expected,Data not expected
-#,,CP03ISSM-MFD37-07-ZPLSCC000,recovered_host,Not Deployed,Not deployed
+#,,CP03ISSM-MFD37-07-ZPLSCC000,recovered_host,Not Deployed,
 # Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/cpm2/syslog/cpm_status*.txt,CP03ISSM-RIC21-00-CPMENG000,recovered_host,Not Expected,Data not available
 # Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl26/syslog/*.syslog.log,CP03ISSM-RID26-00-DCLENG000,recovered_host,Not Expected,Data not expected
 #Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl26/VELPT_snAQD-11397/*velpt.log,CP03ISSM-RID26-04-VELPTA000,recovered_host,Not Expected,Data not expected
@@ -40,4 +40,4 @@ Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl27/CTD
 # Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl12/syslog/*.syslog.log,CP03ISSM-SBD12-00-DCLENG000,recovered_host,Not Expected,Data not expected
 # Ingest.hyd-o-dcl_recovered,,CP03ISSM-SBD12-03-HYDGN0000,recovered_host,Not Expected,Data not expected
 # Ingest.pco2a-a-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl12/PCO2A_sn33-183-50A/PCO2A*.log,CP03ISSM-SBD12-04-PCO2AA000,recovered_host,Not Expected,Instrument was lost
-#,,CP03ISSM-MFD37-07-ZPLSCC000,recovered_inst,Not Deployed,Not deployed
+#,,CP03ISSM-MFD37-07-ZPLSCC000,recovered_inst,Not Deployed,
