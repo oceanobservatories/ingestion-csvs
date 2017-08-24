@@ -1,8 +1,8 @@
-uframe_route,filename_mask,reference_designator,data_source,
-Ingest.glider-eng-glider_recovered,/omc_data/whoi/OMC/GP05MOAS-PG514/R00002/merged/gp_*.mrg,GP05MOAS-PG514-00-ENG000000,recovered_host,
-Ingest.ctdgv-m-glider_recovered,/omc_data/whoi/OMC/GP05MOAS-PG514/R00002/merged/gp_*.mrg,GP05MOAS-PG514-01-CTDGVM000,recovered_host,
-Ingest.dosta-abcdjm-glider_recovered,/omc_data/whoi/OMC/GP05MOAS-PG514/R00002/merged/gp_*.mrg,GP05MOAS-PG514-02-DOSTAM000,recovered_host,
-Ingest.flort-m-glider_recovered,/omc_data/whoi/OMC/GP05MOAS-PG514/R00002/merged/gp_*.mrg,GP05MOAS-PG514-03-FLORTM000,recovered_host,
-#Ingest.flort-o-glider_recovered,/omc_data/whoi/OMC/GP05MOAS-PG514/R00002/merged/gp_*.mrg,GP05MOAS-PG514-04-FLORTO000,recovered_host,No parser
-#Ingest.nutnr-m-glider_telemetered,/omc_data/whoi/OMC/GP05MOAS-PG514/R00002/merged/gp_*.mrg,GP05MOAS-PG514-05-NUTNRM000,recovered_host,Actual deployment port # was 03. Glider damaged. Lost NUTNR sensor. No recovered data
-#Ingest.parad-m-glider_recovered,/omc_data/whoi/OMC/GP05MOAS-PG514/R00002/merged/gp_*.mrg,GP05MOAS-PG514-06-PARADM000,recovered_host,Not deployed
+uframe_route,filename_mask,reference_designator,data_source,status,notes
+Ingest.glider-eng-glider_recovered,/omc_data/whoi/OMC/GP05MOAS-PG514/R00002/merged/gp_*.mrg,GP05MOAS-PG514-00-ENG000000,recovered_host,Available,
+Ingest.ctdgv-m-glider_recovered,/omc_data/whoi/OMC/GP05MOAS-PG514/R00002/merged/gp_*.mrg,GP05MOAS-PG514-01-CTDGVM000,recovered_host,Available,
+Ingest.dosta-abcdjm-glider_recovered,/omc_data/whoi/OMC/GP05MOAS-PG514/R00002/merged/gp_*.mrg,GP05MOAS-PG514-02-DOSTAM000,recovered_host,Available,
+Ingest.flort-m-glider_recovered,/omc_data/whoi/OMC/GP05MOAS-PG514/R00002/merged/gp_*.mrg,GP05MOAS-PG514-03-FLORTM000,recovered_host,Available,
+#Ingest.flort-o-glider_recovered,/omc_data/whoi/OMC/GP05MOAS-PG514/R00002/merged/gp_*.mrg,GP05MOAS-PG514-04-FLORTO000,recovered_host,Pending,No parser
+#Ingest.nutnr-m-glider_telemetered,/omc_data/whoi/OMC/GP05MOAS-PG514/R00002/merged/gp_*.mrg,GP05MOAS-PG514-05-NUTNRM000,recovered_host,Not Expected,Actual deployment port # was 03. Glider damaged. Lost NUTNR sensor. No recovered data
+#Ingest.parad-m-glider_recovered,/omc_data/whoi/OMC/GP05MOAS-PG514/R00002/merged/gp_*.mrg,GP05MOAS-PG514-06-PARADM000,recovered_host,Not Deployed,Not deployed
