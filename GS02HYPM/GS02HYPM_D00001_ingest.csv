@@ -1,15 +1,15 @@
-uframe_route,filename_mask,reference_designator,data_source,
-#Ingest.flord-l-wfp-sio_telemetered,/omc_data/whoi/OMC/GS02HYPM/D00001/*.we_wfp_*.dat,GS02HYPM-WFP02-01-FLORDL000,telemetered,No telemetered data in correct format
-#Ingest.dosta-ln-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GS02HYPM/D00001/*.we_wfp_*.dat,GS02HYPM-WFP02-03-DOSTAL000,telemetered,No telemetered data in correct format
-#Ingest.ctdpf-ckl-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GS02HYPM/D00001/*.wc_wfp_*.dat,GS02HYPM-WFP02-04-CTDPFL000,telemetered,No telemetered data in correct format
-#Ingest.vel3d-l-wfp-sio_telemetered,/omc_data/whoi/OMC/GS02HYPM/D00001/*.wa_wfp_*.dat,GS02HYPM-WFP02-05-VEL3DL000,telemetered,No telemetered data in correct format
-#Ingest.flord-l-wfp-sio_telemetered,/omc_data/whoi/OMC/GS02HYPM/D00001/*.we_wfp_*.dat,GS02HYPM-WFP03-01-FLORDL000,telemetered,No telemetered data in correct format
-#Ingest.dosta-ln-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GS02HYPM/D00001/*.we_wfp_*.dat,GS02HYPM-WFP03-03-DOSTAL000,telemetered,No telemetered data in correct format
-#Ingest.ctdpf-ckl-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GS02HYPM/D00001/*.wc_wfp_*.dat,GS02HYPM-WFP03-04-CTDPFL000,telemetered,No telemetered data in correct format
-#Ingest.vel3d-l-wfp-sio_telemetered,/omc_data/whoi/OMC/GS02HYPM/D00001/*.wa_wfp_*.dat,GS02HYPM-WFP03-05-VEL3DL000,telemetered,No telemetered data in correct format
-#,,GS02HYPM-MPM01-02-ZPLSGA009,telemetered,Not deployed
-#,,GS02HYPM-MPM01-02-ZPLSGA010,telemetered,Not deployed
-#Ingest.ctdmo-ghqr-sio_telemetered,/omc_data/whoi/OMC/GS02HYPM/D00001/*ctdmo*.dat,GS02HYPM-RIM01-02-CTDMOG039,telemetered,No telemetered data in correct format
-#Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GS02HYPM/D00001/node*p1_*.status.dat,GS02HYPM-RIM01-00-SIOENG000,telemetered,No telemetered data in correct format
-#Ingest.wfp-eng-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GS02HYPM/D00001/*.we_wfp_*.dat,GS02HYPM-WFP02-00-WFPENG000,telemetered,No telemetered data in correct format
-#Ingest.wfp-eng-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GS02HYPM/D00001/*.we_wfp_*.dat,GS02HYPM-WFP03-00-WFPENG000,telemetered,No telemetered data in correct format
+uframe_route,filename_mask,reference_designator,data_source,status,notes
+#,,GS02HYPM-MPM01-02-ZPLSGA009,telemetered,Not Deployed,Not deployed
+#,,GS02HYPM-MPM01-02-ZPLSGA010,telemetered,Not Deployed,Not deployed
+#Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GS02HYPM/D00001/node*p1_*.status.dat,GS02HYPM-RIM01-00-SIOENG000,telemetered,Not Expected,No telemetered data in correct format
+#Ingest.ctdmo-ghqr-sio_telemetered,/omc_data/whoi/OMC/GS02HYPM/D00001/*ctdmo*.dat,GS02HYPM-RIM01-02-CTDMOG039,telemetered,Not Expected,No telemetered data in correct format
+#Ingest.wfp-eng-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GS02HYPM/D00001/*.we_wfp_*.dat,GS02HYPM-WFP02-00-WFPENG000,telemetered,Not Expected,No telemetered data in correct format
+#Ingest.flord-l-wfp-sio_telemetered,/omc_data/whoi/OMC/GS02HYPM/D00001/*.we_wfp_*.dat,GS02HYPM-WFP02-01-FLORDL000,telemetered,Not Expected,No telemetered data in correct format
+#Ingest.dosta-ln-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GS02HYPM/D00001/*.we_wfp_*.dat,GS02HYPM-WFP02-03-DOSTAL000,telemetered,Not Expected,No telemetered data in correct format
+#Ingest.ctdpf-ckl-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GS02HYPM/D00001/*.wc_wfp_*.dat,GS02HYPM-WFP02-04-CTDPFL000,telemetered,Not Expected,No telemetered data in correct format
+#Ingest.vel3d-l-wfp-sio_telemetered,/omc_data/whoi/OMC/GS02HYPM/D00001/*.wa_wfp_*.dat,GS02HYPM-WFP02-05-VEL3DL000,telemetered,Not Expected,No telemetered data in correct format
+#Ingest.wfp-eng-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GS02HYPM/D00001/*.we_wfp_*.dat,GS02HYPM-WFP03-00-WFPENG000,telemetered,Not Expected,No telemetered data in correct format
+#Ingest.flord-l-wfp-sio_telemetered,/omc_data/whoi/OMC/GS02HYPM/D00001/*.we_wfp_*.dat,GS02HYPM-WFP03-01-FLORDL000,telemetered,Not Expected,No telemetered data in correct format
+#Ingest.dosta-ln-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GS02HYPM/D00001/*.we_wfp_*.dat,GS02HYPM-WFP03-03-DOSTAL000,telemetered,Not Expected,No telemetered data in correct format
+#Ingest.ctdpf-ckl-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GS02HYPM/D00001/*.wc_wfp_*.dat,GS02HYPM-WFP03-04-CTDPFL000,telemetered,Not Expected,No telemetered data in correct format
+#Ingest.vel3d-l-wfp-sio_telemetered,/omc_data/whoi/OMC/GS02HYPM/D00001/*.wa_wfp_*.dat,GS02HYPM-WFP03-05-VEL3DL000,telemetered,Not Expected,No telemetered data in correct format
