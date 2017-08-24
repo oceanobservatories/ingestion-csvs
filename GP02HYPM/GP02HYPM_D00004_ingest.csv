@@ -1,15 +1,15 @@
-uframe_route,filename_mask,reference_designator,data_source,
-Ingest.ctdmo-ghqr-sio_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00004/*ctdmo*.dat,GP02HYPM-RIM01-02-CTDMOG039,telemetered,
-Ingest.vel3d-l-wfp-sio_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00004/*.wa_wfp_1236921.dat,GP02HYPM-WFP02-05-VEL3DL000,telemetered,
-Ingest.vel3d-l-wfp-sio_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00004/*.wa_wfp_1236922.dat,GP02HYPM-WFP03-05-VEL3DL000,telemetered,
-#Ingest.ctdpf-ckl-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00004/*.wc_wfp_1236921.dat,GP02HYPM-WFP02-04-CTDPFL000,telemetered,No data on server
-Ingest.ctdpf-ckl-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00004/*.wc_wfp_1236922.dat,GP02HYPM-WFP03-04-CTDPFL000,telemetered,
-Ingest.dosta-ln-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00004/*.we_wfp_1236921.dat,GP02HYPM-WFP02-03-DOSTAL000,telemetered,
-Ingest.flord-l-wfp-sio_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00004/*.we_wfp_1236921.dat,GP02HYPM-WFP02-01-FLORDL000,telemetered,
-Ingest.wfp-eng-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00004/*.we_wfp_1236921.dat,GP02HYPM-WFP02-00-WFPENG000,telemetered,
-Ingest.dosta-ln-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00004/*.we_wfp_1236922.dat,GP02HYPM-WFP03-03-DOSTAL000,telemetered,
-Ingest.flord-l-wfp-sio_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00004/*.we_wfp_1236922.dat,GP02HYPM-WFP03-01-FLORDL000,telemetered,
-Ingest.wfp-eng-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00004/*.we_wfp_1236922.dat,GP02HYPM-WFP03-00-WFPENG000,telemetered,
-Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00004/*status*.dat,GP02HYPM-RIM01-00-SIOENG000,telemetered,
-#,,GP02HYPM-MPM01-02-ZPLSGA009,telemetered,Issues with data - MIO investigating
-#,,GP02HYPM-MPM01-02-ZPLSGA010,telemetered,Issues with data - MIO investigating
+uframe_route,filename_mask,reference_designator,data_source,status,notes
+#,,GP02HYPM-MPM01-02-ZPLSGA009,telemetered,Missing,Issues with data - MIO investigating
+#,,GP02HYPM-MPM01-02-ZPLSGA010,telemetered,Missing,Issues with data - MIO investigating
+Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00004/*status*.dat,GP02HYPM-RIM01-00-SIOENG000,telemetered,Available,
+Ingest.ctdmo-ghqr-sio_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00004/*ctdmo*.dat,GP02HYPM-RIM01-02-CTDMOG039,telemetered,Available,
+Ingest.wfp-eng-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00004/*.we_wfp_1236921.dat,GP02HYPM-WFP02-00-WFPENG000,telemetered,Available,
+Ingest.flord-l-wfp-sio_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00004/*.we_wfp_1236921.dat,GP02HYPM-WFP02-01-FLORDL000,telemetered,Available,
+Ingest.dosta-ln-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00004/*.we_wfp_1236921.dat,GP02HYPM-WFP02-03-DOSTAL000,telemetered,Available,
+#Ingest.ctdpf-ckl-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00004/*.wc_wfp_1236921.dat,GP02HYPM-WFP02-04-CTDPFL000,telemetered,Missing,No data on server
+Ingest.vel3d-l-wfp-sio_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00004/*.wa_wfp_1236921.dat,GP02HYPM-WFP02-05-VEL3DL000,telemetered,Available,
+Ingest.wfp-eng-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00004/*.we_wfp_1236922.dat,GP02HYPM-WFP03-00-WFPENG000,telemetered,Available,
+Ingest.flord-l-wfp-sio_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00004/*.we_wfp_1236922.dat,GP02HYPM-WFP03-01-FLORDL000,telemetered,Available,
+Ingest.dosta-ln-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00004/*.we_wfp_1236922.dat,GP02HYPM-WFP03-03-DOSTAL000,telemetered,Available,
+Ingest.ctdpf-ckl-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00004/*.wc_wfp_1236922.dat,GP02HYPM-WFP03-04-CTDPFL000,telemetered,Available,
+Ingest.vel3d-l-wfp-sio_telemetered,/omc_data/whoi/OMC/GP02HYPM/D00004/*.wa_wfp_1236922.dat,GP02HYPM-WFP03-05-VEL3DL000,telemetered,Available,
