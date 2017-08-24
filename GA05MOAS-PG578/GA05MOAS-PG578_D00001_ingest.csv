@@ -1,8 +1,8 @@
-uframe_route,filename_mask,reference_designator,data_source,
-Ingest.glider-eng-glider_telemetered,/omc_data/whoi/OMC/GA05MOAS-PG578/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG578-00-ENG000000,telemetered,
-Ingest.ctdgv-m-glider_telemetered,/omc_data/whoi/OMC/GA05MOAS-PG578/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG578-01-CTDGVM000,telemetered,
-Ingest.dosta-abcdjm-glider_telemetered,/omc_data/whoi/OMC/GA05MOAS-PG578/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG578-02-DOSTAM000,telemetered,
-Ingest.flort-m-glider_telemetered,/omc_data/whoi/OMC/GA05MOAS-PG578/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG578-03-FLORTM000,telemetered,
-#Ingest.flort-o-glider_telemetered,/omc_data/whoi/OMC/GA05MOAS-PG578/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG578-04-FLORTO000,telemetered,No parser
-Ingest.nutnr-m-glider_telemetered,/omc_data/whoi/OMC/GA05MOAS-PG578/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG578-05-NUTNRM000,telemetered,
-Ingest.parad-m-glider_telemetered,/omc_data/whoi/OMC/GA05MOAS-PG578/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG578-06-PARADM000,telemetered,
+uframe_route,filename_mask,reference_designator,data_source,status,notes
+Ingest.glider-eng-glider_telemetered,/omc_data/whoi/OMC/GA05MOAS-PG578/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG578-00-ENG000000,telemetered,Available,
+Ingest.ctdgv-m-glider_telemetered,/omc_data/whoi/OMC/GA05MOAS-PG578/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG578-01-CTDGVM000,telemetered,Available,
+Ingest.dosta-abcdjm-glider_telemetered,/omc_data/whoi/OMC/GA05MOAS-PG578/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG578-02-DOSTAM000,telemetered,Available,
+Ingest.flort-m-glider_telemetered,/omc_data/whoi/OMC/GA05MOAS-PG578/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG578-03-FLORTM000,telemetered,Available,
+#Ingest.flort-o-glider_telemetered,/omc_data/whoi/OMC/GA05MOAS-PG578/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG578-04-FLORTO000,telemetered,Pending,No parser
+Ingest.nutnr-m-glider_telemetered,/omc_data/whoi/OMC/GA05MOAS-PG578/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG578-05-NUTNRM000,telemetered,Available,
+Ingest.parad-m-glider_telemetered,/omc_data/whoi/OMC/GA05MOAS-PG578/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG578-06-PARADM000,telemetered,Available,
