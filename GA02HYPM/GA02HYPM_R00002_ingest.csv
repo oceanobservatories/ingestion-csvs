@@ -1,16 +1,16 @@
-uframe_route,filename_mask,reference_designator,data_source,
-#Ingest.vel3d-l-wfp_recovered,,GA02HYPM-WFP02-05-VEL3DL000,recovered_wfp,Mooring not recovered
-#Ingest.ctdpf-ckl-wfp_recovered,,GA02HYPM-WFP02-04-CTDPFL000,recovered_wfp,Mooring not recovered
-#Ingest.dosta-ln-wfp_recovered,,GA02HYPM-WFP02-03-DOSTAL000,recovered_wfp,Mooring not recovered
-#Ingest.flord-l-wfp_recovered,,GA02HYPM-WFP02-01-FLORDL000,recovered_wfp,Mooring not recovered
-#Ingest.wfp-eng-stc-imodem_recovered,,GA02HYPM-WFP02-00-WFPENG000,recovered_wfp,Mooring not recovered
-#Ingest.ctdmo-ghqr_recovered,,GA02HYPM-RIM01-02-CTDMOG039,recovered_inst,Mooring not recovered
-#Ingest.ctdmo-ghqr-sio_ctRecovered,,GA02HYPM-RIM01-02-CTDMOG039,recovered_host,Mooring not recovered
-#Ingest.sio-eng-sio_recovered,,GA02HYPM-RIM01-00-SIOENG000,recovered_host,Mooring not recovered
-#,,GA02HYPM-MPM01-02-ZPLSGA009,recovered_inst,Not installed
-#,,GA02HYPM-MPM01-02-ZPLSGA010,recovered_inst,Not installed
-#Ingest.wfp-eng-stc-imodem_recovered,,GA02HYPM-WFP03-00-WFPENG000,recovered_wfp,Mooring not recovered
-#Ingest.flord-l-wfp_recovered,,GA02HYPM-WFP03-01-FLORDL000,recovered_wfp,Mooring not recovered
-#Ingest.dosta-ln-wfp_recovered,,GA02HYPM-WFP03-03-DOSTAL000,recovered_wfp,Mooring not recovered
-#Ingest.ctdpf-ckl-wfp_recovered,,GA02HYPM-WFP03-04-CTDPFL000,recovered_wfp,Mooring not recovered
-#Ingest.vel3d-l-wfp_recovered,,GA02HYPM-WFP03-05-VEL3DL000,recovered_wfp,Mooring not recovered
+uframe_route,filename_mask,reference_designator,data_source,status,notes
+#,,GA02HYPM-MPM01-02-ZPLSGA009,recovered_inst,Not Deployed,Not installed
+#,,GA02HYPM-MPM01-02-ZPLSGA010,recovered_inst,Not Deployed,Not installed
+#Ingest.sio-eng-sio_recovered,,GA02HYPM-RIM01-00-SIOENG000,recovered_host,Not Expected,Mooring not recovered
+#Ingest.ctdmo-ghqr-sio_ctRecovered,,GA02HYPM-RIM01-02-CTDMOG039,recovered_host,Not Expected,Mooring not recovered
+#Ingest.ctdmo-ghqr_recovered,,GA02HYPM-RIM01-02-CTDMOG039,recovered_inst,Not Expected,Mooring not recovered
+#Ingest.wfp-eng-stc-imodem_recovered,,GA02HYPM-WFP02-00-WFPENG000,recovered_wfp,Not Expected,Mooring not recovered
+#Ingest.flord-l-wfp_recovered,,GA02HYPM-WFP02-01-FLORDL000,recovered_wfp,Not Expected,Mooring not recovered
+#Ingest.dosta-ln-wfp_recovered,,GA02HYPM-WFP02-03-DOSTAL000,recovered_wfp,Not Expected,Mooring not recovered
+#Ingest.ctdpf-ckl-wfp_recovered,,GA02HYPM-WFP02-04-CTDPFL000,recovered_wfp,Not Expected,Mooring not recovered
+#Ingest.vel3d-l-wfp_recovered,,GA02HYPM-WFP02-05-VEL3DL000,recovered_wfp,Not Expected,Mooring not recovered
+#Ingest.wfp-eng-stc-imodem_recovered,,GA02HYPM-WFP03-00-WFPENG000,recovered_wfp,Not Expected,Mooring not recovered
+#Ingest.flord-l-wfp_recovered,,GA02HYPM-WFP03-01-FLORDL000,recovered_wfp,Not Expected,Mooring not recovered
+#Ingest.dosta-ln-wfp_recovered,,GA02HYPM-WFP03-03-DOSTAL000,recovered_wfp,Not Expected,Mooring not recovered
+#Ingest.ctdpf-ckl-wfp_recovered,,GA02HYPM-WFP03-04-CTDPFL000,recovered_wfp,Not Expected,Mooring not recovered
+#Ingest.vel3d-l-wfp_recovered,,GA02HYPM-WFP03-05-VEL3DL000,recovered_wfp,Not Expected,Mooring not recovered
