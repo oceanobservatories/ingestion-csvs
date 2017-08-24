@@ -1,42 +1,43 @@
-uframe_route,filename_mask,reference_designator,data_source,
-# Ingest.mopak-o-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/,CP03ISSM-SBD11-01-MOPAK0000,recovered_host,Data not expected
-# Ingest.hyd-o-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/,CP03ISSM-SBD11-02-HYDGN0000,recovered_host,Data not expected
-# Ingest.metbk-a-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl11/METBK-Log_snLGR013/*.metbk*.log ,CP03ISSM-SBD11-06-METBKA000,recovered_host,Instrument was lost
-# Ingest.hyd-o-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/,CP03ISSM-SBD12-03-HYDGN0000,recovered_host,Data not expected
-# Ingest.pco2a-a-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl12/PCO2A_sn33-183-50A/PCO2A*.log,CP03ISSM-SBD12-04-PCO2AA000,recovered_host,Instrument was lost
-Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl26/VELPT_snAQD-11397/*.aqd,CP03ISSM-RID26-04-VELPTA000,recovered_inst,
-#Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl26/VELPT_snAQD-11397/*velpt.log,CP03ISSM-RID26-04-VELPTA000,recovered_host,Data not expected
-Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl26/PHSEN_snP0087/SAMI*.txt,CP03ISSM-RID26-06-PHSEND000,recovered_inst,
-#Ingest.phsen-abcdef-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl26/PHSEN_snP0087/*.phsen.log,CP03ISSM-RID26-06-PHSEND000,recovered_host,Data not expected
-Ingest.nutnr-b_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl26/NUTNR_sn268/SCH*.DAT,CP03ISSM-RID26-07-NUTNRB000,recovered_inst,
-#Ingest.nutnr-b-dcl-full_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl26/NUTNR_sn268/*nutnr.log,CP03ISSM-RID26-07-NUTNRB000,recovered_host,Data not expected
-# Ingest.spkir-abj-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl26/SPKIR_sn270/*.spkir*.log,CP03ISSM-RID26-08-SPKIRB000,recovered_host,Data not expected
-# Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl27/OPTAA_ACS187/*.optaa*.log,CP03ISSM-RID27-01-OPTAAD000,recovered_host,Data not expected
-# Ingest.flort-dj-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl27/FLORT_sn1106/*.flort.log,CP03ISSM-RID27-02-FLORTD000,recovered_host,Data not expected
-Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl27/CTDBP_sn16-50003/SBE*.hex,CP03ISSM-RID27-03-CTDBPC000,recovered_inst,
-#Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl27/CTDBP_sn16-50003/*ctdbp.log,CP03ISSM-RID27-03-CTDBPC000,recovered_host,Data not expected
-# Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl27/DOSTA_sn389/*dosta*.log,CP03ISSM-RID27-04-DOSTAD000,recovered_host,Data not expected
-Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl35/ADCP_sn19221/_RDI*.000,CP03ISSM-MFD35-01-ADCPTF000,recovered_inst,
-#Ingest.presf-abc-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl35/PRESF_sn26P76848-1387/*presf.log,CP03ISSM-MFD35-02-PRESFB000,recovered_host,Data not expected
-Ingest.presf-abc_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl35/PRESF_sn26P76848-1387/PRESF*.hex,CP03ISSM-MFD35-02-PRESFB000,recovered_inst,
-Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl35/VELPT_snAQD-11412/*.aqd,CP03ISSM-MFD35-04-VELPTA000,recovered_inst,
-#Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl35/VELPT_snAQD-11412/*velpt.log,CP03ISSM-MFD35-04-VELPTA000,recovered_host,Data not expected
-Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl35/PCO2W_snC0071/SAMI*.txt,CP03ISSM-MFD35-05-PCO2WB000,recovered_inst,
-#Ingest.pco2w-abc-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl35/PCO2W_snC0071/*.pco2w.log,CP03ISSM-MFD35-05-PCO2WB000,recovered_host,Data not expected
-#Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl35/PHSEN_snP0069/SAMI*.txt,CP03ISSM-MFD35-06-PHSEND000,recovered_inst,Data not available
-# Ingest.phsen-abcdef-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl35/PHSEN_snP0069/*phsen.log,CP03ISSM-MFD35-06-PHSEND000,recovered_host,Data not expected
-#Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl37/OPTAA_snACS159/*.optaa*.log,CP03ISSM-MFD37-01-OPTAAD000,recovered_host,Data not expected
-Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl37/CTDBP_sn16P71174-7209/SBE*.hex,CP03ISSM-MFD37-03-CTDBPD000,recovered_inst,
-#Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl37/CTDBP_sn16P71174-7209/*ctdbp.log,CP03ISSM-MFD37-03-CTDBPD000,recovered_host,Data not expected
-#Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl37/DOSTA_sn390/*dosta*.log,CP03ISSM-MFD37-04-DOSTAD000,recovered_host,Data not expected
-#,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/,CP03ISSM-MFD37-07-ZPLSCC000,recovered_host,Not deployed
-#,,CP03ISSM-MFD37-07-ZPLSCC000,recovered_inst,Not deployed
-# Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/irid2shore/cpm_status*.txt,CP03ISSM-SBC11-00-CPMENG000,recovered_host,Data not available
-# Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/cpm2/syslog/cpm_status*.txt,CP03ISSM-RIC21-00-CPMENG000,recovered_host,Data not available
-# Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/cpm3/syslog/cpm_status*.txt,CP03ISSM-MFC31-00-CPMENG000,recovered_host,Data not available
-# Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl11/syslog/*.syslog.log,CP03ISSM-SBD11-00-DCLENG000,recovered_host,Data not expected
-# Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl12/syslog/*.syslog.log,CP03ISSM-SBD12-00-DCLENG000,recovered_host,Data not expected
-# Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl26/syslog/*.syslog.log,CP03ISSM-RID26-00-DCLENG000,recovered_host,Data not expected
-# Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl27/syslog/*.syslog.log,CP03ISSM-RID27-00-DCLENG000,recovered_host,Data not expected
-# Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl35/syslog/*.syslog.log,CP03ISSM-MFD35-00-DCLENG000,recovered_host,Data not expected
-# Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl37/syslog/*.syslog.log,CP03ISSM-MFD37-00-DCLENG000,recovered_host,Data not expected
+uframe_route,filename_mask,reference_designator,data_source,status,notes
+# Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/cpm3/syslog/cpm_status*.txt,CP03ISSM-MFC31-00-CPMENG000,recovered_host,Not Expected,Data not available
+# Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl35/syslog/*.syslog.log,CP03ISSM-MFD35-00-DCLENG000,recovered_host,Not Expected,Data not expected
+#Ingest.adcpt-acfgm-dcl-pd8_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl35/ADCP_sn*/*adcp.log,CP03ISSM-MFD35-01-ADCPTF000,recovered_host,Not Expected,Data not expected
+Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl35/ADCP_sn19221/_RDI*.000,CP03ISSM-MFD35-01-ADCPTF000,recovered_inst,Available,
+#Ingest.presf-abc-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl35/PRESF_sn26P76848-1387/*presf.log,CP03ISSM-MFD35-02-PRESFB000,recovered_host,Not Expected,Data not expected
+Ingest.presf-abc_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl35/PRESF_sn26P76848-1387/PRESF*.hex,CP03ISSM-MFD35-02-PRESFB000,recovered_inst,Available,
+#Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl35/VELPT_snAQD-11412/*velpt.log,CP03ISSM-MFD35-04-VELPTA000,recovered_host,Not Expected,Data not expected
+Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl35/VELPT_snAQD-11412/*.aqd,CP03ISSM-MFD35-04-VELPTA000,recovered_inst,Available,
+#Ingest.pco2w-abc-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl35/PCO2W_snC0071/*.pco2w.log,CP03ISSM-MFD35-05-PCO2WB000,recovered_host,Not Expected,Data not expected
+Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl35/PCO2W_snC0071/SAMI*.txt,CP03ISSM-MFD35-05-PCO2WB000,recovered_inst,Available,
+# Ingest.phsen-abcdef-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl35/PHSEN_snP0069/*phsen.log,CP03ISSM-MFD35-06-PHSEND000,recovered_host,Not Expected,Data not expected
+#Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl35/PHSEN_snP0069/SAMI*.txt,CP03ISSM-MFD35-06-PHSEND000,recovered_inst,Not Expected,Data not available
+# Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl37/syslog/*.syslog.log,CP03ISSM-MFD37-00-DCLENG000,recovered_host,Not Expected,Data not expected
+#Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl37/OPTAA_snACS159/*.optaa*.log,CP03ISSM-MFD37-01-OPTAAD000,recovered_host,Not Expected,Data not expected
+#Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl37/CTDBP_sn16P71174-7209/*ctdbp.log,CP03ISSM-MFD37-03-CTDBPD000,recovered_host,Not Expected,Data not expected
+Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl37/CTDBP_sn16P71174-7209/SBE*.hex,CP03ISSM-MFD37-03-CTDBPD000,recovered_inst,Available,
+#Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl37/DOSTA_sn390/*dosta*.log,CP03ISSM-MFD37-04-DOSTAD000,recovered_host,Not Expected,Data not expected
+#,,CP03ISSM-MFD37-07-ZPLSCC000,recovered_host,Not Deployed,
+# Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/cpm2/syslog/cpm_status*.txt,CP03ISSM-RIC21-00-CPMENG000,recovered_host,Not Expected,Data not available
+# Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl26/syslog/*.syslog.log,CP03ISSM-RID26-00-DCLENG000,recovered_host,Not Expected,Data not expected
+#Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl26/VELPT_snAQD-11397/*velpt.log,CP03ISSM-RID26-04-VELPTA000,recovered_host,Not Expected,Data not expected
+Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl26/VELPT_snAQD-11397/*.aqd,CP03ISSM-RID26-04-VELPTA000,recovered_inst,Available,
+#Ingest.phsen-abcdef-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl26/PHSEN_snP0087/*.phsen.log,CP03ISSM-RID26-06-PHSEND000,recovered_host,Not Expected,Data not expected
+Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl26/PHSEN_snP0087/SAMI*.txt,CP03ISSM-RID26-06-PHSEND000,recovered_inst,Available,
+#Ingest.nutnr-b-dcl-full_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl26/NUTNR_sn268/*nutnr.log,CP03ISSM-RID26-07-NUTNRB000,recovered_host,Not Expected,Data not expected
+Ingest.nutnr-b_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl26/NUTNR_sn268/SCH*.DAT,CP03ISSM-RID26-07-NUTNRB000,recovered_inst,Available,
+# Ingest.spkir-abj-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl26/SPKIR_sn270/*.spkir*.log,CP03ISSM-RID26-08-SPKIRB000,recovered_host,Not Expected,Data not expected
+# Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl27/syslog/*.syslog.log,CP03ISSM-RID27-00-DCLENG000,recovered_host,Not Expected,Data not expected
+# Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl27/OPTAA_ACS187/*.optaa*.log,CP03ISSM-RID27-01-OPTAAD000,recovered_host,Not Expected,Data not expected
+# Ingest.flort-dj-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl27/FLORT_sn1106/*.flort.log,CP03ISSM-RID27-02-FLORTD000,recovered_host,Not Expected,Data not expected
+#Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl27/CTDBP_sn16-50003/*ctdbp.log,CP03ISSM-RID27-03-CTDBPC000,recovered_host,Not Expected,Data not expected
+Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl27/CTDBP_sn16-50003/SBE*.hex,CP03ISSM-RID27-03-CTDBPC000,recovered_inst,Available,
+# Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl27/DOSTA_sn389/*dosta*.log,CP03ISSM-RID27-04-DOSTAD000,recovered_host,Not Expected,Data not expected
+# Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/irid2shore/cpm_status*.txt,CP03ISSM-SBC11-00-CPMENG000,recovered_host,Not Expected,Data not available
+# Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl11/syslog/*.syslog.log,CP03ISSM-SBD11-00-DCLENG000,recovered_host,Not Expected,Data not expected
+# Ingest.mopak-o-dcl_recovered,,CP03ISSM-SBD11-01-MOPAK0000,recovered_host,Not Expected,Data not expected
+# Ingest.hyd-o-dcl_recovered,,CP03ISSM-SBD11-02-HYDGN0000,recovered_host,Not Expected,Data not expected
+# Ingest.metbk-a-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl11/METBK-Log_snLGR013/*.metbk*.log ,CP03ISSM-SBD11-06-METBKA000,recovered_host,Not Expected,Instrument was lost
+# Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl12/syslog/*.syslog.log,CP03ISSM-SBD12-00-DCLENG000,recovered_host,Not Expected,Data not expected
+# Ingest.hyd-o-dcl_recovered,,CP03ISSM-SBD12-03-HYDGN0000,recovered_host,Not Expected,Data not expected
+# Ingest.pco2a-a-dcl_recovered,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl12/PCO2A_sn33-183-50A/PCO2A*.log,CP03ISSM-SBD12-04-PCO2AA000,recovered_host,Not Expected,Instrument was lost
+#,,CP03ISSM-MFD37-07-ZPLSCC000,recovered_inst,Not Deployed,
