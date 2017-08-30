@@ -1,5 +1,5 @@
-uframe_route,filename_mask,reference_designator,data_source,
-#Ingest.glider-eng-glider_recovered,/omc_data/whoi/OMC/GA05MOAS-GL496/R00001/merged-from-glider/ga_496*.mrg,GA05MOAS-GL496-00-ENG000000,recovered_host,Glider lost
-#Ingest.flord-m-glider_recovered,/omc_data/whoi/OMC/GA05MOAS-GL496/R00001/merged-from-glider/ga_496*.mrg,GA05MOAS-GL496-01-FLORDM000,recovered_host,Glider lost
-#Ingest.dosta-abcdjm-glider_recovered,/omc_data/whoi/OMC/GA05MOAS-GL496/R00001/merged-from-glider/ga_496*.mrg,GA05MOAS-GL496-02-DOSTAM000,recovered_host,Glider lost
-#Ingest.ctdgv-m-glider_recovered,/omc_data/whoi/OMC/GA05MOAS-GL496/R00001/merged-from-glider/ga_496*.mrg,GA05MOAS-GL496-04-CTDGVM000,recovered_host,Glider lost
+uframe_route,filename_mask,reference_designator,data_source,status,notes
+#Ingest.glider-eng-glider_recovered,/omc_data/whoi/OMC/GA05MOAS-GL496/R00001/merged-from-glider/ga_496*.mrg,GA05MOAS-GL496-00-ENG000000,recovered_host,Not Expected,Glider lost
+#Ingest.flord-m-glider_recovered,/omc_data/whoi/OMC/GA05MOAS-GL496/R00001/merged-from-glider/ga_496*.mrg,GA05MOAS-GL496-01-FLORDM000,recovered_host,Not Expected,Glider lost
+#Ingest.dosta-abcdjm-glider_recovered,/omc_data/whoi/OMC/GA05MOAS-GL496/R00001/merged-from-glider/ga_496*.mrg,GA05MOAS-GL496-02-DOSTAM000,recovered_host,Not Expected,Glider lost
+#Ingest.ctdgv-m-glider_recovered,/omc_data/whoi/OMC/GA05MOAS-GL496/R00001/merged-from-glider/ga_496*.mrg,GA05MOAS-GL496-04-CTDGVM000,recovered_host,Not Expected,Glider lost
