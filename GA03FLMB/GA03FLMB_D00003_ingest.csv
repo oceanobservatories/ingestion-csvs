@@ -1,6 +1,7 @@
 uframe_route,filename_mask,reference_designator,data_source,status,notes
 #Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GA03FLMB/D00003/*status_1488101.dat,GA03FLMB-RIM01-00-SIOENG000,telemetered,Not Expected,No data expected due to glider failures
 #Ingest.adcps-jln-sio_telemetered,/omc_data/whoi/OMC/GA03FLMB/D00003/*adcps*.dat,GA03FLMB-RIM01-02-ADCPSL007,telemetered,Not Expected,No data expected due to glider failures
+#Ingest.ctdmo-ghqr-sio_telemetered,/omc_data/whoi/OMC/GA03FLMB/D00003/*ctdmo*.dat,GA03FLMB-RIM01-02-CTDMOG000,telemetered,Not Expected,Wildcard refdes. No data expected due to glider failures
 #,/omc_data/whoi/OMC/GA03FLMB/D00003/*ctdmo*.dat,GA03FLMB-RIM01-02-CTDMOG060,telemetered,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. No data expected due to glider failures
 #,/omc_data/whoi/OMC/GA03FLMB/D00003/*ctdmo*.dat,GA03FLMB-RIM01-02-CTDMOG061,telemetered,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. No data expected due to glider failures
 #,/omc_data/whoi/OMC/GA03FLMB/D00003/*ctdmo*.dat,GA03FLMB-RIM01-02-CTDMOG062,telemetered,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. No data expected due to glider failures

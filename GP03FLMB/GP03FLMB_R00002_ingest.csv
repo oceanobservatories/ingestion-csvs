@@ -2,6 +2,7 @@ uframe_route,filename_mask,reference_designator,data_source,status,notes
 Ingest.sio-eng-sio_recovered,/omc_data/whoi/OMC/GP03FLMB/R00002/cg_data/dcl00/MSIOC_SN_10118/STA*.DAT,GP03FLMB-RIM01-00-SIOENG000,recovered_host,Available,
 Ingest.adcps-jln-sio_telemetered,/omc_data/whoi/OMC/GP03FLMB/R00002/cg_data/dcl00/ADCP_sn20504/ADC*.DAT,GP03FLMB-RIM01-02-ADCPSL007,recovered_host,Available,
 Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/GP03FLMB/R00002/cg_data/dcl00/ADCP_sn20504/*.000,GP03FLMB-RIM01-02-ADCPSL007,recovered_inst,Available,
+#Ingest.ctdmo-ghqr-sio_ctRecovered,,GP03FLMB-RIM01-02-CTDMOG000,recovered_host,Not Expected,Wildcard refdes. Data not expected
 #,,GP03FLMB-RIM01-02-CTDMOG060,recovered_host,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
 # Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMB/R00002/cg_data/dcl00/CTDMO-G_sn11646/SBE37*11646*.hex,GP03FLMB-RIM01-02-CTDMOG060,recovered_inst,Not Expected,Data not expected
 #,,GP03FLMB-RIM01-02-CTDMOG061,recovered_host,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected

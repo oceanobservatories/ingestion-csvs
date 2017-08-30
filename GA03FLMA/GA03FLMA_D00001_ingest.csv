@@ -1,6 +1,7 @@
 uframe_route,filename_mask,reference_designator,data_source,status,notes
 Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GA03FLMA/D00001/*status_1399501.dat,GA03FLMA-RIM01-00-SIOENG000,telemetered,Available,
 Ingest.adcps-jln-sio_telemetered,/omc_data/whoi/OMC/GA03FLMA/D00001/*adcps*.dat,GA03FLMA-RIM01-02-ADCPSL003,telemetered,Available,
+Ingest.ctdmo-ghqr-sio_telemetered,/omc_data/whoi/OMC/GA03FLMA/D00001/*ctdmo*.dat,GA03FLMA-RIM01-02-CTDMOG000,telemetered,Available,Wildcard refdes
 #,/omc_data/whoi/OMC/GA03FLMA/D00001/*ctdmo*.dat,GA03FLMA-RIM01-02-CTDMOG040,telemetered,Available,Data assigned to refdes after ingestion with wildcard refdes.
 #,/omc_data/whoi/OMC/GA03FLMA/D00001/*ctdmo*.dat,GA03FLMA-RIM01-02-CTDMOG041,telemetered,Available,Data assigned to refdes after ingestion with wildcard refdes.
 #,/omc_data/whoi/OMC/GA03FLMA/D00001/*ctdmo*.dat,GA03FLMA-RIM01-02-CTDMOG042,telemetered,Available,Data assigned to refdes after ingestion with wildcard refdes.

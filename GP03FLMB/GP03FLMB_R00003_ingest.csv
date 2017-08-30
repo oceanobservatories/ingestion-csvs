@@ -2,6 +2,7 @@ uframe_route,filename_mask,reference_designator,data_source,status,notes
 Ingest.sio-eng-sio_recovered,/omc_data/whoi/OMC/GP03FLMB/R00003/cg_data/dcl00/MSIOC_sn12372/STA/STA*.DAT,GP03FLMB-RIM01-00-SIOENG000,recovered_host,Available,
 Ingest.adcps-jln-sio_telemetered,/omc_data/whoi/OMC/GP03FLMB/R00003/cg_data/dcl00/ADCPS_sn22846/ADC*.DAT,GP03FLMB-RIM01-02-ADCPSL007,recovered_host,Available,
 Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/GP03FLMB/R00003/cg_data/dcl00/ADCPS_sn22846/*.000,GP03FLMB-RIM01-02-ADCPSL007,recovered_inst,Available,
+Ingest.ctdmo-ghqr-sio_ctRecovered,/omc_data/whoi/OMC/GP03FLMB/R00003/cg_data/dcl00/CTDMOs_all/CTD*.DAT,GP03FLMB-RIM01-02-CTDMOG000,recovered_host,Available,Wildcard refdes
 #,/omc_data/whoi/OMC/GP03FLMB/R00003/cg_data/dcl00/CTDMOs_all/CTD*.DAT,GP03FLMB-RIM01-02-CTDMOG060,recovered_host,Available,Data assigned to refdes after ingestion with wildcard refdes.
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMB/R00003/cg_data/dcl00/CTDMO_sn37-12638/SBE37*.hex,GP03FLMB-RIM01-02-CTDMOG060,recovered_inst,Available,
 #,/omc_data/whoi/OMC/GP03FLMB/R00003/cg_data/dcl00/CTDMOs_all/CTD*.DAT,GP03FLMB-RIM01-02-CTDMOG061,recovered_host,Available,Data assigned to refdes after ingestion with wildcard refdes.
