@@ -2,6 +2,7 @@ uframe_route,filename_mask,reference_designator,data_source,status,notes
 Ingest.sio-eng-sio_recovered,/omc_data/whoi/OMC/GS03FLMA/R00002/cg_data/MSIOC_sn14877/STATUS/STA*.DAT,GS03FLMA-RIM01-00-SIOENG000,recovered_host,Available,
 Ingest.adcps-jln-sio_telemetered,/omc_data/whoi/OMC/GS03FLMA/R00002/cg_data/MSIOC_sn14877/ADCPS/ADC*.DAT,GS03FLMA-RIM01-02-ADCPSL003,recovered_host,Available,
 Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/GS03FLMA/R00002/instruments/ADCPS_sn20502/*.000,GS03FLMA-RIM01-02-ADCPSL003,recovered_inst,Available,
+Ingest.ctdmo-ghqr-sio_ctRecovered,/omc_data/whoi/OMC/GS03FLMA/R00002/cg_data/MSIOC_sn14877/CTD/*.DAT,GS03FLMA-RIM01-02-CTDMOG000,recovered_host,Available,Wildcard refdes
 #,/omc_data/whoi/OMC/GS03FLMA/R00002/cg_data/MSIOC_sn14877/CTD/*.DAT,GS03FLMA-RIM01-02-CTDMOG040,recovered_host,Available,Data assigned to refdes after ingestion with wildcard refdes.
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GS03FLMA/R00002/instruments/CTDMO_sn37-13635/*.hex,GS03FLMA-RIM01-02-CTDMOG040,recovered_inst,Available,
 #,/omc_data/whoi/OMC/GS03FLMA/R00002/cg_data/MSIOC_sn14877/CTD/*.DAT,GS03FLMA-RIM01-02-CTDMOG041,recovered_host,Available,Data assigned to refdes after ingestion with wildcard refdes.

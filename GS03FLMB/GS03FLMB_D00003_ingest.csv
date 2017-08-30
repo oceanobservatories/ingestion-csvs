@@ -1,6 +1,7 @@
 uframe_route,filename_mask,reference_designator,data_source,status,notes
 #Ingest.sio-eng-sio_telemetered,,GS03FLMB-RIM01-00-SIOENG000,telemetered,Not Expected,No telemetered data expected (no gliders deployed)
 #Ingest.adcps-jln-sio_telemetered,,GS03FLMB-RIM01-02-ADCPSL007,telemetered,Not Expected,No telemetered data expected (no gliders deployed)
+#Ingest.ctdmo-ghqr-sio_telemetered,,GS03FLMB-RIM01-02-CTDMOG000,telemetered,Not Expected,Wildcard refdes. No telemetered data expected (no gliders deployed)
 #,,GS03FLMB-RIM01-02-CTDMOG060,telemetered,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. No telemetered data expected (no gliders deployed)
 #,,GS03FLMB-RIM01-02-CTDMOG061,telemetered,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. No telemetered data expected (no gliders deployed)
 #,,GS03FLMB-RIM01-02-CTDMOG062,telemetered,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. No telemetered data expected (no gliders deployed)

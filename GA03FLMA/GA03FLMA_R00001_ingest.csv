@@ -2,6 +2,7 @@ uframe_route,filename_mask,reference_designator,data_source,status,notes
 Ingest.sio-eng-sio_recovered,/omc_data/whoi/OMC/GA03FLMA/R00001/cg_data/dcl00/MSIOC/STA*.DAT,GA03FLMA-RIM01-00-SIOENG000,recovered_host,Available,
 #Ingest.adcps-jln-sio_telemetered,/omc_data/whoi/OMC/GA03FLMA/R00001/cg_data/dcl00/ADCPS_sn20503/ADC*.DAT,GA03FLMA-RIM01-02-ADCPSL003,recovered_host,Not Expected,Data not expected
 Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/GA03FLMA/R00001/cg_data/dcl00/ADCPS_sn20503/*.000,GA03FLMA-RIM01-02-ADCPSL003,recovered_inst,Available,
+#Ingest.ctdmo-ghqr-sio_ctRecovered,/omc_data/whoi/OMC/GA03FLMA/R00001/cg_data/dcl00/CTDMOs_all/*.DAT,GA03FLMA-RIM01-02-CTDMOG000,recovered_host,Not Expected,Wildcard refdes. Data not expected
 #,/omc_data/whoi/OMC/GA03FLMA/R00001/cg_data/dcl00/CTDMOs_all/*.DAT,GA03FLMA-RIM01-02-CTDMOG040,recovered_host,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GA03FLMA/R00001/cg_data/dcl00/CTDMO_sn12401/*.hex,GA03FLMA-RIM01-02-CTDMOG040,recovered_inst,Available,29
 #,/omc_data/whoi/OMC/GA03FLMA/R00001/cg_data/dcl00/CTDMOs_all/*.DAT,GA03FLMA-RIM01-02-CTDMOG041,recovered_host,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
