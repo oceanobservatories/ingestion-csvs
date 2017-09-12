@@ -2,6 +2,7 @@ uframe_route,filename_mask,reference_designator,data_source,status,notes
 Ingest.sio-eng-sio_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/Main_SIOC/status/STA*.DAT,GP03FLMA-RIM01-00-SIOENG000,recovered_host,Available,
 #Ingest.adcps-jln-sio_telemetered,,GP03FLMA-RIM01-02-ADCPSL003,recovered_host,Not Expected,Data not expected
 Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/adcp/*.000,GP03FLMA-RIM01-02-ADCPSL003,recovered_inst,Available,
+Ingest.ctdmo-ghqr-sio_ctRecovered,/omc_data/whoi/OMC/GP03FLMA/R00001/ctdmo/CTD*.DAT,GP03FLMA-RIM01-02-CTDMOG000,recovered_host,Available,Wildcard refdes
 #,/omc_data/whoi/OMC/GP03FLMA/R00001/ctdmo/CTD*.DAT,GP03FLMA-RIM01-02-CTDMOG040,recovered_host,Available,Data assigned to refdes after ingestion with wildcard refdes.
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00001/mc/SBE37*03710257*.hex,GP03FLMA-RIM01-02-CTDMOG040,recovered_inst,Available,
 #,/omc_data/whoi/OMC/GP03FLMA/R00001/ctdmo/CTD*.DAT,GP03FLMA-RIM01-02-CTDMOG041,recovered_host,Available,Data assigned to refdes after ingestion with wildcard refdes.
