@@ -1,10 +1,10 @@
 uframe_route,filename_mask,reference_designator,data_source,status,notes
 #,,GI02HYPM-MPM01-02-ZPLSGA009,telemetered,Missing,Recheck when more data are transferred
 #,,GI02HYPM-MPM01-02-ZPLSGA010,telemetered,Missing,Recheck when more data are transferred
-#Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GI02HYPM/D00004/node*p1_*.status*.dat,GI02HYPM-RIM01-00-SIOENG000,telemetered,Missing,Recheck when more data are transferred
-#Ingest.ctdmo-ghqr-sio_telemetered,/omc_data/whoi/OMC/GI02HYPM/D00004/*ctdmo_*.dat,GI02HYPM-RIM01-02-CTDMOG039,telemetered,Missing,Recheck when more data are transferred
-#Ingest.wfp-eng-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GI02HYPM/D00004/*.we_wfp_*.dat,GI02HYPM-WFP02-00-WFPENG000,telemetered,Missing,Recheck when more data are transferred
-#Ingest.flord-l-wfp-sio_telemetered,/omc_data/whoi/OMC/GI02HYPM/D00004/*.we_wfp_*.dat,GI02HYPM-WFP02-01-FLORDL000,telemetered,Missing,Recheck when more data are transferred
-#Ingest.dosta-ln-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GI02HYPM/D00004/*.we_wfp_*.dat,GI02HYPM-WFP02-03-DOSTAL000,telemetered,Missing,Recheck when more data are transferred
-#Ingest.ctdpf-ckl-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GI02HYPM/D00004/*.wc_wfp_*.dat,GI02HYPM-WFP02-04-CTDPFL000,telemetered,Missing,Recheck when more data are transferred
-#Ingest.vel3d-l-wfp-sio_telemetered,/omc_data/whoi/OMC/GI02HYPM/D00004/*.wa_wfp_*.dat,GI02HYPM-WFP02-05-VEL3DL000,telemetered,Missing,Recheck when more data are transferred
+Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GI02HYPM/D00004/node*p1_*.status*.dat,GI02HYPM-RIM01-00-SIOENG000,telemetered,Available,
+Ingest.ctdmo-ghqr-sio_telemetered,/omc_data/whoi/OMC/GI02HYPM/D00004/*ctdmo_*.dat,GI02HYPM-RIM01-02-CTDMOG039,telemetered,Available,
+Ingest.wfp-eng-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GI02HYPM/D00004/*.we_wfp_*.dat,GI02HYPM-WFP02-00-WFPENG000,telemetered,Available,
+Ingest.flord-l-wfp-sio_telemetered,/omc_data/whoi/OMC/GI02HYPM/D00004/*.we_wfp_*.dat,GI02HYPM-WFP02-01-FLORDL000,telemetered,Available,
+Ingest.dosta-ln-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GI02HYPM/D00004/*.we_wfp_*.dat,GI02HYPM-WFP02-03-DOSTAL000,telemetered,Available,
+Ingest.ctdpf-ckl-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GI02HYPM/D00004/*.wc_wfp_*.dat,GI02HYPM-WFP02-04-CTDPFL000,telemetered,Available,
+Ingest.vel3d-l-wfp-sio_telemetered,/omc_data/whoi/OMC/GI02HYPM/D00004/*.wa_wfp_*.dat,GI02HYPM-WFP02-05-VEL3DL000,telemetered,Available,
