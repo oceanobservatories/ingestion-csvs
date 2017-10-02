@@ -1,0 +1,16 @@
+uframe_route,filename_mask,reference_designator,data_source,status,notes
+#,/omc_data/whoi/OMC/GP02HYPM/R00004/instruments/ZLPSG_sn55093/DATA/20*/,GP02HYPM-MPM01-02-ZPLSGA009,recovered_inst,Pending,parser not available
+#,/omc_data/whoi/OMC/GP02HYPM/R00004/instruments/ZLPSG_sn55092/DATA/20*/,GP02HYPM-MPM01-02-ZPLSGA010,recovered_inst,Pending,parser not available
+Ingest.sio-eng-sio_recovered,/omc_data/whoi/OMC/GP02HYPM/R00004/cg_data/MSIOC_sn*/STATUS/STA*.DA?,GP02HYPM-RIM01-00-SIOENG000,recovered_host,Available,
+Ingest.ctdmo-ghqr-sio_ctRecovered,/omc_data/whoi/OMC/GP02HYPM/R00004/cg_data/MSIOC_sn*/CTD/*.DAT,GP02HYPM-RIM01-02-CTDMOG039,recovered_host,Available,
+Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP02HYPM/R00004/instruments/CTDMO_sn*/SBE37*.hex,GP02HYPM-RIM01-02-CTDMOG039,recovered_inst,Available,
+#Ingest.wfp-eng-stc-imodem_recovered,/omc_data/whoi/OMC/GP02HYPM/R00004/instruments/GWFP_sn13104-02/0*/E*.DA?,GP02HYPM-WFP02-00-WFPENG000,recovered_wfp,Pending,couldn't parse data
+Ingest.flord-l-wfp_recovered,/omc_data/whoi/OMC/GP02HYPM/R00004/instruments/GWFP_sn13104-02/0*/E*.DA?,GP02HYPM-WFP02-01-FLORDL000,recovered_wfp,Available,
+Ingest.dosta-ln-wfp_recovered,/omc_data/whoi/OMC/GP02HYPM/R00004/instruments/GWFP_sn13104-02/0*/E*.DA?,GP02HYPM-WFP02-03-DOSTAL000,recovered_wfp,Available,
+Ingest.ctdpf-ckl-wfp_recovered,/omc_data/whoi/OMC/GP02HYPM/R00004/instruments/GWFP_sn13104-02/0*/C*.DA?,GP02HYPM-WFP02-04-CTDPFL000,recovered_wfp,Available,
+Ingest.vel3d-l-wfp_recovered,/omc_data/whoi/OMC/GP02HYPM/R00004/instruments/GWFP_sn13104-02/0*/A*.DA?,GP02HYPM-WFP02-05-VEL3DL000,recovered_wfp,Available,
+Ingest.wfp-eng-stc-imodem_recovered,/omc_data/whoi/OMC/GP02HYPM/R00004/instruments/GWFP_sn12936-02/0*/E*.DA?,GP02HYPM-WFP03-00-WFPENG000,recovered_wfp,Available,
+Ingest.flord-l-wfp_recovered,/omc_data/whoi/OMC/GP02HYPM/R00004/instruments/GWFP_sn12936-02/0*/E*.DA?,GP02HYPM-WFP03-01-FLORDL000,recovered_wfp,Available,
+Ingest.dosta-ln-wfp_recovered,/omc_data/whoi/OMC/GP02HYPM/R00004/instruments/GWFP_sn12936-02/0*/E*.DA?,GP02HYPM-WFP03-03-DOSTAL000,recovered_wfp,Available,
+Ingest.ctdpf-ckl-wfp_recovered,/omc_data/whoi/OMC/GP02HYPM/R00004/instruments/GWFP_sn12936-02/0*/C*.DA?,GP02HYPM-WFP03-04-CTDPFL000,recovered_wfp,Available,
+Ingest.vel3d-l-wfp_recovered,/omc_data/whoi/OMC/GP02HYPM/R00004/instruments/GWFP_sn12936-02/0*/A*.DA?,GP02HYPM-WFP03-05-VEL3DL000,recovered_wfp,Available,
