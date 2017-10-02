@@ -1,6 +1,6 @@
 uframe_route,filename_mask,reference_designator,data_source,status,notes
-#,/omc_data/whoi/OMC/GI02HYPM/R00003/instruments/,GI02HYPM-MPM01-02-ZPLSGA009,recovered_inst,Pending,parser not available
-#,/omc_data/whoi/OMC/GI02HYPM/R00003/instruments/,GI02HYPM-MPM01-02-ZPLSGA010,recovered_inst,Pending,parser not available
+#,/omc_data/whoi/OMC/GI02HYPM/R00003/instruments/ZLPSG_sn55094/DATA/20*/,GI02HYPM-MPM01-02-ZPLSGA009,recovered_inst,Pending,parser not available
+#,/omc_data/whoi/OMC/GI02HYPM/R00003/instruments/ZLPSG_sn55095/DATA/20*/,GI02HYPM-MPM01-02-ZPLSGA010,recovered_inst,Pending,parser not available
 Ingest.sio-eng-sio_recovered,/omc_data/whoi/OMC/GI02HYPM/R00003/cg_data/MSIOC_sn*/STATUS/STA*.DA?,GI02HYPM-RIM01-00-SIOENG000,recovered_host,Available,
 Ingest.ctdmo-ghqr-sio_ctRecovered,/omc_data/whoi/OMC/GI02HYPM/R00003/cg_data/MSIOC_sn*/CTD/*.DAT,GI02HYPM-RIM01-02-CTDMOG039,recovered_host,Available,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GI02HYPM/R00003/instruments/CTDMO_sn*/*.hex,GI02HYPM-RIM01-02-CTDMOG039,recovered_inst,Available,
