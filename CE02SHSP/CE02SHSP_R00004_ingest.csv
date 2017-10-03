@@ -1,4 +1,4 @@
-# uframe_route,filename_mask,reference_designator,data_source
+uframe_route,filename_mask,reference_designator,data_source
 Ingest.dosta-abcdjm-cspp_recovered,/omc_data/whoi/OMC/CE02SHSP/R00004/extract/*OPT.txt,CE02SHSP-SP001-01-DOSTAJ000,recovered_cspp
 Ingest.optaa-dj-cspp_recovered,/omc_data/whoi/OMC/CE02SHSP/R00004/extract/*ACS.txt,CE02SHSP-SP001-04-OPTAAJ000,recovered_cspp
 Ingest.velpt-j-cspp_recovered,/omc_data/whoi/OMC/CE02SHSP/R00004/extract/*ADCP.txt,CE02SHSP-SP001-02-VELPTJ000,recovered_cspp
