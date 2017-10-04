@@ -1,8 +1,8 @@
 uframe_route,filename_mask,reference_designator,data_source,status,notes
 Ingest.dbg-pdbg-cspp_telemetered,/omc_data/whoi/OMC/CP01CNSP/D00004/extract/*PDBG.txt,CP01CNSP-SP001-00-SPPENG000,telemetered,Available,
-#Ingest.wc-hmr-cspp_telemetered,/omc_data/whoi/OMC/CP01CNSP/D00004/extract/*WC_HMR.txt,CP01CNSP-SP001-00-SPPENG000,telemetered,Missing,No data on server
-#Ingest.wc-sbe-cspp_telemetered,/omc_data/whoi/OMC/CP01CNSP/D00004/extract/*WC_SBE.txt,CP01CNSP-SP001-00-SPPENG000,telemetered,Missing,No data on server
-#Ingest.wc-wm-cspp_telemetered,/omc_data/whoi/OMC/CP01CNSP/D00004/extract/*WC_WM.txt,CP01CNSP-SP001-00-SPPENG000,telemetered,Missing,No data on server
+#Ingest.wc-hmr-cspp_telemetered,/omc_data/whoi/OMC/CP01CNSP/D00004/extract/*WC_HMR.txt,CP01CNSP-SP001-00-SPPENG000,telemetered,Not Expected,
+#Ingest.wc-sbe-cspp_telemetered,/omc_data/whoi/OMC/CP01CNSP/D00004/extract/*WC_SBE.txt,CP01CNSP-SP001-00-SPPENG000,telemetered,Not Expected,
+#Ingest.wc-wm-cspp_telemetered,/omc_data/whoi/OMC/CP01CNSP/D00004/extract/*WC_WM.txt,CP01CNSP-SP001-00-SPPENG000,telemetered,Not Expected,
 # Ingest.optaa-dj-cspp_telemetered,/omc_data/whoi/OMC/CP01CNSP/D00004/extract/ucspp_*_ACD_ACS.txt,CP01CNSP-SP001-02-OPTAAJ000,telemetered,Not Expected,Not sent in Telemetered data
 # Ingest.nutnr-j-cspp_telemetered,/omc_data/whoi/OMC/CP01CNSP/D00004/extract/ucspp_*_SND_SNA.txt,CP01CNSP-SP001-03-NUTNRJ000,telemetered,Not Expected,Not sent in Telemetered data
 Ingest.velpt-j-cspp_telemetered,/omc_data/whoi/OMC/CP01CNSP/D00004/extract/ucspp_*_PPD_ADCP.txt,CP01CNSP-SP001-05-VELPTJ000,telemetered,Available,
