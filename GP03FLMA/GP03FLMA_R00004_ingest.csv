@@ -1,0 +1,34 @@
+uframe_route,filename_mask,reference_designator,data_source,status,notes
+Ingest.sio-eng-sio_recovered,/omc_data/whoi/OMC/GP03FLMA/R00004/cg_data/MSIOC_sn13277/STATUS/STA*.DAT,GP03FLMA-RIM01-00-SIOENG000,recovered_host,Available,
+Ingest.adcps-jln-sio_telemetered,/omc_data/whoi/OMC/GP03FLMA/R00004/cg_data/MSIOC_sn13277/ADCPS/ADC*.DAT,GP03FLMA-RIM01-02-ADCPSL003,recovered_host,Available,
+Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/GP03FLMA/R00004/instruments/ADCPS_sn18260/*.000,GP03FLMA-RIM01-02-ADCPSL003,recovered_inst,Available,
+Ingest.ctdmo-ghqr-sio_ctRecovered,/omc_data/whoi/OMC/GP03FLMA/R00004/cg_data/MSIOC_sn13277/CTD/CTD*.DAT,GP03FLMA-RIM01-02-CTDMOG000,recovered_host,Available,Wildcard refdes
+#,/omc_data/whoi/OMC/GP03FLMA/R00004/cg_data/MSIOC_sn13277/CTD/CTD*.DAT,GP03FLMA-RIM01-02-CTDMOG040,recovered_host,Available,Data assigned to refdes after ingestion with wildcard refdes.
+Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00004/instruments/CTDMO_sn37-11637/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOG040,recovered_inst,Available,
+#,/omc_data/whoi/OMC/GP03FLMA/R00004/cg_data/MSIOC_sn13277/CTD/CTD*.DAT,GP03FLMA-RIM01-02-CTDMOG041,recovered_host,Available,Data assigned to refdes after ingestion with wildcard refdes.
+Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00004/instruments/CTDMO_sn37-11640/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOG041,recovered_inst,Available,
+#,/omc_data/whoi/OMC/GP03FLMA/R00004/cg_data/MSIOC_sn13277/CTD/CTD*.DAT,GP03FLMA-RIM01-02-CTDMOG042,recovered_host,Available,Data assigned to refdes after ingestion with wildcard refdes.
+Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00004/instruments/CTDMO_sn37-10214/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOG042,recovered_inst,Available,
+#,/omc_data/whoi/OMC/GP03FLMA/R00004/cg_data/MSIOC_sn13277/CTD/CTD*.DAT,GP03FLMA-RIM01-02-CTDMOG043,recovered_host,Available,Data assigned to refdes after ingestion with wildcard refdes.
+Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00004/instruments/CTDMO_sn37-10253/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOG043,recovered_inst,Available,
+#,/omc_data/whoi/OMC/GP03FLMA/R00004/cg_data/MSIOC_sn13277/CTD/CTD*.DAT,GP03FLMA-RIM01-02-CTDMOG044,recovered_host,Available,Data assigned to refdes after ingestion with wildcard refdes.
+Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00004/instruments/CTDMO_sn37-10255/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOG044,recovered_inst,Available,
+#,/omc_data/whoi/OMC/GP03FLMA/R00004/cg_data/MSIOC_sn13277/CTD/CTD*.DAT,GP03FLMA-RIM01-02-CTDMOG045,recovered_host,Available,Data assigned to refdes after ingestion with wildcard refdes.
+Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00004/instruments/CTDMO_sn37-10258/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOG045,recovered_inst,Available,
+#,/omc_data/whoi/OMC/GP03FLMA/R00004/cg_data/MSIOC_sn13277/CTD/CTD*.DAT,GP03FLMA-RIM01-02-CTDMOG046,recovered_host,Available,Data assigned to refdes after ingestion with wildcard refdes.
+Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00004/instruments/CTDMO_sn37-11644/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOG046,recovered_inst,Available,
+#,/omc_data/whoi/OMC/GP03FLMA/R00004/cg_data/MSIOC_sn13277/CTD/CTD*.DAT,GP03FLMA-RIM01-02-CTDMOG047,recovered_host,Available,Data assigned to refdes after ingestion with wildcard refdes.
+Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00004/instruments/CTDMO_sn37-11643/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOG047,recovered_inst,Available,
+#,/omc_data/whoi/OMC/GP03FLMA/R00004/cg_data/MSIOC_sn13277/CTD/CTD*.DAT,GP03FLMA-RIM01-02-CTDMOG048,recovered_host,Available,Data assigned to refdes after ingestion with wildcard refdes.
+Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00004/instruments/CTDMO_sn37-10260/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOG048,recovered_inst,Available,
+#,/omc_data/whoi/OMC/GP03FLMA/R00004/cg_data/MSIOC_sn13277/CTD/CTD*.DAT,GP03FLMA-RIM01-02-CTDMOH049,recovered_host,Available,Data assigned to refdes after ingestion with wildcard refdes.
+Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00004/instruments/CTDMO_sn37-10228/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOH049,recovered_inst,Available,
+#,/omc_data/whoi/OMC/GP03FLMA/R00004/cg_data/MSIOC_sn13277/CTD/CTD*.DAT,GP03FLMA-RIM01-02-CTDMOH050,recovered_host,Available,Data assigned to refdes after ingestion with wildcard refdes.
+Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00004/instruments/CTDMO_sn37-11680/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOH050,recovered_inst,Available,
+#,/omc_data/whoi/OMC/GP03FLMA/R00004/cg_data/MSIOC_sn13277/CTD/CTD*.DAT,GP03FLMA-RIM01-02-CTDMOH051,recovered_host,Available,Data assigned to refdes after ingestion with wildcard refdes.
+Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00004/instruments/CTDMO_sn37-11704/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOH051,recovered_inst,Available,
+Ingest.sio-eng-sio_recovered,/omc_data/whoi/OMC/GP03FLMA/R00004/cg_data/SSIOC_sn14878/STATUS/STA*.DAT,GP03FLMA-RIS01-00-SIOENG000,recovered_host,Available,
+Ingest.dosta-abcdjm-sio_recovered,/omc_data/whoi/OMC/GP03FLMA/R00004/cg_data/SSIOC_sn14878/DOSTA/DOS*.DAT,GP03FLMA-RIS01-03-DOSTAD000,recovered_host,Available,
+Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/GP03FLMA/R00004/instruments/PHSEN_snP0079/SAMI*.txt,GP03FLMA-RIS01-04-PHSENF000,recovered_inst,Available,
+Ingest.phsen-abcdef-imodem_recovered,/omc_data/whoi/OMC/GP03FLMA/R00004/cg_data/SSIOC_sn14878/PHSEN/PHS*.DAT,GP03FLMA-RIS01-04-PHSENF000,recovered_host,Available,"Can't parse files. Error: 'Unexpected data in file, or num bytes does not match record_length'"
+Ingest.flort-dj-sio_recovered,/omc_data/whoi/OMC/GP03FLMA/R00004/cg_data/SSIOC_sn14878/FLORT/FLO*.DAT,GP03FLMA-RIS01-05-FLORTD000,recovered_host,Available,
