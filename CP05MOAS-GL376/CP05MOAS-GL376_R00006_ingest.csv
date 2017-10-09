@@ -1,0 +1,7 @@
+uframe_route,filename_mask,reference_designator,data_source,status,notes
+#Ingest.glider-eng-glider_recovered,,CP05MOAS-GL376-00-ENG000000,recovered_host,Not Expected,was not deployed as planned
+#Ingest.adcpa-m-glider_recovered,,CP05MOAS-GL376-01-ADCPAM000,recovered_host,Not Expected,was not deployed as planned
+#Ingest.flort-m-glider_recovered,,CP05MOAS-GL376-02-FLORTM000,recovered_host,Not Expected,was not deployed as planned
+#Ingest.ctdgv-m-glider_recovered,,CP05MOAS-GL376-03-CTDGVM000,recovered_host,Not Expected,was not deployed as planned
+#Ingest.dosta-abcdjm-glider_recovered,,CP05MOAS-GL376-04-DOSTAM000,recovered_host,Not Expected,was not deployed as planned
+#Ingest.parad-m-glider_recovered,,CP05MOAS-GL376-05-PARADM000,recovered_host,Not Expected,was not deployed as planned
