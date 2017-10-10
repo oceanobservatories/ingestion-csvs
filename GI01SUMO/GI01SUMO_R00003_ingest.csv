@@ -17,64 +17,64 @@ Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/instruments/dcl11/
 Ingest.ctdbp-p_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/instruments/dcl11/imm/CTDBP_sn16-50126/SBE*.hex,GI01SUMO-RII11-02-CTDBPP031,recovered_inst,Available,
 Ingest.ctdbp-p-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/ctdbp01/*.DAT,GI01SUMO-RII11-02-CTDBPP031,recovered_host,Available,
 Ingest.ctdbp-p_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/instruments/dcl11/imm/CTDBP_sn16-50137/SBE*.hex,GI01SUMO-RII11-02-CTDBPP032,recovered_inst,Available,
-#Ingest.ctdbp-p-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/ctdbp02/*.DAT,GI01SUMO-RII11-02-CTDBPP032,recovered_host,Missing,data sparse no folder uploaded
+Ingest.ctdbp-p-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/ctdbp02/*.DAT,GI01SUMO-RII11-02-CTDBPP032,recovered_host,Available,
 Ingest.ctdbp-p_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/instruments/dcl11/imm/CTDBP_sn16-50138/SBE*.hex,GI01SUMO-RII11-02-CTDBPP033,recovered_inst,Available,
-#Ingest.ctdbp-p-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/ctdbp03/*.DAT,GI01SUMO-RII11-02-CTDBPP033,recovered_host,Missing,data sparse no folder uploaded
-#Ingest.ctdmo-ghqr-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/ctdmo01/*.DAT,GI01SUMO-RII11-02-CTDMOQ011,recovered_host,Missing,
+Ingest.ctdbp-p-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/ctdbp03/*.DAT,GI01SUMO-RII11-02-CTDBPP033,recovered_host,Available,
+Ingest.ctdmo-ghqr-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/ctdmo01/*.DAT,GI01SUMO-RII11-02-CTDMOQ011,recovered_host,Available,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/instruments/dcl11/imm/CTDMO_sn37-11476/*.hex,GI01SUMO-RII11-02-CTDMOQ011,recovered_inst,Available,
-#Ingest.ctdmo-ghqr-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/ctdmo02/*.DAT,GI01SUMO-RII11-02-CTDMOQ012,recovered_host,Missing,
+Ingest.ctdmo-ghqr-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/ctdmo02/*.DAT,GI01SUMO-RII11-02-CTDMOQ012,recovered_host,Available,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/instruments/dcl11/imm/CTDMO_sn37-11477/*.hex,GI01SUMO-RII11-02-CTDMOQ012,recovered_inst,Available,
-#Ingest.ctdmo-ghqr-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/ctdmo03/*.DAT,GI01SUMO-RII11-02-CTDMOQ013,recovered_host,Missing,
+Ingest.ctdmo-ghqr-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/ctdmo03/*.DAT,GI01SUMO-RII11-02-CTDMOQ013,recovered_host,Available,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/instruments/dcl11/imm/CTDMO_sn37-11478/*.hex,GI01SUMO-RII11-02-CTDMOQ013,recovered_inst,Available,
-#Ingest.ctdmo-ghqr-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/ctdmo04/*.DAT,GI01SUMO-RII11-02-CTDMOQ014,recovered_host,Missing,
+Ingest.ctdmo-ghqr-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/ctdmo04/*.DAT,GI01SUMO-RII11-02-CTDMOQ014,recovered_host,Available,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/instruments/dcl11/imm/CTDMO_sn37-11479/*.hex,GI01SUMO-RII11-02-CTDMOQ014,recovered_inst,Available,
-#Ingest.ctdmo-ghqr-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/ctdmo05/*.DAT,GI01SUMO-RII11-02-CTDMOQ015,recovered_host,Missing,
+Ingest.ctdmo-ghqr-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/ctdmo05/*.DAT,GI01SUMO-RII11-02-CTDMOQ015,recovered_host,Available,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/instruments/dcl11/imm/CTDMO_sn37-11480/*.hex,GI01SUMO-RII11-02-CTDMOQ015,recovered_inst,Available,
-#Ingest.ctdmo-ghqr-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/ctdmo06/*.DAT,GI01SUMO-RII11-02-CTDMOQ016,recovered_host,Missing,
+Ingest.ctdmo-ghqr-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/ctdmo06/*.DAT,GI01SUMO-RII11-02-CTDMOQ016,recovered_host,Available,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/instruments/dcl11/imm/CTDMO_sn37-11481/*.hex,GI01SUMO-RII11-02-CTDMOQ016,recovered_inst,Available,
-#Ingest.ctdmo-ghqr-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/ctdmo07/*.DAT,GI01SUMO-RII11-02-CTDMOQ017,recovered_host,Missing,
+Ingest.ctdmo-ghqr-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/ctdmo07/*.DAT,GI01SUMO-RII11-02-CTDMOQ017,recovered_host,Available,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/instruments/dcl11/imm/CTDMO_sn37-11482/*.hex,GI01SUMO-RII11-02-CTDMOQ017,recovered_inst,Available,
 #Ingest.ctdmo-ghqr-imodem_recovered,,GI01SUMO-RII11-02-CTDMOQ031,recovered_host,Not Deployed,Not deployed
 #Ingest.ctdmo-ghqr_recovered,,GI01SUMO-RII11-02-CTDMOQ031,recovered_inst,Not Deployed,Not deployed
 #Ingest.ctdmo-ghqr-imodem_recovered,,GI01SUMO-RII11-02-CTDMOQ033,recovered_host,Not Deployed,Not deployed
 #Ingest.ctdmo-ghqr_recovered,,GI01SUMO-RII11-02-CTDMOQ033,recovered_inst,Not Deployed,Not deployed
-#Ingest.ctdmo-ghqr-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/ctdmo08/*.DAT,GI01SUMO-RII11-02-CTDMOR018,recovered_host,Missing,
+Ingest.ctdmo-ghqr-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/ctdmo08/*.DAT,GI01SUMO-RII11-02-CTDMOR018,recovered_host,Available,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/instruments/dcl11/imm/CTDMO_sn37-11483/*.hex,GI01SUMO-RII11-02-CTDMOR018,recovered_inst,Available,
-#Ingest.ctdmo-ghqr-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/ctdmo09/*.DAT,GI01SUMO-RII11-02-CTDMOR019,recovered_host,Missing,
+Ingest.ctdmo-ghqr-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/ctdmo09/*.DAT,GI01SUMO-RII11-02-CTDMOR019,recovered_host,Available,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/instruments/dcl11/imm/CTDMO_sn37-11484/*.hex,GI01SUMO-RII11-02-CTDMOR019,recovered_inst,Available,
-#Ingest.ctdmo-ghqr-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/ctdmo10/*.DAT,GI01SUMO-RII11-02-CTDMOR020,recovered_host,Missing,
+Ingest.ctdmo-ghqr-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/ctdmo10/*.DAT,GI01SUMO-RII11-02-CTDMOR020,recovered_host,Available,
 Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/instruments/dcl11/imm/CTDMO_sn37-11485/*.hex,GI01SUMO-RII11-02-CTDMOR020,recovered_inst,Available,
-#Ingest.dosta-abcdjm-ctdbp-p-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/CTDBP_sn16-50126/*.DAT,GI01SUMO-RII11-02-DOSTAD031,recovered_host,Not Expected,
-#Ingest.dosta-abcdjm-ctdbp-p-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/CTDBP_sn16-50137/*.DAT,GI01SUMO-RII11-02-DOSTAD032,recovered_host,Not Expected,
-#Ingest.dosta-abcdjm-ctdbp-p-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/CTDBP_sn16-50138/*.DAT,GI01SUMO-RII11-02-DOSTAD033,recovered_host,Not Expected,
-#Ingest.flord-g-ctdbp-p-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/CTDBP_sn16-50126/*.DAT,GI01SUMO-RII11-02-FLORDG031,recovered_host,Not Expected,
-#Ingest.flord-g-ctdbp-p-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/CTDBP_sn16-50137/*.DAT,GI01SUMO-RII11-02-FLORDG032,recovered_host,Not Expected,
-#Ingest.flord-g-ctdbp-p-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/CTDBP_sn16-50138/*.DAT,GI01SUMO-RII11-02-FLORDG033,recovered_host,Not Expected,
-#Ingest.pco2w-abc-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/pco2w1/PCO2W_snC0136/*.DAT,GI01SUMO-RII11-02-PCO2WC051,recovered_host,Not Expected,could not communicate with instrument
+Ingest.dosta-abcdjm-ctdbp-p-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/ctdbp01/*.DAT,GI01SUMO-RII11-02-DOSTAD031,recovered_host,Available,
+Ingest.dosta-abcdjm-ctdbp-p-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/ctdbp02/*.DAT,GI01SUMO-RII11-02-DOSTAD032,recovered_host,Available,
+Ingest.dosta-abcdjm-ctdbp-p-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/ctdbp03/*.DAT,GI01SUMO-RII11-02-DOSTAD033,recovered_host,Available,
+Ingest.flord-g-ctdbp-p-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/ctdbp01/*.DAT,GI01SUMO-RII11-02-FLORDG031,recovered_host,Available,
+Ingest.flord-g-ctdbp-p-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/ctdbp02/*.DAT,GI01SUMO-RII11-02-FLORDG032,recovered_host,Available,
+Ingest.flord-g-ctdbp-p-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/ctdbp03/*.DAT,GI01SUMO-RII11-02-FLORDG033,recovered_host,Available,
+Ingest.pco2w-abc-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/pco2w1/*.DAT,GI01SUMO-RII11-02-PCO2WC051,recovered_host,Available,
 #Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/instruments/dcl11/imm/PCO2W_snC0136/SAMI*.txt,GI01SUMO-RII11-02-PCO2WC051,recovered_inst,Not Expected,No recovered instrument data - instrument partially flooded
-#Ingest.pco2w-abc-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/pco2w2/PCO2W_snC0137/*.DAT,GI01SUMO-RII11-02-PCO2WC052,recovered_host,Missing,sparse or little data no folder
+Ingest.pco2w-abc-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/pco2w2/*.DAT,GI01SUMO-RII11-02-PCO2WC052,recovered_host,Available,
 Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/instruments/dcl11/imm/PCO2W_snC0137/SAMI*.txt,GI01SUMO-RII11-02-PCO2WC052,recovered_inst,Available,
-#Ingest.pco2w-abc-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/pco2w3/PCO2W_snC0138/*.DAT,GI01SUMO-RII11-02-PCO2WC053,recovered_host,Missing,sparse data or little data no folder
+Ingest.pco2w-abc-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/pco2w3/*.DAT,GI01SUMO-RII11-02-PCO2WC053,recovered_host,Available,
 Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/instruments/dcl11/imm/PCO2W_snC0138/SAMI*.txt,GI01SUMO-RII11-02-PCO2WC053,recovered_inst,Available,
-#Ingest.phsen-abcdef-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/PHSEN_snP0071/*.DAT,GI01SUMO-RII11-02-PHSENE041,recovered_host,Not Expected,dcl data stopped after 7/18/2016
+Ingest.phsen-abcdef-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/phsen1/*.DAT,GI01SUMO-RII11-02-PHSENE041,recovered_host,Available,dcl data stopped after 7/18/2016
 #Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/instruments/dcl11/imm/PHSEN_snP0071/SAMI*.txt,GI01SUMO-RII11-02-PHSENE041,recovered_inst,Not Expected,No recovered instrument data - instrument detached and lost at sea
-#Ingest.phsen-abcdef-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/PHSEN_snP0101/*.DAT,GI01SUMO-RII11-02-PHSENE042,recovered_host,Missing,Stopped logging due to low battery sparse data?!
-Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/instruments/dcl11/imm/PHSEN_snP0101/SAMI*.txt,GI01SUMO-RII11-02-PHSENE042,recovered_inst,Pending,couldn't parse data
+Ingest.phsen-abcdef-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/imm/phsen2/*.DAT,GI01SUMO-RII11-02-PHSENE042,recovered_host,Available,Stopped logging due to low battery sparse data?!
+Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/instruments/dcl11/imm/PHSEN_snP0101/SAMI_P0101_140817.txt,GI01SUMO-RII11-02-PHSENE042,recovered_inst,Available,
 Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/cpm1/irid2shore/cpm_status*.txt,GI01SUMO-SBC11-00-CPMENG000,recovered_host,Available,
 Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/syslog/*syslog.log,GI01SUMO-SBD11-00-DCLENG000,recovered_host,Available,
-#Ingest.mopak-o-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/MOPAK*/*.mopak.log,GI01SUMO-SBD11-01-MOPAK0000,recovered_host,Not Expected,
-#Ingest.hyd-o-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/Hydrogen_sn/*hyd1.log,GI01SUMO-SBD11-03-HYDGN0000,recovered_host,Not Expected,
+Ingest.mopak-o-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/mopak/*.mopak.log,GI01SUMO-SBD11-01-MOPAK0000,recovered_host,Available,
+Ingest.hyd-o-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/hyd1/*hyd1.log,GI01SUMO-SBD11-03-HYDGN0000,recovered_host,Available,
 Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/dosta1/*.dosta1.log,GI01SUMO-SBD11-04-DOSTAD000,recovered_host,Available,
 Ingest.spkir-abj-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/spkir1/*.spkir1.log,GI01SUMO-SBD11-05-SPKIRB000,recovered_host,Available,
 Ingest.metbk-a-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/metbk1/*.metbk1.log,GI01SUMO-SBD11-06-METBKA000,recovered_host,Available,
-#Ingest.nutnr-b-dcl-full_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/nutnr1/*.nutnr1.log,GI01SUMO-SBD11-08-NUTNRB000,recovered_host,Not Deployed,removed from mooring prio to deployment data exisit on server?
-#Ingest.nutnr-b_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/instruments/dcl11/..,GI01SUMO-SBD11-08-NUTNRB000,recovered_inst,Not Deployed,removed from mooring prio to deployment
+#Ingest.nutnr-b-dcl-full_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/nutnr1/*.nutnr1.log,GI01SUMO-SBD11-08-NUTNRB000,recovered_host,Not Deployed,removed from mooring prior to deployment
+#Ingest.nutnr-b_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/instruments/dcl11/..,GI01SUMO-SBD11-08-NUTNRB000,recovered_inst,Not Deployed,removed from mooring prior to deployment
 Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl12/syslog/*syslog.log,GI01SUMO-SBD12-00-DCLENG000,recovered_host,Available,
 Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl12/optaa1/*.optaa1.log,GI01SUMO-SBD12-01-OPTAAD000,recovered_host,Available,
 Ingest.flort-dj-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl12/flort1/*.flort1.log,GI01SUMO-SBD12-02-FLORTD000,recovered_host,Available,
-#Ingest.hyd-o-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl12/Hydrogen_sn/*hyd2.log,GI01SUMO-SBD12-03-HYDGN0000,recovered_host,Not Expected,
+Ingest.hyd-o-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl12/hyd2/*hyd2.log,GI01SUMO-SBD12-03-HYDGN0000,recovered_host,Available,
 Ingest.pco2a-a-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl12/pco2a/*.pco2a.log,GI01SUMO-SBD12-04-PCO2AA000,recovered_host,Available,
-#Ingest.wavss-a-dcl-full_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/instruments/dcl12/WAVSS_sn*/*.wavss.log,GI01SUMO-SBD12-05-WAVSSA000,recovered_host,Missing,no .log files on the server
+Ingest.wavss-a-dcl-full_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl12/wavss/*.wavss.log,GI01SUMO-SBD12-05-WAVSSA000,recovered_host,Available,
 Ingest.metbk-a-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl12/metbk2/*.metbk2.log,GI01SUMO-SBD12-06-METBKA000,recovered_host,Available,
 Ingest.fdchp-a-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl12/fdchp/*.fdchp.log,GI01SUMO-SBD12-08-FDCHPA000,recovered_host,Available,
 Ingest.fdchp-a_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/instruments/dcl12/FDCHP_sn*/D*/fdchp_*.dat,GI01SUMO-SBD12-08-FDCHPA000,recovered_inst,Available,

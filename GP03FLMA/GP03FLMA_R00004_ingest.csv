@@ -30,5 +30,5 @@ Ingest.ctdmo-ghqr_recovered,/omc_data/whoi/OMC/GP03FLMA/R00004/instruments/CTDMO
 Ingest.sio-eng-sio_recovered,/omc_data/whoi/OMC/GP03FLMA/R00004/cg_data/SSIOC_sn14878/STATUS/STA*.DAT,GP03FLMA-RIS01-00-SIOENG000,recovered_host,Available,
 Ingest.dosta-abcdjm-sio_recovered,/omc_data/whoi/OMC/GP03FLMA/R00004/cg_data/SSIOC_sn14878/DOSTA/DOS*.DAT,GP03FLMA-RIS01-03-DOSTAD000,recovered_host,Available,
 Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/GP03FLMA/R00004/instruments/PHSEN_snP0079/SAMI*.txt,GP03FLMA-RIS01-04-PHSENF000,recovered_inst,Available,
-Ingest.phsen-abcdef-imodem_recovered,/omc_data/whoi/OMC/GP03FLMA/R00004/cg_data/SSIOC_sn14878/PHSEN/PHS*.DAT,GP03FLMA-RIS01-04-PHSENF000,recovered_host,Available,"Can't parse files. Error: 'Unexpected data in file, or num bytes does not match record_length'"
+Ingest.phsen-abcdef-imodem_recovered,/omc_data/whoi/OMC/GP03FLMA/R00004/cg_data/SSIOC_sn14878/PHSEN/PHS*.DAT,GP03FLMA-RIS01-04-PHSENF000,recovered_host,Available,
 Ingest.flort-dj-sio_recovered,/omc_data/whoi/OMC/GP03FLMA/R00004/cg_data/SSIOC_sn14878/FLORT/FLO*.DAT,GP03FLMA-RIS01-05-FLORTD000,recovered_host,Available,
