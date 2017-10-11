@@ -1,7 +1,7 @@
 uframe_route,filename_mask,reference_designator,data_source,status,notes
-#Ingest.glider-eng-glider_recovered,/omc_data/whoi/OMC/CP05MOAS-GL340/R00005/merged/cp*.mrg,CP05MOAS-GL340-00-ENG000000,recovered_host,Missing,
-Ingest.adcpa-m-glider_recovered,/omc_data/whoi/OMC/CP05MOAS-GL340/R00005/dvl/*.PD0,CP05MOAS-GL340-01-ADCPAM000,recovered_host,Available,
-#Ingest.flort-m-glider_recovered,/omc_data/whoi/OMC/CP05MOAS-GL340/R00005/merged/cp*.mrg,CP05MOAS-GL340-02-FLORTM000,recovered_host,Missing,
-#Ingest.ctdgv-m-glider_recovered,/omc_data/whoi/OMC/CP05MOAS-GL340/R00005/merged/cp*.mrg,CP05MOAS-GL340-03-CTDGVM000,recovered_host,Missing,
-#Ingest.dosta-abcdjm-glider_recovered,/omc_data/whoi/OMC/CP05MOAS-GL340/R00005/merged/cp*.mrg,CP05MOAS-GL340-04-DOSTAM000,recovered_host,Missing,
-#Ingest.parad-m-glider_recovered,/omc_data/whoi/OMC/CP05MOAS-GL340/R00005/merged/cp*.mrg,CP05MOAS-GL340-05-PARADM000,recovered_host,Missing,
+#Ingest.glider-eng-glider_recovered,/omc_data/whoi/OMC/CP05MOAS-GL340/R00005/merged/cp*.mrg,CP05MOAS-GL340-00-ENG000000,recovered_host,Not Expected,Glider leaked after 1 day
+Ingest.adcpa-m-glider_recovered,/omc_data/whoi/OMC/CP05MOAS-GL340/R00005/dvl/*.PD0,CP05MOAS-GL340-01-ADCPAM000,recovered_host,Available,Glider leaked after 1 day
+#Ingest.flort-m-glider_recovered,/omc_data/whoi/OMC/CP05MOAS-GL340/R00005/merged/cp*.mrg,CP05MOAS-GL340-02-FLORTM000,recovered_host,Not Expected,Glider leaked after 1 day
+#Ingest.ctdgv-m-glider_recovered,/omc_data/whoi/OMC/CP05MOAS-GL340/R00005/merged/cp*.mrg,CP05MOAS-GL340-03-CTDGVM000,recovered_host,Not Expected,Glider leaked after 1 day
+#Ingest.dosta-abcdjm-glider_recovered,/omc_data/whoi/OMC/CP05MOAS-GL340/R00005/merged/cp*.mrg,CP05MOAS-GL340-04-DOSTAM000,recovered_host,Not Expected,Glider leaked after 1 day
+#Ingest.parad-m-glider_recovered,/omc_data/whoi/OMC/CP05MOAS-GL340/R00005/merged/cp*.mrg,CP05MOAS-GL340-05-PARADM000,recovered_host,Not Expected,Glider leaked after 1 day
