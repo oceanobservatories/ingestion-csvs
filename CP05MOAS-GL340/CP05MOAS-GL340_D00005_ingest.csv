@@ -1,6 +1,6 @@
 uframe_route,filename_mask,reference_designator,data_source,status,notes
-#Ingest.glider-eng-glider_telemetered,/omc_data/whoi/OMC/CP05MOAS-GL340/D00005/merged-from-glider/cp*.mrg,CP05MOAS-GL340-00-ENG000000,telemetered,Missing,
-#Ingest.flort-m-glider_telemetered,/omc_data/whoi/OMC/CP05MOAS-GL340/D00005/merged-from-glider/cp*.mrg,CP05MOAS-GL340-02-FLORTM000,telemetered,Missing,
-#Ingest.ctdgv-m-glider_telemetered,/omc_data/whoi/OMC/CP05MOAS-GL340/D00005/merged-from-glider/cp*.mrg,CP05MOAS-GL340-03-CTDGVM000,telemetered,Missing,
-#Ingest.dosta-abcdjm-glider_telemetered,/omc_data/whoi/OMC/CP05MOAS-GL340/D00005/merged-from-glider/cp*.mrg,CP05MOAS-GL340-04-DOSTAM000,telemetered,Missing,
-#Ingest.parad-m-glider_telemetered,/omc_data/whoi/OMC/CP05MOAS-GL340/D00005/merged-from-glider/cp*.mrg,CP05MOAS-GL340-05-PARADM000,telemetered,Missing,
+#Ingest.glider-eng-glider_telemetered,/omc_data/whoi/OMC/CP05MOAS-GL340/D00005/merged-from-glider/cp*.mrg,CP05MOAS-GL340-00-ENG000000,telemetered,Not Expected,glider leaked after one day
+#Ingest.flort-m-glider_telemetered,/omc_data/whoi/OMC/CP05MOAS-GL340/D00005/merged-from-glider/cp*.mrg,CP05MOAS-GL340-02-FLORTM000,telemetered,Not Expected,glider leaked after one day
+#Ingest.ctdgv-m-glider_telemetered,/omc_data/whoi/OMC/CP05MOAS-GL340/D00005/merged-from-glider/cp*.mrg,CP05MOAS-GL340-03-CTDGVM000,telemetered,Not Expected,glider leaked after one day
+#Ingest.dosta-abcdjm-glider_telemetered,/omc_data/whoi/OMC/CP05MOAS-GL340/D00005/merged-from-glider/cp*.mrg,CP05MOAS-GL340-04-DOSTAM000,telemetered,Not Expected,glider leaked after one day
+#Ingest.parad-m-glider_telemetered,/omc_data/whoi/OMC/CP05MOAS-GL340/D00005/merged-from-glider/cp*.mrg,CP05MOAS-GL340-05-PARADM000,telemetered,Not Expected,glider leaked after one day
