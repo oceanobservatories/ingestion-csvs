@@ -24,7 +24,7 @@ Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00004/cg_data/dcl
 Ingest.dosta-abcdjm-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00004/cg_data/dcl27/dosta1/*.dosta1.log,CP03ISSM-RID27-04-DOSTAD000,telemetered,Available,
 Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00004/irid2shore/cpm_status*.txt,CP03ISSM-SBC11-00-CPMENG000,telemetered,Available,
 Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00004/cg_data/dcl11/syslog/*.syslog.log,CP03ISSM-SBD11-00-DCLENG000,telemetered,Available,
-Ingest.mopak-o-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00004/cg_data/dcl11/mopak/*.mopak.log,CP03ISSM-SBD11-01-MOPAK0000,telemetered,Available,
+#Ingest.mopak-o-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00004/cg_data/dcl11/mopak/*.mopak.log,CP03ISSM-SBD11-01-MOPAK0000,telemetered,Available,Temporarily disabled for mass ingestions
 Ingest.hyd-o-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00004/cg_data/dcl11/hyd1/*hyd1.log,CP03ISSM-SBD11-02-HYDGN0000,telemetered,Available,
 Ingest.metbk-a-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00004/cg_data/dcl11/metbk/*.metbk*.log,CP03ISSM-SBD11-06-METBKA000,telemetered,Available,
 Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CP03ISSM/D00004/cg_data/dcl12/syslog/*.syslog.log,CP03ISSM-SBD12-00-DCLENG000,telemetered,Available,
