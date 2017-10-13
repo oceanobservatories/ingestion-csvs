@@ -40,7 +40,7 @@ Ingest.nutnr-b_recovered,/omc_data/whoi/OMC/CE01ISSM/R00002/instrmts/dcl16/NUTNR
 Ingest.spkir-abj-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00002/cg_data/dcl16/spkir*/*spkir*.log,CE01ISSM-RID16-08-SPKIRB000,recovered_host,Available,
 Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CE01ISSM/R00002/cg_data/irid2shore/cpm_status*.txt,CE01ISSM-SBC11-00-CPMENG000,recovered_host,Available,
 Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00002/cg_data/dcl17/syslog*/*syslog*.log,CE01ISSM-SBD17-00-DCLENG000,recovered_host,Available,
-Ingest.mopak-o-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00002/cg_data/dcl17/mopak*/*mopak*.log,CE01ISSM-SBD17-01-MOPAK0000,recovered_host,Available,
+#Ingest.mopak-o-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00002/cg_data/dcl17/mopak*/*mopak*.log,CE01ISSM-SBD17-01-MOPAK0000,recovered_host,Available,Temporarily disabled for mass ingestions
 Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CE01ISSM/R00002/cg_data/dcl17/velpt*/*velpt*.log,CE01ISSM-SBD17-04-VELPTA000,recovered_host,Available,
 Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CE01ISSM/R00002/instrmts/dcl17/VELPT*/ce01issm_velpt*.aqd,CE01ISSM-SBD17-04-VELPTA000,recovered_inst,Available,No data
 #,/omc_data/whoi/OMC/CE01ISSM/R00002/cg_data/dcl17/ctdbp*/*ctdbp3.log,CE01ISSM-SBD17-06-CTDBPC000,recovered_host,Pending,No parser exists for this data set
