@@ -23,7 +23,7 @@ Ingest.nutnr-b-dcl-full_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00007/cg_data/d
 Ingest.spkir-abj-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00007/cg_data/dcl16/spkir/*.spkir.log,CE01ISSM-RID16-08-SPKIRB000,telemetered,Available,
 #Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00007/cg_data/irid2shore/cpm_status*.txt,CE01ISSM-SBC11-00-CPMENG000,telemetered,Missing,
 Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00007/cg_data/dcl17/syslog/*.syslog.log,CE01ISSM-SBD17-00-DCLENG000,telemetered,Available,
-Ingest.mopak-o-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00007/cg_data/dcl17/mopak/*.mopak.log,CE01ISSM-SBD17-01-MOPAK0000,telemetered,Available,
+#Ingest.mopak-o-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00007/cg_data/dcl17/mopak/*.mopak.log,CE01ISSM-SBD17-01-MOPAK0000,telemetered,Available,Temporarily disabled for mass ingestions
 Ingest.velpt-ab-dcl_telemetered,/omc_data/whoi/OMC/CE01ISSM/D00007/cg_data/dcl17/velpt*/*.velpt*.log,CE01ISSM-SBD17-04-VELPTA000,telemetered,Available,
 # ,/omc_data/whoi/OMC/CE01ISSM/D00007/cg_data/dcl17/ctdbp*/*.ctdbp*.log,CE01ISSM-SBD17-06-CTDBPC000,telemetered,Pending,"CTDBP with FLORT attached, no driver currently exists for this data set"
 # ,/omc_data/whoi/OMC/CE01ISSM/D00007/cg_data/dcl17/ctdbp*/*.ctdbp*.log,CE01ISSM-SBD17-06-FLORTD000,telemetered,Pending,"CTDBP with FLORT attached, no driver currently exists for this data set"
