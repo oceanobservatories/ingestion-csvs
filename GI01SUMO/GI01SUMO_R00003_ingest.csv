@@ -62,7 +62,7 @@ Ingest.phsen-abcdef-imodem_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/
 Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/instruments/dcl11/imm/PHSEN_snP0101/SAMI_P0101_140817.txt,GI01SUMO-RII11-02-PHSENE042,recovered_inst,Available,
 Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/cpm1/irid2shore/cpm_status*.txt,GI01SUMO-SBC11-00-CPMENG000,recovered_host,Available,
 Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/syslog/*syslog.log,GI01SUMO-SBD11-00-DCLENG000,recovered_host,Available,
-Ingest.mopak-o-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/mopak/*.mopak.log,GI01SUMO-SBD11-01-MOPAK0000,recovered_host,Available,
+#Ingest.mopak-o-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/mopak/*.mopak.log,GI01SUMO-SBD11-01-MOPAK0000,recovered_host,Available,Temporarily disabled for mass ingestions
 Ingest.hyd-o-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/hyd1/*hyd1.log,GI01SUMO-SBD11-03-HYDGN0000,recovered_host,Available,
 Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/dosta1/*.dosta1.log,GI01SUMO-SBD11-04-DOSTAD000,recovered_host,Available,
 Ingest.spkir-abj-dcl_recovered,/omc_data/whoi/OMC/GI01SUMO/R00003/cg_data/dcl11/spkir1/*.spkir1.log,GI01SUMO-SBD11-05-SPKIRB000,recovered_host,Available,
