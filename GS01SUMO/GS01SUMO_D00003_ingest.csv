@@ -35,7 +35,7 @@ Ingest.phsen-abcdef-imodem_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00003/cg_dat
 Ingest.phsen-abcdef-imodem_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00003/cg_data/dcl11/imm/phsen2/phsen*.DAT,GS01SUMO-RII11-02-PHSENE042,telemetered,Available,
 Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00003/irid2shore/cpm_status*.txt,GS01SUMO-SBC11-00-CPMENG000,telemetered,Available,
 Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00003/cg_data/dcl11/syslog/*.syslog.log,GS01SUMO-SBD11-00-DCLENG000,telemetered,Available,
-Ingest.mopak-o-dcl_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00003/cg_data/dcl11/mopak/*.mopak.log,GS01SUMO-SBD11-01-MOPAK0000,telemetered,Available,
+#Ingest.mopak-o-dcl_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00003/cg_data/dcl11/mopak/*.mopak.log,GS01SUMO-SBD11-01-MOPAK0000,telemetered,Available,Temporarily disabled for mass ingestions
 Ingest.hyd-o-dcl_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00003/cg_data/dcl11/hyd1/*hyd1.log,GS01SUMO-SBD11-03-HYDGN0000,telemetered,Available,
 Ingest.dosta-abcdjm-dcl_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00003/cg_data/dcl11/dosta1/*.dosta1.log,GS01SUMO-SBD11-04-DOSTAD000,telemetered,Available,
 Ingest.spkir-abj-dcl_telemetered,/omc_data/whoi/OMC/GS01SUMO/D00003/cg_data/dcl11/spkir1/*.spkir1.log,GS01SUMO-SBD11-05-SPKIRB000,telemetered,Available,
