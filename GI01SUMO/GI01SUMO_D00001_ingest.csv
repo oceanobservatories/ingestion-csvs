@@ -37,7 +37,7 @@ Ingest.phsen-abcdef-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00001/cg_dat
 Ingest.phsen-abcdef-imodem_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00001/cg_data/dcl11/imm/phsen2/phsen*.DAT,GI01SUMO-RII11-02-PHSENE042,telemetered,Available,Inductive modem ID 24
 Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00001/irid2shore/cpm_status*.txt,GI01SUMO-SBC11-00-CPMENG000,telemetered,Available,
 Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00001/cg_data/dcl11/syslog*/*syslog*.log,GI01SUMO-SBD11-00-DCLENG000,telemetered,Available,
-Ingest.mopak-o-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00001/cg_data/dcl11/mopak/*.mopak.log,GI01SUMO-SBD11-01-MOPAK0000,telemetered,Available,
+#Ingest.mopak-o-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00001/cg_data/dcl11/mopak/*.mopak.log,GI01SUMO-SBD11-01-MOPAK0000,telemetered,Available,GA01SUMO_D00003_ingest.csv
 Ingest.hyd-o-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00001/cg_data/dcl11/hyd*/*hyd*.log,GI01SUMO-SBD11-03-HYDGN0000,telemetered,Available,
 Ingest.dosta-abcdjm-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00001/cg_data/dcl11/dosta*/*dosta*.log,GI01SUMO-SBD11-04-DOSTAD000,telemetered,Available,
 Ingest.spkir-abj-dcl_telemetered,/omc_data/whoi/OMC/GI01SUMO/D00001/cg_data/dcl11/spkir*/*.spkir*.log,GI01SUMO-SBD11-05-SPKIRB000,telemetered,Available,
