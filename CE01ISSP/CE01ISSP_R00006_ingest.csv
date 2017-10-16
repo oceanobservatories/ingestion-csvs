@@ -1,14 +1,13 @@
-uframe_route,filename_mask,reference_designator,data_source,
-Ingest.dosta-abcdjm-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00006/extract/ucspp_*_PPB_OPT.txt,CE01ISSP-SP001-02-DOSTAJ000,recovered_cspp, Data not uploaded to omc yet
-Ingest.optaa-dj-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00006/extract/ucspp_*_ACS_ACS.txt,CE01ISSP-SP001-04-OPTAAJ000,recovered_cspp, Data not uploaded to omc yet
-Ingest.velpt-j-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00006/extract/ucspp_*_PPB_ADCP.txt,CE01ISSP-SP001-05-VELPTJ000,recovered_cspp, Data not uploaded to omc yet
-Ingest.nutnr-j-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00006/extract/ucspp_*_SNA_SNA.txt,CE01ISSP-SP001-06-NUTNRJ000,recovered_cspp, Data not uploaded to omc yet
-Ingest.spkir-abj-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00006/extract/ucspp_*_PPB_OCR.txt,CE01ISSP-SP001-07-SPKIRJ000,recovered_cspp, Data not uploaded to omc yet
-Ingest.flort-dj-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00006/extract/ucspp_*_PPB_TRIP.txt,CE01ISSP-SP001-08-FLORTJ000,recovered_cspp, Data not uploaded to omc yet
-Ingest.ctdpf-j-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00006/extract/ucspp_*_PPB_CTD.txt,CE01ISSP-SP001-09-CTDPFJ000,recovered_cspp, Data not uploaded to omc yet
-Ingest.parad-j-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00006/extract/ucspp_*_PPB_PARS.txt,CE01ISSP-SP001-10-PARADJ000,recovered_cspp, Data not uploaded to omc yet
-#,,,,
-Ingest.dbg-pdbg-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00006/extract/*PDBG.txt,CE01ISSP-SP001-00-SPPENG000,recovered_cspp, Data not uploaded to omc yet
-Ingest.wc-hmr-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00006/extract/*WC_HMR.txt,CE01ISSP-SP001-00-SPPENG000,recovered_cspp, Data not uploaded to omc yet
-Ingest.wc-sbe-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00006/extract/*WC_SBE.txt,CE01ISSP-SP001-00-SPPENG000,recovered_cspp, Data not uploaded to omc yet
-Ingest.wc-wm-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00006/extract/*WC_WM.txt,CE01ISSP-SP001-00-SPPENG000,recovered_cspp, Data not uploaded to omc yet
+uframe_route,filename_mask,reference_designator,data_source,status,notes
+Ingest.dbg-pdbg-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00006/extract/*PDBG.txt,CE01ISSP-SP001-00-SPPENG000,recovered_cspp,Available,
+Ingest.wc-hmr-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00006/extract/*WC_HMR.txt,CE01ISSP-SP001-00-SPPENG000,recovered_cspp,Available,
+Ingest.wc-sbe-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00006/extract/*WC_SBE.txt,CE01ISSP-SP001-00-SPPENG000,recovered_cspp,Available,
+Ingest.wc-wm-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00006/extract/*WC_WM.txt,CE01ISSP-SP001-00-SPPENG000,recovered_cspp,Available,
+Ingest.dosta-abcdjm-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00006/extract/ucspp_*_PPB_OPT.txt,CE01ISSP-SP001-02-DOSTAJ000,recovered_cspp,Available,
+Ingest.optaa-dj-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00006/extract/ucspp_*_ACS_ACS.txt,CE01ISSP-SP001-04-OPTAAJ000,recovered_cspp,Available,
+Ingest.velpt-j-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00006/extract/ucspp_*_PPB_ADCP.txt,CE01ISSP-SP001-05-VELPTJ000,recovered_cspp,Available,
+Ingest.nutnr-j-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00006/extract/ucspp_*_SNA_SNA.txt,CE01ISSP-SP001-06-NUTNRJ000,recovered_cspp,Available,
+Ingest.spkir-abj-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00006/extract/ucspp_*_PPB_OCR.txt,CE01ISSP-SP001-07-SPKIRJ000,recovered_cspp,Available,
+Ingest.flort-dj-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00006/extract/ucspp_*_PPB_TRIP.txt,CE01ISSP-SP001-08-FLORTJ000,recovered_cspp,Available,
+Ingest.ctdpf-j-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00006/extract/ucspp_*_PPB_CTD.txt,CE01ISSP-SP001-09-CTDPFJ000,recovered_cspp,Available,
+Ingest.parad-j-cspp_recovered,/omc_data/whoi/OMC/CE01ISSP/R00006/extract/ucspp_*_PPB_PARS.txt,CE01ISSP-SP001-10-PARADJ000,recovered_cspp,Available,
