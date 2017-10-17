@@ -1,0 +1,13 @@
+uframe_route,filename_mask,reference_designator,data_source,status,notes
+#Ingest.dbg-pdbg-cspp_recovered,/omc_data/whoi/OMC/CE02SHSP/R00005/extract/*PDBG.txt,CE02SHSP-SP001-00-SPPENG000,recovered_cspp,Missing,
+#Ingest.wc-hmr-cspp_recovered,/omc_data/whoi/OMC/CE02SHSP/R00005/extract/*WC_HMR.txt,CE02SHSP-SP001-00-SPPENG000,recovered_cspp,Missing,
+#Ingest.wc-sbe-cspp_recovered,/omc_data/whoi/OMC/CE02SHSP/R00005/extract/*WC_SBE.txt,CE02SHSP-SP001-00-SPPENG000,recovered_cspp,Missing,
+#Ingest.wc-wm-cspp_recovered,/omc_data/whoi/OMC/CE02SHSP/R00005/extract/*WC_WM.txt,CE02SHSP-SP001-00-SPPENG000,recovered_cspp,Missing,
+#Ingest.dosta-abcdjm-cspp_recovered,/omc_data/whoi/OMC/CE02SHSP/R00005/extract/*OPT.txt,CE02SHSP-SP001-01-DOSTAJ000,recovered_cspp,Missing,
+#Ingest.velpt-j-cspp_recovered,/omc_data/whoi/OMC/CE02SHSP/R00005/extract/*ADCP.txt,CE02SHSP-SP001-02-VELPTJ000,recovered_cspp,Missing,
+#Ingest.optaa-dj-cspp_recovered,/omc_data/whoi/OMC/CE02SHSP/R00005/extract/*ACS.txt,CE02SHSP-SP001-04-OPTAAJ000,recovered_cspp,Missing,
+#Ingest.nutnr-j-cspp_recovered,/omc_data/whoi/OMC/CE02SHSP/R00005/extract/*SNA.txt,CE02SHSP-SP001-05-NUTNRJ000,recovered_cspp,Missing,
+#Ingest.spkir-abj-cspp_recovered,/omc_data/whoi/OMC/CE02SHSP/R00005/extract/*OCR.txt,CE02SHSP-SP001-06-SPKIRJ000,recovered_cspp,Missing,
+#Ingest.flort-dj-cspp_recovered,/omc_data/whoi/OMC/CE02SHSP/R00005/extract/*TRIP.txt,CE02SHSP-SP001-07-FLORTJ000,recovered_cspp,Missing,
+#Ingest.ctdpf-j-cspp_recovered,/omc_data/whoi/OMC/CE02SHSP/R00005/extract/*CTD.txt,CE02SHSP-SP001-08-CTDPFJ000,recovered_cspp,Missing,
+#Ingest.parad-j-cspp_recovered,/omc_data/whoi/OMC/CE02SHSP/R00005/extract/*PARS.txt,CE02SHSP-SP001-09-PARADJ000,recovered_cspp,Missing,
