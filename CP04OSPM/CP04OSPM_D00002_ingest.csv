@@ -1,6 +1,6 @@
 uframe_route,filename_mask,reference_designator,data_source,status,notes
-Ingest.cg-stc-eng-stc_telemetered,/omc_data/whoi/OMC/CP04OSPM/D00002/irid2shore/stc_status.*_*.txt,CP04OSPM-SBS01-00-STCENG000,telemetered,Available,
-Ingest.mopak-o-dcl_telemetered,/omc_data/whoi/OMC/CP04OSPM/D00002/3dmgx3/*_*.3dmgx3.log,CP04OSPM-SBS11-02-MOPAK0000,telemetered,Available,
+#Ingest.cg-stc-eng-stc_telemetered,/omc_data/whoi/OMC/CP04OSPM/D00002/irid2shore/stc_status.*_*.txt,CP04OSPM-SBS01-00-STCENG000,telemetered,Available,Temporarily disabled for mass ingestions
+#Ingest.mopak-o-dcl_telemetered,/omc_data/whoi/OMC/CP04OSPM/D00002/3dmgx3/*_*.3dmgx3.log,CP04OSPM-SBS11-02-MOPAK0000,telemetered,Available,Temporarily disabled for mass ingestions
 Ingest.wfp-eng-stc-imodem_telemetered,/omc_data/whoi/OMC/CP04OSPM/D00002/imm/mmp/E*.DAT,CP04OSPM-WFP01-00-WFPENG000,telemetered,Available,
 Ingest.vel3d-k-wfp-stc_telemetered,/omc_data/whoi/OMC/CP04OSPM/D00002/imm/mmp/A*.DEC,CP04OSPM-WFP01-01-VEL3DK000,telemetered,Available,
 Ingest.dofst-k-wfp_telemetered,/omc_data/whoi/OMC/CP04OSPM/D00002/imm/mmp/C*.DAT,CP04OSPM-WFP01-02-DOFSTK000,telemetered,Available,

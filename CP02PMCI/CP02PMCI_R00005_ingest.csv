@@ -1,8 +1,8 @@
 uframe_route,filename_mask,reference_designator,data_source,status,notes
 #Ingest.adcps-jln-stc_recovered,/omc_data/whoi/OMC/CP02PMCI/R00005/cg_data/dcl00/imm/adcpt/adcpt*.DAT,CP02PMCI-RII01-02-ADCPTG010,recovered_host,Missing,
 Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/CP02PMCI/R00005/cg_data/dcl00/ADCP*/*RDI_000.000,CP02PMCI-RII01-02-ADCPTG010,recovered_inst,Available,
-#Ingest.cg-stc-eng-stc_recovered,/omc_data/whoi/OMC/CP02PMCI/R00005/cg_data/dcl00/irid2shore/stc_status.*_*.txt,CP02PMCI-SBS01-00-STCENG000,recovered_host,Missing,
-#Ingest.mopak-o-dcl_recovered,/omc_data/whoi/OMC/CP02PMCI/R00005/cg_data/dcl00/MOPAK*/*_*.3dmgx3.log,CP02PMCI-SBS01-01-MOPAK0000,recovered_host,Missing,
+#Ingest.cg-stc-eng-stc_recovered,/omc_data/whoi/OMC/CP02PMCI/R00005/cg_data/dcl00/irid2shore/stc_status.*_*.txt,CP02PMCI-SBS01-00-STCENG000,recovered_host,Missing,Temporarily disabled for mass ingestions
+#Ingest.mopak-o-dcl_recovered,/omc_data/whoi/OMC/CP02PMCI/R00005/cg_data/dcl00/MOPAK*/*_*.3dmgx3.log,CP02PMCI-SBS01-01-MOPAK0000,recovered_host,Missing,Temporarily disabled for mass ingestions
 Ingest.wfp-eng-stc-imodem_recovered,/omc_data/whoi/OMC/CP02PMCI/R00005/cg_data/dcl00/CWFP*/0*00/E*.DA?,CP02PMCI-WFP01-00-WFPENG000,recovered_wfp,Available,
 Ingest.vel3d-k-wfp-stc_recovered,/omc_data/whoi/OMC/CP02PMCI/R00005/cg_data/dcl00/CWFP*/0*00/A*.DA?,CP02PMCI-WFP01-01-VEL3DK000,recovered_wfp,Available,
 Ingest.dofst-k-wfp_recovered,/omc_data/whoi/OMC/CP02PMCI/R00005/cg_data/dcl00/CWFP*/0*00/C*.DA?,CP02PMCI-WFP01-02-DOFSTK000,recovered_wfp,Available,

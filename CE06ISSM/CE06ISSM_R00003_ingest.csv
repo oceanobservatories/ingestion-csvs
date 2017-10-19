@@ -1,5 +1,5 @@
 uframe_route,filename_mask,reference_designator,data_source,status,notes
-#Ingest.mopak-o-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/cg_data/dcl17/mopak/*.mopak.log,CE06ISSM-SBD17-01-MOPAK0000,recovered_host,,No data in files
+#Ingest.mopak-o-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/cg_data/dcl17/mopak/*.mopak.log,CE06ISSM-SBD17-01-MOPAK0000,recovered_host,,Temporarily disabled for mass ingestions - No data in files
 Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/cg_data/dcl17/velpt1/*.velpt1.log,CE06ISSM-SBD17-04-VELPTA000,recovered_host,,Recovered DCL data
 #Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/cg_data/dcl17/ctdbp3/*.ctdbp3.log,CE06ISSM-SBD17-06-CTDBPC000,recovered_host,,No Recovered data on server
 #Ingest.dosta-abcdjm-ctdbp-dcl_recovered,/omc_data/whoi/OMC/CE06ISSM/R00003/cg_data/dcl17/ctdbp3/*.ctdbp3.log,CE06ISSM-SBD17-06-FLORTD000,recovered_host,,No Recovered data on server
