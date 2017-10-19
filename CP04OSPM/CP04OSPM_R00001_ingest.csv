@@ -1,6 +1,6 @@
 uframe_route,filename_mask,reference_designator,data_source,status,notes
-Ingest.cg-stc-eng-stc_recovered,/omc_data/whoi/OMC/CP04OSPM/R00001/dcl00/cg_data/irid2shore/stc_status.*_*.txt,CP04OSPM-SBS01-00-STCENG000,recovered_host,Available,
-Ingest.mopak-o-dcl_recovered,/omc_data/whoi/OMC/CP04OSPM/R00001/dcl00/cg_data/3dmgx3/*_*.3dmgx3.log,CP04OSPM-SBS11-02-MOPAK0000,recovered_host,Available,
+#Ingest.cg-stc-eng-stc_recovered,/omc_data/whoi/OMC/CP04OSPM/R00001/dcl00/cg_data/irid2shore/stc_status.*_*.txt,CP04OSPM-SBS01-00-STCENG000,recovered_host,Available,Temporarily disabled for mass ingestions
+#Ingest.mopak-o-dcl_recovered,/omc_data/whoi/OMC/CP04OSPM/R00001/dcl00/cg_data/3dmgx3/*_*.3dmgx3.log,CP04OSPM-SBS11-02-MOPAK0000,recovered_host,Available,Temporarily disabled for mass ingestions
 Ingest.wfp-eng-stc-imodem_recovered,/omc_data/whoi/OMC/CP04OSPM/R00001/dcl00/CWFP*/E*.DA?,CP04OSPM-WFP01-00-WFPENG000,recovered_wfp,Available,
 Ingest.vel3d-k-wfp-stc_recovered,/omc_data/whoi/OMC/CP04OSPM/R00001/dcl00/CWFP*/A*.DA?,CP04OSPM-WFP01-01-VEL3DK000,recovered_wfp,Available,
 Ingest.dofst-k-wfp_recovered,/omc_data/whoi/OMC/CP04OSPM/R00001/dcl00/CWFP*/C*.DA?,CP04OSPM-WFP01-02-DOFSTK000,recovered_wfp,Available,
