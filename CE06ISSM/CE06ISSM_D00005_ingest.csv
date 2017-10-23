@@ -1,34 +1,30 @@
 uframe_route,filename_mask,reference_designator,data_source,status,notes
-#Ingest.mopak-o-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl17/mopak/*.mopak.log,CE06ISSM-SBD17-01-MOPAK0000,telemetered,,Temporarily disabled for mass ingestions - MOPAK data files are too large to telemetered via Iridium. Data available upon recovery
-Ingest.velpt-ab-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl17/velpt1/*.velpt*.log,CE06ISSM-SBD17-04-VELPTA000,telemetered,,
-# ,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl17/ctdbp*/*.ctdbp*.log,CE06ISSM-SBD17-06-CTDBPC000,telemetered,,CTDBP with FLORT not installed in the spring/summer
-# ,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl17/ctdbp*/*.ctdbp*.log,CE06ISSM-SBD17-06-FLORTD000,telemetered,,CTDBP with FLORT not installed in the spring/summer
-# ,,,,,
-Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl16/optaa1/*.optaa*.log,CE06ISSM-RID16-01-OPTAAD000,telemetered,,
-Ingest.flort-dj-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl16/flort/*.flort.log,CE06ISSM-RID16-02-FLORTD000,telemetered,,
-Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl16/ctdbp1/*.ctdbp*.log,CE06ISSM-RID16-03-CTDBPC000,telemetered,,
-Ingest.dosta-abcdjm-ctdbp-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl16/ctdbp1/*.ctdbp*.log,CE06ISSM-RID16-03-DOSTAD000,telemetered,,
-Ingest.velpt-ab-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl16/velpt2/*.velpt*.log,CE06ISSM-RID16-04-VELPTA000,telemetered,,
-Ingest.pco2w-abc-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl16/pco2w1/*.pco2w*.log,CE06ISSM-RID16-05-PCO2WB000,telemetered,,
-Ingest.phsen-abcdef-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl16/phsen1/*.phsen*.log,CE06ISSM-RID16-06-PHSEND000,telemetered,,
-Ingest.nutnr-b-dcl-full_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl16/nutnr/*.nutnr.log,CE06ISSM-RID16-07-NUTNRB000,telemetered,,
-Ingest.spkir-abj-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl16/spkir/*.spkir.log,CE06ISSM-RID16-08-SPKIRB000,telemetered,,
-# ,,,,,
-#Ingest.vel3d-cd-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl35/vel3d/*.vel3d.log,CE06ISSM-MFD35-01-VEL3DD000,telemetered,,"DCL system alters operation of VEL3D, data is not available until after recovery"
-Ingest.presf-abc-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl35/presf/*.presf.log,CE06ISSM-MFD35-02-PRESFA000,telemetered,,
-Ingest.adcpt-acfgm-dcl-pd0_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl35/adcpt/*.adcpt.log,CE06ISSM-MFD35-04-ADCPTM000,telemetered,,
-Ingest.pco2w-abc-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl35/pco2w2/*.pco2w2.log,CE06ISSM-MFD35-05-PCO2WB000,telemetered,,
-Ingest.phsen-abcdef-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl35/phsen2/*.phsen*.log,CE06ISSM-MFD35-06-PHSEND000,telemetered,,
-# ,,,,,
-# Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl37/optaa2/*.optaa*.log,CE06ISSM-MFD37-01-OPTAAD000,telemetered,,Instrument not deployed
-Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl37/ctdbp2/*.ctdbp*.log,CE06ISSM-MFD37-03-CTDBPC000,telemetered,,
-Ingest.dosta-abcdjm-ctdbp-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl37/ctdbp2/*.ctdbp*.log,CE06ISSM-MFD37-03-DOSTAD000,telemetered,,
-#,,CE06ISSM-MFD37-06-CAMDSA000,,,Instrument not deployed
-Ingest.zplsc-c-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl37/zplsc/*.zplsc*.log,CE06ISSM-MFD37-07-ZPLSCC000,telemetered,,
-# ,,,,,
-Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/irid2shore/cpm_status*.txt,CE06ISSM-SBC11-00-CPMENG000,telemetered,,
-Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/cpm3/syslog/cpm_status*.txt,CE06ISSM-MFC31-00-CPMENG000,telemetered,,
-Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl17/syslog/*.syslog.log,CE06ISSM-SBD17-00-DCLENG000,telemetered,,
-Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl16/syslog/*.syslog.log,CE06ISSM-RID16-00-DCLENG000,telemetered,,
-Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl35/syslog/*.syslog.log,CE06ISSM-MFD35-00-DCLENG000,telemetered,,
-Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl37/syslog/*.syslog.log,CE06ISSM-MFD37-00-DCLENG000,telemetered,,
+Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/cpm3/syslog/cpm_status*.txt,CE06ISSM-MFC31-00-CPMENG000,telemetered,Available,
+Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl35/syslog/*.syslog.log,CE06ISSM-MFD35-00-DCLENG000,telemetered,Available,
+Ingest.vel3d-cd-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl35/vel3d/*.vel3d.log,CE06ISSM-MFD35-01-VEL3DD000,telemetered,Available,
+Ingest.presf-abc-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl35/presf/*.presf.log,CE06ISSM-MFD35-02-PRESFA000,telemetered,Available,
+Ingest.adcpt-acfgm-dcl-pd0_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl35/adcpt/*.adcpt.log,CE06ISSM-MFD35-04-ADCPTM000,telemetered,Available,
+Ingest.pco2w-abc-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl35/pco2w2/*.pco2w2.log,CE06ISSM-MFD35-05-PCO2WB000,telemetered,Available,
+Ingest.phsen-abcdef-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl35/phsen2/*.phsen*.log,CE06ISSM-MFD35-06-PHSEND000,telemetered,Available,
+Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl37/syslog/*.syslog.log,CE06ISSM-MFD37-00-DCLENG000,telemetered,Available,
+# Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl37/optaa2/*.optaa*.log,CE06ISSM-MFD37-01-OPTAAD000,telemetered,Not Deployed,Instrument not deployed
+Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl37/ctdbp2/*.ctdbp*.log,CE06ISSM-MFD37-03-CTDBPC000,telemetered,Available,
+Ingest.dosta-abcdjm-ctdbp-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl37/ctdbp2/*.ctdbp*.log,CE06ISSM-MFD37-03-DOSTAD000,telemetered,Available,
+#,,CE06ISSM-MFD37-06-CAMDSA000,telemetered,Not Deployed,
+Ingest.zplsc-c-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl37/zplsc/*.zplsc*.log,CE06ISSM-MFD37-07-ZPLSCC000,telemetered,Available,
+Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl16/syslog/*.syslog.log,CE06ISSM-RID16-00-DCLENG000,telemetered,Available,
+Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl16/optaa1/*.optaa*.log,CE06ISSM-RID16-01-OPTAAD000,telemetered,Available,
+Ingest.flort-dj-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl16/flort/*.flort.log,CE06ISSM-RID16-02-FLORTD000,telemetered,Available,
+Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl16/ctdbp1/*.ctdbp*.log,CE06ISSM-RID16-03-CTDBPC000,telemetered,Available,
+Ingest.dosta-abcdjm-ctdbp-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl16/ctdbp1/*.ctdbp*.log,CE06ISSM-RID16-03-DOSTAD000,telemetered,Available,
+Ingest.velpt-ab-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl16/velpt2/*.velpt*.log,CE06ISSM-RID16-04-VELPTA000,telemetered,Available,
+Ingest.pco2w-abc-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl16/pco2w1/*.pco2w*.log,CE06ISSM-RID16-05-PCO2WB000,telemetered,Available,
+Ingest.phsen-abcdef-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl16/phsen1/*.phsen*.log,CE06ISSM-RID16-06-PHSEND000,telemetered,Available,
+Ingest.nutnr-b-dcl-full_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl16/nutnr/*.nutnr.log,CE06ISSM-RID16-07-NUTNRB000,telemetered,Available,
+Ingest.spkir-abj-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl16/spkir/*.spkir.log,CE06ISSM-RID16-08-SPKIRB000,telemetered,Available,
+Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/irid2shore/cpm_status*.txt,CE06ISSM-SBC11-00-CPMENG000,telemetered,Available,
+Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl17/syslog/*.syslog.log,CE06ISSM-SBD17-00-DCLENG000,telemetered,Available,
+#Ingest.mopak-o-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl17/mopak/*.mopak.log,CE06ISSM-SBD17-01-MOPAK0000,telemetered,Available,Temporarily disabled for mass ingestions
+Ingest.velpt-ab-dcl_telemetered,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl17/velpt1/*.velpt*.log,CE06ISSM-SBD17-04-VELPTA000,telemetered,Available,
+# ,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl17/ctdbp*/*.ctdbp*.log,CE06ISSM-SBD17-06-CTDBPC000,telemetered,Pending,no driver currently exists for this data set
+# ,/omc_data/whoi/OMC/CE06ISSM/D00005/dcl17/ctdbp*/*.ctdbp*.log,CE06ISSM-SBD17-06-FLORTD000,telemetered,Pending,no driver currently exists for this data set
