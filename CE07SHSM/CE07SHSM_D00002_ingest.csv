@@ -1,42 +1,36 @@
 uframe_route,filename_mask,reference_designator,data_source,status,notes
-#Ingest.mopak-o-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl11/mopak/*.mopak.log,CE07SHSM-SBD11-01-MOPAK0000,telemetered,,Temporarily disabled for mass ingestions
-Ingest.hyd-o-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl11/hyd1/*.hyd*.log,CE07SHSM-SBD11-02-HYDGN0000,telemetered,,
-Ingest.velpt-ab-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl11/velpt1/*.velpt*.log,CE07SHSM-SBD11-04-VELPTA000,telemetered,,Should be installed on DCL12
-Ingest.metbk-a-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl11/metbk/*.metbk.log,CE07SHSM-SBD11-06-METBKA000,telemetered,,
-# ,,,,,
-Ingest.hyd-o-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl12/hyd2/*.hyd*.log,CE07SHSM-SBD12-03-HYDGN0000,telemetered,,
-Ingest.pco2a-a-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl12/pco2a/*.pco2a.log,CE07SHSM-SBD12-04-PCO2AA000,telemetered,,Should  be installed on 11
-Ingest.wavss-a-dcl-full_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl12/wavss/*.wavss.log,CE07SHSM-SBD12-05-WAVSSA000,telemetered,,
-# ,,,,,
-Ingest.adcpt-acfgm-dcl-pd0_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl26/adcpt1/*.adcpt*.log,CE07SHSM-RID26-01-ADCPTA000,telemetered,,
-Ingest.velpt-ab-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl26/velpt2/*.velpt*.log,CE07SHSM-RID26-04-VELPTA000,telemetered,,
-Ingest.phsen-abcdef-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl26/phsen/*.phsen.log,CE07SHSM-RID26-06-PHSEND000,telemetered,,
-Ingest.nutnr-b-dcl-conc_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl26/nutnr/*.nutnr.log,CE07SHSM-RID26-07-NUTNRB000,telemetered,,
-Ingest.spkir-abj-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl26/spkir/*.spkir.log,CE07SHSM-RID26-08-SPKIRB000,telemetered,,
-# ,,,,,
-Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl27/optaa1/*.optaa*.log,CE07SHSM-RID27-01-OPTAAD000,telemetered,,
-Ingest.flort-dj-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl27/flort/*.flort.log,CE07SHSM-RID27-02-FLORTD000,telemetered,,
-Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl27/ctdbp1/*.ctdbp*.log,CE07SHSM-RID27-03-CTDBPC000,telemetered,,
-Ingest.dosta-abcdjm-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl27/dosta/*.dosta.log,CE07SHSM-RID27-04-DOSTAD000,telemetered,,
-# ,,,,,
-# Ingest.vel3d-cd-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl35/vel3d/*.vel3d.log,CE07SHSM-MFD35-01-VEL3DD000,telemetered,,"Communications with MFN failed immediately upon deployment, no data will be available from this instrument"
-# Ingest.presf-abc-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl35/presf/*.presf.log,CE07SHSM-MFD35-02-PRESFB000,telemetered,,"Communications with MFN failed immediately upon deployment, instrument will internally record data"
-# Ingest.adcpt-acfgm-dcl-pd0_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl35/adcps/*.adcps.log,CE07SHSM-MFD35-04-ADCPTC000,telemetered,,"Communications with MFN failed immediately upon deployment, instrument will internally record data"
-# Ingest.pco2w-abc-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl35/pco2w/*.pco2w.log,CE07SHSM-MFD35-05-PCO2WB000,telemetered,,"Communications with MFN failed immediately upon deployment, instrument will internally record data"
-# Ingest.phsen-abcdef-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl35/phsen2/*.phsen*.log,CE07SHSM-MFD35-06-PHSEND000,telemetered,,"Communications with MFN failed immediately upon deployment, instrument will internally record data"
-# ,,,,,
-# Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl37/optaa2/*.optaa*.log,CE07SHSM-MFD37-01-OPTAAD000,telemetered,,"Communications with MFN failed immediately upon deployment, no data will be available from this instrument"
-# Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl37/ctdbp2/*.ctdbp*.log,CE07SHSM-MFD37-03-CTDBPC000,telemetered,,"Communications with MFN failed immediately upon deployment, instrument will internally record data"
-# Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl37/ctdbp2/*.ctdbp*.log,CE07SHSM-MFD37-03-DOSTAD000,telemetered,,"Communications with MFN failed immediately upon deployment, instrument will internally record data"
-# Ingest.zplsc-c-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl37/zplsc/*.zplsc.log,CE07SHSM-MFD37-07-ZPLSCC000,telemetered,,"Communications with MFN failed immediately upon deployment, instrument will internally record data"
-# ,,CE07SHSM-MFD37-06-CAMDSA000,,,"Communications with MFN failed immediately upon deployment, instrument will internally record data"
-# ,,,,,
-Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/irid2shore/cpm_status*.txt,CE07SHSM-SBC11-00-CPMENG000,telemetered,,
-Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/cpm2/syslog/cpm_status.txt,CE07SHSM-RIC21-00-CPMENG000,telemetered,,This file is always overwritten when a newer file is telemetered to shore approximately every 3 hours.
-# Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/cpm3/syslog/cpm_status.txt,CE07SHSM-MFC31-00-CPMENG000,telemetered,,"Communications with MFN failed immediately upon deployment, no data will be available from this instrument"
-Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl11/syslog/*.syslog.log,CE07SHSM-SBD11-00-DCLENG000,telemetered,,
-Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl12/syslog/*.syslog.log,CE07SHSM-SBD12-00-DCLENG000,telemetered,,
-Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl26/syslog/*.syslog.log,CE07SHSM-RID26-00-DCLENG000,telemetered,,
-Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl27/syslog/*.syslog.log,CE07SHSM-RID27-00-DCLENG000,telemetered,,
-# Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl35/syslog/*.syslog.log,CE07SHSM-MFD35-00-DCLENG000,telemetered,,"Communications with MFN failed immediately upon deployment, no data will be available from this instrument"
-# Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl37/syslog/*.syslog.log,CE07SHSM-MFD37-00-DCLENG000,telemetered,,"Communications with MFN failed immediately upon deployment, no data will be available from this instrument"
+# Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/cpm3/syslog/cpm_status.txt,CE07SHSM-MFC31-00-CPMENG000,telemetered,Not Expected,"Communications with MFN failed immediately upon deployment, no data will be available from this instrument"
+# Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl35/syslog/*.syslog.log,CE07SHSM-MFD35-00-DCLENG000,telemetered,Not Expected,"Communications with MFN failed immediately upon deployment, no data will be available from this instrument"
+# Ingest.vel3d-cd-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl35/vel3d/*.vel3d.log,CE07SHSM-MFD35-01-VEL3DD000,telemetered,Not Expected,"Communications with MFN failed immediately upon deployment, no data will be available from this instrument"
+# Ingest.presf-abc-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl35/presf/*.presf.log,CE07SHSM-MFD35-02-PRESFB000,telemetered,Not Expected,"Communications with MFN failed immediately upon deployment, instrument will internally record data"
+# Ingest.adcpt-acfgm-dcl-pd0_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl35/adcps/*.adcps.log,CE07SHSM-MFD35-04-ADCPTC000,telemetered,Not Expected,"Communications with MFN failed immediately upon deployment, instrument will internally record data"
+# Ingest.pco2w-abc-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl35/pco2w/*.pco2w.log,CE07SHSM-MFD35-05-PCO2WB000,telemetered,Not Expected,"Communications with MFN failed immediately upon deployment, instrument will internally record data"
+# Ingest.phsen-abcdef-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl35/phsen2/*.phsen*.log,CE07SHSM-MFD35-06-PHSEND000,telemetered,Not Expected,"Communications with MFN failed immediately upon deployment, instrument will internally record data"
+# Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl37/syslog/*.syslog.log,CE07SHSM-MFD37-00-DCLENG000,telemetered,Not Expected,"Communications with MFN failed immediately upon deployment, no data will be available from this instrument"
+# Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl37/optaa2/*.optaa*.log,CE07SHSM-MFD37-01-OPTAAD000,telemetered,Not Expected,"Communications with MFN failed immediately upon deployment, no data will be available from this instrument"
+# Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl37/ctdbp2/*.ctdbp*.log,CE07SHSM-MFD37-03-CTDBPC000,telemetered,Not Expected,"Communications with MFN failed immediately upon deployment, instrument will internally record data"
+# Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl37/ctdbp2/*.ctdbp*.log,CE07SHSM-MFD37-03-DOSTAD000,telemetered,Not Expected,"Communications with MFN failed immediately upon deployment, instrument will internally record data"
+# ,,CE07SHSM-MFD37-06-CAMDSA000,telemetered,Not Expected,Instrument set to internally log
+# Ingest.zplsc-c-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl37/zplsc/*.zplsc.log,CE07SHSM-MFD37-07-ZPLSCC000,telemetered,Not Expected,"Communications with MFN failed immediately upon deployment, instrument will internally record data"
+Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/cpm2/syslog/cpm_status.txt,CE07SHSM-RIC21-00-CPMENG000,telemetered,Available,This file is always overwritten when a newer file is telemetered to shore approximately every 3 hours.
+Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl26/syslog/*.syslog.log,CE07SHSM-RID26-00-DCLENG000,telemetered,Available,
+Ingest.adcpt-acfgm-dcl-pd0_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl26/adcpt1/*.adcpt*.log,CE07SHSM-RID26-01-ADCPTA000,telemetered,Available,
+Ingest.velpt-ab-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl26/velpt2/*.velpt*.log,CE07SHSM-RID26-04-VELPTA000,telemetered,Available,
+Ingest.phsen-abcdef-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl26/phsen/*.phsen.log,CE07SHSM-RID26-06-PHSEND000,telemetered,Available,
+Ingest.nutnr-b-dcl-conc_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl26/nutnr/*.nutnr.log,CE07SHSM-RID26-07-NUTNRB000,telemetered,Available,
+Ingest.spkir-abj-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl26/spkir/*.spkir.log,CE07SHSM-RID26-08-SPKIRB000,telemetered,Available,
+Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl27/syslog/*.syslog.log,CE07SHSM-RID27-00-DCLENG000,telemetered,Available,
+Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl27/optaa1/*.optaa*.log,CE07SHSM-RID27-01-OPTAAD000,telemetered,Available,
+Ingest.flort-dj-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl27/flort/*.flort.log,CE07SHSM-RID27-02-FLORTD000,telemetered,Available,
+Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl27/ctdbp1/*.ctdbp*.log,CE07SHSM-RID27-03-CTDBPC000,telemetered,Available,
+Ingest.dosta-abcdjm-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl27/dosta/*.dosta.log,CE07SHSM-RID27-04-DOSTAD000,telemetered,Available,
+Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/irid2shore/cpm_status*.txt,CE07SHSM-SBC11-00-CPMENG000,telemetered,Available,
+Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl11/syslog/*.syslog.log,CE07SHSM-SBD11-00-DCLENG000,telemetered,Available,
+#Ingest.mopak-o-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl11/mopak/*.mopak.log,CE07SHSM-SBD11-01-MOPAK0000,telemetered,Available,Temporarily disabled for mass ingestions
+Ingest.hyd-o-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl11/hyd1/*.hyd*.log,CE07SHSM-SBD11-02-HYDGN0000,telemetered,Available,
+Ingest.velpt-ab-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl11/velpt1/*.velpt*.log,CE07SHSM-SBD11-04-VELPTA000,telemetered,Available,Should be installed on DCL12
+Ingest.metbk-a-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl11/metbk/*.metbk.log,CE07SHSM-SBD11-06-METBKA000,telemetered,Available,
+Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl12/syslog/*.syslog.log,CE07SHSM-SBD12-00-DCLENG000,telemetered,Available,
+Ingest.hyd-o-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl12/hyd2/*.hyd*.log,CE07SHSM-SBD12-03-HYDGN0000,telemetered,Available,
+Ingest.pco2a-a-dcl_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl12/pco2a/*.pco2a.log,CE07SHSM-SBD12-04-PCO2AA000,telemetered,Available,Should  be installed on 11
+Ingest.wavss-a-dcl-full_telemetered,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl12/wavss/*.wavss.log,CE07SHSM-SBD12-05-WAVSSA000,telemetered,Available,
