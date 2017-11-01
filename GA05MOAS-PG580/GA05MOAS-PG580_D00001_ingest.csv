@@ -3,6 +3,6 @@ uframe_route,filename_mask,reference_designator,data_source,status,notes
 #Ingest.ctdgv-m-glider_telemetered,/omc_data/whoi/OMC/GA05MOAS-PG580/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG580-01-CTDGVM000,telemetered,Missing,No data on server
 #Ingest.dosta-abcdjm-glider_telemetered,/omc_data/whoi/OMC/GA05MOAS-PG580/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG580-02-DOSTAM000,telemetered,Missing,No data on server
 #Ingest.flort-m-glider_telemetered,/omc_data/whoi/OMC/GA05MOAS-PG580/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG580-03-FLORTM000,telemetered,Missing,No data on server
-#Ingest.flort-o-glider_telemetered,/omc_data/whoi/OMC/GA05MOAS-PG580/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG580-04-FLORTO000,telemetered,Missing,No parser
+#Ingest.flort-o-glider_telemetered,/omc_data/whoi/OMC/GA05MOAS-PG580/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG580-04-FLORTO000,telemetered,Missing,No data on server
 #Ingest.nutnr-m-glider_telemetered,/omc_data/whoi/OMC/GA05MOAS-PG580/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG580-05-NUTNRM000,telemetered,Missing,No data on server
 #Ingest.parad-m-glider_telemetered,/omc_data/whoi/OMC/GA05MOAS-PG580/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG580-06-PARADM000,telemetered,Missing,No data on server
