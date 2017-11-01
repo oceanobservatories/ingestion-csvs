@@ -30,7 +30,7 @@ Ingest.spkir-abj-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/dcl26/
 Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/dcl27/syslog/*.syslog.log,CP01CNSM-RID27-00-DCLENG000,recovered_host,Available,
 Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/dcl27/optaa1/*.optaa1.log,CP01CNSM-RID27-01-OPTAAD000,recovered_host,Available,
 Ingest.flort-dj-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/dcl27/flort/*.flort.log,CP01CNSM-RID27-02-FLORTD000,recovered_host,Available,
-Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/dcl27/ctdbp1/*.ctdbp1.log,CP01CNSM-RID27-03-CTDBPC000,recovered_host,Available,
+Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/dcl27/ctdbp1/*.ctdbp1.log,CP01CNSM-RID27-03-CTDBPC000,recovered_host,Not Expected,Instrument did not record data via the DCL host.
 Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CP01CNSM/R00005/instruments/dcl27/CTDBP*/SBE16plus*.hex,CP01CNSM-RID27-03-CTDBPC000,recovered_inst,Available,
 Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/dcl27/dosta1/*.dosta1.log,CP01CNSM-RID27-04-DOSTAD000,recovered_host,Available,
 Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/cpm1/irid2shore/cpm_status*.txt,CP01CNSM-SBC11-00-CPMENG000,recovered_host,Available,
