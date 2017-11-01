@@ -3,6 +3,6 @@ Ingest.glider-eng-glider_telemetered,/omc_data/whoi/OMC/GA05MOAS-PG563/D00001/me
 Ingest.ctdgv-m-glider_telemetered,/omc_data/whoi/OMC/GA05MOAS-PG563/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG563-01-CTDGVM000,telemetered,Available,
 Ingest.dosta-abcdjm-glider_telemetered,/omc_data/whoi/OMC/GA05MOAS-PG563/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG563-02-DOSTAM000,telemetered,Available,
 #Ingest.flort-m-glider_telemetered,/omc_data/whoi/OMC/GA05MOAS-PG563/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG563-03-FLORTM000,telemetered,Not Expected,Not configured properly for telemetry
-#Ingest.flort-o-glider_telemetered,/omc_data/whoi/OMC/GA05MOAS-PG563/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG563-04-FLORTO000,telemetered,Not Expected,Not configured properly for telemetry. No parser
+#Ingest.flort-o-glider_telemetered,/omc_data/whoi/OMC/GA05MOAS-PG563/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG563-04-FLORTO000,telemetered,Not Expected,Not configured properly for telemetry
 Ingest.nutnr-m-glider_telemetered,/omc_data/whoi/OMC/GA05MOAS-PG563/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG563-05-NUTNRM000,telemetered,Available,
 Ingest.parad-m-glider_telemetered,/omc_data/whoi/OMC/GA05MOAS-PG563/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG563-06-PARADM000,telemetered,Available,
