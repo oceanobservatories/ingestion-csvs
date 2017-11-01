@@ -1,42 +1,36 @@
 uframe_route,filename_mask,reference_designator,data_source,status,notes
-#Ingest.mopak-o-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl11/mopak/*.mopak.log,CE09OSSM-SBD11-01-MOPAK0000,telemetered,,Temporarily disabled for mass ingestions
-Ingest.hyd-o-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl11/hyd*/*.hyd*.log,CE09OSSM-SBD11-02-HYDGN0000,telemetered,,
-Ingest.velpt-ab-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl11/velpt*/*.velpt*.log,CE09OSSM-SBD11-04-VELPTA000,telemetered,,
-Ingest.metbk-a-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl11/metbk/*.metbk.log,CE09OSSM-SBD11-06-METBKA000,telemetered,,
-# ,,,,,
-Ingest.hyd-o-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl12/hyd*/*.hyd*.log,CE09OSSM-SBD12-03-HYDGN0000,telemetered,,
-Ingest.pco2a-a-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl12/pco2a/*.pco2a.log,CE09OSSM-SBD12-04-PCO2AA000,telemetered,,
-Ingest.wavss-a-dcl-full_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl12/wavss/*.wavss.log,CE09OSSM-SBD12-05-WAVSSA000,telemetered,,
-# ,,,,,
-Ingest.adcpt-acfgm-dcl-pd0_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl26/adcpt/*.adcpt.log,CE09OSSM-RID26-01-ADCPTC000,telemetered,,
-Ingest.velpt-ab-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl26/velpt*/*.velpt*.log,CE09OSSM-RID26-04-VELPTA000,telemetered,,
-Ingest.phsen-abcdef-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl26/phsen*/*.phsen*.log,CE09OSSM-RID26-06-PHSEND000,telemetered,,
-Ingest.nutnr-b-dcl-conc_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl26/nutnr/*.nutnr.log,CE09OSSM-RID26-07-NUTNRB000,telemetered,,
-Ingest.spkir-abj-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl26/spkir/*.spkir.log,CE09OSSM-RID26-08-SPKIRB000,telemetered,,
-# ,,,,,
-Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl27/optaa1/*.optaa*.log,CE09OSSM-RID27-01-OPTAAD000,telemetered,,
-Ingest.flort-dj-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl27/flort/*.flort.log,CE09OSSM-RID27-02-FLORTD000,telemetered,,
-Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl27/ctdbp1/*.ctdbp*.log,CE09OSSM-RID27-03-CTDBPC000,telemetered,,
-Ingest.dosta-abcdjm-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl27/dosta/*.dosta.log,CE09OSSM-RID27-04-DOSTAD000,telemetered,,
-# ,,,,,
-# Ingest.vel3d-cd-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl35/vel3d/*.vel3d.log,CE09OSSM-MFD35-01-VEL3DD000,telemetered,,DCL failed
-# Ingest.presf-abc-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl35/presf/*.presf.log,CE09OSSM-MFD35-02-PRESFC000,telemetered,,DCL failed
-# Ingest.adcpt-acfgm-dcl-pd0_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl35/adcps/*.adcps.log,CE09OSSM-MFD35-04-ADCPSJ000,telemetered,,DCL failed
-# Ingest.pco2w-abc-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl35/pco2w/*.pco2w.log,CE09OSSM-MFD35-05-PCO2WB000,telemetered,,DCL failed
-# Ingest.phsen-abcdef-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl35/phsen*/*.phsen*.log,CE09OSSM-MFD35-06-PHSEND000,telemetered,,DCL failed
-# ,,,,,
-# Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl37/optaa2/*.optaa*.log,CE09OSSM-MFD37-01-OPTAAC000,telemetered,,DCL failed
-# Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl37/ctdbp2/*.ctdbp*.log,CE09OSSM-MFD37-03-CTDBPE000,telemetered,,DCL failed
-# Ingest.dosta-abcdjm-ctdbp-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl37/ctdbp2/*.ctdbp*.log,CE09OSSM-MFD37-03-DOSTAD000,telemetered,,DCL failed
-# Ingest.zplsc-c-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl37/zplsc/*.zplsc.log,CE09OSSM-MFD37-07-ZPLSCC000,telemetered,,DCL failed
-#,,CE09OSSM-MFD37-06-CAMDSA000,telemetered,,DCL failed
-# ,,,,,
-Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/irid2shore/cpm_status.*.txt,CE09OSSM-SBC11-00-CPMENG000,telemetered,,
-Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/cpm2/syslog/cpm_status.txt,CE09OSSM-RIC21-00-CPMENG000,telemetered,,This file is always overwritten when a newer file is telemetered to shore approximately every 3 hours.
-# Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/cpm3/syslog/cpm_status.txt,CE09OSSM-MFC31-00-CPMENG000,telemetered,,This file is always overwritten when a newer file is telemetered to shore approximately every 3 hours.
-Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl11/syslog/*.syslog.log,CE09OSSM-SBD11-00-DCLENG000,telemetered,,
-Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl12/syslog/*.syslog.log,CE09OSSM-SBD12-00-DCLENG000,telemetered,,
-Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl26/syslog/*.syslog.log,CE09OSSM-RID26-00-DCLENG000,telemetered,,
-Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl27/syslog/*.syslog.log,CE09OSSM-RID27-00-DCLENG000,telemetered,,
-# Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl35/syslog/*.syslog.log,CE09OSSM-MFD35-00-DCLENG000,telemetered,,DCL failed
-# Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl37/syslog/*.syslog.log,CE09OSSM-MFD37-00-DCLENG000,telemetered,,DCL failed
+# Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/cpm3/syslog/cpm_status.txt,CE09OSSM-MFC31-00-CPMENG000,telemetered,Missing,This file is always overwritten when a newer file is telemetered to shore approximately every 3 hours.
+# Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl35/syslog/*.syslog.log,CE09OSSM-MFD35-00-DCLENG000,telemetered,Not Expected,DCL failed
+# Ingest.vel3d-cd-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl35/vel3d/*.vel3d.log,CE09OSSM-MFD35-01-VEL3DD000,telemetered,Not Expected,DCL failed
+# Ingest.presf-abc-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl35/presf/*.presf.log,CE09OSSM-MFD35-02-PRESFC000,telemetered,Not Expected,DCL failed
+# Ingest.adcpt-acfgm-dcl-pd0_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl35/adcps/*.adcps.log,CE09OSSM-MFD35-04-ADCPSJ000,telemetered,Not Expected,DCL failed
+# Ingest.pco2w-abc-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl35/pco2w/*.pco2w.log,CE09OSSM-MFD35-05-PCO2WB000,telemetered,Not Expected,DCL failed
+# Ingest.phsen-abcdef-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl35/phsen*/*.phsen*.log,CE09OSSM-MFD35-06-PHSEND000,telemetered,Not Expected,DCL failed
+# Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl37/syslog/*.syslog.log,CE09OSSM-MFD37-00-DCLENG000,telemetered,Not Expected,DCL failed
+# Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl37/optaa2/*.optaa*.log,CE09OSSM-MFD37-01-OPTAAC000,telemetered,Not Expected,DCL failed
+# Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl37/ctdbp2/*.ctdbp*.log,CE09OSSM-MFD37-03-CTDBPE000,telemetered,Not Expected,DCL failed
+# Ingest.dosta-abcdjm-ctdbp-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl37/ctdbp2/*.ctdbp*.log,CE09OSSM-MFD37-03-DOSTAD000,telemetered,Not Expected,DCL failed
+# Ingest.zplsc-c-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl37/zplsc/*.zplsc.log,CE09OSSM-MFD37-07-ZPLSCC000,telemetered,Not Expected,DCL failed
+Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/cpm2/syslog/cpm_status.txt,CE09OSSM-RIC21-00-CPMENG000,telemetered,Available,This file is always overwritten when a newer file is telemetered to shore approximately every 3 hours.
+Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl26/syslog/*.syslog.log,CE09OSSM-RID26-00-DCLENG000,telemetered,Available,
+Ingest.adcpt-acfgm-dcl-pd0_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl26/adcpt/*.adcpt.log,CE09OSSM-RID26-01-ADCPTC000,telemetered,Available,
+Ingest.velpt-ab-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl26/velpt*/*.velpt*.log,CE09OSSM-RID26-04-VELPTA000,telemetered,Available,
+Ingest.phsen-abcdef-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl26/phsen*/*.phsen*.log,CE09OSSM-RID26-06-PHSEND000,telemetered,Available,
+Ingest.nutnr-b-dcl-conc_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl26/nutnr/*.nutnr.log,CE09OSSM-RID26-07-NUTNRB000,telemetered,Available,
+Ingest.spkir-abj-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl26/spkir/*.spkir.log,CE09OSSM-RID26-08-SPKIRB000,telemetered,Available,
+Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl27/syslog/*.syslog.log,CE09OSSM-RID27-00-DCLENG000,telemetered,Available,
+Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl27/optaa1/*.optaa*.log,CE09OSSM-RID27-01-OPTAAD000,telemetered,Available,
+Ingest.flort-dj-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl27/flort/*.flort.log,CE09OSSM-RID27-02-FLORTD000,telemetered,Available,
+Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl27/ctdbp1/*.ctdbp*.log,CE09OSSM-RID27-03-CTDBPC000,telemetered,Available,
+Ingest.dosta-abcdjm-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl27/dosta/*.dosta.log,CE09OSSM-RID27-04-DOSTAD000,telemetered,Available,
+Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/irid2shore/cpm_status.*.txt,CE09OSSM-SBC11-00-CPMENG000,telemetered,Available,
+Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl11/syslog/*.syslog.log,CE09OSSM-SBD11-00-DCLENG000,telemetered,Available,
+#Ingest.mopak-o-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl11/mopak/*.mopak.log,CE09OSSM-SBD11-01-MOPAK0000,telemetered,Available,Temporarily disabled for mass ingestions
+Ingest.hyd-o-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl11/hyd*/*.hyd*.log,CE09OSSM-SBD11-02-HYDGN0000,telemetered,Available,
+Ingest.velpt-ab-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl11/velpt*/*.velpt*.log,CE09OSSM-SBD11-04-VELPTA000,telemetered,Available,
+Ingest.metbk-a-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl11/metbk/*.metbk.log,CE09OSSM-SBD11-06-METBKA000,telemetered,Available,
+Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl12/syslog/*.syslog.log,CE09OSSM-SBD12-00-DCLENG000,telemetered,Available,
+Ingest.hyd-o-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl12/hyd*/*.hyd*.log,CE09OSSM-SBD12-03-HYDGN0000,telemetered,Available,
+Ingest.pco2a-a-dcl_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl12/pco2a/*.pco2a.log,CE09OSSM-SBD12-04-PCO2AA000,telemetered,Available,
+Ingest.wavss-a-dcl-full_telemetered,/omc_data/whoi/OMC/CE09OSSM/D00003/cg_data/dcl12/wavss/*.wavss.log,CE09OSSM-SBD12-05-WAVSSA000,telemetered,Available,
+#,,CE09OSSM-MFD37-06-CAMDSA000,telemetered,Not Expected,DCL failed
