@@ -1,66 +1,55 @@
 uframe_route,filename_mask,reference_designator,data_source,status,notes
-#Ingest.mopak-o-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl11/mopak/*.mopak.log,CE07SHSM-SBD11-01-MOPAK0000,recovered_host,,Temporarily disabled for mass ingestions
-Ingest.hyd-o-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl11/hyd1/*.hyd1.log,CE07SHSM-SBD11-02-HYDGN0000,recovered_host,,
-Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl11/velpt1/*.velpt1.log,CE07SHSM-SBD11-04-VELPTA000,recovered_host,,
-Ingest.metbk-a-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl11/metbk/*.metbk.log,CE07SHSM-SBD11-06-METBKA000,recovered_host,,
-# ,,,,,
-Ingest.hyd-o-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl12/hyd2/*.hyd2.log,CE07SHSM-SBD12-03-HYDGN0000,recovered_host,,
-Ingest.pco2a-a-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl12/pco2a/*.pco2a.log,CE07SHSM-SBD12-04-PCO2AA000,recovered_host,,
-Ingest.wavss-a-dcl-full_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl12/wavss/*.wavss.log,CE07SHSM-SBD12-05-WAVSSA000,recovered_host,,
-# ,,,,,
-Ingest.adcpt-acfgm-dcl-pd0_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl26/adcpt1/*.adcpt*.log,CE07SHSM-RID26-01-ADCPTA000,recovered_host,,
-Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl26/velpt2/*.velpt*.log,CE07SHSM-RID26-04-VELPTA000,recovered_host,,
-Ingest.phsen-abcdef-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl26/phsen/*.phsen*.log,CE07SHSM-RID26-06-PHSEND000,recovered_host,,
-Ingest.nutnr-b-dcl-conc_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl26/nutnr/*.nutnr.log,CE07SHSM-RID26-07-NUTNRB000,recovered_host,,
-Ingest.spkir-abj-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl26/spkir/*.spkir.log,CE07SHSM-RID26-08-SPKIRB000,recovered_host,,
-# ,,,,,
-Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl27/optaa1/*.optaa*.log,CE07SHSM-RID27-01-OPTAAD000,recovered_host,,
-Ingest.flort-dj-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl27/flort/*.flort.log,CE07SHSM-RID27-02-FLORTD000,recovered_host,,
-Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl27/ctdbp1/*.ctdbp*.log,CE07SHSM-RID27-03-CTDBPC000,recovered_host,,
-Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl27/dosta/*.dosta.log,CE07SHSM-RID27-04-DOSTAD000,recovered_host,,
-# ,,,,,
-#Ingest.vel3d-cd-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl35/vel3d/*.vel3d.log,CE07SHSM-MFD35-01-VEL3DD000,recovered_host,,Instrument not connected to DCL
-#Ingest.presf-abc-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl35/presf/*.presf.log,CE07SHSM-MFD35-02-PRESFB000,recovered_host,,MFD35 DCL failed during this deployment. 
-#Ingest.adcpt-acfgm-dcl-pd0_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/cg_data/dcl35/adcpt2/*.adcpt*.log,CE07SHSM-MFD35-04-ADCPTC000,recovered_host,,MFD35 DCL failed during this deployment. 
-#Ingest.pco2w-abc-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl35/pco2w/*.pco2w.log,CE07SHSM-MFD35-05-PCO2WB000,recovered_host,,MFD35 DCL failed during this deployment. 
-#Ingest.phsen-abcdef-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl35/phsen2/*.phsen*.log,CE07SHSM-MFD35-06-PHSEND000,recovered_host,,MFD35 DCL failed during this deployment. 
-# ,,,,,
-#Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl37/optaa2/*.optaa*.log,CE07SHSM-MFD37-01-OPTAAD000,recovered_host,,MFD37 DCL failed during this deployment. 
-#Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl37/ctdbp2/*.ctdbp*.log,CE07SHSM-MFD37-03-CTDBPC000,recovered_host,,MFD37 DCL failed during this deployment. 
-#Ingest.dosta-abcdjm-ctdbp-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl37/ctdbp2/*.ctdbp*.log,CE07SHSM-MFD37-03-DOSTAD000,recovered_host,,MFD37 DCL failed during this deployment. 
-#,,CE07SHSM-MFD37-06-CAMDSA000,recovered_host,,Instrument not connected to DCL
-#Ingest.zplsc-c-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl37/zplsc/*.zplsc.log,CE07SHSM-MFD37-07-ZPLSCC000,recovered_host,,MFD37 DCL failed during this deployment. No parser exists for this data file.
-# ,,,,,
-Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/irid2shore/cpm_status*.txt,CE07SHSM-SBC11-00-CPMENG000,recovered_host,,
-Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/cpm2/syslog/cpm_status.txt,CE07SHSM-RIC21-00-CPMENG000,recovered_host,,This is a single file updated every minute. There will only be 1 of these files and the data in it will be from the last update.
-#Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/cpm3/syslog/cpm_status.txt,CE07SHSM-MFC31-00-CPMENG000,recovered_host,,Bottle flooded. Data unrecoverable.
-Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl11/syslog/*.syslog.log,CE07SHSM-SBD11-00-DCLENG000,recovered_host,,
-Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl12/syslog/*.syslog.log,CE07SHSM-SBD12-00-DCLENG000,recovered_host,,
-Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl26/syslog/*.syslog.log,CE07SHSM-RID26-00-DCLENG000,recovered_host,,
-Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl27/syslog/*.syslog.log,CE07SHSM-RID27-00-DCLENG000,recovered_host,,
-#Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl35/syslog/*.syslog.log,CE07SHSM-MFD35-00-DCLENG000,recovered_host,,Bottle flooded. Data unrecoverable.
-#Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl37/syslog/*.syslog.log,CE07SHSM-MFD37-00-DCLENG000,recovered_host,,Bottle flooded. Data unrecoverable.
-#,,,,,
-#,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl11/MOPAK_*/,CE07SHSM-SBD11-01-MOPAK0000,recovered_inst,,Instrument does not record internally.
-Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl11/VELPT_*/*velpt*.aqd,CE07SHSM-SBD11-04-VELPTA000,recovered_inst,,
-# ,,,,,
-# Ingest.pco2a-a-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl12/PCO2A_*/*pco2a*.txt,CE07SHSM-SBD12-04-PCO2AA000,recovered_inst,,No parser exists for this data file.
-#,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl12/WAVSS_*/,CE07SHSM-SBD12-05-WAVSSA000,recovered_inst,,Recovered Instrument data. Instrument was redeployed immediately.
-# ,,,,,
-Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl26/ADCPT_*/*adcpt*.000,CE07SHSM-RID26-01-ADCPTA000,recovered_inst,,
-Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl26/VELPT_*/*velpt*.aqd,CE07SHSM-RID26-04-VELPTA000,recovered_inst,,
-Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl26/PHSEN_*/*phsen*.txt,CE07SHSM-RID26-06-PHSEND000,recovered_inst,,
-Ingest.nutnr-b_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl26/NUTNR_*/*nutnr*/*SCH*.DAT,CE07SHSM-RID26-07-NUTNRB000,recovered_inst,,
-# ,,,,,
-Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl27/CTDBP_*/*ctdbp*.hex,CE07SHSM-RID27-03-CTDBPC000,recovered_inst,,
-# ,,,,,
-Ingest.vel3d-cd-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl35/VEL3D_*/*vel3d*.VEC,CE07SHSM-MFD35-01-VEL3DD000,recovered_inst,,
-Ingest.presf-abc_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl35/PRESF_*/*presf*.hex,CE07SHSM-MFD35-02-PRESFB000,recovered_inst,,
-Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl35/ADCPT_*/*.000,CE07SHSM-MFD35-04-ADCPTC000,recovered_inst,,
-Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl35/PCO2W_*/*pco2w*.txt,CE07SHSM-MFD35-05-PCO2WB000,recovered_inst,,
-#Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl35/PHSEN_*/*phsen*.txt,CE07SHSM-MFD35-06-PHSEND000,recovered_inst,,Instrument damaged. No data downloaded.
-# ,,,,,
-Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl37/CTDBP_*/*ctdbp*.hex,CE07SHSM-MFD37-03-CTDBPC000,recovered_inst,,
-Ingest.dosta-abcdjm-ctdbp_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl37/CTDBP_*/*ctdbp*.hex,CE07SHSM-MFD37-03-DOSTAD000,recovered_inst,,
-#,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl37/CAMDS_*/*camds*/dcim/*.png,CE07SHSM-MFD37-06-CAMDSA000,recovered_inst,,
-#,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl37/ZPLSC_*/*zplsc*/*/*.01A,CE07SHSM-MFD37-07-ZPLSCC000,recovered_inst,,No parser exists for this data file.
+#Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/cpm3/syslog/cpm_status.txt,CE07SHSM-MFC31-00-CPMENG000,recovered_host,Not Expected,Bottle flooded. Data unrecoverable.
+#Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl35/syslog/*.syslog.log,CE07SHSM-MFD35-00-DCLENG000,recovered_host,Not Expected,Bottle flooded. Data unrecoverable.
+#Ingest.vel3d-cd-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl35/vel3d/*.vel3d.log,CE07SHSM-MFD35-01-VEL3DD000,recovered_host,Not Expected,Instrument not connected to DCL
+Ingest.vel3d-cd-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl35/VEL3D_*/*vel3d*.VEC,CE07SHSM-MFD35-01-VEL3DD000,recovered_inst,Available,
+#Ingest.presf-abc-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl35/presf/*.presf.log,CE07SHSM-MFD35-02-PRESFB000,recovered_host,Not Expected,MFD35 DCL failed during this deployment. 
+Ingest.presf-abc_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl35/PRESF_*/*presf*.hex,CE07SHSM-MFD35-02-PRESFB000,recovered_inst,Available,
+#Ingest.adcpt-acfgm-dcl-pd0_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/cg_data/dcl35/adcpt2/*.adcpt*.log,CE07SHSM-MFD35-04-ADCPTC000,recovered_host,Not Expected,MFD35 DCL failed during this deployment. 
+Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl35/ADCPT_*/*.000,CE07SHSM-MFD35-04-ADCPTC000,recovered_inst,Available,
+#Ingest.pco2w-abc-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl35/pco2w/*.pco2w.log,CE07SHSM-MFD35-05-PCO2WB000,recovered_host,Not Expected,MFD35 DCL failed during this deployment. 
+Ingest.pco2w-abc_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl35/PCO2W_*/*pco2w*.txt,CE07SHSM-MFD35-05-PCO2WB000,recovered_inst,Available,
+#Ingest.phsen-abcdef-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl35/phsen2/*.phsen*.log,CE07SHSM-MFD35-06-PHSEND000,recovered_host,Not Expected,MFD35 DCL failed during this deployment. 
+#Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl35/PHSEN_*/*phsen*.txt,CE07SHSM-MFD35-06-PHSEND000,recovered_inst,Not Expected,Instrument damaged. No data downloaded.
+#Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl37/syslog/*.syslog.log,CE07SHSM-MFD37-00-DCLENG000,recovered_host,Not Expected,Bottle flooded. Data unrecoverable.
+#Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl37/optaa2/*.optaa*.log,CE07SHSM-MFD37-01-OPTAAD000,recovered_host,Not Expected,"Communications with MFN failed immediately upon deployment, no data will be available from this instrument"
+#Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl37/ctdbp2/*.ctdbp*.log,CE07SHSM-MFD37-03-CTDBPC000,recovered_host,Not Expected,MFD37 DCL failed during this deployment. 
+Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl37/CTDBP_*/*ctdbp*.hex,CE07SHSM-MFD37-03-CTDBPC000,recovered_inst,Available,
+#Ingest.dosta-abcdjm-ctdbp-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl37/ctdbp2/*.ctdbp*.log,CE07SHSM-MFD37-03-DOSTAD000,recovered_host,Not Expected,MFD37 DCL failed during this deployment. 
+Ingest.dosta-abcdjm-ctdbp_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl37/CTDBP_*/*ctdbp*.hex,CE07SHSM-MFD37-03-DOSTAD000,recovered_inst,Available,
+#Ingest.zplsc-c-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl37/zplsc/*.zplsc.log,CE07SHSM-MFD37-07-ZPLSCC000,recovered_host,Not Expected,MFD37 DCL failed during this deployment. No parser exists for this data file.
+Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/cpm2/syslog/cpm_status.txt,CE07SHSM-RIC21-00-CPMENG000,recovered_host,Available,This is a single file updated every minute. There will only be 1 of these files and the data in it will be from the last update.
+Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl26/syslog/*.syslog.log,CE07SHSM-RID26-00-DCLENG000,recovered_host,Available,
+Ingest.adcpt-acfgm-dcl-pd0_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl26/adcpt1/*.adcpt*.log,CE07SHSM-RID26-01-ADCPTA000,recovered_host,Available,
+Ingest.adcps-jln_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl26/ADCPT_*/*adcpt*.000,CE07SHSM-RID26-01-ADCPTA000,recovered_inst,Available,
+Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl26/velpt2/*.velpt*.log,CE07SHSM-RID26-04-VELPTA000,recovered_host,Available,
+Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl26/VELPT_*/*velpt*.aqd,CE07SHSM-RID26-04-VELPTA000,recovered_inst,Available,
+Ingest.phsen-abcdef-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl26/phsen/*.phsen*.log,CE07SHSM-RID26-06-PHSEND000,recovered_host,Available,
+Ingest.phsen-abcdef_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl26/PHSEN_*/*phsen*.txt,CE07SHSM-RID26-06-PHSEND000,recovered_inst,Available,
+Ingest.nutnr-b-dcl-conc_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl26/nutnr/*.nutnr.log,CE07SHSM-RID26-07-NUTNRB000,recovered_host,Available,
+Ingest.nutnr-b_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl26/NUTNR_*/*nutnr*/*SCH*.DAT,CE07SHSM-RID26-07-NUTNRB000,recovered_inst,Available,
+Ingest.spkir-abj-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl26/spkir/*.spkir.log,CE07SHSM-RID26-08-SPKIRB000,recovered_host,Available,
+Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl27/syslog/*.syslog.log,CE07SHSM-RID27-00-DCLENG000,recovered_host,Available,
+Ingest.optaa-dj-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl27/optaa1/*.optaa*.log,CE07SHSM-RID27-01-OPTAAD000,recovered_host,Available,
+Ingest.flort-dj-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl27/flort/*.flort.log,CE07SHSM-RID27-02-FLORTD000,recovered_host,Available,
+Ingest.ctdbp-cdef-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl27/ctdbp1/*.ctdbp*.log,CE07SHSM-RID27-03-CTDBPC000,recovered_host,Available,
+Ingest.ctdbp-cdef_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl27/CTDBP_*/*ctdbp*.hex,CE07SHSM-RID27-03-CTDBPC000,recovered_inst,Available,
+Ingest.dosta-abcdjm-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl27/dosta/*.dosta.log,CE07SHSM-RID27-04-DOSTAD000,recovered_host,Available,
+#,,CE07SHSM-RID27-04-DOSTAD000,recovered_inst,Missing,missing instrument recovered data - no driver/ parser
+Ingest.cg-cpm-eng-cpm_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/irid2shore/cpm_status*.txt,CE07SHSM-SBC11-00-CPMENG000,recovered_host,Available,
+Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl11/syslog/*.syslog.log,CE07SHSM-SBD11-00-DCLENG000,recovered_host,Available,
+#Ingest.mopak-o-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl11/mopak/*.mopak.log,CE07SHSM-SBD11-01-MOPAK0000,recovered_host,Available,Temporarily disabled for mass ingestions
+Ingest.hyd-o-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl11/hyd1/*.hyd1.log,CE07SHSM-SBD11-02-HYDGN0000,recovered_host,Available,
+Ingest.velpt-ab-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl11/velpt1/*.velpt1.log,CE07SHSM-SBD11-04-VELPTA000,recovered_host,Available,
+Ingest.velpt-ab_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl11/VELPT_*/*velpt*.aqd,CE07SHSM-SBD11-04-VELPTA000,recovered_inst,Available,
+Ingest.metbk-a-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl11/metbk/*.metbk.log,CE07SHSM-SBD11-06-METBKA000,recovered_host,Available,
+Ingest.cg-dcl-eng-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl12/syslog/*.syslog.log,CE07SHSM-SBD12-00-DCLENG000,recovered_host,Available,
+Ingest.hyd-o-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl12/hyd2/*.hyd2.log,CE07SHSM-SBD12-03-HYDGN0000,recovered_host,Available,
+Ingest.pco2a-a-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl12/pco2a/*.pco2a.log,CE07SHSM-SBD12-04-PCO2AA000,recovered_host,Available,
+Ingest.wavss-a-dcl-full_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl12/wavss/*.wavss.log,CE07SHSM-SBD12-05-WAVSSA000,recovered_host,Available,
+#,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl11/MOPAK_*/,CE07SHSM-SBD11-01-MOPAK0000,recovered_inst,Not Expected,Instrument does not record internally.
+# Ingest.pco2a-a-dcl_recovered,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl12/PCO2A_*/*pco2a*.txt,CE07SHSM-SBD12-04-PCO2AA000,recovered_inst,Pending,No parser exists for this data file.
+#,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl12/WAVSS_*/,CE07SHSM-SBD12-05-WAVSSA000,recovered_inst,Missing,Instrument was redeployed immediately.
+#,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl37/ZPLSC_*/*zplsc*/*/*.01A,CE07SHSM-MFD37-07-ZPLSCC000,recovered_inst,Missing,No parser exists for this data file.
+#,,CE07SHSM-MFD37-06-CAMDSA000,recovered_host,Not Expected,Instrument not connected to DCL
+#,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl37/CAMDS_*/*camds*/dcim/*.png,CE07SHSM-MFD37-06-CAMDSA000,recovered_inst,Missing,

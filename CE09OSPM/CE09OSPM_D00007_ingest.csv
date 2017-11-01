@@ -1,8 +1,8 @@
 uframe_route,filename_mask,reference_designator,data_source,status,notes
-Ingest.vel3d-k-wfp-stc_telemetered,/omc_data/whoi/OMC/CE09OSPM/D00007/imm/mmp/A*.DEC,CE09OSPM-WFP01-01-VEL3DK000,telemetered,,
-Ingest.ctdpf-ckl-wfp_telemetered,/omc_data/whoi/OMC/CE09OSPM/D00007/imm/mmp/C*.DAT,CE09OSPM-WFP01-03-CTDPFK000,telemetered,,
-Ingest.dofst-k-wfp_telemetered,/omc_data/whoi/OMC/CE09OSPM/D00007/imm/mmp/C*.DAT,CE09OSPM-WFP01-02-DOFSTK000,telemetered,,
-Ingest.wfp-eng-stc-imodem_telemetered,/omc_data/whoi/OMC/CE09OSPM/D00007/imm/mmp/E*.DAT,CE09OSPM-WFP01-00-WFPENG000,telemetered,,
-Ingest.flort-kn-stc-imodem_telemetered,/omc_data/whoi/OMC/CE09OSPM/D00007/imm/mmp/E*.DAT,CE09OSPM-WFP01-04-FLORTK000,telemetered,,
-Ingest.parad-k-stc-imodem_telemetered,/omc_data/whoi/OMC/CE09OSPM/D00007/imm/mmp/E*.DAT,CE09OSPM-WFP01-05-PARADK000,telemetered,,
-#Ingest.cg-stc-eng-stc_telemetered,/omc_data/whoi/OMC/CE09OSPM/D00007/irid2shore/stc_status.*_*.txt,CE09OSPM-SBS01-00-STCENG000,telemetered,,Temporarily disabled for mass ingestions
+#Ingest.cg-stc-eng-stc_telemetered,/omc_data/whoi/OMC/CE09OSPM/D00007/irid2shore/stc_status.*_*.txt,CE09OSPM-SBS01-00-STCENG000,telemetered,Available,Temporarily disabled for mass ingestions
+Ingest.wfp-eng-stc-imodem_telemetered,/omc_data/whoi/OMC/CE09OSPM/D00007/imm/mmp/E*.DAT,CE09OSPM-WFP01-00-WFPENG000,telemetered,Available,
+Ingest.vel3d-k-wfp-stc_telemetered,/omc_data/whoi/OMC/CE09OSPM/D00007/imm/mmp/A*.DEC,CE09OSPM-WFP01-01-VEL3DK000,telemetered,Available,
+Ingest.dofst-k-wfp_telemetered,/omc_data/whoi/OMC/CE09OSPM/D00007/imm/mmp/C*.DAT,CE09OSPM-WFP01-02-DOFSTK000,telemetered,Available,
+Ingest.ctdpf-ckl-wfp_telemetered,/omc_data/whoi/OMC/CE09OSPM/D00007/imm/mmp/C*.DAT,CE09OSPM-WFP01-03-CTDPFK000,telemetered,Available,
+Ingest.flort-kn-stc-imodem_telemetered,/omc_data/whoi/OMC/CE09OSPM/D00007/imm/mmp/E*.DAT,CE09OSPM-WFP01-04-FLORTK000,telemetered,Available,
+Ingest.parad-k-stc-imodem_telemetered,/omc_data/whoi/OMC/CE09OSPM/D00007/imm/mmp/E*.DAT,CE09OSPM-WFP01-05-PARADK000,telemetered,Available,
