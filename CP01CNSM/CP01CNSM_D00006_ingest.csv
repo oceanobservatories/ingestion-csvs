@@ -20,7 +20,7 @@ Ingest.spkir-abj-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00006/cg_data/dcl2
 Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00006/cg_data/dcl27/syslog*/*syslog*.log,CP01CNSM-RID27-00-DCLENG000,telemetered,Available,
 Ingest.optaa-dj-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00006/cg_data/dcl27/optaa*/*optaa*.log,CP01CNSM-RID27-01-OPTAAD000,telemetered,Available,
 Ingest.flort-dj-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00006/cg_data/dcl27/flort*/*flort*.log,CP01CNSM-RID27-02-FLORTD000,telemetered,Available,
-Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00006/cg_data/dcl27/ctdbp*/*ctdbp*.log,CP01CNSM-RID27-03-CTDBPC000,telemetered,Available,
+Ingest.ctdbp-cdef-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00006/cg_data/dcl27/ctdbp*/*ctdbp*.log,CP01CNSM-RID27-03-CTDBPC000,telemetered,Not Expected,folder only contains test data from before the deployment
 Ingest.dosta-abcdjm-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00006/cg_data/dcl27/dosta*/*dosta*.log,CP01CNSM-RID27-04-DOSTAD000,telemetered,Available,
 Ingest.cg-cpm-eng-cpm_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00006/irid2shore/cpm_status*.txt,CP01CNSM-SBC11-00-CPMENG000,telemetered,Available,
 Ingest.cg-dcl-eng-dcl_telemetered,/omc_data/whoi/OMC/CP01CNSM/D00006/cg_data/dcl11/syslog*/*syslog*.log,CP01CNSM-SBD11-00-DCLENG000,telemetered,Available,
