@@ -1,6 +1,6 @@
-uframe_route,filename_mask,reference_designator,data_source,status,notes
-Ingest.glider-eng-glider_telemetered,/omc_data/whoi/OMC/CE05MOAS-GL319/D00005/merged-from-glider/ce_*.mrg,CE05MOAS-GL319-00-ENG000000,telemetered,Available,
-Ingest.parad-m-glider_telemetered,/omc_data/whoi/OMC/CE05MOAS-GL319/D00005/merged-from-glider/ce_*.mrg,CE05MOAS-GL319-01-PARADM000,telemetered,Available,
-Ingest.flort-m-glider_telemetered,/omc_data/whoi/OMC/CE05MOAS-GL319/D00005/merged-from-glider/ce_*.mrg,CE05MOAS-GL319-02-FLORTM000,telemetered,Available,
-Ingest.dosta-abcdjm-glider_telemetered,/omc_data/whoi/OMC/CE05MOAS-GL319/D00005/merged-from-glider/ce_*.mrg,CE05MOAS-GL319-04-DOSTAM000,telemetered,Available,
-Ingest.ctdgv-m-glider_telemetered,/omc_data/whoi/OMC/CE05MOAS-GL319/D00005/merged-from-glider/ce_*.mrg,CE05MOAS-GL319-05-CTDGVM000,telemetered,Available,
+uframe_route,parser,filename_mask,reference_designator,data_source,status,notes
+Ingest.glider-eng-glider_telemetered,mi.dataset.driver.moas.gl.engineering.glider_eng_glider_telemetered_driver,/omc_data/whoi/OMC/CE05MOAS-GL319/D00005/merged-from-glider/ce_*.mrg,CE05MOAS-GL319-00-ENG000000,telemetered,Available,
+Ingest.parad-m-glider_telemetered,mi.dataset.driver.moas.gl.parad.parad_m_glider_telemetered_driver,/omc_data/whoi/OMC/CE05MOAS-GL319/D00005/merged-from-glider/ce_*.mrg,CE05MOAS-GL319-01-PARADM000,telemetered,Available,
+Ingest.flort-m-glider_telemetered,mi.dataset.driver.moas.gl.flort_m.flort_m_glider_telemetered_driver,/omc_data/whoi/OMC/CE05MOAS-GL319/D00005/merged-from-glider/ce_*.mrg,CE05MOAS-GL319-02-FLORTM000,telemetered,Available,
+Ingest.dosta-abcdjm-glider_telemetered,mi.dataset.driver.moas.gl.dosta.dosta_abcdjm_glider_telemetered_driver,/omc_data/whoi/OMC/CE05MOAS-GL319/D00005/merged-from-glider/ce_*.mrg,CE05MOAS-GL319-04-DOSTAM000,telemetered,Available,
+Ingest.ctdgv-m-glider_telemetered,mi.dataset.driver.moas.gl.ctdgv.ctdgv_m_glider_telemetered_driver,/omc_data/whoi/OMC/CE05MOAS-GL319/D00005/merged-from-glider/ce_*.mrg,CE05MOAS-GL319-05-CTDGVM000,telemetered,Available,

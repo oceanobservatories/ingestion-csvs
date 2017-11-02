@@ -1,7 +1,7 @@
-uframe_route,filename_mask,reference_designator,data_source,status,notes
-Ingest.glider-eng-glider_recovered,/omc_data/whoi/OMC/CE05MOAS-GL382/R00003/merged/ce_*.mrg,CE05MOAS-GL382-00-ENG000000,recovered_host,Missing,
-Ingest.parad-m-glider_recovered,/omc_data/whoi/OMC/CE05MOAS-GL382/R00003/merged/ce_*.mrg,CE05MOAS-GL382-01-PARADM000,recovered_host,Missing,
-Ingest.flort-m-glider_recovered,/omc_data/whoi/OMC/CE05MOAS-GL382/R00003/merged/ce_*.mrg,CE05MOAS-GL382-02-FLORTM000,recovered_host,Missing,
-Ingest.adcpa-m-glider_recovered,/omc_data/whoi/OMC/CE05MOAS-GL382/R00003/dvl/*.PD0,CE05MOAS-GL382-03-ADCPAM000,recovered_host,Missing,
-Ingest.dosta-abcdjm-glider_recovered,/omc_data/whoi/OMC/CE05MOAS-GL382/R00003/merged/ce_*.mrg,CE05MOAS-GL382-04-DOSTAM000,recovered_host,Missing,
-Ingest.ctdgv-m-glider_recovered,/omc_data/whoi/OMC/CE05MOAS-GL382/R00003/merged/ce_*.mrg,CE05MOAS-GL382-05-CTDGVM000,recovered_host,Missing,
+uframe_route,parser,filename_mask,reference_designator,data_source,status,notes
+Ingest.glider-eng-glider_recovered,mi.dataset.driver.moas.gl.engineering.glider_eng_glider_recovered_driver,/omc_data/whoi/OMC/CE05MOAS-GL382/R00003/merged/ce_*.mrg,CE05MOAS-GL382-00-ENG000000,recovered_host,Missing,
+Ingest.parad-m-glider_recovered,mi.dataset.driver.moas.gl.parad.parad_m_glider_recovered_driver,/omc_data/whoi/OMC/CE05MOAS-GL382/R00003/merged/ce_*.mrg,CE05MOAS-GL382-01-PARADM000,recovered_host,Missing,
+Ingest.flort-m-glider_recovered,mi.dataset.driver.moas.gl.flort_m.flort_m_glider_recovered_driver,/omc_data/whoi/OMC/CE05MOAS-GL382/R00003/merged/ce_*.mrg,CE05MOAS-GL382-02-FLORTM000,recovered_host,Missing,
+Ingest.adcpa-m-glider_recovered,mi.dataset.driver.moas.gl.adcpa.adcpa_m_glider_recovered_driver,/omc_data/whoi/OMC/CE05MOAS-GL382/R00003/dvl/*.PD0,CE05MOAS-GL382-03-ADCPAM000,recovered_host,Missing,
+Ingest.dosta-abcdjm-glider_recovered,mi.dataset.driver.moas.gl.dosta.dosta_abcdjm_glider_recovered_driver,/omc_data/whoi/OMC/CE05MOAS-GL382/R00003/merged/ce_*.mrg,CE05MOAS-GL382-04-DOSTAM000,recovered_host,Missing,
+Ingest.ctdgv-m-glider_recovered,mi.dataset.driver.moas.gl.ctdgv.ctdgv_m_glider_recovered_driver,/omc_data/whoi/OMC/CE05MOAS-GL382/R00003/merged/ce_*.mrg,CE05MOAS-GL382-05-CTDGVM000,recovered_host,Missing,
