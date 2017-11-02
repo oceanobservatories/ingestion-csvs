@@ -1,30 +1,30 @@
-uframe_route,parser,filename_mask,reference_designator,data_source,status,notes
-#,,,CE01ISSM-MFD37-06-CAMDSA000,telemetered,Not Deployed,
-Ingest.cg-dcl-eng-dcl_telemetered,mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl16/syslog/*.syslog.log,CE01ISSM-RID16-00-DCLENG000,telemetered,Available,
-Ingest.optaa-dj-dcl_telemetered,mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl16/optaa*/*.optaa*.log,CE01ISSM-RID16-01-OPTAAD000,telemetered,Available,
-Ingest.flort-dj-dcl_telemetered,mi.dataset.driver.flort_dj.dcl.flort_dj_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl16/flort/*.flort.log,CE01ISSM-RID16-02-FLORTD000,telemetered,Available,
-Ingest.ctdbp-cdef-dcl_telemetered,mi.dataset.driver.ctdbp_cdef.dcl.ctdbp_cdef_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl16/ctdbp1/*.ctdbp*.log,CE01ISSM-RID16-03-CTDBPC000,telemetered,Available,Uses record stream ctdbp_cdef_dcl_ce_instrument
-Ingest.dosta-abcdjm-ctdbp-dcl_telemetered,mi.dataset.driver.dosta_abcdjm.ctdbp.dcl.dosta_abcdjm_ctdbp_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl16/ctdbp1/*.ctdbp*.log,CE01ISSM-RID16-03-DOSTAD000,telemetered,Available,The data for the DOSTA is available in */dcl16/ctdbp1.  Uses record stream ctdbp_cdef_dcl_ce_dosta.
-Ingest.velpt-ab-dcl_telemetered,mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl16/velpt*/*.velpt*.log,CE01ISSM-RID16-04-VELPTA000,telemetered,Available,
-Ingest.pco2w-abc-dcl_telemetered,mi.dataset.driver.pco2w_abc.dcl.pco2w_abc_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl16/pco2w*/*.pco2w*.log,CE01ISSM-RID16-05-PCO2WB000,telemetered,Available,
-Ingest.phsen-abcdef-dcl_telemetered,mi.dataset.driver.phsen_abcdef.dcl.phsen_abcdef_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl16/phsen*/*.phsen*.log,CE01ISSM-RID16-06-PHSEND000,telemetered,Available,
-Ingest.nutnr-b-dcl-conc_telemetered,mi.dataset.driver.nutnr_b.dcl_conc.nutnr_b_dcl_conc_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl16/nutnr/*.nutnr.log,CE01ISSM-RID16-07-NUTNRB000,telemetered,Available,
-Ingest.spkir-abj-dcl_telemetered,mi.dataset.driver.spkir_abj.dcl.spkir_abj_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl16/spkir/*.spkir.log,CE01ISSM-RID16-08-SPKIRB000,telemetered,Available,
-Ingest.cg-cpm-eng-cpm_telemetered,mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00004/irid2shore/cpm_status*.txt,CE01ISSM-SBC11-00-CPMENG000,telemetered,Available,
-Ingest.cg-dcl-eng-dcl_telemetered,mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl17/syslog/*.syslog.log,CE01ISSM-SBD17-00-DCLENG000,telemetered,Available,
-#Ingest.mopak-o-dcl_telemetered,mi.dataset.driver.cg_stc_eng.stc.mopak_o_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl17/mopak/*.mopak.log,CE01ISSM-SBD17-01-MOPAK0000,telemetered,Available,Temporarily disabled for mass ingestions
-Ingest.velpt-ab-dcl_telemetered,mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl17/velpt*/*.velpt*.log,CE01ISSM-SBD17-04-VELPTA000,telemetered,Available,
-#,,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl17/ctdbp*/*.ctdbp*.log,CE01ISSM-SBD17-06-CTDBPC000,telemetered,Pending,"CTDBP with FLORT attached, no driver currently exists for this data set"
-#,,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl17/ctdbp*/*.ctdbp*.log,CE01ISSM-SBD17-06-FLORTD000,telemetered,Pending,"CTDBP with FLORT attached, no driver currently exists for this data set"
-#,,,CE01ISSM-MFD35-01-VEL3DD000,telemetered,Not Expected,No CPM/DCL systems on MFN. All instruments set to internally record
-#,,,CE01ISSM-MFD35-02-PRESFA000,telemetered,Not Expected,No CPM/DCL systems on MFN. All instruments set to internally record
-#,,,CE01ISSM-MFD35-04-ADCPTM000,telemetered,Not Expected,No CPM/DCL systems on MFN. All instruments set to internally record
-#,,,CE01ISSM-MFD35-05-PCO2WB000,telemetered,Not Expected,No CPM/DCL systems on MFN. All instruments set to internally record
-#,,,CE01ISSM-MFD35-06-PHSEND000,telemetered,Not Deployed,Instrument not available for deployment
-#,,,CE01ISSM-MFD37-01-OPTAAD000,telemetered,Not Deployed,No CPM/DCL systems on MFN. All instruments set to internally record
-#,,,CE01ISSM-MFD37-03-CTDBPC000,telemetered,Not Expected,No CPM/DCL systems on MFN. All instruments set to internally record
-#,,,CE01ISSM-MFD37-03-DOSTAD000,Telemetered,Not Expected,No CPM/DCL systems on MFN. All instruments set to internally record
-#,,,CE01ISSM-MFD37-07-ZPLSCC000,telemetered,Not Expected,No CPM/DCL systems on MFN. All instruments set to internally record
-#Ingest.cg-cpm-eng-cpm_recovered,mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_recovered_driver,/omc_data/whoi/OMC/CE01ISSM/D00004/cpm3/syslog/cpm_status.txt,CE01ISSM-MFC31-00-CPMENG000,telemetered,Not Deployed,No CPM/DCL systems on MFN. All instruments set to internally record
-#Ingest.cg-dcl-eng-dcl_telemetered,mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,,CE01ISSM-MFD35-00-DCLENG000,telemetered,Not Deployed,No CPM/DCL systems on MFN. All instruments set to internally record
-#,,,CE01ISSM-MFD37-00-DCLENG000,telemetered,Not Deployed,No CPM/DCL systems on MFN. All instruments set to internally record
+parser,filename_mask,reference_designator,data_source,status,notes
+#,,CE01ISSM-MFD37-06-CAMDSA000,telemetered,Not Deployed,
+mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl16/syslog/*.syslog.log,CE01ISSM-RID16-00-DCLENG000,telemetered,Available,
+mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl16/optaa*/*.optaa*.log,CE01ISSM-RID16-01-OPTAAD000,telemetered,Available,
+mi.dataset.driver.flort_dj.dcl.flort_dj_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl16/flort/*.flort.log,CE01ISSM-RID16-02-FLORTD000,telemetered,Available,
+mi.dataset.driver.ctdbp_cdef.dcl.ctdbp_cdef_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl16/ctdbp1/*.ctdbp*.log,CE01ISSM-RID16-03-CTDBPC000,telemetered,Available,Uses record stream ctdbp_cdef_dcl_ce_instrument
+mi.dataset.driver.dosta_abcdjm.ctdbp.dcl.dosta_abcdjm_ctdbp_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl16/ctdbp1/*.ctdbp*.log,CE01ISSM-RID16-03-DOSTAD000,telemetered,Available,The data for the DOSTA is available in */dcl16/ctdbp1.  Uses record stream ctdbp_cdef_dcl_ce_dosta.
+mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl16/velpt*/*.velpt*.log,CE01ISSM-RID16-04-VELPTA000,telemetered,Available,
+mi.dataset.driver.pco2w_abc.dcl.pco2w_abc_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl16/pco2w*/*.pco2w*.log,CE01ISSM-RID16-05-PCO2WB000,telemetered,Available,
+mi.dataset.driver.phsen_abcdef.dcl.phsen_abcdef_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl16/phsen*/*.phsen*.log,CE01ISSM-RID16-06-PHSEND000,telemetered,Available,
+mi.dataset.driver.nutnr_b.dcl_conc.nutnr_b_dcl_conc_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl16/nutnr/*.nutnr.log,CE01ISSM-RID16-07-NUTNRB000,telemetered,Available,
+mi.dataset.driver.spkir_abj.dcl.spkir_abj_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl16/spkir/*.spkir.log,CE01ISSM-RID16-08-SPKIRB000,telemetered,Available,
+mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00004/irid2shore/cpm_status*.txt,CE01ISSM-SBC11-00-CPMENG000,telemetered,Available,
+mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl17/syslog/*.syslog.log,CE01ISSM-SBD17-00-DCLENG000,telemetered,Available,
+#mi.dataset.driver.cg_stc_eng.stc.mopak_o_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl17/mopak/*.mopak.log,CE01ISSM-SBD17-01-MOPAK0000,telemetered,Available,Temporarily disabled for mass ingestions
+mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl17/velpt*/*.velpt*.log,CE01ISSM-SBD17-04-VELPTA000,telemetered,Available,
+#,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl17/ctdbp*/*.ctdbp*.log,CE01ISSM-SBD17-06-CTDBPC000,telemetered,Pending,"CTDBP with FLORT attached, no driver currently exists for this data set"
+#,/omc_data/whoi/OMC/CE01ISSM/D00004/dcl17/ctdbp*/*.ctdbp*.log,CE01ISSM-SBD17-06-FLORTD000,telemetered,Pending,"CTDBP with FLORT attached, no driver currently exists for this data set"
+#,,CE01ISSM-MFD35-01-VEL3DD000,telemetered,Not Expected,No CPM/DCL systems on MFN. All instruments set to internally record
+#,,CE01ISSM-MFD35-02-PRESFA000,telemetered,Not Expected,No CPM/DCL systems on MFN. All instruments set to internally record
+#,,CE01ISSM-MFD35-04-ADCPTM000,telemetered,Not Expected,No CPM/DCL systems on MFN. All instruments set to internally record
+#,,CE01ISSM-MFD35-05-PCO2WB000,telemetered,Not Expected,No CPM/DCL systems on MFN. All instruments set to internally record
+#,,CE01ISSM-MFD35-06-PHSEND000,telemetered,Not Deployed,Instrument not available for deployment
+#,,CE01ISSM-MFD37-01-OPTAAD000,telemetered,Not Deployed,No CPM/DCL systems on MFN. All instruments set to internally record
+#,,CE01ISSM-MFD37-03-CTDBPC000,telemetered,Not Expected,No CPM/DCL systems on MFN. All instruments set to internally record
+#,,CE01ISSM-MFD37-03-DOSTAD000,Telemetered,Not Expected,No CPM/DCL systems on MFN. All instruments set to internally record
+#,,CE01ISSM-MFD37-07-ZPLSCC000,telemetered,Not Expected,No CPM/DCL systems on MFN. All instruments set to internally record
+#mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_recovered_driver,/omc_data/whoi/OMC/CE01ISSM/D00004/cpm3/syslog/cpm_status.txt,CE01ISSM-MFC31-00-CPMENG000,telemetered,Not Deployed,No CPM/DCL systems on MFN. All instruments set to internally record
+#mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,,CE01ISSM-MFD35-00-DCLENG000,telemetered,Not Deployed,No CPM/DCL systems on MFN. All instruments set to internally record
+#,,CE01ISSM-MFD37-00-DCLENG000,telemetered,Not Deployed,No CPM/DCL systems on MFN. All instruments set to internally record

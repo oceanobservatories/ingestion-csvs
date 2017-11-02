@@ -1,6 +1,6 @@
-uframe_route,parser,filename_mask,reference_designator,data_source,status,notes
-#Ingest.glider-eng-glider_telemetered,mi.dataset.driver.moas.gl.engineering.glider_eng_glider_telemetered_driver,/omc_data/whoi/OMC/CP05MOAS-GL388/D00006/merged-from-glider/cp_*.mrg,CP05MOAS-GL388-00-ENG000000,telemetered,Expected,
-#Ingest.parad-m-glider_telemetered,mi.dataset.driver.moas.gl.parad.parad_m_glider_telemetered_driver,/omc_data/whoi/OMC/CP05MOAS-GL388/D00006/merged-from-glider/cp_*.mrg,CP05MOAS-GL388-05-PARADM000,telemetered,Expected,
-#Ingest.flort-m-glider_telemetered,mi.dataset.driver.moas.gl.flort_m.flort_m_glider_telemetered_driver,/omc_data/whoi/OMC/CP05MOAS-GL388/D00006/merged-from-glider/cp_*.mrg,CP05MOAS-GL388-02-FLORTM000,telemetered,Expected,
-#Ingest.dosta-abcdjm-glider_telemetered,mi.dataset.driver.moas.gl.dosta.dosta_abcdjm_glider_telemetered_driver,/omc_data/whoi/OMC/CP05MOAS-GL388/D00006/merged-from-glider/cp_*.mrg,CP05MOAS-GL388-04-DOSTAM000,telemetered,Expected,
-#Ingest.ctdgv-m-glider_telemetered,mi.dataset.driver.moas.gl.ctdgv.ctdgv_m_glider_telemetered_driver,/omc_data/whoi/OMC/CP05MOAS-GL388/D00006/merged-from-glider/cp_*.mrg,CP05MOAS-GL388-03-CTDGVM000,telemetered,Expected,
+parser,filename_mask,reference_designator,data_source,status,notes
+#mi.dataset.driver.moas.gl.engineering.glider_eng_glider_telemetered_driver,/omc_data/whoi/OMC/CP05MOAS-GL388/D00006/merged-from-glider/cp_*.mrg,CP05MOAS-GL388-00-ENG000000,telemetered,Expected,
+#mi.dataset.driver.moas.gl.parad.parad_m_glider_telemetered_driver,/omc_data/whoi/OMC/CP05MOAS-GL388/D00006/merged-from-glider/cp_*.mrg,CP05MOAS-GL388-05-PARADM000,telemetered,Expected,
+#mi.dataset.driver.moas.gl.flort_m.flort_m_glider_telemetered_driver,/omc_data/whoi/OMC/CP05MOAS-GL388/D00006/merged-from-glider/cp_*.mrg,CP05MOAS-GL388-02-FLORTM000,telemetered,Expected,
+#mi.dataset.driver.moas.gl.dosta.dosta_abcdjm_glider_telemetered_driver,/omc_data/whoi/OMC/CP05MOAS-GL388/D00006/merged-from-glider/cp_*.mrg,CP05MOAS-GL388-04-DOSTAM000,telemetered,Expected,
+#mi.dataset.driver.moas.gl.ctdgv.ctdgv_m_glider_telemetered_driver,/omc_data/whoi/OMC/CP05MOAS-GL388/D00006/merged-from-glider/cp_*.mrg,CP05MOAS-GL388-03-CTDGVM000,telemetered,Expected,
