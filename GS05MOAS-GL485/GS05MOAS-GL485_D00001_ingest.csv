@@ -1,5 +1,5 @@
-uframe_route,filename_mask,reference_designator,data_source,status,notes
-Ingest.glider-eng-glider_telemetered,/omc_data/whoi/OMC/GS05MOAS-GL485/D00001/merged-from-glider/gs_*.mrg,GS05MOAS-GL485-00-ENG000000,telemetered,Available,
-Ingest.flord-m-glider_telemetered,/omc_data/whoi/OMC/GS05MOAS-GL485/D00001/merged-from-glider/gs_*.mrg,GS05MOAS-GL485-01-FLORDM000,telemetered,Available,
-Ingest.dosta-abcdjm-glider_telemetered,/omc_data/whoi/OMC/GS05MOAS-GL485/D00001/merged-from-glider/gs_*.mrg,GS05MOAS-GL485-02-DOSTAM000,telemetered,Available,
-Ingest.ctdgv-m-glider_telemetered,/omc_data/whoi/OMC/GS05MOAS-GL485/D00001/merged-from-glider/gs_*.mrg,GS05MOAS-GL485-04-CTDGVM000,telemetered,Available,
+uframe_route,parser,filename_mask,reference_designator,data_source,status,notes
+Ingest.glider-eng-glider_telemetered,mi.dataset.driver.moas.gl.engineering.glider_eng_glider_telemetered_driver,/omc_data/whoi/OMC/GS05MOAS-GL485/D00001/merged-from-glider/gs_*.mrg,GS05MOAS-GL485-00-ENG000000,telemetered,Available,
+Ingest.flord-m-glider_telemetered,mi.dataset.driver.moas.gl.flord_m.flord_m_glider_telemetered_driver,/omc_data/whoi/OMC/GS05MOAS-GL485/D00001/merged-from-glider/gs_*.mrg,GS05MOAS-GL485-01-FLORDM000,telemetered,Available,
+Ingest.dosta-abcdjm-glider_telemetered,mi.dataset.driver.moas.gl.dosta.dosta_abcdjm_glider_telemetered_driver,/omc_data/whoi/OMC/GS05MOAS-GL485/D00001/merged-from-glider/gs_*.mrg,GS05MOAS-GL485-02-DOSTAM000,telemetered,Available,
+Ingest.ctdgv-m-glider_telemetered,mi.dataset.driver.moas.gl.ctdgv.ctdgv_m_glider_telemetered_driver,/omc_data/whoi/OMC/GS05MOAS-GL485/D00001/merged-from-glider/gs_*.mrg,GS05MOAS-GL485-04-CTDGVM000,telemetered,Available,

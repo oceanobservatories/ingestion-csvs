@@ -1,8 +1,8 @@
-uframe_route,filename_mask,reference_designator,data_source,status,notes
-#Ingest.glider-eng-glider_recovered,/omc_data/whoi/OMC/GI05MOAS-PG577/R00001/merged/gi*.mrg,GI05MOAS-PG577-00-ENG000000,recovered_host,Not Expected,Glider leaked. No data expected
-#Ingest.ctdgv-m-glider_recovered,/omc_data/whoi/OMC/GI05MOAS-PG577/R00001/merged/gi*.mrg,GI05MOAS-PG577-01-CTDGVM000,recovered_host,Not Expected,Glider leaked. No data expected
-#Ingest.dosta-abcdjm-glider_recovered,/omc_data/whoi/OMC/GI05MOAS-PG577/R00001/merged/gi*.mrg,GI05MOAS-PG577-02-DOSTAM000,recovered_host,Not Expected,Glider leaked. No data expected
-#Ingest.flort-m-glider_recovered,/omc_data/whoi/OMC/GI05MOAS-PG577/R00001/merged/gi*.mrg,GI05MOAS-PG577-03-FLORTM000,recovered_host,Not Expected,Glider leaked. No data expected
-#Ingest.flort-o-glider_recovered,/omc_data/whoi/OMC/GI05MOAS-PG577/R00001/merged/gi*.mrg,GI05MOAS-PG577-04-FLORTO000,recovered_host,Not Expected,Glider leaked. No data expected
-#Ingest.nutnr-m-glider_telemetered,/omc_data/whoi/OMC/GI05MOAS-PG577/R00001/merged/gi*.mrg,GI05MOAS-PG577-05-NUTNRM000,recovered_host,Not Expected,Glider leaked. No data expected
-#Ingest.parad-m-glider_recovered,/omc_data/whoi/OMC/GI05MOAS-PG577/R00001/merged/gi*.mrg,GI05MOAS-PG577-06-PARADM000,recovered_host,Not Expected,Glider leaked. No data expected
+uframe_route,parser,filename_mask,reference_designator,data_source,status,notes
+#Ingest.glider-eng-glider_recovered,mi.dataset.driver.moas.gl.engineering.glider_eng_glider_recovered_driver,/omc_data/whoi/OMC/GI05MOAS-PG577/R00001/merged/gi*.mrg,GI05MOAS-PG577-00-ENG000000,recovered_host,Not Expected,Glider leaked. No data expected
+#Ingest.ctdgv-m-glider_recovered,mi.dataset.driver.moas.gl.ctdgv.ctdgv_m_glider_recovered_driver,/omc_data/whoi/OMC/GI05MOAS-PG577/R00001/merged/gi*.mrg,GI05MOAS-PG577-01-CTDGVM000,recovered_host,Not Expected,Glider leaked. No data expected
+#Ingest.dosta-abcdjm-glider_recovered,mi.dataset.driver.moas.gl.dosta.dosta_abcdjm_glider_recovered_driver,/omc_data/whoi/OMC/GI05MOAS-PG577/R00001/merged/gi*.mrg,GI05MOAS-PG577-02-DOSTAM000,recovered_host,Not Expected,Glider leaked. No data expected
+#Ingest.flort-m-glider_recovered,mi.dataset.driver.moas.gl.flort_m.flort_m_glider_recovered_driver,/omc_data/whoi/OMC/GI05MOAS-PG577/R00001/merged/gi*.mrg,GI05MOAS-PG577-03-FLORTM000,recovered_host,Not Expected,Glider leaked. No data expected
+#Ingest.flort-o-glider_recovered,mi.dataset.driver.moas.gl.flort_o.flort_o_glider_recovered_driver,/omc_data/whoi/OMC/GI05MOAS-PG577/R00001/merged/gi*.mrg,GI05MOAS-PG577-04-FLORTO000,recovered_host,Not Expected,Glider leaked. No data expected
+#Ingest.nutnr-m-glider_telemetered,mi.dataset.driver.nutnr_m.glider.nutnr_m_glider_telemetered_driver,/omc_data/whoi/OMC/GI05MOAS-PG577/R00001/merged/gi*.mrg,GI05MOAS-PG577-05-NUTNRM000,recovered_host,Not Expected,Glider leaked. No data expected
+#Ingest.parad-m-glider_recovered,mi.dataset.driver.moas.gl.parad.parad_m_glider_recovered_driver,/omc_data/whoi/OMC/GI05MOAS-PG577/R00001/merged/gi*.mrg,GI05MOAS-PG577-06-PARADM000,recovered_host,Not Expected,Glider leaked. No data expected

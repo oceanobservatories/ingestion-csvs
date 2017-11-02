@@ -1,15 +1,15 @@
-uframe_route,filename_mask,reference_designator,data_source,status,notes
-#,,GA02HYPM-MPM01-02-ZPLSGA009,telemetered,Not Deployed,Not installed
-#,,GA02HYPM-MPM01-02-ZPLSGA010,telemetered,Not Deployed,Not installed
-Ingest.sio-eng-sio_telemetered,/omc_data/whoi/OMC/GA02HYPM/D00002/node*p1_*.status_*.dat,GA02HYPM-RIM01-00-SIOENG000,telemetered,Available,
-Ingest.ctdmo-ghqr-sio_telemetered,/omc_data/whoi/OMC/GA02HYPM/D00002/*ctdmo*.dat,GA02HYPM-RIM01-02-CTDMOG039,telemetered,Available,
-#Ingest.wfp-eng-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GA02HYPM/D00002/*.we_wfp_1399421.dat,GA02HYPM-WFP02-00-WFPENG000,telemetered,Not Expected,Data not expected - glider not available to send data
-#Ingest.flord-l-wfp-sio_telemetered,/omc_data/whoi/OMC/GA02HYPM/D00002/*.we_wfp_1399421.dat,GA02HYPM-WFP02-01-FLORDL000,telemetered,Not Expected,Data not expected - glider not available to send data
-#Ingest.dosta-ln-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GA02HYPM/D00002/*.we_wfp_1399421.dat,GA02HYPM-WFP02-03-DOSTAL000,telemetered,Not Expected,Data not expected - glider not available to send data
-#Ingest.ctdpf-ckl-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GA02HYPM/D00002/*.wc_wfp_1399421.dat,GA02HYPM-WFP02-04-CTDPFL000,telemetered,Not Expected,Data not expected - glider not available to send data
-#Ingest.vel3d-l-wfp-sio_telemetered,/omc_data/whoi/OMC/GA02HYPM/D00002/*.wa_wfp_1399421.dat,GA02HYPM-WFP02-05-VEL3DL000,telemetered,Not Expected,Data not expected - glider not available to send data
-#Ingest.wfp-eng-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GA02HYPM/D00002/*.we_wfp_1399422.dat,GA02HYPM-WFP03-00-WFPENG000,telemetered,Not Expected,Data not expected - glider not available to send data
-#Ingest.flord-l-wfp-sio_telemetered,/omc_data/whoi/OMC/GA02HYPM/D00002/*.we_wfp_1399422.dat,GA02HYPM-WFP03-01-FLORDL000,telemetered,Not Expected,Data not expected - glider not available to send data
-#Ingest.dosta-ln-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GA02HYPM/D00002/*.we_wfp_1399422.dat,GA02HYPM-WFP03-03-DOSTAL000,telemetered,Not Expected,Data not expected - glider not available to send data
-#Ingest.ctdpf-ckl-wfp-sio-mule_telemetered,/omc_data/whoi/OMC/GA02HYPM/D00002/*.wc_wfp_1399422.dat,GA02HYPM-WFP03-04-CTDPFL000,telemetered,Not Expected,Data not expected - glider not available to send data
-#Ingest.vel3d-l-wfp-sio_telemetered,/omc_data/whoi/OMC/GA02HYPM/D00002/*.wa_wfp_1399422.dat,GA02HYPM-WFP03-05-VEL3DL000,telemetered,Not Expected,Data not expected - glider not available to send data
+uframe_route,parser,filename_mask,reference_designator,data_source,status,notes
+#,,,GA02HYPM-MPM01-02-ZPLSGA009,telemetered,Not Deployed,Not installed
+#,,,GA02HYPM-MPM01-02-ZPLSGA010,telemetered,Not Deployed,Not installed
+Ingest.sio-eng-sio_telemetered,mi.dataset.driver.sio_eng.sio.sio_eng_sio_telemetered_driver,/omc_data/whoi/OMC/GA02HYPM/D00002/node*p1_*.status_*.dat,GA02HYPM-RIM01-00-SIOENG000,telemetered,Available,
+Ingest.ctdmo-ghqr-sio_telemetered,mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_sio_telemetered_driver,/omc_data/whoi/OMC/GA02HYPM/D00002/*ctdmo*.dat,GA02HYPM-RIM01-02-CTDMOG039,telemetered,Available,
+#Ingest.wfp-eng-wfp-sio-mule_telemetered,mi.dataset.driver.WFP_ENG.wfp_sio.wfp_eng_wfp_sio_telemetered_driver,/omc_data/whoi/OMC/GA02HYPM/D00002/*.we_wfp_1399421.dat,GA02HYPM-WFP02-00-WFPENG000,telemetered,Not Expected,Data not expected - glider not available to send data
+#Ingest.flord-l-wfp-sio_telemetered,mi.dataset.driver.flord_l_wfp.sio.flord_l_wfp_sio_telemetered_driver,/omc_data/whoi/OMC/GA02HYPM/D00002/*.we_wfp_1399421.dat,GA02HYPM-WFP02-01-FLORDL000,telemetered,Not Expected,Data not expected - glider not available to send data
+#Ingest.dosta-ln-wfp-sio-mule_telemetered,mi.dataset.driver.dosta_ln.wfp_sio.dosta_ln_wfp_sio_telemetered_driver,/omc_data/whoi/OMC/GA02HYPM/D00002/*.we_wfp_1399421.dat,GA02HYPM-WFP02-03-DOSTAL000,telemetered,Not Expected,Data not expected - glider not available to send data
+#Ingest.ctdpf-ckl-wfp-sio-mule_telemetered,mi.dataset.driver.ctdpf_ckl.wfp_sio.ctdpf_ckl_wfp_sio_telemetered_driver,/omc_data/whoi/OMC/GA02HYPM/D00002/*.wc_wfp_1399421.dat,GA02HYPM-WFP02-04-CTDPFL000,telemetered,Not Expected,Data not expected - glider not available to send data
+#Ingest.vel3d-l-wfp-sio_telemetered,mi.dataset.driver.vel3d_l.wfp.sio.vel3d_l_wfp_sio_telemetered_driver,/omc_data/whoi/OMC/GA02HYPM/D00002/*.wa_wfp_1399421.dat,GA02HYPM-WFP02-05-VEL3DL000,telemetered,Not Expected,Data not expected - glider not available to send data
+#Ingest.wfp-eng-wfp-sio-mule_telemetered,mi.dataset.driver.WFP_ENG.wfp_sio.wfp_eng_wfp_sio_telemetered_driver,/omc_data/whoi/OMC/GA02HYPM/D00002/*.we_wfp_1399422.dat,GA02HYPM-WFP03-00-WFPENG000,telemetered,Not Expected,Data not expected - glider not available to send data
+#Ingest.flord-l-wfp-sio_telemetered,mi.dataset.driver.flord_l_wfp.sio.flord_l_wfp_sio_telemetered_driver,/omc_data/whoi/OMC/GA02HYPM/D00002/*.we_wfp_1399422.dat,GA02HYPM-WFP03-01-FLORDL000,telemetered,Not Expected,Data not expected - glider not available to send data
+#Ingest.dosta-ln-wfp-sio-mule_telemetered,mi.dataset.driver.dosta_ln.wfp_sio.dosta_ln_wfp_sio_telemetered_driver,/omc_data/whoi/OMC/GA02HYPM/D00002/*.we_wfp_1399422.dat,GA02HYPM-WFP03-03-DOSTAL000,telemetered,Not Expected,Data not expected - glider not available to send data
+#Ingest.ctdpf-ckl-wfp-sio-mule_telemetered,mi.dataset.driver.ctdpf_ckl.wfp_sio.ctdpf_ckl_wfp_sio_telemetered_driver,/omc_data/whoi/OMC/GA02HYPM/D00002/*.wc_wfp_1399422.dat,GA02HYPM-WFP03-04-CTDPFL000,telemetered,Not Expected,Data not expected - glider not available to send data
+#Ingest.vel3d-l-wfp-sio_telemetered,mi.dataset.driver.vel3d_l.wfp.sio.vel3d_l_wfp_sio_telemetered_driver,/omc_data/whoi/OMC/GA02HYPM/D00002/*.wa_wfp_1399422.dat,GA02HYPM-WFP03-05-VEL3DL000,telemetered,Not Expected,Data not expected - glider not available to send data

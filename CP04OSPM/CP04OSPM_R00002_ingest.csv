@@ -1,9 +1,9 @@
-uframe_route,filename_mask,reference_designator,data_source,status,notes
-#Ingest.cg-stc-eng-stc_recovered,/omc_data/whoi/OMC/CP04OSPM/R00002/cg_data/dcl00/irid2shore/stc_status.*_*.txt,CP04OSPM-SBS01-00-STCENG000,recovered_host,Available,Temporarily disabled for mass ingestions
-#Ingest.mopak-o-dcl_recovered,/omc_data/whoi/OMC/CP04OSPM/R00002/cg_data/dcl00/MOPAK_sn/*_*.3dmgx3.log,CP04OSPM-SBS11-02-MOPAK0000,recovered_host,Available,Temporarily disabled for mass ingestions
-Ingest.wfp-eng-stc-imodem_recovered,/omc_data/whoi/OMC/CP04OSPM/R00002/cg_data/dcl00/CWFP_sn12936-01/0*/E*.DA?,CP04OSPM-WFP01-00-WFPENG000,recovered_wfp,Available,
-Ingest.vel3d-k-wfp-stc_recovered,/omc_data/whoi/OMC/CP04OSPM/R00002/cg_data/dcl00/CWFP_sn12936-01/0*/A*.DA?,CP04OSPM-WFP01-01-VEL3DK000,recovered_wfp,Available,
-Ingest.dofst-k-wfp_recovered,/omc_data/whoi/OMC/CP04OSPM/R00002/cg_data/dcl00/CWFP_sn12936-01/0*/C*.DA?,CP04OSPM-WFP01-02-DOFSTK000,recovered_wfp,Available,
-Ingest.ctdpf-ckl-wfp_recovered,/omc_data/whoi/OMC/CP04OSPM/R00002/cg_data/dcl00/CWFP_sn12936-01/0*/C*.DA?,CP04OSPM-WFP01-03-CTDPFK000,recovered_wfp,Available,
-Ingest.flort-kn-stc-imodem_recovered,/omc_data/whoi/OMC/CP04OSPM/R00002/cg_data/dcl00/CWFP_sn12936-01/0*/E*.DA?,CP04OSPM-WFP01-04-FLORTK000,recovered_wfp,Available,
-Ingest.parad-k-stc-imodem_recovered,/omc_data/whoi/OMC/CP04OSPM/R00002/cg_data/dcl00/CWFP_sn12936-01/0*/E*.DA?,CP04OSPM-WFP01-05-PARADK000,recovered_wfp,Available,
+uframe_route,parser,filename_mask,reference_designator,data_source,status,notes
+#Ingest.cg-stc-eng-stc_recovered,mi.dataset.driver.cg_stc_eng.stc.cg_stc_eng_stc_recovered_driver,/omc_data/whoi/OMC/CP04OSPM/R00002/cg_data/dcl00/irid2shore/stc_status.*_*.txt,CP04OSPM-SBS01-00-STCENG000,recovered_host,Available,Temporarily disabled for mass ingestions
+#Ingest.mopak-o-dcl_recovered,mi.dataset.driver.cg_stc_eng.stc.mopak_o_dcl_recovered_driver,/omc_data/whoi/OMC/CP04OSPM/R00002/cg_data/dcl00/MOPAK_sn/*_*.3dmgx3.log,CP04OSPM-SBS11-02-MOPAK0000,recovered_host,Available,Temporarily disabled for mass ingestions
+Ingest.wfp-eng-stc-imodem_recovered,mi.dataset.driver.WFP_ENG.STC_IMODEM.wfp_eng_stc_imodem_recovered_driver,/omc_data/whoi/OMC/CP04OSPM/R00002/cg_data/dcl00/CWFP_sn12936-01/0*/E*.DA?,CP04OSPM-WFP01-00-WFPENG000,recovered_wfp,Available,
+Ingest.vel3d-k-wfp-stc_recovered,mi.dataset.driver.vel3d_k.wfp.vel3d_k_wfp_recovered_driver,/omc_data/whoi/OMC/CP04OSPM/R00002/cg_data/dcl00/CWFP_sn12936-01/0*/A*.DA?,CP04OSPM-WFP01-01-VEL3DK000,recovered_wfp,Available,
+Ingest.dofst-k-wfp_recovered,mi.dataset.driver.dofst_k.wfp.dofst_k_wfp_recovered_driver,/omc_data/whoi/OMC/CP04OSPM/R00002/cg_data/dcl00/CWFP_sn12936-01/0*/C*.DA?,CP04OSPM-WFP01-02-DOFSTK000,recovered_wfp,Available,
+Ingest.ctdpf-ckl-wfp_recovered,mi.dataset.driver.ctdpf_ckl.wfp.ctdpf_ckl_wfp_recovered_driver,/omc_data/whoi/OMC/CP04OSPM/R00002/cg_data/dcl00/CWFP_sn12936-01/0*/C*.DA?,CP04OSPM-WFP01-03-CTDPFK000,recovered_wfp,Available,
+Ingest.flort-kn-stc-imodem_recovered,mi.dataset.driver.flort_kn.stc_imodem.flort_kn__stc_imodem_recovered_driver,/omc_data/whoi/OMC/CP04OSPM/R00002/cg_data/dcl00/CWFP_sn12936-01/0*/E*.DA?,CP04OSPM-WFP01-04-FLORTK000,recovered_wfp,Available,
+Ingest.parad-k-stc-imodem_recovered,mi.dataset.driver.PARAD_K.STC_IMODEM.parad_k_stc_imodem_recovered_driver,/omc_data/whoi/OMC/CP04OSPM/R00002/cg_data/dcl00/CWFP_sn12936-01/0*/E*.DA?,CP04OSPM-WFP01-05-PARADK000,recovered_wfp,Available,

@@ -1,8 +1,8 @@
-uframe_route,filename_mask,reference_designator,data_source,status,notes
-#Ingest.glider-eng-glider_telemetered,/omc_data/whoi/OMC/GA05MOAS-PG580/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG580-00-ENG000000,telemetered,Missing,Glider leaked after 3 days
-#Ingest.ctdgv-m-glider_telemetered,/omc_data/whoi/OMC/GA05MOAS-PG580/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG580-01-CTDGVM000,telemetered,Missing,Glider leaked after 3 days
-#Ingest.dosta-abcdjm-glider_telemetered,/omc_data/whoi/OMC/GA05MOAS-PG580/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG580-02-DOSTAM000,telemetered,Missing,Glider leaked after 3 days
-#Ingest.flort-m-glider_telemetered,/omc_data/whoi/OMC/GA05MOAS-PG580/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG580-03-FLORTM000,telemetered,Missing,Glider leaked after 3 days
-#Ingest.flort-o-glider_telemetered,/omc_data/whoi/OMC/GA05MOAS-PG580/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG580-04-FLORTO000,telemetered,Missing,Glider leaked after 3 days
-#Ingest.nutnr-m-glider_telemetered,/omc_data/whoi/OMC/GA05MOAS-PG580/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG580-05-NUTNRM000,telemetered,Missing,Glider leaked after 3 days
-#Ingest.parad-m-glider_telemetered,/omc_data/whoi/OMC/GA05MOAS-PG580/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG580-06-PARADM000,telemetered,Missing,Glider leaked after 3 days
+uframe_route,parser,filename_mask,reference_designator,data_source,status,notes
+#Ingest.glider-eng-glider_telemetered,mi.dataset.driver.moas.gl.engineering.glider_eng_glider_telemetered_driver,/omc_data/whoi/OMC/GA05MOAS-PG580/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG580-00-ENG000000,telemetered,Missing,Glider leaked after 3 days
+#Ingest.ctdgv-m-glider_telemetered,mi.dataset.driver.moas.gl.ctdgv.ctdgv_m_glider_telemetered_driver,/omc_data/whoi/OMC/GA05MOAS-PG580/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG580-01-CTDGVM000,telemetered,Missing,Glider leaked after 3 days
+#Ingest.dosta-abcdjm-glider_telemetered,mi.dataset.driver.moas.gl.dosta.dosta_abcdjm_glider_telemetered_driver,/omc_data/whoi/OMC/GA05MOAS-PG580/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG580-02-DOSTAM000,telemetered,Missing,Glider leaked after 3 days
+#Ingest.flort-m-glider_telemetered,mi.dataset.driver.moas.gl.flort_m.flort_m_glider_telemetered_driver,/omc_data/whoi/OMC/GA05MOAS-PG580/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG580-03-FLORTM000,telemetered,Missing,Glider leaked after 3 days
+#Ingest.flort-o-glider_telemetered,mi.dataset.driver.moas.gl.flort_o.flort_o_glider_telemetered_driver,/omc_data/whoi/OMC/GA05MOAS-PG580/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG580-04-FLORTO000,telemetered,Missing,Glider leaked after 3 days
+#Ingest.nutnr-m-glider_telemetered,mi.dataset.driver.nutnr_m.glider.nutnr_m_glider_telemetered_driver,/omc_data/whoi/OMC/GA05MOAS-PG580/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG580-05-NUTNRM000,telemetered,Missing,Glider leaked after 3 days
+#Ingest.parad-m-glider_telemetered,mi.dataset.driver.moas.gl.parad.parad_m_glider_telemetered_driver,/omc_data/whoi/OMC/GA05MOAS-PG580/D00001/merged-from-glider/ga_*.mrg,GA05MOAS-PG580-06-PARADM000,telemetered,Missing,Glider leaked after 3 days
