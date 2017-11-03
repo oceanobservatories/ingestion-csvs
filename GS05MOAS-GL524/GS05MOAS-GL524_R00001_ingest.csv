@@ -1,5 +1,5 @@
-uframe_route,parser,filename_mask,reference_designator,data_source,status,notes
-#Ingest.glider-eng-glider_recovered,mi.dataset.driver.moas.gl.engineering.glider_eng_glider_recovered_driver,/omc_data/whoi/OMC/GS05MOAS-GL524/R00001/merged-from-glider/gs_*.mrg,GS05MOAS-GL524-00-ENG000000,recovered_host,Not Expected,Glider lost
-#Ingest.flord-m-glider_recovered,mi.dataset.driver.moas.gl.flord_m.flord_m_glider_recovered_driver,/omc_data/whoi/OMC/GS05MOAS-GL524/R00001/merged-from-glider/gs_*.mrg,GS05MOAS-GL524-01-FLORDM000,recovered_host,Not Expected,Glider lost
-#Ingest.dosta-abcdjm-glider_recovered,mi.dataset.driver.moas.gl.dosta.dosta_abcdjm_glider_recovered_driver,/omc_data/whoi/OMC/GS05MOAS-GL524/R00001/merged-from-glider/gs_*.mrg,GS05MOAS-GL524-02-DOSTAM000,recovered_host,Not Expected,Glider lost
-#Ingest.ctdgv-m-glider_recovered,mi.dataset.driver.moas.gl.ctdgv.ctdgv_m_glider_recovered_driver,/omc_data/whoi/OMC/GS05MOAS-GL524/R00001/merged-from-glider/gs_*.mrg,GS05MOAS-GL524-04-CTDGVM000,recovered_host,Not Expected,Glider lost
+parser,filename_mask,reference_designator,data_source,status,notes
+#mi.dataset.driver.moas.gl.engineering.glider_eng_glider_recovered_driver,/omc_data/whoi/OMC/GS05MOAS-GL524/R00001/merged-from-glider/gs_*.mrg,GS05MOAS-GL524-00-ENG000000,recovered_host,Not Expected,Glider lost
+#mi.dataset.driver.moas.gl.flord_m.flord_m_glider_recovered_driver,/omc_data/whoi/OMC/GS05MOAS-GL524/R00001/merged-from-glider/gs_*.mrg,GS05MOAS-GL524-01-FLORDM000,recovered_host,Not Expected,Glider lost
+#mi.dataset.driver.moas.gl.dosta.dosta_abcdjm_glider_recovered_driver,/omc_data/whoi/OMC/GS05MOAS-GL524/R00001/merged-from-glider/gs_*.mrg,GS05MOAS-GL524-02-DOSTAM000,recovered_host,Not Expected,Glider lost
+#mi.dataset.driver.moas.gl.ctdgv.ctdgv_m_glider_recovered_driver,/omc_data/whoi/OMC/GS05MOAS-GL524/R00001/merged-from-glider/gs_*.mrg,GS05MOAS-GL524-04-CTDGVM000,recovered_host,Not Expected,Glider lost

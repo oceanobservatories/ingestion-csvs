@@ -1,13 +1,13 @@
-uframe_route,parser,filename_mask,reference_designator,data_source,status,notes
-Ingest.dbg-pdbg-cspp_telemetered,mi.dataset.driver.dbg_pdbg.cspp.dbg_pdbg_cspp_telemetered_driver,/omc_data/whoi/OMC/CP03ISSP/D00003/extract/*PDBG.txt,CP03ISSP-SP001-00-SPPENG000,telemetered,Available,
-#Ingest.wc-hmr-cspp_telemetered,mi.dataset.driver.wc_hmr.cspp.wc_hmr_cspp_telemetered_driver,/omc_data/whoi/OMC/CP03ISSP/D00003/extract/*WC_HMR.txt,CP03ISSP-SP001-00-SPPENG000,telemetered,Missing,
-#Ingest.wc-sbe-cspp_telemetered,mi.dataset.driver.wc_sbe.cspp.wc_sbe_cspp_telemetered_driver,/omc_data/whoi/OMC/CP03ISSP/D00003/extract/*WC_SBE.txt,CP03ISSP-SP001-00-SPPENG000,telemetered,Missing,
-#Ingest.wc-wm-cspp_telemetered,mi.dataset.driver.wc_wm.cspp.wc_wm_cspp_telemetered_driver,/omc_data/whoi/OMC/CP03ISSP/D00003/extract/*WC_WM.txt,CP03ISSP-SP001-00-SPPENG000,telemetered,Missing,
-# Ingest.optaa-dj-cspp_telemetered,mi.dataset.driver.optaa_dj.cspp.optaa_dj_cspp_telemetered_driver,/omc_data/whoi/OMC/CP03ISSP/D00003/extract/ucspp_*_ACD_ACS.txt,CP03ISSP-SP001-02-OPTAAJ000,telemetered,Not Expected,Not expected
-# Ingest.nutnr-j-cspp_telemetered,mi.dataset.driver.nutnr_j.cspp.nutnr_j_cspp_telemetered_driver,/omc_data/whoi/OMC/CP03ISSP/D00003/extract/ucspp_*_SND_SNA.txt,CP03ISSP-SP001-03-NUTNRJ000,telemetered,Not Expected,Not expected
-Ingest.velpt-j-cspp_telemetered,mi.dataset.driver.velpt_j.cspp.velpt_j_cspp_telemetered_driver,/omc_data/whoi/OMC/CP03ISSP/D00003/extract/ucspp_*_PPD_ADCP.txt,CP03ISSP-SP001-05-VELPTJ000,telemetered,Available,
-Ingest.dosta-abcdjm-cspp_telemetered,mi.dataset.driver.dosta_abcdjm.cspp.dosta_abcdjm_cspp_telemetered_driver,/omc_data/whoi/OMC/CP03ISSP/D00003/extract/ucspp_*_PPD_OPT.txt,CP03ISSP-SP001-06-DOSTAJ000,telemetered,Available,
-Ingest.spkir-abj-cspp_telemetered,mi.dataset.driver.spkir_abj.cspp.spkir_abj_cspp_telemetered_driver,/omc_data/whoi/OMC/CP03ISSP/D00003/extract/ucspp_*_PPD_OCR.txt,CP03ISSP-SP001-07-SPKIRJ000,telemetered,Available,
-Ingest.ctdpf-j-cspp_telemetered,mi.dataset.driver.ctdpf_j.cspp.ctdpf_j_cspp_telemetered_driver,/omc_data/whoi/OMC/CP03ISSP/D00003/extract/ucspp_*_PPD_CTD.txt,CP03ISSP-SP001-08-CTDPFJ000,telemetered,Available,
-Ingest.flort-dj-cspp_telemetered,mi.dataset.driver.flort_dj.cspp.flort_dj_cspp_telemetered_driver,/omc_data/whoi/OMC/CP03ISSP/D00003/extract/ucspp_*_PPD_TRIP.txt,CP03ISSP-SP001-09-FLORTJ000,telemetered,Available,
-Ingest.parad-j-cspp_telemetered,mi.dataset.driver.parad_j.cspp.parad_j_cspp_telemetered_driver,/omc_data/whoi/OMC/CP03ISSP/D00003/extract/ucspp_*_PPD_PARS.txt,CP03ISSP-SP001-10-PARADJ000,telemetered,Available,
+parser,filename_mask,reference_designator,data_source,status,notes
+mi.dataset.driver.dbg_pdbg.cspp.dbg_pdbg_cspp_telemetered_driver,/omc_data/whoi/OMC/CP03ISSP/D00003/extract/*PDBG.txt,CP03ISSP-SP001-00-SPPENG000,telemetered,Available,
+#mi.dataset.driver.wc_hmr.cspp.wc_hmr_cspp_telemetered_driver,/omc_data/whoi/OMC/CP03ISSP/D00003/extract/*WC_HMR.txt,CP03ISSP-SP001-00-SPPENG000,telemetered,Missing,
+#mi.dataset.driver.wc_sbe.cspp.wc_sbe_cspp_telemetered_driver,/omc_data/whoi/OMC/CP03ISSP/D00003/extract/*WC_SBE.txt,CP03ISSP-SP001-00-SPPENG000,telemetered,Missing,
+#mi.dataset.driver.wc_wm.cspp.wc_wm_cspp_telemetered_driver,/omc_data/whoi/OMC/CP03ISSP/D00003/extract/*WC_WM.txt,CP03ISSP-SP001-00-SPPENG000,telemetered,Missing,
+#mi.dataset.driver.optaa_dj.cspp.optaa_dj_cspp_telemetered_driver,/omc_data/whoi/OMC/CP03ISSP/D00003/extract/ucspp_*_ACD_ACS.txt,CP03ISSP-SP001-02-OPTAAJ000,telemetered,Not Expected,Not expected
+#mi.dataset.driver.nutnr_j.cspp.nutnr_j_cspp_telemetered_driver,/omc_data/whoi/OMC/CP03ISSP/D00003/extract/ucspp_*_SND_SNA.txt,CP03ISSP-SP001-03-NUTNRJ000,telemetered,Not Expected,Not expected
+mi.dataset.driver.velpt_j.cspp.velpt_j_cspp_telemetered_driver,/omc_data/whoi/OMC/CP03ISSP/D00003/extract/ucspp_*_PPD_ADCP.txt,CP03ISSP-SP001-05-VELPTJ000,telemetered,Available,
+mi.dataset.driver.dosta_abcdjm.cspp.dosta_abcdjm_cspp_telemetered_driver,/omc_data/whoi/OMC/CP03ISSP/D00003/extract/ucspp_*_PPD_OPT.txt,CP03ISSP-SP001-06-DOSTAJ000,telemetered,Available,
+mi.dataset.driver.spkir_abj.cspp.spkir_abj_cspp_telemetered_driver,/omc_data/whoi/OMC/CP03ISSP/D00003/extract/ucspp_*_PPD_OCR.txt,CP03ISSP-SP001-07-SPKIRJ000,telemetered,Available,
+mi.dataset.driver.ctdpf_j.cspp.ctdpf_j_cspp_telemetered_driver,/omc_data/whoi/OMC/CP03ISSP/D00003/extract/ucspp_*_PPD_CTD.txt,CP03ISSP-SP001-08-CTDPFJ000,telemetered,Available,
+mi.dataset.driver.flort_dj.cspp.flort_dj_cspp_telemetered_driver,/omc_data/whoi/OMC/CP03ISSP/D00003/extract/ucspp_*_PPD_TRIP.txt,CP03ISSP-SP001-09-FLORTJ000,telemetered,Available,
+mi.dataset.driver.parad_j.cspp.parad_j_cspp_telemetered_driver,/omc_data/whoi/OMC/CP03ISSP/D00003/extract/ucspp_*_PPD_PARS.txt,CP03ISSP-SP001-10-PARADJ000,telemetered,Available,

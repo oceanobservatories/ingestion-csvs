@@ -1,34 +1,34 @@
-uframe_route,parser,filename_mask,reference_designator,data_source,status,notes
-Ingest.sio-eng-sio_recovered,mi.dataset.driver.sio_eng.sio.sio_eng_sio_recovered_driver,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/MSIOC_SN_13278/STA*.DAT,GP03FLMA-RIM01-00-SIOENG000,recovered_host,Available,
-Ingest.adcps-jln-sio_telemetered,mi.dataset.driver.adcps_jln.sio.adcps_jln_sio_telemetered_driver,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/ADCP_sn20502/ADC*.DAT,GP03FLMA-RIM01-02-ADCPSL003,recovered_host,Available,
-Ingest.adcps-jln_recovered,mi.dataset.driver.adcps_jln.adcps_jln_driver,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/ADCP_sn20502/*.000,GP03FLMA-RIM01-02-ADCPSL003,recovered_inst,Available,
-#Ingest.ctdmo-ghqr-sio_ctRecovered,mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_sio_ct_recovered_driver,,GP03FLMA-RIM01-02-CTDMOG000,recovered_host,Not Expected,Wildcard refdes. Data not expected
-#,,,GP03FLMA-RIM01-02-CTDMOG040,recovered_host,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
-Ingest.ctdmo-ghqr_recovered,mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/CTDMO-G_sn11642/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOG040,recovered_inst,Available,
-#,,,GP03FLMA-RIM01-02-CTDMOG041,recovered_host,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
-Ingest.ctdmo-ghqr_recovered,mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/CTDMO-G_sn11637/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOG041,recovered_inst,Available,
-#,,,GP03FLMA-RIM01-02-CTDMOG042,recovered_host,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
-Ingest.ctdmo-ghqr_recovered,mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/CTDMO-G_sn11643/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOG042,recovered_inst,Available,
-#,,,GP03FLMA-RIM01-02-CTDMOG043,recovered_host,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
-Ingest.ctdmo-ghqr_recovered,mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/CTDMO-G_sn10225/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOG043,recovered_inst,Available,
-#,,,GP03FLMA-RIM01-02-CTDMOG044,recovered_host,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
-Ingest.ctdmo-ghqr_recovered,mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/CTDMO-G_sn11644/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOG044,recovered_inst,Available,
-#,,,GP03FLMA-RIM01-02-CTDMOG045,recovered_host,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
-Ingest.ctdmo-ghqr_recovered,mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/CTDMO-G_sn11645/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOG045,recovered_inst,Available,
-#,,,GP03FLMA-RIM01-02-CTDMOG046,recovered_host,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
-Ingest.ctdmo-ghqr_recovered,mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/CTDMO-G_sn11647/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOG046,recovered_inst,Available,
-#,,,GP03FLMA-RIM01-02-CTDMOG047,recovered_host,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
-Ingest.ctdmo-ghqr_recovered,mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/CTDMO-G_sn10218/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOG047,recovered_inst,Available,
-#,,,GP03FLMA-RIM01-02-CTDMOG048,recovered_host,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
-Ingest.ctdmo-ghqr_recovered,mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/CTDMO-G_sn11649/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOG048,recovered_inst,Available,
-#,,,GP03FLMA-RIM01-02-CTDMOH049,recovered_host,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
-Ingest.ctdmo-ghqr_recovered,mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/CTDMO-H_sn11683/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOH049,recovered_inst,Available,
-#,,,GP03FLMA-RIM01-02-CTDMOH050,recovered_host,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
-Ingest.ctdmo-ghqr_recovered,mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/CTDMO-H_sn11681/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOH050,recovered_inst,Available,
-#,,,GP03FLMA-RIM01-02-CTDMOH051,recovered_host,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
-Ingest.ctdmo-ghqr_recovered,mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/CTDMO-H_sn11704/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOH051,recovered_inst,Available,
-Ingest.sio-eng-sio_recovered,mi.dataset.driver.sio_eng.sio.sio_eng_sio_recovered_driver,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/SSIOC_SN_13279/STA*.DAT,GP03FLMA-RIS01-00-SIOENG000,recovered_host,Available,
-Ingest.dosta-abcdjm-sio_recovered,mi.dataset.driver.dosta_abcdjm.sio.dosta_abcdjm_sio_recovered_driver,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/DOSTA_sn127/DOS*.DAT,GP03FLMA-RIS01-03-DOSTAD000,recovered_host,Available,
-Ingest.phsen-abcdef_recovered,mi.dataset.driver.phsen_abcdef.phsen_abcdef_recovered_driver,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/PHSEN_snP0103/SAMI*.txt,GP03FLMA-RIS01-04-PHSENF000,recovered_inst,Available,
-Ingest.phsen-abcdef-imodem_recovered,mi.dataset.driver.phsen_abcdef.imodem.phsen_abcdef_imodem_recovered_driver,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/PHSEN_snP0103/PHS*.DAT,GP03FLMA-RIS01-04-PHSENF000,recovered_host,Available,
-Ingest.flort-dj-sio_recovered,mi.dataset.driver.flort_dj.sio.flort_dj_sio_recovered_driver,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/FLORD_sn1116/FLO*.DAT,GP03FLMA-RIS01-05-FLORTD000,recovered_host,Available,
+parser,filename_mask,reference_designator,data_source,status,notes
+mi.dataset.driver.sio_eng.sio.sio_eng_sio_recovered_driver,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/MSIOC_SN_13278/STA*.DAT,GP03FLMA-RIM01-00-SIOENG000,recovered_host,Available,
+mi.dataset.driver.adcps_jln.sio.adcps_jln_sio_telemetered_driver,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/ADCP_sn20502/ADC*.DAT,GP03FLMA-RIM01-02-ADCPSL003,recovered_host,Available,
+mi.dataset.driver.adcps_jln.adcps_jln_driver,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/ADCP_sn20502/*.000,GP03FLMA-RIM01-02-ADCPSL003,recovered_inst,Available,
+#mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_sio_ct_recovered_driver,,GP03FLMA-RIM01-02-CTDMOG000,recovered_host,Not Expected,Wildcard refdes. Data not expected
+#,,GP03FLMA-RIM01-02-CTDMOG040,recovered_host,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
+mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/CTDMO-G_sn11642/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOG040,recovered_inst,Available,
+#,,GP03FLMA-RIM01-02-CTDMOG041,recovered_host,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
+mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/CTDMO-G_sn11637/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOG041,recovered_inst,Available,
+#,,GP03FLMA-RIM01-02-CTDMOG042,recovered_host,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
+mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/CTDMO-G_sn11643/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOG042,recovered_inst,Available,
+#,,GP03FLMA-RIM01-02-CTDMOG043,recovered_host,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
+mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/CTDMO-G_sn10225/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOG043,recovered_inst,Available,
+#,,GP03FLMA-RIM01-02-CTDMOG044,recovered_host,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
+mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/CTDMO-G_sn11644/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOG044,recovered_inst,Available,
+#,,GP03FLMA-RIM01-02-CTDMOG045,recovered_host,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
+mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/CTDMO-G_sn11645/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOG045,recovered_inst,Available,
+#,,GP03FLMA-RIM01-02-CTDMOG046,recovered_host,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
+mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/CTDMO-G_sn11647/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOG046,recovered_inst,Available,
+#,,GP03FLMA-RIM01-02-CTDMOG047,recovered_host,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
+mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/CTDMO-G_sn10218/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOG047,recovered_inst,Available,
+#,,GP03FLMA-RIM01-02-CTDMOG048,recovered_host,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
+mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/CTDMO-G_sn11649/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOG048,recovered_inst,Available,
+#,,GP03FLMA-RIM01-02-CTDMOH049,recovered_host,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
+mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/CTDMO-H_sn11683/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOH049,recovered_inst,Available,
+#,,GP03FLMA-RIM01-02-CTDMOH050,recovered_host,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
+mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/CTDMO-H_sn11681/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOH050,recovered_inst,Available,
+#,,GP03FLMA-RIM01-02-CTDMOH051,recovered_host,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
+mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/CTDMO-H_sn11704/SBE37*.hex,GP03FLMA-RIM01-02-CTDMOH051,recovered_inst,Available,
+mi.dataset.driver.sio_eng.sio.sio_eng_sio_recovered_driver,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/SSIOC_SN_13279/STA*.DAT,GP03FLMA-RIS01-00-SIOENG000,recovered_host,Available,
+mi.dataset.driver.dosta_abcdjm.sio.dosta_abcdjm_sio_recovered_driver,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/DOSTA_sn127/DOS*.DAT,GP03FLMA-RIS01-03-DOSTAD000,recovered_host,Available,
+mi.dataset.driver.phsen_abcdef.phsen_abcdef_recovered_driver,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/PHSEN_snP0103/SAMI*.txt,GP03FLMA-RIS01-04-PHSENF000,recovered_inst,Available,
+mi.dataset.driver.phsen_abcdef.imodem.phsen_abcdef_imodem_recovered_driver,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/PHSEN_snP0103/PHS*.DAT,GP03FLMA-RIS01-04-PHSENF000,recovered_host,Available,
+mi.dataset.driver.flort_dj.sio.flort_dj_sio_recovered_driver,/omc_data/whoi/OMC/GP03FLMA/R00002/cg_data/dcl00/FLORD_sn1116/FLO*.DAT,GP03FLMA-RIS01-05-FLORTD000,recovered_host,Available,

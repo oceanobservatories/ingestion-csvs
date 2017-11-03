@@ -1,15 +1,15 @@
-uframe_route,parser,filename_mask,reference_designator,data_source,status,notes
-#,,,GS02HYPM-MPM01-02-ZPLSGA009,telemetered,Not Expected,No glider deployed so telemetered data will not be available
-#,,,GS02HYPM-MPM01-02-ZPLSGA010,telemetered,Not Expected,No glider deployed so telemetered data will not be available
-#Ingest.sio-eng-sio_telemetered,mi.dataset.driver.sio_eng.sio.sio_eng_sio_telemetered_driver,,GS02HYPM-RIM01-00-SIOENG000,telemetered,Not Expected,No glider deployed so telemetered data will not be available
-#Ingest.ctdmo-ghqr-sio_telemetered,mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_sio_telemetered_driver,,GS02HYPM-RIM01-02-CTDMOG039,telemetered,Not Expected,No glider deployed so telemetered data will not be available
-#Ingest.wfp-eng-wfp-sio-mule_telemetered,mi.dataset.driver.WFP_ENG.wfp_sio.wfp_eng_wfp_sio_telemetered_driver,,GS02HYPM-WFP02-00-WFPENG000,telemetered,Not Expected,No glider deployed so telemetered data will not be available
-#Ingest.flord-l-wfp-sio_telemetered,mi.dataset.driver.flord_l_wfp.sio.flord_l_wfp_sio_telemetered_driver,,GS02HYPM-WFP02-01-FLORDL000,telemetered,Not Expected,No glider deployed so telemetered data will not be available
-#Ingest.dosta-ln-wfp-sio-mule_telemetered,mi.dataset.driver.dosta_ln.wfp_sio.dosta_ln_wfp_sio_telemetered_driver,,GS02HYPM-WFP02-03-DOSTAL000,telemetered,Not Expected,No glider deployed so telemetered data will not be available
-#Ingest.ctdpf-ckl-wfp-sio-mule_telemetered,mi.dataset.driver.ctdpf_ckl.wfp_sio.ctdpf_ckl_wfp_sio_telemetered_driver,,GS02HYPM-WFP02-04-CTDPFL000,telemetered,Not Expected,No glider deployed so telemetered data will not be available
-#Ingest.vel3d-l-wfp-sio_telemetered,mi.dataset.driver.vel3d_l.wfp.sio.vel3d_l_wfp_sio_telemetered_driver,,GS02HYPM-WFP02-05-VEL3DL000,telemetered,Not Expected,No glider deployed so telemetered data will not be available
-#Ingest.wfp-eng-wfp-sio-mule_telemetered,mi.dataset.driver.WFP_ENG.wfp_sio.wfp_eng_wfp_sio_telemetered_driver,,GS02HYPM-WFP03-00-WFPENG000,telemetered,Not Expected,No glider deployed so telemetered data will not be available
-#Ingest.flord-l-wfp-sio_telemetered,mi.dataset.driver.flord_l_wfp.sio.flord_l_wfp_sio_telemetered_driver,,GS02HYPM-WFP03-01-FLORDL000,telemetered,Not Expected,No glider deployed so telemetered data will not be available
-#Ingest.dosta-ln-wfp-sio-mule_telemetered,mi.dataset.driver.dosta_ln.wfp_sio.dosta_ln_wfp_sio_telemetered_driver,,GS02HYPM-WFP03-03-DOSTAL000,telemetered,Not Expected,No glider deployed so telemetered data will not be available
-#Ingest.ctdpf-ckl-wfp-sio-mule_telemetered,mi.dataset.driver.ctdpf_ckl.wfp_sio.ctdpf_ckl_wfp_sio_telemetered_driver,,GS02HYPM-WFP03-04-CTDPFL000,telemetered,Not Expected,No glider deployed so telemetered data will not be available
-#Ingest.vel3d-l-wfp-sio_telemetered,mi.dataset.driver.vel3d_l.wfp.sio.vel3d_l_wfp_sio_telemetered_driver,,GS02HYPM-WFP03-05-VEL3DL000,telemetered,Not Expected,No glider deployed so telemetered data will not be available
+parser,filename_mask,reference_designator,data_source,status,notes
+#,,GS02HYPM-MPM01-02-ZPLSGA009,telemetered,Not Expected,No glider deployed so telemetered data will not be available
+#,,GS02HYPM-MPM01-02-ZPLSGA010,telemetered,Not Expected,No glider deployed so telemetered data will not be available
+#mi.dataset.driver.sio_eng.sio.sio_eng_sio_telemetered_driver,,GS02HYPM-RIM01-00-SIOENG000,telemetered,Not Expected,No glider deployed so telemetered data will not be available
+#mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_sio_telemetered_driver,,GS02HYPM-RIM01-02-CTDMOG039,telemetered,Not Expected,No glider deployed so telemetered data will not be available
+#mi.dataset.driver.WFP_ENG.wfp_sio.wfp_eng_wfp_sio_telemetered_driver,,GS02HYPM-WFP02-00-WFPENG000,telemetered,Not Expected,No glider deployed so telemetered data will not be available
+#mi.dataset.driver.flord_l_wfp.sio.flord_l_wfp_sio_telemetered_driver,,GS02HYPM-WFP02-01-FLORDL000,telemetered,Not Expected,No glider deployed so telemetered data will not be available
+#mi.dataset.driver.dosta_ln.wfp_sio.dosta_ln_wfp_sio_telemetered_driver,,GS02HYPM-WFP02-03-DOSTAL000,telemetered,Not Expected,No glider deployed so telemetered data will not be available
+#mi.dataset.driver.ctdpf_ckl.wfp_sio.ctdpf_ckl_wfp_sio_telemetered_driver,,GS02HYPM-WFP02-04-CTDPFL000,telemetered,Not Expected,No glider deployed so telemetered data will not be available
+#mi.dataset.driver.vel3d_l.wfp.sio.vel3d_l_wfp_sio_telemetered_driver,,GS02HYPM-WFP02-05-VEL3DL000,telemetered,Not Expected,No glider deployed so telemetered data will not be available
+#mi.dataset.driver.WFP_ENG.wfp_sio.wfp_eng_wfp_sio_telemetered_driver,,GS02HYPM-WFP03-00-WFPENG000,telemetered,Not Expected,No glider deployed so telemetered data will not be available
+#mi.dataset.driver.flord_l_wfp.sio.flord_l_wfp_sio_telemetered_driver,,GS02HYPM-WFP03-01-FLORDL000,telemetered,Not Expected,No glider deployed so telemetered data will not be available
+#mi.dataset.driver.dosta_ln.wfp_sio.dosta_ln_wfp_sio_telemetered_driver,,GS02HYPM-WFP03-03-DOSTAL000,telemetered,Not Expected,No glider deployed so telemetered data will not be available
+#mi.dataset.driver.ctdpf_ckl.wfp_sio.ctdpf_ckl_wfp_sio_telemetered_driver,,GS02HYPM-WFP03-04-CTDPFL000,telemetered,Not Expected,No glider deployed so telemetered data will not be available
+#mi.dataset.driver.vel3d_l.wfp.sio.vel3d_l_wfp_sio_telemetered_driver,,GS02HYPM-WFP03-05-VEL3DL000,telemetered,Not Expected,No glider deployed so telemetered data will not be available

@@ -1,11 +1,11 @@
-uframe_route,parser,filename_mask,reference_designator,data_source,status,notes
-#,,,GI02HYPM-MPM01-02-ZPLSGA009,recovered_inst,Not Deployed,Not deployed
-#,,,GI02HYPM-MPM01-02-ZPLSGA010,recovered_inst,Not Deployed,Not deployed
-Ingest.sio-eng-sio_recovered,mi.dataset.driver.sio_eng.sio.sio_eng_sio_recovered_driver,/omc_data/whoi/OMC/GI02HYPM/R00002/cg_data/dcl00/MSIOC_sn13284/STATUS/STA*.DA?,GI02HYPM-RIM01-00-SIOENG000,recovered_host,Available,
-Ingest.ctdmo-ghqr-sio_ctRecovered,mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_sio_ct_recovered_driver,/omc_data/whoi/OMC/GI02HYPM/R00002/cg_data/dcl00/CTDMO_sn37-13439/*.DAT,GI02HYPM-RIM01-02-CTDMOG039,recovered_host,Available,
-Ingest.ctdmo-ghqr_recovered,mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GI02HYPM/R00002/cg_data/dcl00/CTDMO_sn37-13439/*.hex,GI02HYPM-RIM01-02-CTDMOG039,recovered_inst,Available,
-Ingest.wfp-eng-stc-imodem_recovered,mi.dataset.driver.WFP_ENG.STC_IMODEM.wfp_eng_stc_imodem_recovered_driver,/omc_data/whoi/OMC/GI02HYPM/R00002/cg_data/dcl00/GWFP_sn12774-01/0*/E*.DA?,GI02HYPM-WFP02-00-WFPENG000,recovered_wfp,Available,
-Ingest.flord-l-wfp_recovered,mi.dataset.driver.flord_l_wfp.flord_l_wfp_recovered_driver,/omc_data/whoi/OMC/GI02HYPM/R00002/cg_data/dcl00/GWFP_sn12774-01/0*/E*.DA?,GI02HYPM-WFP02-01-FLORDL000,recovered_wfp,Available,
-Ingest.dosta-ln-wfp_recovered,mi.dataset.driver.dosta_ln.wfp.dosta_ln_wfp_driver,/omc_data/whoi/OMC/GI02HYPM/R00002/cg_data/dcl00/GWFP_sn12774-01/0*/E*.DA?,GI02HYPM-WFP02-03-DOSTAL000,recovered_wfp,Available,
-Ingest.ctdpf-ckl-wfp_recovered,mi.dataset.driver.ctdpf_ckl.wfp.ctdpf_ckl_wfp_recovered_driver,/omc_data/whoi/OMC/GI02HYPM/R00002/cg_data/dcl00/GWFP_sn12774-01/0*/C*.DA?,GI02HYPM-WFP02-04-CTDPFL000,recovered_wfp,Available,
-Ingest.vel3d-l-wfp_recovered,mi.dataset.driver.vel3d_l.wfp.vel3d_l_wfp_recovered_driver,/omc_data/whoi/OMC/GI02HYPM/R00002/cg_data/dcl00/GWFP_sn12774-01/0*/A*.DA?,GI02HYPM-WFP02-05-VEL3DL000,recovered_wfp,Available,
+parser,filename_mask,reference_designator,data_source,status,notes
+#,,GI02HYPM-MPM01-02-ZPLSGA009,recovered_inst,Not Deployed,Not deployed
+#,,GI02HYPM-MPM01-02-ZPLSGA010,recovered_inst,Not Deployed,Not deployed
+mi.dataset.driver.sio_eng.sio.sio_eng_sio_recovered_driver,/omc_data/whoi/OMC/GI02HYPM/R00002/cg_data/dcl00/MSIOC_sn13284/STATUS/STA*.DA?,GI02HYPM-RIM01-00-SIOENG000,recovered_host,Available,
+mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_sio_ct_recovered_driver,/omc_data/whoi/OMC/GI02HYPM/R00002/cg_data/dcl00/CTDMO_sn37-13439/*.DAT,GI02HYPM-RIM01-02-CTDMOG039,recovered_host,Available,
+mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GI02HYPM/R00002/cg_data/dcl00/CTDMO_sn37-13439/*.hex,GI02HYPM-RIM01-02-CTDMOG039,recovered_inst,Available,
+mi.dataset.driver.WFP_ENG.STC_IMODEM.wfp_eng_stc_imodem_recovered_driver,/omc_data/whoi/OMC/GI02HYPM/R00002/cg_data/dcl00/GWFP_sn12774-01/0*/E*.DA?,GI02HYPM-WFP02-00-WFPENG000,recovered_wfp,Available,
+mi.dataset.driver.flord_l_wfp.flord_l_wfp_recovered_driver,/omc_data/whoi/OMC/GI02HYPM/R00002/cg_data/dcl00/GWFP_sn12774-01/0*/E*.DA?,GI02HYPM-WFP02-01-FLORDL000,recovered_wfp,Available,
+mi.dataset.driver.dosta_ln.wfp.dosta_ln_wfp_driver,/omc_data/whoi/OMC/GI02HYPM/R00002/cg_data/dcl00/GWFP_sn12774-01/0*/E*.DA?,GI02HYPM-WFP02-03-DOSTAL000,recovered_wfp,Available,
+mi.dataset.driver.ctdpf_ckl.wfp.ctdpf_ckl_wfp_recovered_driver,/omc_data/whoi/OMC/GI02HYPM/R00002/cg_data/dcl00/GWFP_sn12774-01/0*/C*.DA?,GI02HYPM-WFP02-04-CTDPFL000,recovered_wfp,Available,
+mi.dataset.driver.vel3d_l.wfp.vel3d_l_wfp_recovered_driver,/omc_data/whoi/OMC/GI02HYPM/R00002/cg_data/dcl00/GWFP_sn12774-01/0*/A*.DA?,GI02HYPM-WFP02-05-VEL3DL000,recovered_wfp,Available,

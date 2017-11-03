@@ -1,6 +1,6 @@
-uframe_route,parser,filename_mask,reference_designator,data_source,status,notes
-Ingest.glider-eng-glider_telemetered,mi.dataset.driver.moas.gl.engineering.glider_eng_glider_telemetered_driver,/omc_data/whoi/OMC/CP05MOAS-GL340/D00007/merged-from-glider/cp*.mrg,CP05MOAS-GL340-00-ENG000000,telemetered,Available,
-Ingest.flort-m-glider_telemetered,mi.dataset.driver.moas.gl.flort_m.flort_m_glider_telemetered_driver,/omc_data/whoi/OMC/CP05MOAS-GL340/D00007/merged-from-glider/cp*.mrg,CP05MOAS-GL340-02-FLORTM000,telemetered,Available,
-Ingest.ctdgv-m-glider_telemetered,mi.dataset.driver.moas.gl.ctdgv.ctdgv_m_glider_telemetered_driver,/omc_data/whoi/OMC/CP05MOAS-GL340/D00007/merged-from-glider/cp*.mrg,CP05MOAS-GL340-03-CTDGVM000,telemetered,Available,
-Ingest.dosta-abcdjm-glider_telemetered,mi.dataset.driver.moas.gl.dosta.dosta_abcdjm_glider_telemetered_driver,/omc_data/whoi/OMC/CP05MOAS-GL340/D00007/merged-from-glider/cp*.mrg,CP05MOAS-GL340-04-DOSTAM000,telemetered,Available,
-Ingest.parad-m-glider_telemetered,mi.dataset.driver.moas.gl.parad.parad_m_glider_telemetered_driver,/omc_data/whoi/OMC/CP05MOAS-GL340/D00007/merged-from-glider/cp*.mrg,CP05MOAS-GL340-05-PARADM000,telemetered,Available,
+parser,filename_mask,reference_designator,data_source,status,notes
+mi.dataset.driver.moas.gl.engineering.glider_eng_glider_telemetered_driver,/omc_data/whoi/OMC/CP05MOAS-GL340/D00007/merged-from-glider/cp*.mrg,CP05MOAS-GL340-00-ENG000000,telemetered,Available,
+mi.dataset.driver.moas.gl.flort_m.flort_m_glider_telemetered_driver,/omc_data/whoi/OMC/CP05MOAS-GL340/D00007/merged-from-glider/cp*.mrg,CP05MOAS-GL340-02-FLORTM000,telemetered,Available,
+mi.dataset.driver.moas.gl.ctdgv.ctdgv_m_glider_telemetered_driver,/omc_data/whoi/OMC/CP05MOAS-GL340/D00007/merged-from-glider/cp*.mrg,CP05MOAS-GL340-03-CTDGVM000,telemetered,Available,
+mi.dataset.driver.moas.gl.dosta.dosta_abcdjm_glider_telemetered_driver,/omc_data/whoi/OMC/CP05MOAS-GL340/D00007/merged-from-glider/cp*.mrg,CP05MOAS-GL340-04-DOSTAM000,telemetered,Available,
+mi.dataset.driver.moas.gl.parad.parad_m_glider_telemetered_driver,/omc_data/whoi/OMC/CP05MOAS-GL340/D00007/merged-from-glider/cp*.mrg,CP05MOAS-GL340-05-PARADM000,telemetered,Available,
