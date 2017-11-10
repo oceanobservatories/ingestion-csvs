@@ -1,8 +1,8 @@
 parser,filename_mask,reference_designator,data_source,status,notes
-#mi.dataset.driver.moas.gl.engineering.glider_eng_glider_recovered_driver,/omc_data/whoi/OMC/GS05MOAS-PG565/R00001/merged-from-glider/gs_*.mrg,GS05MOAS-PG565-00-ENG000000,recovered_host,Missing,No data on server
-#mi.dataset.driver.moas.gl.ctdgv.ctdgv_m_glider_recovered_driver,/omc_data/whoi/OMC/GS05MOAS-PG565/R00001/merged-from-glider/gs_*.mrg,GS05MOAS-PG565-01-CTDGVM000,recovered_host,Missing,No data on server
-#mi.dataset.driver.moas.gl.dosta.dosta_abcdjm_glider_recovered_driver,/omc_data/whoi/OMC/GS05MOAS-PG565/R00001/merged-from-glider/gs_*.mrg,GS05MOAS-PG565-02-DOSTAM000,recovered_host,Missing,No data on server
-#mi.dataset.driver.moas.gl.flort_m.flort_m_glider_recovered_driver,/omc_data/whoi/OMC/GS05MOAS-PG565/R00001/merged-from-glider/gs_*.mrg,GS05MOAS-PG565-03-FLORTM000,recovered_host,Missing,No data on server
-#mi.dataset.driver.moas.gl.flort_o.flort_o_glider_recovered_driver,/omc_data/whoi/OMC/GS05MOAS-PG565/R00001/merged-from-glider/gs_*.mrg,GS05MOAS-PG565-04-FLORTO000,recovered_host,Missing,No data on server
-#mi.dataset.driver.nutnr_m.glider.nutnr_m_glider_telemetered_driver,/omc_data/whoi/OMC/GS05MOAS-PG565/R00001/merged-from-glider/gs_*.mrg,GS05MOAS-PG565-05-NUTNRM000,recovered_host,Missing,No data on server
-#mi.dataset.driver.moas.gl.parad.parad_m_glider_recovered_driver,/omc_data/whoi/OMC/GS05MOAS-PG565/R00001/merged-from-glider/gs_*.mrg,GS05MOAS-PG565-06-PARADM000,recovered_host,Missing,No data on server
+mi.dataset.driver.moas.gl.engineering.glider_eng_glider_recovered_driver,/omc_data/whoi/OMC/GS05MOAS-PG565/R00001/merged/gs_*.mrg,GS05MOAS-PG565-00-ENG000000,recovered_host,Available,
+mi.dataset.driver.moas.gl.ctdgv.ctdgv_m_glider_recovered_driver,/omc_data/whoi/OMC/GS05MOAS-PG565/R00001/merged/gs_*.mrg,GS05MOAS-PG565-01-CTDGVM000,recovered_host,Available,
+mi.dataset.driver.moas.gl.dosta.dosta_abcdjm_glider_recovered_driver,/omc_data/whoi/OMC/GS05MOAS-PG565/R00001/merged/gs_*.mrg,GS05MOAS-PG565-02-DOSTAM000,recovered_host,Available,
+mi.dataset.driver.moas.gl.flort_m.flort_m_glider_recovered_driver,/omc_data/whoi/OMC/GS05MOAS-PG565/R00001/merged/gs_*.mrg,GS05MOAS-PG565-03-FLORTM000,recovered_host,Available,
+mi.dataset.driver.moas.gl.flort_o.flort_o_glider_recovered_driver,/omc_data/whoi/OMC/GS05MOAS-PG565/R00001/merged/gs_*.mrg,GS05MOAS-PG565-04-FLORTO000,recovered_host,Available,
+mi.dataset.driver.nutnr_m.glider.nutnr_m_glider_telemetered_driver,/omc_data/whoi/OMC/GS05MOAS-PG565/R00001/merged/gs_*.mrg,GS05MOAS-PG565-05-NUTNRM000,recovered_host,Available,
+mi.dataset.driver.moas.gl.parad.parad_m_glider_recovered_driver,/omc_data/whoi/OMC/GS05MOAS-PG565/R00001/merged/gs_*.mrg,GS05MOAS-PG565-06-PARADM000,recovered_host,Available,
