@@ -10,7 +10,7 @@ mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/who
 mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_telemetered_driver,/omc_data/whoi/OMC/CE06ISSM/D00004/dcl37/optaa2/*.optaa*.log,CE06ISSM-MFD37-01-OPTAAD000,telemetered,Available,
 mi.dataset.driver.ctdbp_cdef.dcl.ctdbp_cdef_dcl_telemetered_driver,/omc_data/whoi/OMC/CE06ISSM/D00004/dcl37/ctdbp2/*.ctdbp*.log,CE06ISSM-MFD37-03-CTDBPC000,telemetered,Available,
 mi.dataset.driver.dosta_abcdjm.ctdbp.dcl.dosta_abcdjm_ctdbp_dcl_telemetered_driver,/omc_data/whoi/OMC/CE06ISSM/D00004/dcl37/ctdbp2/*.ctdbp*.log,CE06ISSM-MFD37-03-DOSTAD000,telemetered,Available,
-#,,CE06ISSM-MFD37-06-CAMDSA000,telemetered,Not Expected,"Data recorded internally by CAMDS, no DCL data recorded"
+#,/omc_data/whoi/OMC/CE06ISSM/D00004/,CE06ISSM-MFD37-06-CAMDSA000,telemetered,Not Expected,"Data recorded internally by CAMDS, no DCL data recorded"
 mi.dataset.driver.zplsc_c.dcl.zplsc_c_dcl_telemetered_driver,/omc_data/whoi/OMC/CE06ISSM/D00004/dcl37/zplsc/*.zplsc*.log,CE06ISSM-MFD37-07-ZPLSCC000,telemetered,Available,
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/whoi/OMC/CE06ISSM/D00004/dcl16/syslog/*.syslog.log,CE06ISSM-RID16-00-DCLENG000,telemetered,Available,
 mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_telemetered_driver,/omc_data/whoi/OMC/CE06ISSM/D00004/dcl16/optaa1/*.optaa*.log,CE06ISSM-RID16-01-OPTAAD000,telemetered,Available,
