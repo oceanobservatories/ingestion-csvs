@@ -10,7 +10,7 @@ mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/who
 mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_telemetered_driver,/omc_data/whoi/OMC/CE07SHSM/D00001/cg_data/dcl37/optaa2/*.optaa*.log,CE07SHSM-MFD37-01-OPTAAD000,telemetered,Available,
 mi.dataset.driver.ctdbp_cdef.dcl.ctdbp_cdef_dcl_telemetered_driver,/omc_data/whoi/OMC/CE07SHSM/D00001/cg_data/dcl37/ctdbp2/*.ctdbp*.log,CE07SHSM-MFD37-03-CTDBPC000,telemetered,Available,Uses record stream ctdbp_cdef_dcl_ce_instrument
 mi.dataset.driver.dosta_abcdjm.ctdbp.dcl.dosta_abcdjm_ctdbp_dcl_telemetered_driver,/omc_data/whoi/OMC/CE07SHSM/D00001/cg_data/dcl37/ctdbp2/*.ctdbp*.log,CE07SHSM-MFD37-03-DOSTAD000,telemetered,Available,The data for the DOSTA is available in */dcl37/ctdbp2.  Uses record stream ctdbp_cdef_dcl_ce_dosta.
-#,,CE07SHSM-MFD37-07-ZPLSCC000,telemetered,Not Expected,Instrument set to internally log
+#mi.dataset.driver.zplsc_c.dcl.zplsc_c_dcl_telemetered_driver,/omc_data/whoi/OMC/CE07SHSM/D00001/cg_data/dcl37/zplsc/*.zplsc.log,CE07SHSM-MFD37-07-ZPLSCC000,telemetered,Not Expected,Instrument set to internally log
 mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_telemetered_driver,/omc_data/whoi/OMC/CE07SHSM/D00001/cg_data/cpm2/syslog/cpm_status.txt,CE07SHSM-RIC21-00-CPMENG000,telemetered,Available,This file is always overwritten when a newer file is telemetered to shore approximately every 3 hours.
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/whoi/OMC/CE07SHSM/D00001/cg_data/dcl26/syslog/*.syslog.log,CE07SHSM-RID26-00-DCLENG000,telemetered,Available,
 mi.dataset.driver.adcpt_acfgm.dcl.pd0.adcpt_acfgm_dcl_pd0_telemetered_driver,/omc_data/whoi/OMC/CE07SHSM/D00001/cg_data/dcl26/adcpt1/*.adcpt*.log,CE07SHSM-RID26-01-ADCPTA000,telemetered,Available,
@@ -33,4 +33,4 @@ mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/who
 mi.dataset.driver.hyd_o.dcl.hyd_o_dcl_telemetered_driver,/omc_data/whoi/OMC/CE07SHSM/D00001/cg_data/dcl12/hyd2/*.hyd*.log,CE07SHSM-SBD12-03-HYDGN0000,telemetered,Available,
 mi.dataset.driver.pco2a_a.dcl.pco2a_a_dcl_telemetered_driver,/omc_data/whoi/OMC/CE07SHSM/D00001/cg_data/dcl12/pco2a/*.pco2a.log,CE07SHSM-SBD12-04-PCO2AA000,telemetered,Available,
 mi.dataset.driver.wavss_a.dcl.wavss_a_dcl_telemetered_driver,/omc_data/whoi/OMC/CE07SHSM/D00001/cg_data/dcl12/wavss/*.wavss.log,CE07SHSM-SBD12-05-WAVSSA000,telemetered,Available,
-#,,CE07SHSM-MFD37-06-CAMDSA000,telemetered,Not Expected,Instrument set to internally log
+#,/omc_data/whoi/OMC/CE07SHSM/D00001/,CE07SHSM-MFD37-06-CAMDSA000,telemetered,Not Expected,Instrument set to internally log

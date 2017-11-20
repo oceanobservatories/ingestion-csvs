@@ -10,7 +10,7 @@ mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/who
 mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_telemetered_driver,/omc_data/whoi/OMC/CE06ISSM/D00002/dcl37/optaa2/*.optaa*.log,CE06ISSM-MFD37-01-OPTAAD000,telemetered,Available,
 mi.dataset.driver.ctdbp_cdef.dcl.ctdbp_cdef_dcl_telemetered_driver,/omc_data/whoi/OMC/CE06ISSM/D00002/dcl37/ctdbp2/*.ctdbp*.log,CE06ISSM-MFD37-03-CTDBPC000,telemetered,Available,
 mi.dataset.driver.dosta_abcdjm.ctdbp.dcl.dosta_abcdjm_ctdbp_dcl_telemetered_driver,/omc_data/whoi/OMC/CE06ISSM/D00002/dcl37/ctdbp2/*.ctdbp*.log,CE06ISSM-MFD37-03-DOSTAD000,telemetered,Available,
-#,,CE06ISSM-MFD37-06-CAMDSA000,telemetered,Not Deployed,"Data recorded internally by CAMDS, no DCL data recorded"
+#,/omc_data/whoi/OMC/CE06ISSM/D00002/,CE06ISSM-MFD37-06-CAMDSA000,telemetered,Not Deployed,"Data recorded internally by CAMDS, no DCL data recorded"
 mi.dataset.driver.zplsc_c.dcl.zplsc_c_dcl_telemetered_driver,/omc_data/whoi/OMC/CE06ISSM/D00002/dcl37/zplsc/*.zplsc*.log,CE06ISSM-MFD37-07-ZPLSCC000,telemetered,Available,
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/whoi/OMC/CE06ISSM/D00002/dcl16/syslog/*.syslog.log,CE06ISSM-RID16-00-DCLENG000,telemetered,Available,
 mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_telemetered_driver,/omc_data/whoi/OMC/CE06ISSM/D00002/dcl16/optaa1/*.optaa*.log,CE06ISSM-RID16-01-OPTAAD000,telemetered,Available,
@@ -26,5 +26,5 @@ mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_telemetered_driver,/omc_data/who
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/whoi/OMC/CE06ISSM/D00002/dcl17/syslog/*.syslog.log,CE06ISSM-SBD17-00-DCLENG000,telemetered,Available,
 #mi.dataset.driver.cg_stc_eng.stc.mopak_o_dcl_telemetered_driver,/omc_data/whoi/OMC/CE06ISSM/D00002/dcl17/mopak/*.mopak.log,CE06ISSM-SBD17-01-MOPAK0000,telemetered,Not Expected,MOPAK data files are too large to telemetered via Iridium. Data available upon recovery
 mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_telemetered_driver,/omc_data/whoi/OMC/CE06ISSM/D00002/dcl17/velpt1/*.velpt*.log,CE06ISSM-SBD17-04-VELPTA000,telemetered,Available,
-#,,CE06ISSM-SBD17-06-CTDBPC000,telemetered,Not Deployed,CTDBP with FLORT not installed in the spring/summer
-#,,CE06ISSM-SBD17-06-FLORTD000,telemetered,Not Deployed,CTDBP with FLORT not installed in the spring/summer
+#,/omc_data/whoi/OMC/CE06ISSM/D00003/dcl17/ctdbp*/*.ctdbp*.log,CE06ISSM-SBD17-06-CTDBPC000,telemetered,Not Deployed,CTDBP with FLORT not installed in the spring/summer
+#,/omc_data/whoi/OMC/CE06ISSM/D00003/,CE06ISSM-SBD17-06-FLORTD000,telemetered,Not Deployed,CTDBP with FLORT not installed in the spring/summer

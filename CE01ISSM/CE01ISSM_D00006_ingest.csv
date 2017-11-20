@@ -27,4 +27,4 @@ mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/who
 mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00006/dcl17/velpt*/*.velpt*.log,CE01ISSM-SBD17-04-VELPTA000,telemetered,Available,
 #,/omc_data/whoi/OMC/CE01ISSM/D00006/dcl17/ctdbp*/*.ctdbp*.log,CE01ISSM-SBD17-06-CTDBPC000,telemetered,Pending,"CTDBP with FLORT attached, no driver currently exists for this data set"
 #,/omc_data/whoi/OMC/CE01ISSM/D00006/dcl17/ctdbp*/*.ctdbp*.log,CE01ISSM-SBD17-06-FLORTD000,telemetered,Pending,"CTDBP with FLORT attached, no driver currently exists for this data set"
-#,,CE01ISSM-MFD37-06-CAMDSA000,telemetered,Not Deployed,Instrument not deployed
+#,/omc_data/whoi/OMC/CE01ISSM/D00006/,CE01ISSM-MFD37-06-CAMDSA000,telemetered,Not Deployed,Instrument not deployed
