@@ -28,4 +28,4 @@ mi.dataset.driver.hyd_o.dcl.hyd_o_dcl_recovered_driver,/omc_data/whoi/OMC/CE04OS
 mi.dataset.driver.pco2a_a.dcl.pco2a_a_dcl_recovered_driver,/omc_data/whoi/OMC/CE04OSSM/R00001/cg_data/dcl12/pco2a/*.pco2a.log,CE04OSSM-SBD12-04-PCO2AA000,recovered_host,Available,
 mi.dataset.driver.wavss_a.dcl.wavss_a_dcl_recovered_driver,/omc_data/whoi/OMC/CE04OSSM/R00001/cg_data/dcl12/wavss/*.wavss.log,CE04OSSM-SBD12-05-WAVSSA000,recovered_host,Available,
 #,/omc_data/whoi/OMC/CE04OSSM/R00001/instrmts/dcl12/PCO2A_*/*pco2a*.log,CE04OSSM-SBD12-04-PCO2AA000,recovered_inst,Missing,
-#,/omc_data/whoi/OMC/CE04OSSM/R00001/instrmts/dcl12/WAVSS_*/ce04ossm_wavss_*/,CE04OSSM-SBD12-05-WAVSSA000,recovered_inst,Pending,
+#,/omc_data/whoi/OMC/CE04OSSM/R00001/instrmts/dcl12/WAVSS_*/ce04ossm_wavss_*/,CE04OSSM-SBD12-05-WAVSSA000,recovered_inst,Not Expected,Instrument files will not be processed by OOI
