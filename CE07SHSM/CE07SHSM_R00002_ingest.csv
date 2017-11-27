@@ -48,7 +48,7 @@ mi.dataset.driver.hyd_o.dcl.hyd_o_dcl_recovered_driver,/omc_data/whoi/OMC/CE07SH
 mi.dataset.driver.pco2a_a.dcl.pco2a_a_dcl_recovered_driver,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl12/pco2a/*.pco2a.log,CE07SHSM-SBD12-04-PCO2AA000,recovered_host,Available,
 mi.dataset.driver.wavss_a.dcl.wavss_a_dcl_recovered_driver,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl12/wavss/*.wavss.log,CE07SHSM-SBD12-05-WAVSSA000,recovered_host,Available,
 #,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl11/MOPAK_*/,CE07SHSM-SBD11-01-MOPAK0000,recovered_inst,Not Expected,does not record internally
-mi.dataset.driver.pco2a_a.dcl.pco2a_a_dcl_recovered_driver,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl12/PCO2A_*/*pco2a*.txt,CE07SHSM-SBD12-04-PCO2AA000,recovered_inst,Available,
+#,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl12/PCO2A_*/*pco2a*.txt,CE07SHSM-SBD12-04-PCO2AA000,recovered_inst,Not Expected,Instrument files will not be processed by OOI
 #,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl12/WAVSS_*/,CE07SHSM-SBD12-05-WAVSSA000,recovered_inst,Not Expected,Instrument files will not be processed by OOI
 #,/omc_data/whoi/OMC/CE07SHSM/R00002/instrmts/dcl37/ZPLSC_*/*zplsc*/*/*.01A,CE07SHSM-MFD37-07-ZPLSCC000,recovered_inst,Missing,No parser exists for this data file
 #,/omc_data/whoi/OMC/CE07SHSM/R00002/cg_data/dcl37/CAMDS_*/*camds*/dcim/*.png,CE07SHSM-MFD37-06-CAMDSA000,recovered_host,Not Expected,Instrument not connected to DCL - no driver/parser
