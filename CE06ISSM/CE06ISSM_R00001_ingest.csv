@@ -43,9 +43,9 @@ mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/
 #mi.dataset.driver.cg_stc_eng.stc.mopak_o_dcl_recovered_driver,/omc_data/whoi/OMC/CE06ISSM/R00001/cg_data/dcl17/mopak/*.mopak.log,CE06ISSM-SBD17-01-MOPAK0000,recovered_host,Available,Temporarily disabled for mass ingestions
 mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_recovered_driver,/omc_data/whoi/OMC/CE06ISSM/R00001/cg_data/dcl17/velpt1/*.velpt1.log,CE06ISSM-SBD17-04-VELPTA000,recovered_host,Available,
 mi.dataset.driver.velpt_ab.velpt_ab_recovered_driver,/omc_data/whoi/OMC/CE06ISSM/R00001/instrmts/dcl17/VELPT*/*velpt*.aqd,CE06ISSM-SBD17-04-VELPTA000,recovered_inst,Available,
-mi.dataset.driver.ctdbp_cdef.dcl.ctdbp_cdef_dcl_recovered_driver,/omc_data/whoi/OMC/CE06ISSM/R00001/cg_data/dcl17/ctdbp3/*.ctdbp3.log,CE06ISSM-SBD17-06-CTDBPC000,recovered_host,Available,
+#,/omc_data/whoi/OMC/CE06ISSM/R00001/cg_data/dcl17/ctdbp3/*.ctdbp3.log,CE06ISSM-SBD17-06-CTDBPC000,recovered_host,Pending,No parser exists for this data set
 #,/omc_data/whoi/OMC/CE06ISSM/R00001/instrmts/dcl17/CTDBP-C_*/*_ctdbp3_*.hex,CE06ISSM-SBD17-06-CTDBPC000,recovered_inst,Pending,No parser exists for this data set
-mi.dataset.driver.dosta_abcdjm.ctdbp.dcl.dosta_abcdjm_ctdbp_dcl_recovered_driver,/omc_data/whoi/OMC/CE06ISSM/R00001/cg_data/dcl17/ctdbp3/*.ctdbp3.log,CE06ISSM-SBD17-06-FLORTD000,recovered_host,Available,
+#,/omc_data/whoi/OMC/CE06ISSM/R00001/cg_data/dcl17/ctdbp3/*.ctdbp3.log,CE06ISSM-SBD17-06-FLORTD000,recovered_host,Pending,No parser exists for this data set
 #,/omc_data/whoi/OMC/CE06ISSM/R00001/instrmts/dcl17/CTDBP-C_*/*_ctdbp3_*.hex,CE06ISSM-SBD17-06-FLORTD000,recovered_inst,Pending,No parser exists for this data set
 #,/omc_data/whoi/OMC/CE06ISSM/R00001/cg_data/dcl37/camds/*.camds.png,CE06ISSM-MFD37-06-CAMDSA000,recovered_host,Not Deployed,Instrument was not deployed
 #,/omc_data/whoi/OMC/CE06ISSM/R00001/instrmts/dcl37/CAMDS_*/*camds*/dcim/*.png,CE06ISSM-MFD37-06-CAMDSA000,recovered_inst,Not Deployed,Instrument was not deployed
