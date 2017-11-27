@@ -44,3 +44,4 @@ mi.dataset.driver.dosta_abcdjm.dcl.dosta_abcdjm_dcl_recovered_driver,/omc_data/w
 #,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl12/wavss/*.wavss.log ,CP01CNSM-SBD12-05-WAVSSA000,recovered_host,Not Expected,Buoy exploded - data not recoverable
 #mi.dataset.driver.metbk_a.dcl.metbk_a_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl12/metbk*/*metbk*.log,CP01CNSM-SBD12-06-METBKA000,recovered_host,Not Expected,Buoy exploded - data not recoverable
 #mi.dataset.driver.fdchp_a.dcl.fdchp_a_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl12/fdchp*/*fdchp*.log,CP01CNSM-SBD12-08-FDCHPA000,recovered_host,Not Deployed,Not deployed
+#mi.dataset.driver.fdchp_a.dcl.fdchp_a_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl12/FDCHP*/*fdchp*.dat,CP01CNSM-SBD12-08-FDCHPA000,recovered_inst,Not Deployed,
