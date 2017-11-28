@@ -1,4 +1,5 @@
 parser,filename_mask,reference_designator,data_source,status,notes
+mi.dataset.driver.adcps_jln.stc.adcps_jln_stc_telemetered_driver,/omc_data/whoi/OMC/CP04OSPM/D00008/imm/adcp/adcps_*.DAT,CP04OSPM-RII01-02-ADCPSL010,telemetered,Available,
 #mi.dataset.driver.cg_stc_eng.stc.cg_stc_eng_stc_telemetered_driver,/omc_data/whoi/OMC/CP04OSPM/D00008/irid2shore/stc_status.*_*.txt,CP04OSPM-SBS01-00-STCENG000,telemetered,Available,Temporarily disabled for mass ingestions
 #mi.dataset.driver.cg_stc_eng.stc.mopak_o_dcl_telemetered_driver,/omc_data/whoi/OMC/CP04OSPM/D00008/3dmgx3/*_*.3dmgx3.log,CP04OSPM-SBS11-02-MOPAK0000,telemetered,Available,Temporarily disabled for mass ingestions
 mi.dataset.driver.WFP_ENG.STC_IMODEM.wfp_eng_stc_imodem_telemetered_driver,/omc_data/whoi/OMC/CP04OSPM/D00008/imm/mmp/E*.DAT,CP04OSPM-WFP01-00-WFPENG000,telemetered,Available,
