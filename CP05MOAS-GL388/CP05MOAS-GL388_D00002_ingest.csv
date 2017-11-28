@@ -4,4 +4,3 @@ parser,filename_mask,reference_designator,data_source,status,notes
 #mi.dataset.driver.moas.gl.ctdgv.ctdgv_m_glider_telemetered_driver,/omc_data/whoi/OMC/CP05MOAS-GL388/D00002/merged-from-glider/cp_*.mrg,CP05MOAS-GL388-03-CTDGVM000,telemetered,Missing,short deployment
 #mi.dataset.driver.moas.gl.dosta.dosta_abcdjm_glider_telemetered_driver,/omc_data/whoi/OMC/CP05MOAS-GL388/D00002/merged-from-glider/cp_*.mrg,CP05MOAS-GL388-04-DOSTAM000,telemetered,Missing,short deployment
 #mi.dataset.driver.moas.gl.parad.parad_m_glider_telemetered_driver,/omc_data/whoi/OMC/CP05MOAS-GL388/D00002/merged-from-glider/cp_*.mrg,CP05MOAS-GL388-05-PARADM000,telemetered,Missing,short deployment
-#,,CP05MOAS-GL388-01-ADCPAM000,telemetered,Not Expected,Instrument not set to send data via telemetry
