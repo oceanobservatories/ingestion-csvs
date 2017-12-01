@@ -1,7 +1,7 @@
 parser,filename_mask,reference_designator,data_source,status,notes
 mi.dataset.driver.adcps_jln.stc.adcps_jln_stc_telemetered_driver,/omc_data/whoi/OMC/CP01CNPM/D00001/imm/adcpt/adcpt_*_*.DAT,CP01CNPM-RII01-02-ADCPTG010,telemetered,Available,
-#mi.dataset.driver.cg_stc_eng.stc.cg_stc_eng_stc_telemetered_driver,/omc_data/whoi/OMC/CP01CNPM/D00001/irid2shore/stc_status.*_*.txt,CP01CNPM-SBS01-00-STCENG000,telemetered,Available,Temporarily disabled for mass ingestions
-#mi.dataset.driver.cg_stc_eng.stc.mopak_o_dcl_telemetered_driver,/omc_data/whoi/OMC/CP01CNPM/D00001/3dmgx3/*_*.3dmgx3.log,CP01CNPM-SBS01-01-MOPAK0000,telemetered,Available,Temporarily disabled for mass ingestions
+mi.dataset.driver.cg_stc_eng.stc.cg_stc_eng_stc_telemetered_driver,/omc_data/whoi/OMC/CP01CNPM/D00001/irid2shore/stc_status.*_*.txt,CP01CNPM-SBS01-00-STCENG000,telemetered,Available,
+mi.dataset.driver.cg_stc_eng.stc.mopak_o_dcl_telemetered_driver,/omc_data/whoi/OMC/CP01CNPM/D00001/3dmgx3/*_*.3dmgx3.log,CP01CNPM-SBS01-01-MOPAK0000,telemetered,Available,
 mi.dataset.driver.WFP_ENG.STC_IMODEM.wfp_eng_stc_imodem_telemetered_driver,/omc_data/whoi/OMC/CP01CNPM/D00001/imm/mmp/E*.DAT,CP01CNPM-WFP01-00-WFPENG000,telemetered,Available,
 mi.dataset.driver.vel3d_k.wfp_stc.vel3d_k_wfp_stc_telemetered_driver,/omc_data/whoi/OMC/CP01CNPM/D00001/imm/mmp/A*.DEC,CP01CNPM-WFP01-01-VEL3DK000,telemetered,Available,
 mi.dataset.driver.dofst_k.wfp.dofst_k_wfp_telemetered_driver,/omc_data/whoi/OMC/CP01CNPM/D00001/imm/mmp/C*.DAT,CP01CNPM-WFP01-02-DOFSTK000,telemetered,Available,
