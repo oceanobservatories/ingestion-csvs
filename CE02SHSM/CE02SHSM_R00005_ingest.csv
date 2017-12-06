@@ -18,7 +18,7 @@ mi.dataset.driver.ctdbp_cdef.ctdbp_cdef_recovered_driver,/omc_data/whoi/OMC/CE02
 mi.dataset.driver.dosta_abcdjm.dcl.dosta_abcdjm_dcl_recovered_driver,/omc_data/whoi/OMC/CE02SHSM/R00005/cg_data/dcl27/dosta/*.dosta.log,CE02SHSM-RID27-04-DOSTAD000,recovered_host,Available,
 mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_recovered_driver,/omc_data/whoi/OMC/CE02SHSM/R00005/cg_data/irid2shore/cpm_status*.txt,CE02SHSM-SBC11-00-CPMENG000,recovered_host,Available,
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CE02SHSM/R00005/cg_data/dcl11/syslog/*.syslog.log,CE02SHSM-SBD11-00-DCLENG000,recovered_host,Available,
-#mi.dataset.driver.cg_stc_eng.stc.mopak_o_dcl_recovered_driver,/omc_data/whoi/OMC/CE02SHSM/R00005/cg_data/dcl11/mopak/*.mopak.log,CE02SHSM-SBD11-01-MOPAK0000,recovered_host,Available,Temporarily disabled for mass ingestions
+mi.dataset.driver.cg_stc_eng.stc.mopak_o_dcl_recovered_driver,/omc_data/whoi/OMC/CE02SHSM/R00005/cg_data/dcl11/mopak/*.mopak.log,CE02SHSM-SBD11-01-MOPAK0000,recovered_host,Available,
 mi.dataset.driver.hyd_o.dcl.hyd_o_dcl_recovered_driver,/omc_data/whoi/OMC/CE02SHSM/R00005/cg_data/dcl11/hyd*/*.hyd*.log,CE02SHSM-SBD11-02-HYDGN0000,recovered_host,Available,
 mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_recovered_driver,/omc_data/whoi/OMC/CE02SHSM/R00005/cg_data/dcl11/velpt*/*.velpt*.log,CE02SHSM-SBD11-04-VELPTA000,recovered_host,Available,
 mi.dataset.driver.velpt_ab.velpt_ab_recovered_driver,/omc_data/whoi/OMC/CE02SHSM/R00005/instrmts/dcl11/VELPT_*/*velpt*.aqd,CE02SHSM-SBD11-04-VELPTA000,recovered_inst,Available,
