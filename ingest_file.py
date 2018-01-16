@@ -17,7 +17,7 @@ def ingest_files(_queue, _refdes, _method, _deployment, _filenames):
     channel = connection.channel()
 
     for filename in _filenames:
-        headers = {'sensor': refdes, 'deliveryType': _method, 'deploymentNumber': _deployment}
+        headers = {'sensor': _refdes, 'deliveryType': _method, 'deploymentNumber': _deployment}
         props = pika.BasicProperties(headers=headers, user_id='guest')
 
         channel.basic_publish(exchange='',
