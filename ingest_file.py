@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 """
 Usage:
-    ingest_file.py <queue> <refdes> <method> <deployment> <filenames>
+    ingest_file.py <queue> <refdes> <method> <deployment> <filenames>...
 
 """
 
@@ -35,6 +35,6 @@ if __name__ == '__main__':
     refdes = options['<refdes>']
     method = options['<method>']
     deployment = int(options['<deployment>'])
-    filenames = options['<filenames>'].split(',')
+    filenames = options['<filenames>']
 
     ingest_files(queue, refdes, method, deployment, filenames)
