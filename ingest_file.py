@@ -35,6 +35,6 @@ if __name__ == '__main__':
     refdes = options['<refdes>']
     method = options['<method>']
     deployment = int(options['<deployment>'])
-    filenames = [options['<filenames>']]
+    filenames = options['<filenames>'].split(',')
 
     ingest_files(queue, refdes, method, deployment, filenames)
