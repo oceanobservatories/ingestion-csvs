@@ -1,19 +1,27 @@
 #!/usr/bin/env python
+"""
+Usage:
+    ingest_file.py <queue> <refdes> <method> <deployment> <filenames>
+
+"""
+
 import pika
-import sys
+import docopt
+
+options = docopt.docopt(__doc__)
 
 
-def ingest_files(queue, refdes, method, deployment, filenames):
+def ingest_files(_queue, _refdes, _method, _deployment, _filenames):
 
     connection = pika.BlockingConnection(pika.ConnectionParameters(host='localhost'))
     channel = connection.channel()
 
     for filename in filenames:
-        headers = {'sensor': refdes, 'deliveryType': method, 'deploymentNumber': deployment}
+        headers = {'sensor': refdes, 'deliveryType': _method, 'deploymentNumber': _deployment}
         props = pika.BasicProperties(headers=headers, user_id='guest')
 
         channel.basic_publish(exchange='',
-                              routing_key=queue,
+                              routing_key=_queue,
                               body=filename,
                               properties=props)
         print(" [x] Sent %r" % filename)
@@ -22,11 +30,11 @@ def ingest_files(queue, refdes, method, deployment, filenames):
 
 
 if __name__ == '__main__':
-
-    queue = sys.argv[1]
-    refdes = sys.argv[2]
-    method = sys.argv[3]
-    deployment = int(sys.argv[4])
-    filenames = sys.argv[5:]
+    # Get the command line options
+    queue = options['<queue>']
+    refdes = options['<refdes>']
+    method = options['<method>']
+    deployment = int(options['<deployment>'])
+    filenames = [options['<filenames>']]
 
     ingest_files(queue, refdes, method, deployment, filenames)
