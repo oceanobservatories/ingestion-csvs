@@ -1,5 +1,5 @@
 parser,filename_mask,reference_designator,data_source,status,notes
-#mi.dataset.driver.adcps_jln.stc.adcps_jln_stc_telemetered_driver,/omc_data/whoi/OMC/CP02PMCO/D00009/imm/adcpt/adcpt*.DAT,CP02PMCO-RII01-02-ADCPTG010,telemetered,Missing,
+#mi.dataset.driver.adcps_jln.stc.adcps_jln_stc_telemetered_driver,/omc_data/whoi/OMC/CP02PMCO/D00009/imm/adcpt/adcpt*.DAT,CP02PMCO-RII01-02-ADCPTG010,telemetered,Not Expected,Failed
 #mi.dataset.driver.cg_stc_eng.stc.cg_stc_eng_stc_telemetered_driver,/omc_data/whoi/OMC/CP02PMCO/D00009/irid2shore/stc_status.*_*.txt,CP02PMCO-SBS01-00-STCENG000,telemetered,Available,Temporarily disabled for mass ingestions
 #mi.dataset.driver.cg_stc_eng.stc.mopak_o_dcl_telemetered_driver,/omc_data/whoi/OMC/CP02PMCO/D00009/3dmgx3/*_*.3dmgx3.log,CP02PMCO-SBS01-01-MOPAK0000,telemetered,Available,Temporarily disabled for mass ingestions
 mi.dataset.driver.WFP_ENG.STC_IMODEM.wfp_eng_stc_imodem_telemetered_driver,/omc_data/whoi/OMC/CP02PMCO/D00009/imm/mmp/E*.DAT,CP02PMCO-WFP01-00-WFPENG000,telemetered,Available,
