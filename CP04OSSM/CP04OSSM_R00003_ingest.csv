@@ -20,7 +20,7 @@ mi.dataset.driver.dosta_abcdjm.dcl.dosta_abcdjm_dcl_recovered_driver,/omc_data/w
 #mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_recovered_driver,/omc_data/whoi/OMC/CP04OSSM/R00003/cg_data/cpm2/syslog/cpm_status*.txt,CP04OSSM-RIC21-00-CPMENG000,recovered_host,Missing,No data on server
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CP04OSSM/R00003/cg_data/dcl26/syslog/*.syslog.log,CP04OSSM-RID26-00-DCLENG000,recovered_host,Available,
 mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_recovered_driver,/omc_data/whoi/OMC/CP04OSSM/R00003/cg_data/dcl26/VELPT_snAQD-11417/*.velpt1.log,CP04OSSM-RID26-04-VELPTA000,recovered_host,Available,
-#mi.dataset.driver.velpt_ab.velpt_ab_recovered_driver,/omc_data/whoi/OMC/CP04OSSM/R00003/cg_data/dcl26/VELPT_snAQD-11417/*.aqd,CP04OSSM-RID26-04-VELPTA000,recovered_inst,Missing,No data on server
+#mi.dataset.driver.velpt_ab.velpt_ab_recovered_driver,/omc_data/whoi/OMC/CP04OSSM/R00003/cg_data/dcl26/VELPT*/*.aqd,CP04OSSM-RID26-04-VELPTA000,recovered_inst,Missing,No data on server
 mi.dataset.driver.phsen_abcdef.dcl.phsen_abcdef_dcl_recovered_driver,/omc_data/whoi/OMC/CP04OSSM/R00003/cg_data/dcl26/PHSEN_snP0158/*.phsen1.log,CP04OSSM-RID26-06-PHSEND000,recovered_host,Available,
 mi.dataset.driver.phsen_abcdef.phsen_abcdef_recovered_driver,/omc_data/whoi/OMC/CP04OSSM/R00003/cg_data/dcl26/PHSEN_snP0158/SAMI*.txt,CP04OSSM-RID26-06-PHSEND000,recovered_inst,Available,
 mi.dataset.driver.nutnr_b.dcl_full.nutnr_b_dcl_full_recovered_driver,/omc_data/whoi/OMC/CP04OSSM/R00003/cg_data/dcl26/NUTNR_sn280/*.nutnr.log,CP04OSSM-RID26-07-NUTNRB000,recovered_host,Available,
