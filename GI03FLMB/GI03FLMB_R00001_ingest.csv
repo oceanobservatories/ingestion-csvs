@@ -1,8 +1,8 @@
 parser,filename_mask,reference_designator,data_source,status,notes
 mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GI03FLMB/R00001/cg_data/dcl00/CTDMO-H_sn12224/*.hex,GI03FLMB-RI000-00-CTDMOH000,recovered_inst,Available,
-mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GI03FLMB/R00001/cg_data/dcl00/CTDMO-H_sn12218/*.hex,GI03FLMB-RI000-00-CTDMOH100,recovered_inst,Available,
+mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GI03FLMB/R00001/cg_data/dcl00/CTDMO-H_sn12226/*.hex,GI03FLMB-RI000-00-CTDMOH100,recovered_inst,Available,
 mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GI03FLMB/R00001/cg_data/dcl00/CTDMO-H_sn12219/*.hex,GI03FLMB-RI000-00-CTDMOH400,recovered_inst,Available,
-mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GI03FLMB/R00001/cg_data/dcl00/CTDMO-H_sn12226/*.hex,GI03FLMB-RI000-00-CTDMOH700,recovered_inst,Available,
+mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GI03FLMB/R00001/cg_data/dcl00/CTDMO-H_sn12218/*.hex,GI03FLMB-RI000-00-CTDMOH700,recovered_inst,Available,
 mi.dataset.driver.velpt_ab.velpt_ab_recovered_driver,/omc_data/whoi/OMC/GI03FLMB/R00001/cg_data/dcl00/VELPT-B_snAQD11973/*.aqd,GI03FLMB-RI000-00-VELPTB000,recovered_inst,Available,
 mi.dataset.driver.velpt_ab.velpt_ab_recovered_driver,/omc_data/whoi/OMC/GI03FLMB/R00001/cg_data/dcl00/VELPT-B_snAQD11981/*.aqd,GI03FLMB-RI000-00-VELPTB100,recovered_inst,Available,
 mi.dataset.driver.velpt_ab.velpt_ab_recovered_driver,/omc_data/whoi/OMC/GI03FLMB/R00001/cg_data/dcl00/VELPT-B_snAQD11976/*.aqd,GI03FLMB-RI000-00-VELPTB400,recovered_inst,Available,
