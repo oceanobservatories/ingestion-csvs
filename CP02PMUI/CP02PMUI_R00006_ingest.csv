@@ -1,5 +1,5 @@
 parser,filename_mask,reference_designator,data_source,status,notes
-#mi.dataset.driver.adcps_jln.stc.adcps_jln_stc_recovered_driver,/omc_data/whoi/OMC/CP02PMUI/R00006/cg_data/dcl00/imm/adcpt/adcpt*.DAT,CP02PMUI-RII01-02-ADCPTG010,recovered_host,Not Expected,Not expected may not have been recovered
+#mi.dataset.driver.adcps_jln.stc.adcps_jln_stc_recovered_driver,/omc_data/whoi/OMC/CP02PMUI/R00006/cg_data/dcl00/imm/adcpt/adcpt*.DAT,CP02PMUI-RII01-02-ADCPTG010,recovered_host,Not Expected,may not have been recovered
 mi.dataset.driver.adcps_jln.adcps_jln_driver,/omc_data/whoi/OMC/CP02PMUI/R00006/cg_data/dcl00/ADCP_sn20499/*.000,CP02PMUI-RII01-02-ADCPTG010,recovered_inst,Available,
 #mi.dataset.driver.cg_stc_eng.stc.cg_stc_eng_stc_recovered_driver,/omc_data/whoi/OMC/CP02PMUI/R00006/cg_data/dcl00/irid2shore/stc_status.*_*.txt,CP02PMUI-SBS01-00-STCENG000,recovered_host,Not Expected,may not have been recovered
 #mi.dataset.driver.cg_stc_eng.stc.mopak_o_dcl_recovered_driver,/omc_data/whoi/OMC/CP02PMUI/R00006/cg_data/dcl00/MOPAK_sn/*_*.3dmgx3.log,CP02PMUI-SBS01-01-MOPAK0000,recovered_host,Not Expected,may not have been recovered
