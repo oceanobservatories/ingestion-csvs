@@ -30,7 +30,7 @@ mi.dataset.driver.spkir_abj.dcl.spkir_abj_dcl_recovered_driver,/omc_data/whoi/OM
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00006/cg_data/dcl27/syslog/*.syslog.log,CP01CNSM-RID27-00-DCLENG000,recovered_host,Available,
 mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00006/cg_data/dcl27/optaa1/*.optaa1.log,CP01CNSM-RID27-01-OPTAAD000,recovered_host,Available,
 mi.dataset.driver.flort_dj.dcl.flort_dj_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00006/cg_data/dcl27/flort/*.flort.log,CP01CNSM-RID27-02-FLORTD000,recovered_host,Available,
-mi.dataset.driver.ctdbp_cdef.dcl.ctdbp_cdef_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00006/cg_data/dcl27/ctdbp1/*.ctdbp1.log,CP01CNSM-RID27-03-CTDBPC000,recovered_host,Not Expected,folder only contains test data from before the deployment
+mi.dataset.driver.ctdbp_cdef.dcl.ctdbp_cdef_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00006/cg_data/dcl27/ctdbp1/*.ctdbp1.log,CP01CNSM-RID27-03-CTDBPC000,recovered_host,Not Expected,files with test data from before the deployment
 mi.dataset.driver.ctdbp_cdef.ctdbp_cdef_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00006/instruments/dcl27/CTDBP*/SBE16plus*.hex,CP01CNSM-RID27-03-CTDBPC000,recovered_inst,Available,
 mi.dataset.driver.dosta_abcdjm.dcl.dosta_abcdjm_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00006/cg_data/dcl27/dosta1/*.dosta1.log,CP01CNSM-RID27-04-DOSTAD000,recovered_host,Available,
 mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00006/cg_data/cpm1/irid2shore/cpm_status*.txt,CP01CNSM-SBC11-00-CPMENG000,recovered_host,Available,
