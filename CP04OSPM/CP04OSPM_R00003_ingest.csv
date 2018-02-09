@@ -1,6 +1,6 @@
 parser,filename_mask,reference_designator,data_source,status,notes
-#mi.dataset.driver.cg_stc_eng.stc.cg_stc_eng_stc_recovered_driver,/omc_data/whoi/OMC/CP04OSPM/R00003/cg_data/dcl00/irid2shore/stc_status.*_*.txt,CP04OSPM-SBS01-00-STCENG000,recovered_host,Available,Temporarily disabled for mass ingestions
-#mi.dataset.driver.cg_stc_eng.stc.mopak_o_dcl_recovered_driver,/omc_data/whoi/OMC/CP04OSPM/R00003/cg_data/dcl00/MOPAK_sn/*_*.3dmgx3.log,CP04OSPM-SBS11-02-MOPAK0000,recovered_host,Available,Temporarily disabled for mass ingestions
+mi.dataset.driver.cg_stc_eng.stc.cg_stc_eng_stc_recovered_driver,/omc_data/whoi/OMC/CP04OSPM/R00003/cg_data/dcl00/irid2shore/stc_status.*_*.txt,CP04OSPM-SBS01-00-STCENG000,recovered_host,Available,
+mi.dataset.driver.cg_stc_eng.stc.mopak_o_dcl_recovered_driver,/omc_data/whoi/OMC/CP04OSPM/R00003/cg_data/dcl00/MOPAK_sn/*_*.3dmgx3.log,CP04OSPM-SBS11-02-MOPAK0000,recovered_host,Available,
 mi.dataset.driver.WFP_ENG.STC_IMODEM.wfp_eng_stc_imodem_recovered_driver,/omc_data/whoi/OMC/CP04OSPM/R00003/cg_data/dcl00/CWFP_sn13103-03/0*/E*.DA?,CP04OSPM-WFP01-00-WFPENG000,recovered_wfp,Available,
 mi.dataset.driver.vel3d_k.wfp.vel3d_k_wfp_recovered_driver,/omc_data/whoi/OMC/CP04OSPM/R00003/cg_data/dcl00/CWFP_sn13103-03/0*/A*.DA?,CP04OSPM-WFP01-01-VEL3DK000,recovered_wfp,Available,
 mi.dataset.driver.dofst_k.wfp.dofst_k_wfp_recovered_driver,/omc_data/whoi/OMC/CP04OSPM/R00003/cg_data/dcl00/CWFP_sn13103-03/0*/C*.DA?,CP04OSPM-WFP01-02-DOFSTK000,recovered_wfp,Available,

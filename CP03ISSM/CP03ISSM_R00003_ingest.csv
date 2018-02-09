@@ -1,5 +1,5 @@
 parser,filename_mask,reference_designator,data_source,status,notes
-#mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/cpm3/syslog/cpm_status*.txt,CP03ISSM-MFC31-00-CPMENG000,recovered_host,Not Expected,No data available. It was not routinely captured.
+#mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/cpm3/syslog/cpm_status*.txt,CP03ISSM-MFC31-00-CPMENG000,recovered_host,Not Expected,It was not routinely captured.
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl35/syslog/*.syslog.log,CP03ISSM-MFD35-00-DCLENG000,recovered_host,Available,
 mi.dataset.driver.adcpt_acfgm.dcl.pd8.adcpt_acfgm_dcl_pd8_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl35/ADCP_sn20530/*adcp.log,CP03ISSM-MFD35-01-ADCPTF000,recovered_host,Available,
 mi.dataset.driver.adcps_jln.adcps_jln_driver,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl35/ADCP_sn20530/_RDI*.000,CP03ISSM-MFD35-01-ADCPTF000,recovered_inst,Available,
@@ -17,12 +17,12 @@ mi.dataset.driver.ctdbp_cdef.dcl.ctdbp_cdef_dcl_recovered_driver,/omc_data/whoi/
 mi.dataset.driver.ctdbp_cdef.ctdbp_cdef_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl37/CTDBP_sn16-50110/SBE*.hex,CP03ISSM-MFD37-03-CTDBPD000,recovered_inst,Available,
 mi.dataset.driver.dosta_abcdjm.dcl.dosta_abcdjm_dcl_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl37/DOSTA_sn507/*dosta2*.log,CP03ISSM-MFD37-04-DOSTAD000,recovered_host,Available,
 #,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl37/ZPLSC_sn55100/*zplsc.log,CP03ISSM-MFD37-07-ZPLSCC000,recovered_host,Pending,No driver exists
-#mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/cpm2/syslog/cpm_status*.txt,CP03ISSM-RIC21-00-CPMENG000,recovered_host,Not Expected,No data available. It was not routinely captured.
+#mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/cpm2/syslog/cpm_status*.txt,CP03ISSM-RIC21-00-CPMENG000,recovered_host,Not Expected,It was not routinely captured.
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl26/syslog/*.syslog.log,CP03ISSM-RID26-00-DCLENG000,recovered_host,Available,
 mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl26/VELPT_snAQD-12747/*velpt1.log,CP03ISSM-RID26-04-VELPTA000,recovered_host,Available,
 mi.dataset.driver.velpt_ab.velpt_ab_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl26/VELPT_snAQD-12747/*.aqd,CP03ISSM-RID26-04-VELPTA000,recovered_inst,Available,
-#mi.dataset.driver.phsen_abcdef.dcl.phsen_abcdef_dcl_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl26/PHSEN_snP00100/*phsen1.log,CP03ISSM-RID26-06-PHSEND000,recovered_host,Not Deployed,Not deployed
-#mi.dataset.driver.phsen_abcdef.phsen_abcdef_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl26/PHSEN_snP00100/SAMI*.txt,CP03ISSM-RID26-06-PHSEND000,recovered_inst,Not Deployed,Not deployed
+#mi.dataset.driver.phsen_abcdef.dcl.phsen_abcdef_dcl_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl26/PHSEN_snP00100/*phsen1.log,CP03ISSM-RID26-06-PHSEND000,recovered_host,Not Deployed,
+#mi.dataset.driver.phsen_abcdef.phsen_abcdef_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl26/PHSEN_snP00100/SAMI*.txt,CP03ISSM-RID26-06-PHSEND000,recovered_inst,Not Deployed,
 mi.dataset.driver.nutnr_b.dcl_full.nutnr_b_dcl_full_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl26/NUTNR_sn283/*nutnr.log,CP03ISSM-RID26-07-NUTNRB000,recovered_host,Available,
 mi.dataset.driver.nutnr_b.nutnr_b_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl26/NUTNR_sn283/SCH*.DAT,CP03ISSM-RID26-07-NUTNRB000,recovered_inst,Available,
 mi.dataset.driver.spkir_abj.dcl.spkir_abj_dcl_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl26/SPKIR_sn290/*.spkir*.log,CP03ISSM-RID26-08-SPKIRB000,recovered_host,Available,
@@ -32,12 +32,12 @@ mi.dataset.driver.flort_dj.dcl.flort_dj_dcl_recovered_driver,/omc_data/whoi/OMC/
 mi.dataset.driver.ctdbp_cdef.dcl.ctdbp_cdef_dcl_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl27/CTDBP_sn16-50109/*ctdbp1*.log,CP03ISSM-RID27-03-CTDBPC000,recovered_host,Available,
 mi.dataset.driver.ctdbp_cdef.ctdbp_cdef_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl27/CTDBP_sn16-50109/SBE*.hex,CP03ISSM-RID27-03-CTDBPC000,recovered_inst,Available,
 mi.dataset.driver.dosta_abcdjm.dcl.dosta_abcdjm_dcl_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl27/DOSTA_sn508/*dosta1*.log,CP03ISSM-RID27-04-DOSTAD000,recovered_host,Available,
-#mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/irid2shore/cpm_status*.txt,CP03ISSM-SBC11-00-CPMENG000,recovered_host,Not Expected,No data available. It was not routinely captured.
+#mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/irid2shore/cpm_status*.txt,CP03ISSM-SBC11-00-CPMENG000,recovered_host,Not Expected,It was not routinely captured.
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl11/syslog/*.syslog.log,CP03ISSM-SBD11-00-DCLENG000,recovered_host,Available,
-#mi.dataset.driver.cg_stc_eng.stc.mopak_o_dcl_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl11/MOPAK_sn/*.mopak.log,CP03ISSM-SBD11-01-MOPAK0000,recovered_host,Not Expected,No data available. It was not routinely captured.
+#mi.dataset.driver.cg_stc_eng.stc.mopak_o_dcl_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl11/MOPAK_sn/*.mopak.log,CP03ISSM-SBD11-01-MOPAK0000,recovered_host,Not Expected,It was not routinely captured.
 mi.dataset.driver.hyd_o.dcl.hyd_o_dcl_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl11/hyd1/*.hyd1.log,CP03ISSM-SBD11-02-HYDGN0000,recovered_host,Available,
 mi.dataset.driver.metbk_a.dcl.metbk_a_dcl_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl11/METBK-Log_snLGR023/*.metbk*.log,CP03ISSM-SBD11-06-METBKA000,recovered_host,Available,
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl12/syslog/*.syslog.log,CP03ISSM-SBD12-00-DCLENG000,recovered_host,Available,
-#mi.dataset.driver.hyd_o.dcl.hyd_o_dcl_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl12/Hydrogen_sn/*.hyd2.log,CP03ISSM-SBD12-03-HYDGN0000,recovered_host,Not Expected,No data available. It was not routinely captured.
+#mi.dataset.driver.hyd_o.dcl.hyd_o_dcl_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl12/Hydrogen_sn/*.hyd2.log,CP03ISSM-SBD12-03-HYDGN0000,recovered_host,Not Expected,It was not routinely captured.
 mi.dataset.driver.pco2a_a.dcl.pco2a_a_dcl_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl12/PCO2A_sn34-260-50A/*pco2a.log,CP03ISSM-SBD12-04-PCO2AA000,recovered_host,Available,
 #,/omc_data/whoi/OMC/CP03ISSM/R00003/cg_data/dcl37/ZPLSC_sn55100/DATA/*/*.01A,CP03ISSM-MFD37-07-ZPLSCC000,recovered_inst,Pending,No driver exists
