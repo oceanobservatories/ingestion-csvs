@@ -10,7 +10,7 @@ mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/who
 mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_telemetered_driver,/omc_data/whoi/OMC/CP01CNSM/D00001/cg_data/dcl37/optaa*/*optaa*.log,CP01CNSM-MFD37-01-OPTAAD000,telemetered,Available,
 mi.dataset.driver.ctdbp_cdef.dcl.ctdbp_cdef_dcl_telemetered_driver,/omc_data/whoi/OMC/CP01CNSM/D00001/cg_data/dcl37/ctdbp*/*ctdbp*.log,CP01CNSM-MFD37-03-CTDBPD000,telemetered,Available,
 mi.dataset.driver.dosta_abcdjm.dcl.dosta_abcdjm_dcl_telemetered_driver,/omc_data/whoi/OMC/CP01CNSM/D00001/cg_data/dcl37/dosta*/*dosta*.log,CP01CNSM-MFD37-04-DOSTAD000,telemetered,Available,
-#mi.dataset.driver.zplsc_c.dcl.zplsc_c_dcl_telemetered_driver,/omc_data/whoi/OMC/CP01CNSM/D00001/cg_data/dcl37/zplsc*/*zplsc*.log,CP01CNSM-MFD37-07-ZPLSCC000,telemetered,Not Deployed,Not deployed
+#mi.dataset.driver.zplsc_c.dcl.zplsc_c_dcl_telemetered_driver,/omc_data/whoi/OMC/CP01CNSM/D00001/cg_data/dcl37/zplsc*/*zplsc*.log,CP01CNSM-MFD37-07-ZPLSCC000,telemetered,Not Deployed,
 mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_telemetered_driver,/omc_data/whoi/OMC/CP01CNSM/D00001/cg_data/cpm2/syslog/cpm_status*.txt,CP01CNSM-RIC21-00-CPMENG000,telemetered,Available,
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/whoi/OMC/CP01CNSM/D00001/cg_data/dcl26/syslog*/*syslog*.log,CP01CNSM-RID26-00-DCLENG000,telemetered,Available,
 mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_telemetered_driver,/omc_data/whoi/OMC/CP01CNSM/D00001/cg_data/dcl26/velpt*/*velpt*.log,CP01CNSM-RID26-04-VELPTA000,telemetered,Available,
@@ -25,11 +25,11 @@ mi.dataset.driver.dosta_abcdjm.dcl.dosta_abcdjm_dcl_telemetered_driver,/omc_data
 mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_telemetered_driver,/omc_data/whoi/OMC/CP01CNSM/D00001/irid2shore/cpm_status*.txt,CP01CNSM-SBC11-00-CPMENG000,telemetered,Available,
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/whoi/OMC/CP01CNSM/D00001/cg_data/dcl13/syslog*/*syslog*.log,CP01CNSM-SBD11-00-DCLENG000,telemetered,Available,
 mi.dataset.driver.cg_stc_eng.stc.mopak_o_dcl_telemetered_driver,/omc_data/whoi/OMC/CP01CNSM/D00001/cg_data/dcl13/mopak*/*mopak*.log,CP01CNSM-SBD11-01-MOPAK0000,telemetered,Available,
-#mi.dataset.driver.hyd_o.dcl.hyd_o_dcl_telemetered_driver,/omc_data/whoi/OMC/CP01CNSM/D00001/cg_data/dcl11/hyd*/*hyd*.log,CP01CNSM-SBD11-02-HYDGN0000,telemetered,Not Deployed,Not deployed
+#mi.dataset.driver.hyd_o.dcl.hyd_o_dcl_telemetered_driver,/omc_data/whoi/OMC/CP01CNSM/D00001/cg_data/dcl11/hyd*/*hyd*.log,CP01CNSM-SBD11-02-HYDGN0000,telemetered,Not Deployed,
 mi.dataset.driver.metbk_a.dcl.metbk_a_dcl_telemetered_driver,/omc_data/whoi/OMC/CP01CNSM/D00001/cg_data/dcl13/metbk*/*metbk*.log,CP01CNSM-SBD11-06-METBKA000,telemetered,Available,
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/whoi/OMC/CP01CNSM/D00001/cg_data/dcl12/syslog*/*syslog*.log,CP01CNSM-SBD12-00-DCLENG000,telemetered,Available,
-#mi.dataset.driver.hyd_o.dcl.hyd_o_dcl_telemetered_driver,/omc_data/whoi/OMC/CP01CNSM/D00001/cg_data/dcl12/hyd*/*hyd*.log,CP01CNSM-SBD12-03-HYDGN0000,telemetered,Not Deployed,Not deployed
+#mi.dataset.driver.hyd_o.dcl.hyd_o_dcl_telemetered_driver,/omc_data/whoi/OMC/CP01CNSM/D00001/cg_data/dcl12/hyd*/*hyd*.log,CP01CNSM-SBD12-03-HYDGN0000,telemetered,Not Deployed,
 mi.dataset.driver.pco2a_a.dcl.pco2a_a_dcl_telemetered_driver,/omc_data/whoi/OMC/CP01CNSM/D00001/cg_data/dcl12/pco2a*/*pco2a*.log,CP01CNSM-SBD12-04-PCO2AA000,telemetered,Available,
 mi.dataset.driver.wavss_a.dcl.wavss_a_dcl_telemetered_driver,/omc_data/whoi/OMC/CP01CNSM/D00001/cg_data/dcl12/wavss*/*wavss*.log,CP01CNSM-SBD12-05-WAVSSA000,telemetered,Available,
 mi.dataset.driver.metbk_a.dcl.metbk_a_dcl_telemetered_driver,/omc_data/whoi/OMC/CP01CNSM/D00001/cg_data/dcl12/metbk*/*metbk*.log,CP01CNSM-SBD12-06-METBKA000,telemetered,Available,
-#mi.dataset.driver.fdchp_a.dcl.fdchp_a_dcl_telemetered_driver,/omc_data/whoi/OMC/CP01CNSM/D00001/cg_data/dcl12/fdchp*/*fdchp*.log,CP01CNSM-SBD12-08-FDCHPA000,telemetered,Not Deployed,Not deployed
+#mi.dataset.driver.fdchp_a.dcl.fdchp_a_dcl_telemetered_driver,/omc_data/whoi/OMC/CP01CNSM/D00001/cg_data/dcl12/fdchp*/*fdchp*.log,CP01CNSM-SBD12-08-FDCHPA000,telemetered,Not Deployed,

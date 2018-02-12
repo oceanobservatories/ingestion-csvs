@@ -8,22 +8,22 @@ parser,filename_mask,reference_designator,data_source,status,notes
 #mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl35/VELPT_*/*velpt*.log,CP01CNSM-MFD35-04-VELPTA000,recovered_host,Not Expected,Failed
 mi.dataset.driver.velpt_ab.velpt_ab_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl35/VELPT_*/*VELPT*.aqd,CP01CNSM-MFD35-04-VELPTA000,recovered_inst,Available,
 #mi.dataset.driver.pco2w_abc.dcl.pco2w_abc_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl35/PCO2W_/*.pco2w.log,CP01CNSM-MFD35-05-PCO2WB000,recovered_host,Not Expected,Failed
-mi.dataset.driver.pco2w_abc.pco2w_abc_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl35/PCO2W_*/SAMI*.txt,CP01CNSM-MFD35-05-PCO2WB000,recovered_inst,Available,Data File suspicious
+mi.dataset.driver.pco2w_abc.pco2w_abc_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl35/PCO2W_*/SAMI*.txt,CP01CNSM-MFD35-05-PCO2WB000,recovered_inst,Available,Data file suspicious
 #mi.dataset.driver.phsen_abcdef.dcl.phsen_abcdef_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl35/PHSEN_*/*.phsen2.log,CP01CNSM-MFD35-06-PHSEND000,recovered_host,Not Expected,Failed
-mi.dataset.driver.phsen_abcdef.phsen_abcdef_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl35/PHSEN_*/SAMI*.txt,CP01CNSM-MFD35-06-PHSEND000,recovered_inst,Available,Data File suspicious
+mi.dataset.driver.phsen_abcdef.phsen_abcdef_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl35/PHSEN_*/SAMI*.txt,CP01CNSM-MFD35-06-PHSEND000,recovered_inst,Available,Data file suspicious
 #mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl37/syslog/*.syslog.log,CP01CNSM-MFD37-00-DCLENG000,recovered_host,Not Expected,Failed
 mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl37/OPTAA*/*.optaa2.log,CP01CNSM-MFD37-01-OPTAAD000,recovered_host,Available,
 mi.dataset.driver.ctdbp_cdef.dcl.ctdbp_cdef_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl37/CTDBP*/*ctdbp*.log,CP01CNSM-MFD37-03-CTDBPD000,recovered_host,Available,
 mi.dataset.driver.ctdbp_cdef.ctdbp_cdef_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl37/CTDBP*/SBE*.hex,CP01CNSM-MFD37-03-CTDBPD000,recovered_inst,Available,
 mi.dataset.driver.dosta_abcdjm.dcl.dosta_abcdjm_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl37/DOSTA*/*dosta*.log,CP01CNSM-MFD37-04-DOSTAD000,recovered_host,Available,
-#,,CP01CNSM-MFD37-07-ZPLSCC000,recovered_host,Not Deployed,Not deployed
-#,,CP01CNSM-MFD37-07-ZPLSCC000,recovered_inst,Not Deployed,Not deployed
+#,,CP01CNSM-MFD37-07-ZPLSCC000,recovered_host,Not Deployed,
+#,,CP01CNSM-MFD37-07-ZPLSCC000,recovered_inst,Not Deployed,
 #mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/cpm2/syslog/cpm_status.txt,CP01CNSM-RIC21-00-CPMENG000,recovered_host,Not Expected,Failed. This is a single file updated every minute. There will only be 1 of these files and the data in it will be from the last update.
 #mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl26/syslog/*.syslog.log,CP01CNSM-RID26-00-DCLENG000,recovered_host,Not Expected,Failed
 #mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl26/velpt2/*.velpt2.log,CP01CNSM-RID26-04-VELPTA000,recovered_host,Not Expected,Instrument setup incorrectly - data not retrievable
-#mi.dataset.driver.velpt_ab.velpt_ab_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl26/VELPT_*/*velpt*.aqd,CP01CNSM-RID26-04-VELPTA000,recovered_inst,Not Expected,Instrument Data Not Recoverable
+#mi.dataset.driver.velpt_ab.velpt_ab_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl26/VELPT_*/*velpt*.aqd,CP01CNSM-RID26-04-VELPTA000,recovered_inst,Not Expected,Data not recoverable
 #mi.dataset.driver.phsen_abcdef.dcl.phsen_abcdef_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl26/PHSEN_snP0096/*.phsen1.log,CP01CNSM-RID26-06-PHSEND000,recovered_host,Not Expected,Failed
-mi.dataset.driver.phsen_abcdef.phsen_abcdef_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl26/PHSEN_*/SAMI*.txt,CP01CNSM-RID26-06-PHSEND000,recovered_inst,Available,Data File suspicious
+mi.dataset.driver.phsen_abcdef.phsen_abcdef_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl26/PHSEN_*/SAMI*.txt,CP01CNSM-RID26-06-PHSEND000,recovered_inst,Available,Data file suspicious
 #mi.dataset.driver.nutnr_b.dcl_conc.nutnr_b_dcl_conc_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl26/NUTNR*/*.nutnr.log,CP01CNSM-RID26-07-NUTNRB000,recovered_host,Not Expected,Failed
 mi.dataset.driver.nutnr_b.nutnr_b_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl26/NUTNR_*/*SCH*.DAT,CP01CNSM-RID26-07-NUTNRB000,recovered_inst,Available,
 #mi.dataset.driver.spkir_abj.dcl.spkir_abj_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl26/spkir/*.spkir.log,CP01CNSM-RID26-08-SPKIRB000,recovered_host,Not Expected,Data not recoverable
@@ -36,12 +36,12 @@ mi.dataset.driver.dosta_abcdjm.dcl.dosta_abcdjm_dcl_recovered_driver,/omc_data/w
 #mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/irid2shore/cpm_status*.txt,CP01CNSM-SBC11-00-CPMENG000,recovered_host,Not Expected,Failed
 #mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl11/syslog/*.syslog.log,CP01CNSM-SBD11-00-DCLENG000,recovered_host,Not Expected,Failed
 #mi.dataset.driver.cg_stc_eng.stc.mopak_o_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl13/MOPAK_sn/*.mopak.log,CP01CNSM-SBD11-01-MOPAK0000,recovered_host,Not Expected,Buoy exploded - data not recoverable
-#mi.dataset.driver.hyd_o.dcl.hyd_o_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl11/hyd1/*.hyd1.log,CP01CNSM-SBD11-02-HYDGN0000,recovered_host,Not Deployed,Not deployed
+#mi.dataset.driver.hyd_o.dcl.hyd_o_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl11/hyd1/*.hyd1.log,CP01CNSM-SBD11-02-HYDGN0000,recovered_host,Not Deployed,
 #mi.dataset.driver.metbk_a.dcl.metbk_a_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl11/metbk/*.metbk.log ,CP01CNSM-SBD11-06-METBKA000,recovered_host,Not Expected,Buoy exploded - data not recoverable
 #mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl12/syslog/*.syslog.log,CP01CNSM-SBD12-00-DCLENG000,recovered_host,Not Expected,Failed
-#mi.dataset.driver.hyd_o.dcl.hyd_o_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl12/hyd2/*.hyd2.log,CP01CNSM-SBD12-03-HYDGN0000,recovered_host,Not Deployed,Not deployed
+#mi.dataset.driver.hyd_o.dcl.hyd_o_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl12/hyd2/*.hyd2.log,CP01CNSM-SBD12-03-HYDGN0000,recovered_host,Not Deployed,
 #mi.dataset.driver.pco2a_a.dcl.pco2a_a_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl12/pco2a*/*pco2a*.log,CP01CNSM-SBD12-04-PCO2AA000,recovered_host,Not Expected,Buoy exploded - data not recoverable
 #,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl12/wavss/*.wavss.log ,CP01CNSM-SBD12-05-WAVSSA000,recovered_host,Not Expected,Buoy exploded - data not recoverable
 #mi.dataset.driver.metbk_a.dcl.metbk_a_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl12/metbk*/*metbk*.log,CP01CNSM-SBD12-06-METBKA000,recovered_host,Not Expected,Buoy exploded - data not recoverable
-#mi.dataset.driver.fdchp_a.dcl.fdchp_a_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl12/fdchp*/*fdchp*.log,CP01CNSM-SBD12-08-FDCHPA000,recovered_host,Not Deployed,Not deployed
+#mi.dataset.driver.fdchp_a.dcl.fdchp_a_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl12/fdchp*/*fdchp*.log,CP01CNSM-SBD12-08-FDCHPA000,recovered_host,Not Deployed,
 #mi.dataset.driver.fdchp_a.dcl.fdchp_a_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl12/FDCHP*/*fdchp*.dat,CP01CNSM-SBD12-08-FDCHPA000,recovered_inst,Not Deployed,
