@@ -1,7 +1,7 @@
 parser,filename_mask,reference_designator,data_source,data_type,notes
-mi.instrument.noaa.botpt.ooicore.driver,/rsn_cabled/rsn_data/DVT_Data/dvt.20151005/mj03d/BOTPTA303*20{14,15{0[1234],05[01]}}*,RS03INT2-MJ03D-06-BOTPTA303,streamed,chunky,
-mi.instrument.noaa.botpt.ooicore.driver,/rsn_cabled/rsn_data/DVT_Data/dvt.20151005/mj03d/BOTPTA303*,RS03INT2-MJ03D-06-BOTPTA303,streamed,chunky,
+mi.instrument.noaa.botpt.ooicore.driver,"/rsn_cabled/rsn_data/DVT_Data/dvt.20151005/mj03d/BOTPTA303*20{14,15{0[1234],05[01]}}*",RS03INT2-MJ03D-06-BOTPTA303,streamed,chunky,
+mi.instrument.noaa.botpt.ooicore.driver,"/rsn_cabled/rsn_data/DVT_Data/dvt.20151005/mj03d/BOTPTA303*",RS03INT2-MJ03D-06-BOTPTA303,streamed,chunky,
 parser,filename_mask,reference_designator,data_source,data_type,notes
-mi.instrument.nobska.mavs4.ooicore.driver,/rsn_cabled/rsn_data/DVT_Data/dvt.20151005/mj03d/VEL3DB304*,RS03INT2-MJ03D-12-VEL3DB304,streamed,chunky,
-mi.instrument.nobska.mavs4.ooicore.driver,/rsn_cabled/rsn_data/DVT_Data/dvt.20151005/mj03d/VEL3DB304*20{14,15{0[1234567],080[1234]}}*,RS03INT2-MJ03D-12-VEL3DB304,streamed,chunky,
-mi.instrument.nobska.mavs4.ooicore.driver,/rsn_cabled/rsn_data/DVT_Data/dvt.20151005/mj03d/VEL3DB304*2015{080[56789],08[123],09,10}*,RS03INT2-MJ03D-12-VEL3DB304,streamed,datalog,
+mi.instrument.nobska.mavs4.ooicore.driver,"/rsn_cabled/rsn_data/DVT_Data/dvt.20151005/mj03d/VEL3DB304*",RS03INT2-MJ03D-12-VEL3DB304,streamed,chunky,
+mi.instrument.nobska.mavs4.ooicore.driver,"/rsn_cabled/rsn_data/DVT_Data/dvt.20151005/mj03d/VEL3DB304*20{14,15{0[1234567],080[1234]}}*",RS03INT2-MJ03D-12-VEL3DB304,streamed,chunky,
+mi.instrument.nobska.mavs4.ooicore.driver,"/rsn_cabled/rsn_data/DVT_Data/dvt.20151005/mj03d/VEL3DB304*2015{080[56789],08[123],09,10}*",RS03INT2-MJ03D-12-VEL3DB304,streamed,datalog,
