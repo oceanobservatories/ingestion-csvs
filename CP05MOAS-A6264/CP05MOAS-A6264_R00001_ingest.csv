@@ -2,7 +2,7 @@ parser,filename_mask,reference_designator,data_source,status,notes
 mi.dataset.driver.auv_eng.auv.auv_eng_auv_recovered_driver,/omc_data/whoi/OMC/CP05MOAS-A6264/R00001/*.csv,CP05MOAS-A6264-00-ENG000000,recovered_host,Available,
 mi.dataset.driver.flort_kn.auv.flort_kn_auv_recovered_driver,/omc_data/whoi/OMC/CP05MOAS-A6264/R00001/*.csv,CP05MOAS-A6264-01-FLORTN000,recovered_host,Available,
 mi.dataset.driver.dosta_ln.auv.dosta_ln_auv_recovered_driver,/omc_data/whoi/OMC/CP05MOAS-A6264/R00001/*.csv,CP05MOAS-A6264-02-DOSTAN000,recovered_host,Available,
-mi.dataset.driver.ctdav_n.auv.ctdav_n_auv_recovered_driver,/omc_data/whoi/OMC/CP05MOAS-A6264/R00001/*.csv,CP05MOAS-A6264-03-CTDAVN000,recovered_host,Available,
+mi.dataset.driver.ctdav_n.auv.ctdav_n_auv_driver,/omc_data/whoi/OMC/CP05MOAS-A6264/R00001/*.csv,CP05MOAS-A6264-03-CTDAVN000,recovered_host,Available,
 mi.dataset.driver.nutnr_n.nutnr_n_recovered_driver,/omc_data/whoi/OMC/CP05MOAS-A6264/R00001/*.SUN,CP05MOAS-A6264-04-NUTNRN000,recovered_host,Available,
 mi.dataset.driver.adcpa_n.adcpa_n_recovered_driver,/omc_data/whoi/OMC/CP05MOAS-A6264/R00001/*.ADC,CP05MOAS-A6264-05-ADCPAN000,recovered_host,Available,
 mi.dataset.driver.parad_n.auv.parad_n_auv_recovered_driver,/omc_data/whoi/OMC/CP05MOAS-A6264/R00001/*.csv,CP05MOAS-A6264-06-PARADN000,recovered_host,Available,
