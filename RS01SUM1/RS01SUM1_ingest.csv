@@ -1,0 +1,7 @@
+parser,filename_mask,reference_designator,data_source,data_type,notes
+mi.instrument.seabird.sbe54tps.driver,"/rsn_cabled/rsn_data/DVT_Data/dvt.20151005/lj01b/PRESTB102*",RS01SUM1-LJ01B-09-PRESTB102,streamed,chunky,
+mi.instrument.seabird.sbe54tps.driver,"/rsn_cabled/rsn_data/DVT_Data/dvt.20151005/lj01b/PRESTB102*20{14,15{0[1234567],080,081[01]}}*",RS01SUM1-LJ01B-09-PRESTB102,streamed,chunky,
+mi.instrument.seabird.sbe54tps.driver,"/rsn_cabled/rsn_data/DVT_Data/dvt.20151005/lj01b/PRESTB102*2015{081[23456789],08[23],09,10}*",RS01SUM1-LJ01B-09-PRESTB102,streamed,datalog,
+mi.instrument.nobska.mavs4.ooicore.driver,"/rsn_cabled/rsn_data/DVT_Data/dvt.20151005/lj01b/VEL3DB104*",RS01SUM1-LJ01B-12-VEL3DB104,streamed,chunky,
+mi.instrument.nobska.mavs4.ooicore.driver,"/rsn_cabled/rsn_data/DVT_Data/dvt.20151005/lj01b/VEL3DB104*20{14,15{0[1234567],080,081[01]}}*",RS01SUM1-LJ01B-12-VEL3DB104,streamed,chunky,
+mi.instrument.nobska.mavs4.ooicore.driver,"/rsn_cabled/rsn_data/DVT_Data/dvt.20151005/lj01b/VEL3DB104*2015{081[23456789],08[23],09,10}*",RS01SUM1-LJ01B-12-VEL3DB104,streamed,datalog,

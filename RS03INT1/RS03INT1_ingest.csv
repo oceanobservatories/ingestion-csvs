@@ -1,0 +1,8 @@
+parser,filename_mask,reference_designator,data_source,data_type,notes
+mi.instrument.um.thsph.ooicore.driver,"/rsn_cabled/rsn_data/DVT_Data/dvt.20151005/mj03c/THSPHA301*",RS03INT1-MJ03C-09-THSPHA301,streamed,chunky,
+mi.instrument.um.thsph.ooicore.driver,"/rsn_cabled/rsn_data/DVT_Data/dvt.20151005/mj03c/THSPHA301*",RS03INT1-MJ03C-09-THSPHA301,streamed,chunky,
+mi.instrument.mclane.ras.d1000.driver,"/rsn_cabled/rsn_data/DVT_Data/dvt.20151005/mj03c/RASFLA301*D1000*20{14,15{0[1234],05[01]}}*",RS03INT1-MJ03C-07-D1000A301,streamed,chunky,
+mi.instrument.mclane.ras.d1000.driver,"/rsn_cabled/rsn_data/DVT_Data/dvt.20151005/mj03c/RASFLA301*D1000*2015{05[23],0[6789],10}*",RS03INT1-MJ03C-07-D1000A301,streamed,chunky,
+mi.instrument.uw.bars.ooicore.driver,"/rsn_cabled",RS03INT1-MJ03C-10-TRHPHA301,streamed,ascii,
+mi.instrument.uw.bars.ooicore.driver,"/rsn_cabled",RS03INT1-MJ03C-10-TRHPHA301,streamed,datalog,
+mi.instrument.kml.cam.camds.driver,"/rsn_cabled/rsn_data/DVT_Data/dvt.20151005/mj03c/CAMDSB303*",RS03INT1-MJ03C-05-CAMDSB303,streamed,,

@@ -1,0 +1,4 @@
+parser,filename_mask,reference_designator,data_source,data_type,notes
+mi.instrument.noaa.botpt.ooicore.driver,"/rsn_cabled/rsn_data/DVT_Data/dvt.20151005/mj03f/BOTPTA301*20{14,15{0[1234],05[01]}}*",RS03CCAL-MJ03F-05-BOTPTA301,streamed,chunky,
+mi.instrument.noaa.botpt.ooicore.driver,"/rsn_cabled/rsn_data/DVT_Data/dvt.20151005/mj03f/BOTPTA301*",RS03CCAL-MJ03F-05-BOTPTA301,streamed,chunky,
+mi.instrument.noaa.botpt.ooicore.driver,"/rsn_cabled/rsn_data/DVT_Data/dvt.20151005/mj03f/BOTPTA301*",RS03CCAL-MJ03F-05-BOTPTA301,streamed,chunky,
