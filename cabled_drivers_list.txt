@@ -1,0 +1,150 @@
+Reference Designator               Driver                                                      Type                                              
+RS01SUM1-LJ01B-09-PRESTB102        mi.instrument.seabird.sbe54tps.driver                       chunky
+                                                                                               datalog
+RS03AXPS-SF03A-4A-NUTNRA301        mi.instrument.satlantic.suna_deep.ooicore.driver            chunky
+                                                                                               datalog
+RS03INT1-MJ03C-09-THSPHA301        mi.instrument.um.thsph.ooicore.driver                       chunky
+RS03INT1-MJ03C-06-MASSPA301-MCU    mi.instrument.harvard.massp.mcu.driver                      NA
+CE04OSBP-LJ01C-07-VEL3DC107        mi.instrument.nortek.vector.ooicore.driver                  chunky
+                                                                                               datalog
+RS03AXPS-SF03A-3A-FLORTD301        mi.instrument.wetlabs.fluorometer.flort_d.driver            chunky
+                                                                                               datalog
+RS01SBPS-SF01A-2A-CTDPFA102        mi.instrument.seabird.sbe16plus_v2.ctdpf_sbe43.driver       ascii
+                                                                                               datalog
+CE04OSPS-PC01B-4B-PHSENA106        mi.instrument.sunburst.sami2_ph.ooicore.driver              NA
+RS03AXBS-MJ03A-12-VEL3DB301        mi.instrument.nobska.mavs4.ooicore.driver                   chunky
+                                                                                               datalog
+RS03AXPS-SF03A-2A-CTDPFA302        mi.instrument.seabird.sbe16plus_v2.ctdpf_sbe43.driver       ascii
+                                                                                               datalog
+CE04OSBP-LV01C-06-CAMDSB106        mi.instrument.kml.cam.camds.driver                          NA
+CE04OSBP-LJ01C-09-PCO2WB104        mi.instrument.sunburst.sami2_pco2.pco2b.driver              ascii
+                                                                                               datalog
+RS03AXBS-LJ03A-11-OPTAAC303        mi.instrument.wetlabs.ac_s.ooicore.driver                   chunky
+                                                                                               datalog
+RS01SBPS-SF01A-4F-PCO2WA101        mi.instrument.sunburst.sami2_pco2.pco2a.driver              ascii
+                                                                                               datalog
+RS03AXPS-SF03A-3B-OPTAAD301        mi.instrument.wetlabs.ac_s.ooicore.driver                   chunky
+                                                                                               datalog
+RS01SBPS-SF01A-4A-NUTNRA101        mi.instrument.satlantic.suna_deep.ooicore.driver            chunky
+                                                                                               datalog
+RS01SLBS-MJ01A-12-VEL3DB101        mi.instrument.nobska.mavs4.ooicore.driver                   chunky
+                                                                                               datalog
+RS03AXPS-SF03A-2D-PHSENA301        mi.instrument.sunburst.sami2_ph.ooicore.driver              ascii
+                                                                                               datalog
+CE02SHBP-MJ01C-08-CAMDSB107        mi.instrument.kml.cam.camds.driver                          NA
+RS03ECAL-MJ03E-06-BOTPTA302        mi.instrument.noaa.botpt.ooicore.driver                     chunky
+RS03INT2-MJ03D-06-BOTPTA303        mi.instrument.noaa.botpt.ooicore.driver                     chunky
+CE04OSPS-SF01B-3B-OPTAAD105        mi.instrument.wetlabs.ac_s.ooicore.driver                   chunky
+                                                                                               datalog
+RS01SLBS-LJ01A-10-ADCPTE101        mi.instrument.teledyne.workhorse.adcp.driver                chunky
+                                                                                               datalog
+RS01SLBS-LJ01A-11-OPTAAC103        mi.instrument.wetlabs.ac_s.ooicore.driver                   chunky
+                                                                                               datalog
+RS01SBPS-PC01A-07-CAMDSC102        mi.instrument.kml.cam.camds.driver                          NA
+CE04OSPS-PC01B-4D-PCO2WA105        mi.instrument.sunburst.sami2_pco2.pco2a.driver              NA
+CE04OSBP-LJ01C-08-OPTAAC104        mi.instrument.wetlabs.ac_s.ooicore.driver                   chunky
+RS01SBPS-SF01A-3A-FLORTD101        mi.instrument.wetlabs.fluorometer.flort_d.driver            chunky
+                                                                                               datalog
+RS01SUM2-MJ01B-05-CAMDSB103        mi.instrument.kml.cam.camds.driver                          NA
+RS01SBPS-SF01A-3D-SPKIRA101        mi.instrument.satlantic.ocr_507_icsw.ooicore.driver         ascii
+                                                                                               datalog
+RS01SLBS-LJ01A-12-CTDPFB101        mi.instrument.seabird.sbe16plus_v2.ctdpf_jb.driver          ascii
+                                                                                               datalog
+RS01SBPS-SF01A-2D-PHSENA101        mi.instrument.sunburst.sami2_ph.ooicore.driver              ascii
+                                                                                               datalog
+RS01SBPS-PC01A-4B-PHSENA102        mi.instrument.sunburst.sami2_ph.ooicore.driver              ascii
+                                                                                               datalog
+RS03AXPS-PC03A-05-ADCPTD302        mi.instrument.teledyne.workhorse.adcp.driver                chunky
+                                                                                               datalog
+RS03INT1-MJ03C-07-D1000A301        mi.instrument.mclane.ras.d1000.driver                       chunky
+RS03AXPS-PC03A-4A-CTDPFA303        mi.instrument.seabird.sbe16plus_v2.ctdpf_jb.driver          ascii
+                                                                                               datalog
+RS03AXBS-MJ03A-06-PRESTA301        mi.instrument.seabird.sbe54tps.driver                       ascii
+                                                                                               datalog
+CE04OSBP-LJ01C-10-PHSEND107        mi.instrument.sunburst.sami2_ph.ooicore.driver              ascii
+                                                                                               datalog
+CE04OSPS-SF01B-3D-SPKIRA102        mi.instrument.satlantic.ocr_507_icsw.ooicore.driver         ascii
+                                                                                               datalog
+RS03AXBS-LJ03A-10-ADCPTE303        mi.instrument.teledyne.workhorse.adcp.driver                chunky
+                                                                                               datalog
+CE02SHBP-LJ01D-10-PHSEND103        mi.instrument.sunburst.sami2_ph.ooicore.driver              ascii
+                                                                                               datalog
+RS01SBPS-PC01A-05-ADCPTD102        mi.instrument.teledyne.workhorse.adcp.driver                chunky
+                                                                                               datalog
+RS01SBPS-PC01A-06-VADCPA101        mi.instrument.teledyne.workhorse.vadcp.driver               chunky
+                                                                                               datalog
+CE02SHBP-LJ01D-09-PCO2WB103        mi.instrument.sunburst.sami2_pco2.pco2b.driver              ascii
+                                                                                               datalog
+RS03AXPS-PC03A-07-CAMDSC302        mi.instrument.kml.cam.camds.driver                          NA
+RS03AXPS-SF03A-3C-PARADA301        mi.instrument.satlantic.par_ser_600m.ooicore.driver         ascii
+                                                                                               datalog
+CE02SHBP-LJ01D-08-OPTAAD106        mi.instrument.wetlabs.ac_s.ooicore.driver                   chunky
+                                                                                               datalog
+RS03AXPS-SF03A-3D-SPKIRA301        mi.instrument.satlantic.ocr_507_icsw.ooicore.driver         ascii
+                                                                                               datalog
+RS01SBPS-PC01A-4C-FLORDD103        mi.instrument.wetlabs.fluorometer.flort_d.driver            chunky
+                                                                                               datalog
+CE04OSPS-SF01B-3C-PARADA102        mi.instrument.satlantic.par_ser_600m.ooicore.driver         NA
+RS01SBPS-PC01A-4A-CTDPFA103        mi.instrument.seabird.sbe16plus_v2.ctdpf_jb.driver          ascii
+                                                                                               datalog
+RS01SUM2-MJ01B-12-ADCPSK101        mi.instrument.teledyne.workhorse.adcp.driver                datalog
+CE02SHBP-LJ01D-06-CTDBPN106        mi.instrument.seabird.sbe16plus_v2.ctdbp_no.driver          ascii
+                                                                                               datalog
+RS03INT1-MJ03C-10-TRHPHA301        mi.instrument.uw.bars.ooicore.driver                        ascii
+                                                                                               datalog
+CE04OSBP-LJ01C-05-ADCPSI103        mi.instrument.teledyne.workhorse.adcp.driver                chunky
+                                                                                               datalog
+CE02SHBP-LJ01D-05-ADCPTB104        mi.instrument.teledyne.workhorse.adcp.driver                chunky
+                                                                                               datalog
+CE04OSPS-PC01B-05-ZPLSCB102        mi.instrument.kut.ek60.ooicore.driver                       datalog
+CE04OSPS-SF01B-3A-FLORTD104        mi.instrument.wetlabs.fluorometer.flort_d.driver            chunky
+                                                                                               datalog
+RS03INT2-MJ03D-12-VEL3DB304        mi.instrument.nobska.mavs4.ooicore.driver                   chunky
+                                                                                               datalog
+CE04OSBP-LJ01C-06-CTDBPO108        mi.instrument.seabird.sbe16plus_v2.ctdbp_no.driver          ascii
+                                                                                               datalog
+RS03CCAL-MJ03F-05-BOTPTA301        mi.instrument.noaa.botpt.ooicore.driver                     chunky
+RS03AXPS-PC03A-4B-PHSENA302        mi.instrument.sunburst.sami2_ph.ooicore.driver              ascii
+                                                                                               datalog
+RS03AXPS-PC03A-06-VADCPA301        mi.instrument.teledyne.workhorse.vadcp.driver               chunky
+                                                                                               datalog
+CE02SHBP-MJ01C-07-ZPLSCB101        mi.instrument.kut.ek60.ooicore.driver                       NA
+CE02SHBP-LJ01D-07-VEL3DC108        mi.instrument.nortek.vector.ooicore.driver                  chunky
+                                                                                               datalog
+RS03AXBS-LJ03A-05-HPIESA301        mi.instrument.uw.hpies.ooicore.driver                       ascii
+                                                                                               datalog
+CE04OSPS-PC01B-4A-CTDPFA109        mi.instrument.seabird.sbe16plus_v2.ctdpf_jb.driver          ascii
+                                                                                               datalog
+RS03AXPS-SF03A-4B-VELPTD302        mi.instrument.nortek.aquadopp.ooicore.driver                ascii
+                                                                                               datalog
+RS03AXPS-SF03A-4F-PCO2WA301        mi.instrument.sunburst.sami2_pco2.pco2a.driver              ascii
+                                                                                               datalog
+RS03ASHS-MJ03B-07-TMPSFA301        mi.instrument.rbr.xr_420_thermistor_24.ooicore.driver       chunky
+                                                                                               datalog
+RS03ASHS-MJ03B-09-BOTPTA304        mi.instrument.noaa.botpt.ooicore.driver                     NA
+RS03ASHS-MJ03B-10-CTDPFB304        mi.instrument.seabird.sbe16plus_v2.ctdpf_jb.driver          NA
+RS01SBPS-SF01A-4B-VELPTD102        mi.instrument.nortek.aquadopp.ooicore.driver                ascii
+                                                                                               datalog
+RS01SBPS-SF01A-3C-PARADA101        mi.instrument.satlantic.par_ser_600m.ooicore.driver         ascii
+                                                                                               datalog
+RS01SUM2-MJ01B-06-MASSPA101-MCU    mi.instrument.harvard.massp.mcu.driver                      NA
+RS01SLBS-LJ01A-05-HPIESA101        mi.instrument.uw.hpies.ooicore.driver                       ascii
+                                                                                               datalog
+CE04OSPS-SF01B-2A-CTDPFA107        mi.instrument.seabird.sbe16plus_v2.ctdpf_sbe43.driver       ascii
+                                                                                               datalog
+RS03AXPS-PC03A-4C-FLORDD303        mi.instrument.wetlabs.fluorometer.flort_d.driver            chunky
+                                                                                               datalog
+RS01SBPS-SF01A-3B-OPTAAD101        mi.instrument.wetlabs.ac_s.ooicore.driver                   chunky
+                                                                                               datalog
+RS03INT1-MJ03C-05-CAMDSB303        mi.instrument.kml.cam.camds.driver                          NA
+CE04OSPS-SF01B-4B-VELPTD106        mi.instrument.nortek.aquadopp.ooicore.driver                chunky
+                                                                                               datalog
+RS03AXBS-LJ03A-12-CTDPFB301        mi.instrument.seabird.sbe16plus_v2.ctdpf_jb.driver          ascii
+                                                                                               datalog
+RS01SLBS-MJ01A-06-PRESTA101        mi.instrument.seabird.sbe54tps.driver                       chunky
+                                                                                               datalog
+RS01SUM1-LJ01B-12-VEL3DB104        mi.instrument.nobska.mavs4.ooicore.driver                   chunky
+                                                                                               datalog
+CE04OSPS-SF01B-4A-NUTNRA102        mi.instrument.satlantic.suna_deep.ooicore.driver            datalog
+CE04OSPS-SF01B-4F-PCO2WA102        mi.instrument.sunburst.sami2_pco2.pco2a.driver              datalog
+CE04OSPS-SF01B-2B-PHSENA108        mi.instrument.sunburst.sami2_ph.ooicore.driver              datalog
