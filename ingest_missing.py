@@ -23,6 +23,7 @@ import time
 import numpy as np
 import pandas as pd
 import re
+import logging
 import glob
 import list_missing_dates
 from subprocess import call
@@ -36,14 +37,14 @@ def request_cabled_raw():
     url = "https://raw.githubusercontent.com/ooi-integration/ingestion-csvs/master/cabled_drivers_list.txt"
     df = pd.read_csv(url, sep='\s{2,}', engine='python', dtype=str)
     df.loc[df['Type'] == 'None', ['Type']] = df['Reference Designator']
-    df.loc[df['Reference Designator'] == df['Type'], ['Reference Designator']] = 'None'
+    df.loc[df['Reference Designator'] == df['Type'], ['Reference Designator']] = df['Reference Designator'].shift(1)
     return df
     
 def get_driver(refdes):
     """
     Get the driver from the cabled_drivers_list.txt file
     """
-    return Cabled.cabled_drivers_raw.loc[Cabled.cabled_drivers_raw['Reference Designator'] == refdes]['Driver'][0]
+    return Cabled.cabled_drivers_raw.loc[Cabled.cabled_drivers_raw['Reference Designator'] == refdes]['Driver'].iloc[0]
 
 def get_reader_type(refdes):
     """
@@ -58,19 +59,6 @@ def get_reader_type(refdes):
         if df['Type'].loc[i] != 'nan':
             reader.append(df['Type'].loc[i])
 
-    # for line in Cabled.cabled_drivers_raw:
-    #     if refdes in line:
-    #         first_pass = True
-    #         reader.append(line.split()[2])
-    #     elif first_pass: 
-    #         if line.split()[0] != 'datalog' and \
-    #             line.split()[0] != 'chunky' and \
-    #             line.split()[0] != 'ascii':
-    #             first_pass = False
-    #             break
-    #         else:
-    #             reader.append(line.split()[0])
-    print reader
     return reader
 
 def is_cabled(refdes):
@@ -130,9 +118,11 @@ def playback(refdes, event_url, particle_url, missing_dates):
             # Check to see if this particular file exists before executing callback
             if glob.glob(directory):
                 playback_command = ' '.join(['playback', reader, driver, refdes, event_url, particle_url, directory])
+                logging.info("%s", playback_command)
                 call(playback_command, shell=True)
 
 def main(args):
+    logging.getLogger().setLevel(logging.INFO)
     if args['<event_url>'] and args['<particle_url>'] and args['<server>']:
         Cabled.cabled_drivers_raw = request_cabled_raw()
         event_url = args['<event_url>']

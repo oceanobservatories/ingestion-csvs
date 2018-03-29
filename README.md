@@ -68,7 +68,18 @@ Example:
 ```
 ./ingest_file.py Ingest.flort-dj-cspp_recovered CE02SHSP-SP002-07-FLORTJ000 telemetered 2 /omc_data/whoi/OMC/CE02SHSP/R00002/extract/*TRIP.txt
 ```
+## `ingest_missing.py`
 
+Ingest set of cabled files that have been missed during a previous ingestions. It will scrape all missing dates and
+then it will perform the playback command.
+
+wrtten by Phil Tran
+
+Usage:
+`ingest_missing.py` `event_url` `particle_url` `server`
+
+Example:
+`python ingest_missing.py qpid://guest/guest@uframe-test?queue=Ingest.instrument_events qpid://guest/guest@uframe-test?queue=Ingest.instrument_particles uframe-test`
 # Monitoring
 
 The file ingest queue can be monitored using the `qpid_stat.py` utility in the ooi-tools repository:
