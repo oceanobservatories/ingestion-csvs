@@ -19,19 +19,19 @@ Options:
 
 from docopt import docopt
 import sys
+import os
 import time
-import numpy as np
-import pandas as pd
-import re
 import logging
 import glob
-import list_missing_dates
 from subprocess import call
 from datetime import datetime, timedelta
-from functools import wraps
 import errno
 import signal
-import os
+
+import numpy as np
+import pandas as pd
+
+import list_missing_dates
 
 class Cabled:
     cabled_drivers_raw = None
