@@ -20,51 +20,59 @@ Options:
 from docopt import docopt
 import sys
 import time
-import requests
+import numpy as np
+import pandas as pd
 import re
 import glob
 import list_missing_dates
 from subprocess import call
 from datetime import datetime, timedelta
 
-g_cabled_drivers_raw = []
+class Cabled:
+    cabled_drivers_raw = None
+
 
 def request_cabled_raw():
-    drivers_conf_git_link = "https://raw.githubusercontent.com/ooi-integration/ingestion-csvs/master/cabled_drivers_list.txt"
-    return str(requests.get(drivers_conf_git_link).text).split('\n')
+    url = "https://raw.githubusercontent.com/ooi-integration/ingestion-csvs/master/cabled_drivers_list.txt"
+    df = pd.read_csv(url, sep='\s{2,}', engine='python', dtype=str)
+    df.loc[df['Type'] == 'None', ['Type']] = df['Reference Designator']
+    df.loc[df['Reference Designator'] == df['Type'], ['Reference Designator']] = 'None'
+    return df
     
 def get_driver(refdes):
     """
     Get the driver from the cabled_drivers_list.txt file
     """
-    global g_cabled_drivers_raw
+    print (Cabled.cabled_drivers_raw.loc[Cabled.cabled_drivers_raw['Reference Designator'] == refdes]['Driver'][0])
 
-    for line in g_cabled_drivers_raw:
-        if refdes in line:
-            return line.split()[1]
-
-    return None
+    return Cabled.cabled_drivers_raw.loc[Cabled.cabled_drivers_raw['Reference Designator'] == refdes]['Driver'][0]
 
 def get_reader_type(refdes):
     """
     Get the reader type from the cabled_drivers_list.txt file
     """
-    global g_cabled_drivers_raw
     first_pass = False
     reader = []
 
-    for line in g_cabled_drivers_raw:
-        if refdes in line:
-            first_pass = True
-            reader.append(line.split()[2])
-        elif first_pass: 
-            if line.split()[0] != 'datalog' and \
-                line.split()[0] != 'chunky' and \
-                line.split()[0] != 'ascii':
-                first_pass = False
-                break
-            else:
-                reader.append(line.split()[0])
+    df = Cabled.cabled_drivers_raw[Cabled.cabled_drivers_raw['Reference Designator'] == refdes]
+
+    for i in df.index:
+        if df['Type'].loc[i] != 'nan':
+            reader.append(df['Type'].loc[i])
+
+    # for line in Cabled.cabled_drivers_raw:
+    #     if refdes in line:
+    #         first_pass = True
+    #         reader.append(line.split()[2])
+    #     elif first_pass: 
+    #         if line.split()[0] != 'datalog' and \
+    #             line.split()[0] != 'chunky' and \
+    #             line.split()[0] != 'ascii':
+    #             first_pass = False
+    #             break
+    #         else:
+    #             reader.append(line.split()[0])
+    print reader
     return reader
 
 def is_cabled(refdes):
@@ -72,11 +80,8 @@ def is_cabled(refdes):
     Only get cabled assemblies.
     Table provided by the cabled_drivers_list.txt file.
     """ 
-    global g_cabled_drivers_raw
-
-    for line in g_cabled_drivers_raw:
-        if refdes in line:
-            return True
+    if not Cabled.cabled_drivers_raw.loc[Cabled.cabled_drivers_raw['Reference Designator'] == refdes].empty:
+        return True
     else:
         return False
 
@@ -131,8 +136,7 @@ def playback(refdes, event_url, particle_url, missing_dates):
 
 def main(args):
     if args['<event_url>'] and args['<particle_url>'] and args['<server>']:
-        global g_cabled_drivers_raw
-        g_cabled_drivers_raw = request_cabled_raw()
+        Cabled.cabled_drivers_raw = request_cabled_raw()
         event_url = args['<event_url>']
         particle_url = args['<particle_url>']
         server = args['<server>']
