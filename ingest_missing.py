@@ -17,30 +17,35 @@ Options:
     -q       quiet mode
 """
 
-from docopt import docopt
+
 import sys
 import os
 import time
 import logging
 import glob
-from subprocess import call
-from datetime import datetime, timedelta
 import errno
 import signal
+from subprocess import call
+from datetime import datetime, timedelta
 
 import numpy as np
 import pandas as pd
+from docopt import docopt
 
 import list_missing_dates
+
 
 class Cabled:
     cabled_drivers_raw = None
 
+
 class TimeoutException(Exception):
     pass
     
+    
 def timeout_handler(signum, frame):
     raise TimeoutException
+
 
 def request_cabled_raw():
     url = "https://raw.githubusercontent.com/ooi-integration/ingestion-csvs/master/cabled_drivers_list.txt"
@@ -49,11 +54,13 @@ def request_cabled_raw():
     df.loc[df['Reference Designator'] == df['Type'], ['Reference Designator']] = df['Reference Designator'].shift(1)
     return df
     
+
 def get_driver(refdes):
     """
     Get the driver from the cabled_drivers_list.txt file
     """
     return Cabled.cabled_drivers_raw.loc[Cabled.cabled_drivers_raw['Reference Designator'] == refdes]['Driver'].iloc[0]
+
 
 def get_reader_type(refdes):
     """
@@ -69,6 +76,7 @@ def get_reader_type(refdes):
 
     return reader
 
+
 def is_cabled(refdes):
     """
     Only get cabled assemblies.
@@ -76,32 +84,27 @@ def is_cabled(refdes):
     """ 
     if not Cabled.cabled_drivers_raw.loc[Cabled.cabled_drivers_raw['Reference Designator'] == refdes].empty:
         return True
-    else:
-        return False
+    return False
 
-def date_list(firstDate, secondDate):
+
+def date_list(first_date, second_date):
     """
     Obtain a list of the missing dates.
     """
-    startDate = 0
-    endDate = 0
-    missing_dates_list = []
+    start_date = 0
+    end_date = 0
 
-    if firstDate < secondDate:
-        startDate = firstDate
-        endDate = secondDate
-    else:
-        startDate = secondDate
-        endDate = firstDate
+    start_date = first_date if first_date < second_date else second_date
+    end_date = second_date if first_date < second_date else first_date
 
     # Working with the dates, getting the times between the start date and end date
-    startDate = datetime.strptime(startDate, '%Y-%m-%d %H:%M:%S')
-    endDate = datetime.strptime(endDate, '%Y-%m-%d %H:%M:%S')
+    start_date = datetime.strptime(start_date, '%Y-%m-%d %H:%M:%S')
+    end_date = datetime.strptime(end_date, '%Y-%m-%d %H:%M:%S')
     
-    date_times = [startDate.strftime('%Y%m%dT%H')]
-    date_time = startDate
+    date_times = [start_date.strftime('%Y%m%dT%H')]
+    date_time = start_date
     
-    while date_time < endDate:
+    while date_time < end_date:
         date_time += timedelta(hours=1)
         date_times.append(date_time.strftime('%Y%m%dT%H'))
 
@@ -131,25 +134,27 @@ def playback(refdes, event_url, particle_url, missing_dates):
                 logging.info("%s", playback_command)
 
                 # Some playback reader types may not ingest the data at all.
-                # Time out after 90 seconds an contininue to the next reader type or
+                # Timeout after 90 seconds and continue to the next reader type or
                 # next data.
                 signal.alarm(90)    
                 try:
                     call(playback_command, shell=True)
                 except TimeoutException:
-                    logging.warning('%s Took more than 120 seconds. Timing out this ingestion.', playback_command)
+                    logging.warning('%s Took more than 90 seconds. Timing out this ingestion.', playback_command)
                     continue 
                 else:
                     signal.alarm(0)
 
 
-def main(args):
+def main():
+    arg = docopt(__doc__)
     logging.getLogger().setLevel(logging.INFO)
-    if args['<event_url>'] and args['<particle_url>'] and args['<server>']:
+    
+    if arg['<event_url>'] and arg['<particle_url>'] and arg['<server>']:
         Cabled.cabled_drivers_raw = request_cabled_raw()
-        event_url = args['<event_url>']
-        particle_url = args['<particle_url>']
-        server = args['<server>']
+        event_url = arg['<event_url>']
+        particle_url = arg['<particle_url>']
+        server = arg['<server>']
         refdes_list = list_missing_dates.get_refdes_list(server)
         missing_data_dict = {}
         
@@ -160,10 +165,10 @@ def main(args):
                     missing_data_dict[refdes] = missing_data_list
         
         for refdes, missing_dates in missing_data_dict.iteritems():
-            for date in missing_dates:
-                dates = date_list(date[0], date[1])
+            for begin, end in missing_dates:
+                dates = date_list(begin, end)
                 playback(refdes, event_url, particle_url, dates)
 
+
 if __name__ == "__main__":
-    args = docopt(__doc__)
-    main(args)
+    main()

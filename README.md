@@ -73,7 +73,7 @@ Example:
 Ingest set of cabled files that have been missed during a previous ingestions. It will scrape all missing dates and
 then it will perform the playback command.
 
-wrtten by Phil Tran
+written by Phil Tran
 
 Usage:
 `ingest_missing.py` `event_url` `particle_url` `server`

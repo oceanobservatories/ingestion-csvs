@@ -1,5 +1,7 @@
 import sys
-import requests, json
+
+import requests
+import json
 
 
 def get_refdes_list(server):
@@ -34,13 +36,9 @@ def get_missing_data_list(refdes, server):
     missing_data_list = []
     
     if len(data['availability']) > 1:
-        for i in data['availability'][1]['data']:
-            if i[1] == "Missing":
-                startDate = i[0]
-                endDate = i[2]
-                missing_data_list.append((startDate, endDate))
-                
-        if len(missing_data_list) < 1:
-            return None
-        else:
+        for start_date, status, end_date in data['availability'][1]['data']:
+            if status == 'Missing':
+                missing_data_list.append((start_date, end_date))
+
+        if missing_data_list:
             return missing_data_list
