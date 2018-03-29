@@ -69,6 +69,21 @@ Example:
 ./ingest_file.py Ingest.flort-dj-cspp_recovered CE02SHSP-SP002-07-FLORTJ000 telemetered 2 /omc_data/whoi/OMC/CE02SHSP/R00002/extract/*TRIP.txt
 ```
 
+## `find_raw_cabled_files`
+
+Find files associated with a specific cabled reference designator.
+
+`find_raw_cabled_files.py` `[-l]` `reference_designator`
+
+Example:
+```
+python find_raw_cabled_files.py CE04OSPS-SF01B-4B-VELPTD106
+```
+```
+python get_raw_data.py -l CE04OSPS-SF01B-4B-VELPTD106
+```
+
+
 # Monitoring
 
 The file ingest queue can be monitored using the `qpid_stat.py` utility in the ooi-tools repository:
