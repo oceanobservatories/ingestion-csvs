@@ -28,10 +28,19 @@ import glob
 import list_missing_dates
 from subprocess import call
 from datetime import datetime, timedelta
+from functools import wraps
+import errno
+import signal
+import os
 
 class Cabled:
     cabled_drivers_raw = None
 
+class TimeoutException(Exception):
+    pass
+    
+def timeout_handler(signum, frame):
+    raise TimeoutException
 
 def request_cabled_raw():
     url = "https://raw.githubusercontent.com/ooi-integration/ingestion-csvs/master/cabled_drivers_list.txt"
@@ -50,7 +59,6 @@ def get_reader_type(refdes):
     """
     Get the reader type from the cabled_drivers_list.txt file
     """
-    first_pass = False
     reader = []
 
     df = Cabled.cabled_drivers_raw[Cabled.cabled_drivers_raw['Reference Designator'] == refdes]
@@ -99,6 +107,7 @@ def date_list(firstDate, secondDate):
 
     return date_times
 
+
 def playback(refdes, event_url, particle_url, missing_dates):
     """
     Put together the directory glob and other options for the playback command.
@@ -109,6 +118,7 @@ def playback(refdes, event_url, particle_url, missing_dates):
     reader_list = get_reader_type(refdes)
     node = refdes.split('-')[1].lower()
     instrument = refdes.split('-')[3]
+    signal.signal(signal.SIGALRM, timeout_handler)
 
     for reader in reader_list:
         for date in missing_dates:
@@ -119,7 +129,19 @@ def playback(refdes, event_url, particle_url, missing_dates):
             if glob.glob(directory):
                 playback_command = ' '.join(['playback', reader, driver, refdes, event_url, particle_url, directory])
                 logging.info("%s", playback_command)
-                call(playback_command, shell=True)
+
+                # Some playback reader types may not ingest the data at all.
+                # Time out after 90 seconds an contininue to the next reader type or
+                # next data.
+                signal.alarm(90)    
+                try:
+                    call(playback_command, shell=True)
+                except TimeoutException:
+                    logging.warning('%s Took more than 120 seconds. Timing out this ingestion.', playback_command)
+                    continue 
+                else:
+                    signal.alarm(0)
+
 
 def main(args):
     logging.getLogger().setLevel(logging.INFO)
