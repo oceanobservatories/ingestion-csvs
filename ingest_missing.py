@@ -43,8 +43,6 @@ def get_driver(refdes):
     """
     Get the driver from the cabled_drivers_list.txt file
     """
-    print (Cabled.cabled_drivers_raw.loc[Cabled.cabled_drivers_raw['Reference Designator'] == refdes]['Driver'][0])
-
     return Cabled.cabled_drivers_raw.loc[Cabled.cabled_drivers_raw['Reference Designator'] == refdes]['Driver'][0]
 
 def get_reader_type(refdes):
