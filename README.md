@@ -71,16 +71,21 @@ Example:
 
 ## `find_raw_cabled_files`
 
-Find files associated with a specific cabled reference designator.
+Find files associated with the specified cabled reference designator.
+Written by Phil Tran
 
+`find_raw_cabled_files.py` `reference_designator`
 `find_raw_cabled_files.py` `[-l]` `reference_designator`
+
+The optional `-l` option will provide the list of files associated with
+the provided reference designator.
 
 Example:
 ```
 python find_raw_cabled_files.py CE04OSPS-SF01B-4B-VELPTD106
 ```
 ```
-python get_raw_data.py -l CE04OSPS-SF01B-4B-VELPTD106
+python find_raw_cabled_files.py -l CE04OSPS-SF01B-4B-VELPTD106
 ```
 
 

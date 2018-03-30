@@ -14,7 +14,7 @@ Arguments:
 
 Options:
     -h --help
-    -l --list_files     list out cabled files for specific reference designator
+    -l --list_files     list out cabled files for the specified reference designator
     -v                  verbose mode
     -q                  quiet mode
 """
@@ -75,34 +75,30 @@ def main():
             print "Invalid Reference Designator Format"
             return
         
-        if cabled_directory and not df.loc[df['Reference Designator'] == refdes].empty:
-            inst = refdes.split('-')[3]
-            driver, reader_type = get_driver_and_type(refdes, df)
-            file_path = cabled_directory + inst + '*'
-            glob_directory = glob.glob(file_path)
+        if not df.loc[df['Reference Designator'] == refdes].empty:
+            if cabled_directory:
+                inst = refdes.split('-')[3]
+                driver, reader_type = get_driver_and_type(refdes, df)
+                file_path = cabled_directory + inst + '*'
+                glob_directory = glob.glob(file_path)
 
-            if glob_directory:
-                print "Reference Designator: " + refdes
-                print "Driver: " + driver
-                print "Reader Type(s):",
+                if glob_directory:
+                    print "Reference Designator: " + refdes
+                    print "Driver: " + driver
+                    print "Reader Type(s):",
+                    print ', '.join(reader_type)        
+                    print "File glob: " + file_path
 
-                # Separate reader type with commas, no comma for last type 
-                for reader in reader_type:
-                    if reader != reader_type[-1]:
-                        print reader + ',',
-                    else:
-                        print reader
-                            
-                print "File glob: " + file_path
-
-                # Option to list out all the files available
-                if arg['--list_files']:
-                    for path in glob_directory:
-                        print path
+                    # Option to list out all the files available
+                    if arg['--list_files']:
+                        for path in glob_directory:
+                            print path
+                else:
+                    print "There are no files available." 
             else:
-                print "There are no files available." 
+                print "This is not a valid cabled directory."
         else:
-            print "This is not a valid cabled reference designator or it does not exist in the directory."
+            print "This is not a valid cabled reference designator."
     
     
 if __name__ == "__main__":
