@@ -80,6 +80,27 @@ Usage:
 
 Example:
 `python ingest_missing.py qpid://guest/guest@uframe-test?queue=Ingest.instrument_events qpid://guest/guest@uframe-test?queue=Ingest.instrument_particles uframe-test`
+
+## `find_raw_cabled_files`
+
+Find files associated with the specified cabled reference designator.
+
+written by Phil Tran
+
+`find_raw_cabled_files.py` `reference_designator`
+`find_raw_cabled_files.py` `[-l]` `reference_designator`
+
+The optional `-l` option will provide the list of files associated with
+the provided reference designator.
+
+Example:
+```
+python find_raw_cabled_files.py CE04OSPS-SF01B-4B-VELPTD106
+```
+```
+python find_raw_cabled_files.py -l CE04OSPS-SF01B-4B-VELPTD106
+```
+
 # Monitoring
 
 The file ingest queue can be monitored using the `qpid_stat.py` utility in the ooi-tools repository:
