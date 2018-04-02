@@ -45,6 +45,7 @@ def cabled_dir(refdes):
 
     if os.path.isdir(directory):
         return directory
+    return None
 
 
 def get_driver_and_type(refdes, df):
@@ -94,11 +95,11 @@ def main():
                         for path in glob_directory:
                             print path
                 else:
-                    print "There are no files available." 
+                    print "Unable to find files to ingest for ", refdes 
             else:
-                print "This is not a valid cabled directory."
+                print "Unable to resolve directory for: ", refdes
         else:
-            print "This is not a valid cabled reference designator."
+            print "Invalid reference designator: ", refdes
     
     
 if __name__ == "__main__":
