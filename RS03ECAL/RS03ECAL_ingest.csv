@@ -1,0 +1,2 @@
+parser,filename_mask,reference_designator,data_source,data_type,notes
+mi.instrument.noaa.botpt.ooicore.driver,"/rsn_cabled/rsn_data/DVT_Data/dvt.20151005/mj03e/BOTPTA302*",RS03ECAL-MJ03E-06-BOTPTA302,streamed,chunky,

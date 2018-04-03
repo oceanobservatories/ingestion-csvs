@@ -1,0 +1,2 @@
+parser,filename_mask,reference_designator,data_source,data_type,notes
+mi.instrument.teledyne.workhorse.adcp.driver,"/rsn_cabled",RS01SUM2-MJ01B-12-ADCPSK101,streamed,datalog,

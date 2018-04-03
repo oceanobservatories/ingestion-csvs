@@ -68,6 +68,38 @@ Example:
 ```
 ./ingest_file.py Ingest.flort-dj-cspp_recovered CE02SHSP-SP002-07-FLORTJ000 telemetered 2 /omc_data/whoi/OMC/CE02SHSP/R00002/extract/*TRIP.txt
 ```
+## `ingest_missing.py`
+
+Ingest set of cabled files that have been missed during a previous ingestions. It will scrape all missing dates and
+then it will perform the playback command.
+
+written by Phil Tran
+
+Usage:
+`ingest_missing.py` `event_url` `particle_url` `server`
+
+Example:
+`python ingest_missing.py qpid://guest/guest@uframe-test?queue=Ingest.instrument_events qpid://guest/guest@uframe-test?queue=Ingest.instrument_particles uframe-test`
+
+## `find_raw_cabled_files`
+
+Find files associated with the specified cabled reference designator.
+
+written by Phil Tran
+
+`find_raw_cabled_files.py` `reference_designator`
+`find_raw_cabled_files.py` `[-l]` `reference_designator`
+
+The optional `-l` option will provide the list of files associated with
+the provided reference designator.
+
+Example:
+```
+python find_raw_cabled_files.py CE04OSPS-SF01B-4B-VELPTD106
+```
+```
+python find_raw_cabled_files.py -l CE04OSPS-SF01B-4B-VELPTD106
+```
 
 # Monitoring
 
