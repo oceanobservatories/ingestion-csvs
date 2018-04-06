@@ -1,4 +1,4 @@
-,filename_mask,reference_designator,data_source,status,notes
+parser,filename_mask,reference_designator,data_source,status,notes
 mi.dataset.driver.adcps_jln.stc.adcps_jln_stc_recovered_driver,/omc_data/whoi/OMC/CP02PMCO/R00007/cg_data/stc1/imm/adcpt/adcpt*.DAT,CP02PMCO-RII01-02-ADCPTG010,recovered_host,Available,
 mi.dataset.driver.adcps_jln.adcps_jln_driver,/omc_data/whoi/OMC/CP02PMCO/R00007/instruments/ADCP_sn*/_RDI_000.000,CP02PMCO-RII01-02-ADCPTG010,recovered_inst,Available,
 mi.dataset.driver.cg_stc_eng.stc.cg_stc_eng_stc_recovered_driver,/omc_data/whoi/OMC/CP02PMCO/R00007/cg_data/stc1/irid2shore/stc_status*.txt,CP02PMCO-SBS01-00-STCENG000,recovered_host,Available,
