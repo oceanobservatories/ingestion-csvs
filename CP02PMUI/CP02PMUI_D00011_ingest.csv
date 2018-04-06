@@ -1,4 +1,4 @@
-,filename_mask,reference_designator,data_source,status,notes
+parser,filename_mask,reference_designator,data_source,status,notes
 #mi.dataset.driver.adcps_jln.stc.adcps_jln_stc_telemetered_driver,/omc_data/whoi/OMC/CP02PMUI/D00011/imm/adcpt/adcpt_*_*.DAT,CP02PMUI-RII01-02-ADCPTG010,telemetered,Expected,platform deployed wating on data upload to CI
 #mi.dataset.driver.cg_stc_eng.stc.cg_stc_eng_stc_telemetered_driver,/omc_data/whoi/OMC/CP02PMUI/D00011/irid2shore/stc_status.*_*.txt,CP02PMUI-SBS01-00-STCENG000,telemetered,Expected,platform deployed wating on data upload to CI
 #mi.dataset.driver.cg_stc_eng.stc.mopak_o_dcl_telemetered_driver,/omc_data/whoi/OMC/CP02PMUI/D00011/3dmgx3/*_*.3dmgx3.log,CP02PMUI-SBS01-01-MOPAK0000,telemetered,Expected,platform deployed wating on data upload to CI
