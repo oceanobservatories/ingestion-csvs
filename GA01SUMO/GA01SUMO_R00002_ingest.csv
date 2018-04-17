@@ -62,7 +62,7 @@ mi.dataset.driver.phsen_abcdef.imodem.phsen_abcdef_imodem_recovered_driver,/omc_
 mi.dataset.driver.phsen_abcdef.phsen_abcdef_recovered_driver,/omc_data/whoi/OMC/GA01SUMO/R00002/instruments/dcl11/imm/PHSEN_snP0171/SAMI_P0171_091116.txt,GA01SUMO-RII11-02-PHSENE042,recovered_inst,Available,
 mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_recovered_driver,/omc_data/whoi/OMC/GA01SUMO/R00002/cg_data/cpm1/irid2shore/cpm_status*.txt,GA01SUMO-SBC11-00-CPMENG000,recovered_host,Available,
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/GA01SUMO/R00002/cg_data/dcl11/syslog/*syslog.log,GA01SUMO-SBD11-00-DCLENG000,recovered_host,Available,
-#mi.dataset.driver.cg_stc_eng.stc.mopak_o_dcl_recovered_driver,/omc_data/whoi/OMC/GA01SUMO/R00002/cg_data/dcl11/mopak/*.mopak.log,GA01SUMO-SBD11-01-MOPAK0000,recovered_host,Available,Temporarily disabled for mass ingestions
+mi.dataset.driver.cg_stc_eng.stc.mopak_o_dcl_recovered_driver,/omc_data/whoi/OMC/GA01SUMO/R00002/cg_data/dcl11/mopak/*.mopak.log,GA01SUMO-SBD11-01-MOPAK0000,recovered_host,Available,
 mi.dataset.driver.hyd_o.dcl.hyd_o_dcl_recovered_driver,/omc_data/whoi/OMC/GA01SUMO/R00002/cg_data/dcl11/hyd1/*hyd1.log,GA01SUMO-SBD11-03-HYDGN0000,recovered_host,Available,
 mi.dataset.driver.dosta_abcdjm.dcl.dosta_abcdjm_dcl_recovered_driver,/omc_data/whoi/OMC/GA01SUMO/R00002/cg_data/dcl11/dosta1/*.dosta1.log,GA01SUMO-SBD11-04-DOSTAD000,recovered_host,Available,
 mi.dataset.driver.spkir_abj.dcl.spkir_abj_dcl_recovered_driver,/omc_data/whoi/OMC/GA01SUMO/R00002/cg_data/dcl11/spkir1/*.spkir1.log,GA01SUMO-SBD11-05-SPKIRB000,recovered_host,Available,
