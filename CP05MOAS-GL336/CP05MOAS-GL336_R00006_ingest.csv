@@ -1,7 +1,7 @@
 parser,filename_mask,reference_designator,data_source,status,notes
-#mi.dataset.driver.moas.gl.engineering.glider_eng_glider_recovered_driver,/omc_data/whoi/OMC/CP05MOAS-GL336/R00006/merged/cp_*.full.mrg,CP05MOAS-GL336-00-ENG000000,recovered_host,Expected,
-#mi.dataset.driver.moas.gl.adcpa.adcpa_m_glider_recovered_driver,/omc_data/whoi/OMC/CP05MOAS-GL336/R00006/dvl/*.PD0,CP05MOAS-GL336-01-ADCPAM000,recovered_host,Expected,
-#mi.dataset.driver.moas.gl.flort_m.flort_m_glider_recovered_driver,/omc_data/whoi/OMC/CP05MOAS-GL336/R00006/merged/cp_*.full.mrg,CP05MOAS-GL336-02-FLORTM000,recovered_host,Expected,
-#mi.dataset.driver.moas.gl.ctdgv.ctdgv_m_glider_recovered_driver,/omc_data/whoi/OMC/CP05MOAS-GL336/R00006/merged/cp_*.full.mrg,CP05MOAS-GL336-03-CTDGVM000,recovered_host,Expected,
-#mi.dataset.driver.moas.gl.dosta.dosta_abcdjm_glider_recovered_driver,/omc_data/whoi/OMC/CP05MOAS-GL336/R00006/merged/cp_*.full.mrg,CP05MOAS-GL336-04-DOSTAM000,recovered_host,Expected,
-#mi.dataset.driver.moas.gl.parad.parad_m_glider_recovered_driver,/omc_data/whoi/OMC/CP05MOAS-GL336/R00006/merged/cp_*.full.mrg,CP05MOAS-GL336-05-PARADM000,recovered_host,Expected,
+#mi.dataset.driver.moas.gl.engineering.glider_eng_glider_recovered_driver,/omc_data/whoi/OMC/CP05MOAS-GL336/R00006/merged/cp_*.full.mrg,CP05MOAS-GL336-00-ENG000000,recovered_host,Missing,recovered
+#mi.dataset.driver.moas.gl.adcpa.adcpa_m_glider_recovered_driver,/omc_data/whoi/OMC/CP05MOAS-GL336/R00006/dvl/*.PD0,CP05MOAS-GL336-01-ADCPAM000,recovered_host,Missing,recovered
+#mi.dataset.driver.moas.gl.flort_m.flort_m_glider_recovered_driver,/omc_data/whoi/OMC/CP05MOAS-GL336/R00006/merged/cp_*.full.mrg,CP05MOAS-GL336-02-FLORTM000,recovered_host,Missing,recovered
+#mi.dataset.driver.moas.gl.ctdgv.ctdgv_m_glider_recovered_driver,/omc_data/whoi/OMC/CP05MOAS-GL336/R00006/merged/cp_*.full.mrg,CP05MOAS-GL336-03-CTDGVM000,recovered_host,Missing,recovered
+#mi.dataset.driver.moas.gl.dosta.dosta_abcdjm_glider_recovered_driver,/omc_data/whoi/OMC/CP05MOAS-GL336/R00006/merged/cp_*.full.mrg,CP05MOAS-GL336-04-DOSTAM000,recovered_host,Missing,recovered
+#mi.dataset.driver.moas.gl.parad.parad_m_glider_recovered_driver,/omc_data/whoi/OMC/CP05MOAS-GL336/R00006/merged/cp_*.full.mrg,CP05MOAS-GL336-05-PARADM000,recovered_host,Missing,recovered
