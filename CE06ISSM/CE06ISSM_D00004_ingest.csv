@@ -24,7 +24,7 @@ mi.dataset.driver.nutnr_b.dcl_conc.nutnr_b_dcl_conc_telemetered_driver,/omc_data
 mi.dataset.driver.spkir_abj.dcl.spkir_abj_dcl_telemetered_driver,/omc_data/whoi/OMC/CE06ISSM/D00004/dcl16/spkir/*.spkir.log,CE06ISSM-RID16-08-SPKIRB000,telemetered,Available,
 mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_telemetered_driver,/omc_data/whoi/OMC/CE06ISSM/D00004/irid2shore/cpm_status*.txt,CE06ISSM-SBC11-00-CPMENG000,telemetered,Available,
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/whoi/OMC/CE06ISSM/D00004/dcl17/syslog/*.syslog.log,CE06ISSM-SBD17-00-DCLENG000,telemetered,Available,
-#mi.dataset.driver.cg_stc_eng.stc.mopak_o_dcl_telemetered_driver,/omc_data/whoi/OMC/CE06ISSM/D00004/dcl17/mopak/*.mopak.log,CE06ISSM-SBD17-01-MOPAK0000,telemetered,Available,Temporarily disabled for mass ingestions
+mi.dataset.driver.cg_stc_eng.stc.mopak_o_dcl_telemetered_driver,/omc_data/whoi/OMC/CE06ISSM/D00004/dcl17/mopak/*.mopak.log,CE06ISSM-SBD17-01-MOPAK0000,telemetered,Available,
 mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_telemetered_driver,/omc_data/whoi/OMC/CE06ISSM/D00004/dcl17/velpt1/*.velpt*.log,CE06ISSM-SBD17-04-VELPTA000,telemetered,Available,
 #,/omc_data/whoi/OMC/CE06ISSM/D00004/dcl17/ctdbp*/*.ctdbp*.log,CE06ISSM-SBD17-06-CTDBPC000,telemetered,Not Deployed,CTDBP with FLORT not installed in the spring/summer. No parser
 #,/omc_data/whoi/OMC/CE06ISSM/D00004/dcl17/ctdbp*/*.ctdbp*.log,CE06ISSM-SBD17-06-FLORTD000,telemetered,Not Deployed,CTDBP with FLORT not installed in the spring/summer. No parser
