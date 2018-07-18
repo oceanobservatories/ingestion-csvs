@@ -17,7 +17,7 @@ mi.dataset.driver.ctdbp_cdef.dcl.ctdbp_cdef_dcl_recovered_driver,/omc_data/whoi/
 mi.dataset.driver.ctdbp_cdef.ctdbp_cdef_recovered_driver,/omc_data/whoi/OMC/CE07SHSM/R00003/instrmts/dcl37/CTDBP_*/*ctdbp*.hex,CE07SHSM-MFD37-03-CTDBPC000,recovered_inst,Available,
 mi.dataset.driver.dosta_abcdjm.ctdbp.dcl.dosta_abcdjm_ctdbp_dcl_recovered_driver,/omc_data/whoi/OMC/CE07SHSM/R00003/cg_data/dcl37/ctdbp2/*.ctdbp*.log,CE07SHSM-MFD37-03-DOSTAD000,recovered_host,Available,
 mi.dataset.driver.dosta_abcdjm.ctdbp.dosta_abcdjm_ctdbp_recovered_driver,/omc_data/whoi/OMC/CE07SHSM/R00003/instrmts/dcl37/CTDBP_*/*ctdbp*.hex,CE07SHSM-MFD37-03-DOSTAD000,recovered_inst,Available,
-#,/omc_data/whoi/OMC/CE07SHSM/R00003/cg_data/dcl37/zplsc/*.zplsc.log,CE07SHSM-MFD37-07-ZPLSCC000,recovered_host,Pending,Conflicting note - inspect data - MFD37 DCL failed during this deployment. No parser exists for this data file.
+#,/omc_data/whoi/OMC/CE07SHSM/R00003/cg_data/dcl37/zplsc/*.zplsc.log,CE07SHSM-MFD37-07-ZPLSCC000,recovered_host,Pending,Conflicting note - inspect data - MFD37 DCL failed during this deployment. Check parser.
 mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_recovered_driver,/omc_data/whoi/OMC/CE07SHSM/R00003/cg_data/cpm2/syslog/cpm_status.txt,CE07SHSM-RIC21-00-CPMENG000,recovered_host,Available,This is a single file updated every minute. There will only be 1 of these files and the data in it will be from the last update.
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CE07SHSM/R00003/cg_data/dcl26/syslog/*.syslog.log,CE07SHSM-RID26-00-DCLENG000,recovered_host,Available,
 mi.dataset.driver.adcpt_acfgm.dcl.pd0.adcpt_acfgm_dcl_pd0_recovered_driver,/omc_data/whoi/OMC/CE07SHSM/R00003/cg_data/dcl26/adcpt1/*.adcpt*.log,CE07SHSM-RID26-01-ADCPTA000,recovered_host,Available,
@@ -50,6 +50,6 @@ mi.dataset.driver.wavss_a.dcl.wavss_a_dcl_recovered_driver,/omc_data/whoi/OMC/CE
 #,/omc_data/whoi/OMC/CE07SHSM/R00003/instrmts/dcl11/MOPAK_*/,CE07SHSM-SBD11-01-MOPAK0000,recovered_inst,Not Expected,does not record internally
 #,/omc_data/whoi/OMC/CE07SHSM/R00003/instrmts/dcl12/PCO2A_*/*pco2a*.log,CE07SHSM-SBD12-04-PCO2AA000,recovered_inst,Not Expected,Instrument files will not be processed by OOI
 #,/omc_data/whoi/OMC/CE07SHSM/R00003/instrmts/dcl12/WAVSS_*/,CE07SHSM-SBD12-05-WAVSSA000,recovered_inst,Not Expected,Instrument files will not be processed by OOI
-#,/omc_data/whoi/OMC/CE07SHSM/R00003/instrmts/dcl37/ZPLSC_*/*zplsc*/*/*.01A,CE07SHSM-MFD37-07-ZPLSCC000,recovered_inst,Missing,No parser exists for this data file
+#mi.dataset.driver.zplsc_c.zplsc_c_recovered_driver,/omc_data/whoi/OMC/CE07SHSM/R00003/instrmts/dcl37/ZPLSC_*/*zplsc*/DATA/*/*.01A,CE07SHSM-MFD37-07-ZPLSCC000,recovered_inst,Available,test parser
 #,/omc_data/whoi/OMC/CE07SHSM/R00003/cg_data/dcl37/CAMDS_*/*camds*/dcim/*.png,CE07SHSM-MFD37-06-CAMDSA000,recovered_host,Not Expected,Instrument not connected to DCL - no driver/parser
 #,/omc_data/whoi/OMC/CE07SHSM/R00003/instrmts/dcl37/CAMDS_*/*camds*/dcim/*.png,CE07SHSM-MFD37-06-CAMDSA000,recovered_inst,Missing,no driver/parser
