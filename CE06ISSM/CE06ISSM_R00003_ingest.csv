@@ -49,4 +49,4 @@ mi.dataset.driver.velpt_ab.velpt_ab_recovered_driver,/omc_data/whoi/OMC/CE06ISSM
 #,/omc_data/whoi/OMC/CE06ISSM/R00003/instrmts/dcl17/CTDBP-C_*/*_ctdbp3_*.hex,CE06ISSM-SBD17-06-FLORTD000,recovered_inst,Missing,No parser exists for this data set
 #,/omc_data/whoi/OMC/CE06ISSM/R00003/cg_data/dcl37/camds/*.camds.png,CE06ISSM-MFD37-06-CAMDSA000,recovered_host,Not Deployed,DCL not deployed
 #,/omc_data/whoi/OMC/CE06ISSM/R00003/instrmts/dcl37/CAMDS_*/*camds*/dcim/*.png,CE06ISSM-MFD37-06-CAMDSA000,recovered_inst,Not Deployed,
-#,/omc_data/whoi/OMC/CE06ISSM/R00003/instrmts/dcl37/ZPLSC_*/*zplsc*/DATA/*/*.01A,CE06ISSM-MFD37-07-ZPLSCC000,recovered_inst,Pending,No parser exists for this data set
+#mi.dataset.driver.zplsc_c.zplsc_c_recovered_driver,/omc_data/whoi/OMC/CE06ISSM/R00003/instrmts/dcl37/ZPLSC_*/*zplsc*/DATA/*/*.01A,CE06ISSM-MFD37-07-ZPLSCC000,recovered_inst,Available,test parser
