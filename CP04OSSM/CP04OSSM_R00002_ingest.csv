@@ -16,7 +16,7 @@ mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_recovered_driver,/omc_data/whoi/OMC/
 #mi.dataset.driver.ctdbp_cdef.dcl.ctdbp_cdef_dcl_recovered_driver,/omc_data/whoi/OMC/CP04OSSM/R00002/cg_data/dcl37/CTDBP*/*.ctdbp.log,CP04OSSM-MFD37-03-CTDBPE000,recovered_host,Missing,
 mi.dataset.driver.ctdbp_cdef.ctdbp_cdef_recovered_driver,/omc_data/whoi/OMC/CP04OSSM/R00002/cg_data/dcl37/CTDBP_sn16-50067/SBE*.hex,CP04OSSM-MFD37-03-CTDBPE000,recovered_inst,Available,
 mi.dataset.driver.dosta_abcdjm.dcl.dosta_abcdjm_dcl_recovered_driver,/omc_data/whoi/OMC/CP04OSSM/R00002/cg_data/dcl37/DOSTA_sn412/,CP04OSSM-MFD37-04-DOSTAD000,recovered_host,Available,
-#mi.dataset.driver.zplsc_c.zplsc_c_recovered_driver,/omc_data/whoi/OMC/CP04OSSM/R00002/cg_data/dcl37/ZPLSC_sn55077/*zplsc.log,CP04OSSM-MFD37-07-ZPLSCC000,recovered_host,Missing,
+#mi.dataset.driver.zplsc_c.dcl.zplsc_c_dcl_telemetered_driver,/omc_data/whoi/OMC/CP04OSSM/R00002/cg_data/dcl37/ZPLSC_sn55077/*zplsc.log,CP04OSSM-MFD37-07-ZPLSCC000,recovered_host,Missing,
 #mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_recovered_driver,/omc_data/whoi/OMC/CP04OSSM/R00002/cg_data/cpm2/syslog/cpm_status*.txt,CP04OSSM-RIC21-00-CPMENG000,recovered_host,Missing,
 #mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CP04OSSM/R00002/cg_data/dcl26/syslog/*.syslog.log,CP04OSSM-RID26-00-DCLENG000,recovered_host,Missing,
 mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_recovered_driver,/omc_data/whoi/OMC/CP04OSSM/R00002/cg_data/dcl26/VELPT_sn11377/*.velpt1.log,CP04OSSM-RID26-04-VELPTA000,recovered_host,Available,
