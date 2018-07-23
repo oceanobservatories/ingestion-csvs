@@ -21,7 +21,7 @@ mi.dataset.driver.pco2w_abc.pco2w_abc_recovered_driver,/omc_data/whoi/OMC/CE01IS
 mi.dataset.driver.ctdbp_cdef.ctdbp_cdef_recovered_driver,/omc_data/whoi/OMC/CE01ISSM/R00004/instrmts/dcl37/CTDBP*/*.hex,CE01ISSM-MFD37-03-CTDBPC000,recovered_inst,Available,File does not exist on server
 #mi.dataset.driver.dosta_abcdjm.ctdbp.dcl.dosta_abcdjm_ctdbp_dcl_recovered_driver,/omc_data/whoi/OMC/CE01ISSM/R00004/cg_data/dcl37/ctdbp*/*ctdbp*.log,CE01ISSM-MFD37-03-DOSTAD000,recovered_host,Not Expected,
 mi.dataset.driver.dosta_abcdjm.ctdbp.dosta_abcdjm_ctdbp_recovered_driver,/omc_data/whoi/OMC/CE01ISSM/R00004/instrmts/dcl37/CTDBP*/*.hex,CE01ISSM-MFD37-03-DOSTAD000,recovered_inst,Available,
-#,/omc_data/whoi/OMC/CE01ISSM/R00004/cg_data/dcl37/ZPLSC_*/ce01issm_zplsc_*/DATA/*/*.01A,CE01ISSM-MFD37-07-ZPLSCC000,recovered_host,Not Expected,
+#mi.dataset.driver.zplsc_c.dcl.zplsc_c_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/R00004/cg_data/dcl37/zplsc/*.log,CE01ISSM-MFD37-07-ZPLSCC000,recovered_host,Not Expected,system was not deployed
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CE01ISSM/R00004/cg_data/dcl16/syslog*/*syslog*.log,CE01ISSM-RID16-00-DCLENG000,recovered_host,Available,
 mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_recovered_driver,/omc_data/whoi/OMC/CE01ISSM/R00004/cg_data/dcl16/optaa*/*optaa*.log,CE01ISSM-RID16-01-OPTAAD000,recovered_host,Available,
 mi.dataset.driver.flort_dj.dcl.flort_dj_dcl_recovered_driver,/omc_data/whoi/OMC/CE01ISSM/R00004/cg_data/dcl16/flort*/*flort*.log,CE01ISSM-RID16-02-FLORTD000,recovered_host,Available,
@@ -48,4 +48,4 @@ mi.dataset.driver.velpt_ab.velpt_ab_recovered_driver,/omc_data/whoi/OMC/CE01ISSM
 #,/omc_data/whoi/OMC/CE01ISSM/R00004/cg_data/dcl17/ctdbp*/*ctdbp3.log,CE01ISSM-SBD17-06-FLORTD000,recovered_host,Pending,No parser exists for this data set
 #,/omc_data/whoi/OMC/CE01ISSM/R00004/,CE01ISSM-MFD37-06-CAMDSA000,recovered_host,Not Deployed,System was not deployed
 #,/omc_data/whoi/OMC/CE01ISSM/R00004/,CE01ISSM-MFD37-06-CAMDSA000,recovered_inst,Not Deployed,
-#,/omc_data/whoi/OMC/CE01ISSM/R00004/instrmts/dcl37/ZPLSC_*/ce01issm_zplsc_*/DATA/*/*.01A,CE01ISSM-MFD37-07-ZPLSCC000,recovered_inst,Pending,"data available, No driver"
+#mi.dataset.driver.zplsc_c.zplsc_c_recovered_driver,/omc_data/whoi/OMC/CE01ISSM/R00004/instrmts/dcl37/ZPLSC_*/ce01issm_zplsc_*/DATA/*/*.01A,CE01ISSM-MFD37-07-ZPLSCC000,recovered_inst,Available,test parser

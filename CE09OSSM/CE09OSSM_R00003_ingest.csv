@@ -17,7 +17,7 @@ mi.dataset.driver.phsen_abcdef.phsen_abcdef_recovered_driver,/omc_data/whoi/OMC/
 mi.dataset.driver.ctdbp_cdef.ctdbp_cdef_recovered_driver,/omc_data/whoi/OMC/CE09OSSM/R00003/instrmts/dcl37/CTDBP_*/*ctdbp*.hex,CE09OSSM-MFD37-03-CTDBPE000,recovered_inst,Available,
 #mi.dataset.driver.dosta_abcdjm.ctdbp.dcl.dosta_abcdjm_ctdbp_dcl_recovered_driver,/omc_data/whoi/OMC/CE09OSSM/R00003/cg_data/dcl37/ctdbp2/*.ctdbp2.log,CE09OSSM-MFD37-03-DOSTAD000,recovered_host,Not Expected,DCL failed
 mi.dataset.driver.dosta_abcdjm.ctdbp.dosta_abcdjm_ctdbp_recovered_driver,/omc_data/whoi/OMC/CE09OSSM/R00003/instrmts/dcl37/CTDBP_*/*ctdbp*.hex,CE09OSSM-MFD37-03-DOSTAD000,recovered_inst,Available,
-#,/omc_data/whoi/OMC/CE09OSSM/R00003/cg_data/dcl37/zplsc/*.zplsc.log,CE09OSSM-MFD37-07-ZPLSCC000,recovered_host,Not Expected,DCL failed
+#mi.dataset.driver.zplsc_c.dcl.zplsc_c_dcl_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/R00003/cg_data/dcl37/zplsc/*.zplsc.log,CE09OSSM-MFD37-07-ZPLSCC000,recovered_host,Not Expected,system was not deployed
 mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_recovered_driver,/omc_data/whoi/OMC/CE09OSSM/R00003/cg_data/cpm2/syslog/cpm_status.txt,CE09OSSM-RIC21-00-CPMENG000,recovered_host,Available,This is a single file updated every minute. There will only be 1 of these files and the data in it will be from the last update.
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CE09OSSM/R00003/cg_data/dcl26/syslog/*.syslog.log,CE09OSSM-RID26-00-DCLENG000,recovered_host,Available,
 mi.dataset.driver.adcpt_acfgm.dcl.pd0.adcpt_acfgm_dcl_pd0_recovered_driver,/omc_data/whoi/OMC/CE09OSSM/R00003/cg_data/dcl26/adcpt*/*.adcpt.log,CE09OSSM-RID26-01-ADCPTC000,recovered_host,Available,

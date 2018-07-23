@@ -21,7 +21,7 @@ mi.dataset.driver.ctdbp_cdef.dcl.ctdbp_cdef_dcl_recovered_driver,/omc_data/whoi/
 mi.dataset.driver.ctdbp_cdef.ctdbp_cdef_recovered_driver,/omc_data/whoi/OMC/CE06ISSM/R00005/instrmts/dcl37/CTDBP*/*.hex,CE06ISSM-MFD37-03-CTDBPC000,recovered_inst,Available,
 mi.dataset.driver.dosta_abcdjm.ctdbp.dcl.dosta_abcdjm_ctdbp_dcl_recovered_driver,/omc_data/whoi/OMC/CE06ISSM/R00005/cg_data/dcl37/ctdbp2/*.ctdbp2.log,CE06ISSM-MFD37-03-DOSTAD000,recovered_host,Available,
 mi.dataset.driver.dosta_abcdjm.ctdbp.dosta_abcdjm_ctdbp_recovered_driver,/omc_data/whoi/OMC/CE06ISSM/R00005/instrmts/dcl37/CTDBP*/*.hex,CE06ISSM-MFD37-03-DOSTAD000,recovered_inst,Available,
-#,/omc_data/whoi/OMC/CE06ISSM/R00005/cg_data/dcl37/zplsc/*.zplsc.log,CE06ISSM-MFD37-07-ZPLSCC000,recovered_host,Pending,No driver for this instrument
+mi.dataset.driver.zplsc_c.dcl.zplsc_c_dcl_telemetered_driver,/omc_data/whoi/OMC/CE06ISSM/R00005/cg_data/dcl37/zplsc/*.zplsc.log,CE06ISSM-MFD37-07-ZPLSCC000,recovered_host,Available,ingest data
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CE06ISSM/R00005/cg_data/dcl16/syslog/*.syslog.log,CE06ISSM-RID16-00-DCLENG000,recovered_host,Available,
 mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_recovered_driver,/omc_data/whoi/OMC/CE06ISSM/R00005/cg_data/dcl16/optaa1/*.optaa*.log,CE06ISSM-RID16-01-OPTAAD000,recovered_host,Available,
 mi.dataset.driver.flort_dj.dcl.flort_dj_dcl_recovered_driver,/omc_data/whoi/OMC/CE06ISSM/R00005/cg_data/dcl16/flort/*.flort.log,CE06ISSM-RID16-02-FLORTD000,recovered_host,Available,
@@ -49,4 +49,4 @@ mi.dataset.driver.velpt_ab.velpt_ab_recovered_driver,/omc_data/whoi/OMC/CE06ISSM
 #,/omc_data/whoi/OMC/CE06ISSM/R00005/instrmts/dcl17/CTDBP-C_*/*_ctdbp3_*.hex,CE06ISSM-SBD17-06-FLORTD000,recovered_inst,Missing,No parser exists for this data set
 #,/omc_data/whoi/OMC/CE06ISSM/R00005/cg_data/dcl37/camds/*.camds.png,CE06ISSM-MFD37-06-CAMDSA000,recovered_host,Not Deployed,No parser exists for this data set
 #,/omc_data/whoi/OMC/CE06ISSM/R00005/instrmts/dcl37/CAMDS_*/*camds*/dcim/*.png,CE06ISSM-MFD37-06-CAMDSA000,recovered_inst,Not Deployed,No parser exists for this data set
-#,/omc_data/whoi/OMC/CE06ISSM/R00005/instrmts/dcl37/ZPLSC_*/*zplsc*/DATA/*/*.01A,CE06ISSM-MFD37-07-ZPLSCC000,recovered_inst,Pending,No driver for this instrument
+#mi.dataset.driver.zplsc_c.zplsc_c_recovered_driver,/omc_data/whoi/OMC/CE06ISSM/R00005/instrmts/dcl37/ZPLSC_*/*zplsc*/DATA/*/*.01A,CE06ISSM-MFD37-07-ZPLSCC000,recovered_inst,Available,test driver
