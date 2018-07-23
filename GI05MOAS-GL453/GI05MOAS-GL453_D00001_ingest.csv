@@ -1,5 +1,0 @@
-parser,filename_mask,reference_designator,data_source,status,notes
-mi.dataset.driver.moas.gl.engineering.glider_eng_glider_telemetered_driver,/omc_data/whoi/OMC/GI05MOAS-GL453/D00001/merged-from-glider/gi_453*.mrg,GI05MOAS-GL453-00-ENG000000,telemetered,Available,
-mi.dataset.driver.moas.gl.flord_m.flord_m_glider_telemetered_driver,/omc_data/whoi/OMC/GI05MOAS-GL453/D00001/merged-from-glider/gi_453*.mrg,GI05MOAS-GL453-01-FLORDM000,telemetered,Available,
-mi.dataset.driver.moas.gl.dosta.dosta_abcdjm_glider_telemetered_driver,/omc_data/whoi/OMC/GI05MOAS-GL453/D00001/merged-from-glider/gi_453*.mrg,GI05MOAS-GL453-02-DOSTAM000,telemetered,Available,
-mi.dataset.driver.moas.gl.ctdgv.ctdgv_m_glider_telemetered_driver,/omc_data/whoi/OMC/GI05MOAS-GL453/D00001/merged-from-glider/gi_453*.mrg,GI05MOAS-GL453-04-CTDGVM000,telemetered,Available,
