@@ -25,7 +25,7 @@ mi.dataset.driver.ctdbp_cdef.dcl.ctdbp_cdef_dcl_telemetered_driver,/omc_data/who
 mi.dataset.driver.dosta_abcdjm.dcl.dosta_abcdjm_dcl_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00005/cg_data/dcl27/dosta/*.dosta.log,CE09OSSM-RID27-04-DOSTAD000,telemetered,Available,
 mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00005/irid2shore/cpm_status.*.txt,CE09OSSM-SBC11-00-CPMENG000,telemetered,Available,
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00005/cg_data/dcl11/syslog/*.syslog.log,CE09OSSM-SBD11-00-DCLENG000,telemetered,Available,
-#mi.dataset.driver.cg_stc_eng.stc.mopak_o_dcl_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00005/cg_data/dcl11/mopak/*.mopak.log,CE09OSSM-SBD11-01-MOPAK0000,telemetered,Available,Temporarily disabled for mass ingestions
+mi.dataset.driver.cg_stc_eng.stc.mopak_o_dcl_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00005/cg_data/dcl11/mopak/*.mopak.log,CE09OSSM-SBD11-01-MOPAK0000,telemetered,Available,
 mi.dataset.driver.hyd_o.dcl.hyd_o_dcl_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00005/cg_data/dcl11/hyd*/*.hyd*.log,CE09OSSM-SBD11-02-HYDGN0000,telemetered,Available,
 mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00005/cg_data/dcl11/velpt*/*.velpt*.log,CE09OSSM-SBD11-04-VELPTA000,telemetered,Available,
 mi.dataset.driver.metbk_a.dcl.metbk_a_dcl_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00005/cg_data/dcl11/metbk/*.metbk.log,CE09OSSM-SBD11-06-METBKA000,telemetered,Available,
