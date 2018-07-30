@@ -35,7 +35,7 @@ mi.dataset.driver.zplsc_c.dcl.zplsc_c_dcl_telemetered_driver,/omc_data/whoi/OMC/
 #mi.dataset.driver.ctdbp_cdef.dcl.ctdbp_cdef_dcl_recovered_driver,/omc_data/whoi/OMC/CE07SHSM/R00006/cg_data/dcl27/ctdbp1/*.ctdbp*.log,CE07SHSM-RID27-03-CTDBPC000,recovered_host,Expected,
 #mi.dataset.driver.ctdbp_cdef.ctdbp_cdef_recovered_driver,/omc_data/whoi/OMC/CE07SHSM/R00006/instrmts/dcl27/CTDBP_*/*ctdbp*.hex,CE07SHSM-RID27-03-CTDBPC000,recovered_inst,Expected,
 #mi.dataset.driver.dosta_abcdjm.dcl.dosta_abcdjm_dcl_recovered_driver,/omc_data/whoi/OMC/CE07SHSM/R00006/cg_data/dcl27/dosta/*.dosta.log,CE07SHSM-RID27-04-DOSTAD000,recovered_host,Expected,
-#,/omc_data/whoi/OMC/CE07SHSM/R00006/,CE07SHSM-RID27-04-DOSTAD000,recovered_inst,Expected,No parser exists for this data file.
+#,,CE07SHSM-RID27-04-DOSTAD000,recovered_inst,Not Expected,Instrument does not record internally.
 #mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_recovered_driver,/omc_data/whoi/OMC/CE07SHSM/R00006/cg_data/irid2shore/cpm_status*.txt,CE07SHSM-SBC11-00-CPMENG000,recovered_host,Expected,
 #mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CE07SHSM/R00006/cg_data/dcl11/syslog/*.syslog.log,CE07SHSM-SBD11-00-DCLENG000,recovered_host,Expected,
 #mi.dataset.driver.cg_stc_eng.stc.mopak_o_dcl_recovered_driver,/omc_data/whoi/OMC/CE07SHSM/R00006/cg_data/dcl11/mopak/*.mopak.log,CE07SHSM-SBD11-01-MOPAK0000,recovered_host,Expected,
