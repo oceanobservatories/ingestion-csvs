@@ -1,5 +1,5 @@
 parser,filename_mask,reference_designator,data_source,status,notes
 mi.dataset.driver.moas.gl.engineering.glider_eng_glider_telemetered_driver,/omc_data/whoi/OMC/GP05MOAS-GL276/D00002/merged-from-glider/gp_276*.mrg,GP05MOAS-GL276-00-ENG000000,telemetered,Available,
-mi.dataset.driver.moas.gl.flord_m.flord_m_glider_telemetered_driver,/omc_data/whoi/OMC/GP05MOAS-GL276/D00002/merged-from-glider/gp_276*.mrg,GP05MOAS-GL276-01-FLORDM000,telemetered,Available,no data - WHOI is troubleshooting
+mi.dataset.driver.moas.gl.flord_m.flord_m_glider_telemetered_driver,/omc_data/whoi/OMC/GP05MOAS-GL276/D00002/merged-from-glider/gp_276*.mrg,GP05MOAS-GL276-01-FLORDM000,telemetered,Available,early files have no FLORD data. Issue was fixed and files should have FLORD data moving forward
 mi.dataset.driver.moas.gl.dosta.dosta_abcdjm_glider_telemetered_driver,/omc_data/whoi/OMC/GP05MOAS-GL276/D00002/merged-from-glider/gp_276*.mrg,GP05MOAS-GL276-02-DOSTAM000,telemetered,Available,
 mi.dataset.driver.moas.gl.ctdgv.ctdgv_m_glider_telemetered_driver,/omc_data/whoi/OMC/GP05MOAS-GL276/D00002/merged-from-glider/gp_276*.mrg,GP05MOAS-GL276-04-CTDGVM000,telemetered,Available,
