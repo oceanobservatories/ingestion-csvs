@@ -50,5 +50,5 @@ mi.dataset.driver.wavss_a.dcl.wavss_a_dcl_recovered_driver,/omc_data/whoi/OMC/CE
 #,/omc_data/whoi/OMC/CE09OSSM/R00003/instrmts/dcl12/PCO2A_*/*poc2a*.log,CE09OSSM-SBD12-04-PCO2AA000,recovered_inst,Missing,No driver for this recovered instrument
 #,/omc_data/whoi/OMC/CE09OSSM/R00003/instrmts/dcl12/WAVSS_*/ce09ossm_wavss_*/,CE09OSSM-SBD12-05-WAVSSA000,recovered_inst,Not Expected,Instrument files will not be processed by OOI
 #mi.dataset.driver.zplsc_c.zplsc_c_recovered_driver,/omc_data/whoi/OMC/CE09OSSM/R00003/instrmts/dcl37/ZPLSC_*/*zplsc*/DATA/*/*.LOG,CE09OSSM-MFD37-07-ZPLSCC000,recovered_inst,Available,test parser
-#,/omc_data/whoi/OMC/CE09OSSM/R00003/instrmts/dcl37/CAMDS_*/*camds*/dcim/*.png,CE09OSSM-MFD37-06-CAMDSA000,recovered_host,Not Expected,DCL failed
-#,/omc_data/whoi/OMC/CE09OSSM/R00003/,CE09OSSM-MFD37-06-CAMDSA000,recovered_inst,Missing,
+#,/omc_data/whoi/OMC/CE09OSSM/R00003/cd_data/dcl37,CE09OSSM-MFD37-06-CAMDSA000,recovered_host,Not Expected,DCL failed - system was not deployed
+#,/omc_data/whoi/OMC/CE09OSSM/R00003/instrmts/dcl37/CAMDS_*/*camds*/dcim/*.png,CE09OSSM-MFD37-06-CAMDSA000,recovered_inst,Pending,.png & .htm filess
