@@ -1,8 +1,8 @@
 parser,filename_mask,reference_designator,data_source,status,notes
-# mi.dataset.driver.vel3d_k.wfp.vel3d_k_wfp_recovered_driver,/omc_data/whoi/OMC/CE09OSPM/R00006/instrmts/CWFP*/*/A*.DA?,CE09OSPM-WFP01-01-VEL3DK000,recovered_wfp,Unavailable,Profiler lost at sea
-# mi.dataset.driver.ctdpf_ckl.wfp.ctdpf_ckl_wfp_recovered_driver,/omc_data/whoi/OMC/CE09OSPM/R00006/instrmts/CWFP*/*/C*.DA?,CE09OSPM-WFP01-03-CTDPFK000,recovered_wfp,Unavailable,Profiler lost at sea
-# mi.dataset.driver.dofst_k.wfp.dofst_k_wfp_recovered_driver,/omc_data/whoi/OMC/CE09OSPM/R00006/instrmts/CWFP*/*/C*.DA?,CE09OSPM-WFP01-02-DOFSTK000,recovered_wfp,Unavailable,Profiler lost at sea
-# mi.dataset.driver.WFP_ENG.STC_IMODEM.wfp_eng_stc_imodem_recovered_driver,/omc_data/whoi/OMC/CE09OSPM/R00006/instrmts/CWFP*/*/E*.DA?,CE09OSPM-WFP01-00-WFPENG000,recovered_wfp,Unavailable,Profiler lost at sea
-# mi.dataset.driver.flort_kn.stc_imodem.flort_kn__stc_imodem_recovered_driver,/omc_data/whoi/OMC/CE09OSPM/R00006/instrmts/CWFP*/*/E*.DA?,CE09OSPM-WFP01-04-FLORTK000,recovered_wfp,Unavailable,Profiler lost at sea
-# mi.dataset.driver.PARAD_K.STC_IMODEM.parad_k_stc_imodem_recovered_driver,/omc_data/whoi/OMC/CE09OSPM/R00006/instrmts/CWFP*/*/E*.DA?,CE09OSPM-WFP01-05-PARADK000,recovered_wfp,Unavailable,Profiler lost at sea
-#mi.dataset.driver.cg_stc_eng.stc.cg_stc_eng_stc_recovered_driver,/omc_data/whoi/OMC/CE09OSPM/R00006/cg_data/irid2shore/stc_status.*_*.txt,CE09OSPM-SBS01-00-STCENG000,recovered_host,Available,Temporarily disabled for mass ingestions
+# mi.dataset.driver.vel3d_k.wfp.vel3d_k_wfp_recovered_driver,/omc_data/whoi/OMC/CE09OSPM/R00006/instrmts/CWFP*/*/A*.DA?,CE09OSPM-WFP01-01-VEL3DK000,recovered_wfp,Not Expected,Profiler lost at sea
+# mi.dataset.driver.ctdpf_ckl.wfp.ctdpf_ckl_wfp_recovered_driver,/omc_data/whoi/OMC/CE09OSPM/R00006/instrmts/CWFP*/*/C*.DA?,CE09OSPM-WFP01-03-CTDPFK000,recovered_wfp,Not Expected,Profiler lost at sea
+# mi.dataset.driver.dofst_k.wfp.dofst_k_wfp_recovered_driver,/omc_data/whoi/OMC/CE09OSPM/R00006/instrmts/CWFP*/*/C*.DA?,CE09OSPM-WFP01-02-DOFSTK000,recovered_wfp,Not Expected,Profiler lost at sea
+# mi.dataset.driver.WFP_ENG.STC_IMODEM.wfp_eng_stc_imodem_recovered_driver,/omc_data/whoi/OMC/CE09OSPM/R00006/instrmts/CWFP*/*/E*.DA?,CE09OSPM-WFP01-00-WFPENG000,recovered_wfp,Not Expected,Profiler lost at sea
+# mi.dataset.driver.flort_kn.stc_imodem.flort_kn__stc_imodem_recovered_driver,/omc_data/whoi/OMC/CE09OSPM/R00006/instrmts/CWFP*/*/E*.DA?,CE09OSPM-WFP01-04-FLORTK000,recovered_wfp,Not Expected,Profiler lost at sea
+# mi.dataset.driver.PARAD_K.STC_IMODEM.parad_k_stc_imodem_recovered_driver,/omc_data/whoi/OMC/CE09OSPM/R00006/instrmts/CWFP*/*/E*.DA?,CE09OSPM-WFP01-05-PARADK000,recovered_wfp,Not Expected,Profiler lost at sea
+#mi.dataset.driver.cg_stc_eng.stc.cg_stc_eng_stc_recovered_driver,/omc_data/whoi/OMC/CE09OSPM/R00006/cg_data/irid2shore/stc_status.*_*.txt,CE09OSPM-SBS01-00-STCENG000,recovered_host,Not Expected,Profiler lost at sea

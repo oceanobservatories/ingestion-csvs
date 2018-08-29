@@ -25,7 +25,7 @@ mi.dataset.driver.velpt_ab.velpt_ab_recovered_driver,/omc_data/whoi/OMC/CP01CNSM
 mi.dataset.driver.phsen_abcdef.dcl.phsen_abcdef_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/dcl26/phsen1/*.phsen1.log,CP01CNSM-RID26-06-PHSEND000,recovered_host,Available,
 mi.dataset.driver.phsen_abcdef.phsen_abcdef_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00005/instruments/dcl26/PHSEN*/SAMI*.txt,CP01CNSM-RID26-06-PHSEND000,recovered_inst,Available,
 mi.dataset.driver.nutnr_b.dcl_full.nutnr_b_dcl_full_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/dcl26/nutnr/*.nutnr.log,CP01CNSM-RID26-07-NUTNRB000,recovered_host,Available,
-mi.dataset.driver.nutnr_b.nutnr_b_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00005/instruments/dcl26/NUTNR*/SCH*.DAT,CP01CNSM-RID26-07-NUTNRB000,recovered_inst,Available,
+mi.dataset.driver.nutnr_b.nutnr_b_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00005/instruments/dcl26/NUTNR_sn261/SCH*.DAT,CP01CNSM-RID26-07-NUTNRB000,recovered_inst,Available,
 mi.dataset.driver.spkir_abj.dcl.spkir_abj_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/dcl26/spkir/*.spkir.log,CP01CNSM-RID26-08-SPKIRB000,recovered_host,Available,
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/dcl27/syslog/*.syslog.log,CP01CNSM-RID27-00-DCLENG000,recovered_host,Available,
 mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/dcl27/optaa1/*.optaa1.log,CP01CNSM-RID27-01-OPTAAD000,recovered_host,Available,
@@ -44,4 +44,4 @@ mi.dataset.driver.pco2a_a.dcl.pco2a_a_dcl_recovered_driver,/omc_data/whoi/OMC/CP
 mi.dataset.driver.wavss_a.dcl.wavss_a_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/dcl12/wavss/*.wavss.log,CP01CNSM-SBD12-05-WAVSSA000,recovered_host,Available,
 mi.dataset.driver.metbk_a.dcl.metbk_a_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/dcl12/metbk2/*metbk2.log,CP01CNSM-SBD12-06-METBKA000,recovered_host,Available,
 mi.dataset.driver.fdchp_a.dcl.fdchp_a_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/dcl12/fdchp/*fdchp.log,CP01CNSM-SBD12-08-FDCHPA000,recovered_host,Available,
-mi.dataset.driver.fdchp_a.fdchp_a_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00005/instruments/dcl12/FDCHP*/D20*/fdchp*.dat,CP01CNSM-SBD12-08-FDCHPA000,recovered_inst,Available,S/N 20 is the controller
+mi.dataset.driver.fdchp_a.fdchp_a_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00005/instruments/dcl12/FDCHP_sn20/D2016*/fdchp*.dat,CP01CNSM-SBD12-08-FDCHPA000,recovered_inst,Available,S/N 20 is the controller
