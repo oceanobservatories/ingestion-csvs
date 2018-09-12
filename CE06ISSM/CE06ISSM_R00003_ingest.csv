@@ -21,7 +21,7 @@ mi.dataset.driver.pco2w_abc.pco2w_abc_recovered_driver,/omc_data/whoi/OMC/CE06IS
 mi.dataset.driver.ctdbp_cdef.ctdbp_cdef_recovered_driver,/omc_data/whoi/OMC/CE06ISSM/R00003/instrmts/dcl37/CTDBP*/*.hex,CE06ISSM-MFD37-03-CTDBPC000,recovered_inst,Available,
 #mi.dataset.driver.dosta_abcdjm.ctdbp.dcl.dosta_abcdjm_ctdbp_dcl_recovered_driver,/omc_data/whoi/OMC/CE06ISSM/R00003/cg_data/dcl37/ctdbp2/*.ctdbp2.log,CE06ISSM-MFD37-03-DOSTAD000,recovered_host,Not Expected,DCL not deployed
 mi.dataset.driver.dosta_abcdjm.ctdbp.dosta_abcdjm_ctdbp_recovered_driver,/omc_data/whoi/OMC/CE06ISSM/R00003/instrmts/dcl37/CTDBP*/*.hex,CE06ISSM-MFD37-03-DOSTAD000,recovered_inst,Available,
-#,/omc_data/whoi/OMC/CE06ISSM/R00003/cg_data/dcl37/zplsc/*.zplsc.log,CE06ISSM-MFD37-07-ZPLSCC000,recovered_host,Not Expected,DCL not deployed. No driver for this instrument.
+#mi.dataset.driver.zplsc_c.dcl.zplsc_c_dcl_telemetered_driver,/omc_data/whoi/OMC/CE06ISSM/R00003/cg_data/dcl37/zplsc/*.zplsc.log,CE06ISSM-MFD37-07-ZPLSCC000,recovered_host,Not Expected,DCL not deployed
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CE06ISSM/R00003/cg_data/dcl16/syslog/*.syslog.log,CE06ISSM-RID16-00-DCLENG000,recovered_host,Available,
 mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_recovered_driver,/omc_data/whoi/OMC/CE06ISSM/R00003/cg_data/dcl16/optaa1/*.optaa*.log,CE06ISSM-RID16-01-OPTAAD000,recovered_host,Available,
 mi.dataset.driver.flort_dj.dcl.flort_dj_dcl_recovered_driver,/omc_data/whoi/OMC/CE06ISSM/R00003/cg_data/dcl16/flort/*.flort.log,CE06ISSM-RID16-02-FLORTD000,recovered_host,Available,

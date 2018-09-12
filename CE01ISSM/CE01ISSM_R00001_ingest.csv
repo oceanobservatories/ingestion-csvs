@@ -21,7 +21,7 @@ mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_recovered_driver,/omc_data/whoi/OMC/
 mi.dataset.driver.ctdbp_cdef.ctdbp_cdef_recovered_driver,/omc_data/whoi/OMC/CE01ISSM/R00001/instrmt/dcl37/CTDBP*/ce01issm_ctdbp*.hex,CE01ISSM-MFD37-03-CTDBPC000,recovered_inst,Available,
 #mi.dataset.driver.dosta_abcdjm.ctdbp.dcl.dosta_abcdjm_ctdbp_dcl_recovered_driver,/omc_data/whoi/OMC/CE01ISSM/R00001/cg_data/dcl37/ctdbp*/*ctdbp*.log,CE01ISSM-MFD37-03-DOSTAD000,recovered_host,Not Expected,The data for the DOSTA is available in */dcl37/ctdbp2. No data in files due to DCL failure
 mi.dataset.driver.dosta_abcdjm.ctdbp.dosta_abcdjm_ctdbp_recovered_driver,/omc_data/whoi/OMC/CE01ISSM/R00001/instrmt/dcl37/CTDBP*/ce01issm_ctdbp*.hex,CE01ISSM-MFD37-03-DOSTAD000,recovered_inst,Available,
-#,/omc_data/whoi/OMC/CE01ISSM/R00001/cg_data/dcl37/ZPLSC_*/ce01issm_zplsc_*/DATA/*/*.01A,CE01ISSM-MFD37-07-ZPLSCC000,recovered_host,Not Deployed,No data
+#,/omc_data/whoi/OMC/CE01ISSM/R00001/cg_data/dcl37/,CE01ISSM-MFD37-07-ZPLSCC000,recovered_host,Not Deployed,
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CE01ISSM/R00001/cg_data/dcl16/syslog*/*syslog*.log,CE01ISSM-RID16-00-DCLENG000,recovered_host,Available,
 mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_recovered_driver,/omc_data/whoi/OMC/CE01ISSM/R00001/cg_data/dcl16/optaa*/*optaa*.log,CE01ISSM-RID16-01-OPTAAD000,recovered_host,Available,
 mi.dataset.driver.flort_dj.dcl.flort_dj_dcl_recovered_driver,/omc_data/whoi/OMC/CE01ISSM/R00001/cg_data/dcl16/flort*/*flort*.log,CE01ISSM-RID16-02-FLORTD000,recovered_host,Available,
@@ -46,6 +46,6 @@ mi.dataset.driver.velpt_ab.velpt_ab_recovered_driver,/omc_data/whoi/OMC/CE01ISSM
 #,/omc_data/whoi/OMC/CE01ISSM/R00001/cg_data/dcl17/ctdbp*/*ctdbp3.log,CE01ISSM-SBD17-06-CTDBPC000,recovered_host,Not Deployed,CTDBP with FLORT not installed in the spring/summer
 #,/omc_data/whoi/OMC/CE01ISSM/R00001/instrmt/dcl17/CTDBP*/,CE01ISSM-SBD17-06-CTDBPC000,recovered_inst,Not Deployed,
 #,/omc_data/whoi/OMC/CE01ISSM/R00001/cg_data/dcl17/ctdbp*/*ctdbp3.log,CE01ISSM-SBD17-06-FLORTD000,recovered_host,Not Deployed,CTDBP with FLORT not installed in the spring/summer
-#,/omc_data/whoi/OMC/CE01ISSM/R00001/,CE01ISSM-MFD37-06-CAMDSA000,recovered_host,Not Deployed,No data
+#,/omc_data/whoi/OMC/CE01ISSM/R00001/,CE01ISSM-MFD37-06-CAMDSA000,recovered_host,Not Deployed,
 #,/omc_data/whoi/OMC/CE01ISSM/R00001/,CE01ISSM-MFD37-06-CAMDSA000,recovered_inst,Not Deployed,
 #,/omc_data/whoi/OMC/CE01ISSM/R00001/instrmts/dcl37/ZPLSC_*/ce01issm_zplsc_*/DATA/*/*.01A,CE01ISSM-MFD37-07-ZPLSCC000,recovered_inst,Not Deployed,
