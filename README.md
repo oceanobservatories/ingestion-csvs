@@ -32,7 +32,17 @@ of any cell in the line. It's recommended to place the pound sign # in the `ufra
 CSV file is commented out, the ingestion script will ignore that line completely.
 
 Extra columns, such as "notes" or "status," can be included in the CSV files. The ingestion script will ignore these 
-columns completely. Feel free to annotate CSV files with extra columns of data as necessary.
+columns completely. Feel free to annotate CSV files with extra columns of data as necessary, but entries in the "status" column should use a standard set of codes, using the definitions below:
+
+| Status        | Description|
+| -------------------- | ----------- |
+|`Not Deployed`| Instrument was not integrated onto the platform for this deployment.|
+|`Not Expected`| Data are not available for a known reason (e.g. instrument failed, files were corrupted, instrument was lost).
+|`Missing`| No data in raw data archive, although the instrument was deployed and operational.|
+|`Expected`| Data are scheduled for upload to the raw data archive.|
+|`Pending`| Data are on the raw data archive but not yet able to be ingested (e.g. parser needs to be developed or modified).|
+|`Available`| Data are on the raw data archive and ready for ingestion.|
+
 
 # Utilities
 
