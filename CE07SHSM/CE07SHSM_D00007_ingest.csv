@@ -17,7 +17,7 @@ mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/who
 mi.dataset.driver.adcpt_acfgm.dcl.pd0.adcpt_acfgm_dcl_pd0_telemetered_driver,/omc_data/whoi/OMC/CE07SHSM/D00007/cg_data/dcl26/adcpt1/*.adcpt*.log,CE07SHSM-RID26-01-ADCPTA000,telemetered,Available,
 mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_telemetered_driver,/omc_data/whoi/OMC/CE07SHSM/D00007/cg_data/dcl26/velpt2/*.velpt*.log,CE07SHSM-RID26-04-VELPTA000,telemetered,Available,
 mi.dataset.driver.phsen_abcdef.dcl.phsen_abcdef_dcl_telemetered_driver,/omc_data/whoi/OMC/CE07SHSM/D00007/cg_data/dcl26/phsen1/*.phsen*.log,CE07SHSM-RID26-06-PHSEND000,telemetered,Available,
-mi.dataset.driver.suna.suna_dcl_driver,/omc_data/whoi/OMC/CE07SHSM/D00007/cg_data/dcl26/nutnr/*.nutnr.log,CE07SHSM-RID26-07-NUTNRB000,telemetered,Available,Disabled because switch from ISUS to SUNA. No Parser
+mi.dataset.driver.suna.suna_dcl_driver,/omc_data/whoi/OMC/CE07SHSM/D00007/cg_data/dcl26/nutnr/*.nutnr.log,CE07SHSM-RID26-07-NUTNRB000,telemetered,Available,
 mi.dataset.driver.spkir_abj.dcl.spkir_abj_dcl_telemetered_driver,/omc_data/whoi/OMC/CE07SHSM/D00007/cg_data/dcl26/spkir/*.spkir.log,CE07SHSM-RID26-08-SPKIRB000,telemetered,Available,
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/whoi/OMC/CE07SHSM/D00007/cg_data/dcl27/syslog/*.syslog.log,CE07SHSM-RID27-00-DCLENG000,telemetered,Available,
 mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_telemetered_driver,/omc_data/whoi/OMC/CE07SHSM/D00007/cg_data/dcl27/optaa1/*.optaa*.log,CE07SHSM-RID27-01-OPTAAD000,telemetered,Available,
