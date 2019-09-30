@@ -1,7 +1,7 @@
 parser,filename_mask,reference_designator,data_source,status,notes
 mi.dataset.driver.dpc.dpc_driver,/rsn_cabled/rsn_data/DVT_Data/pd01a/data/20*/*/dataset_2*/ctd*.mpk,RS01SBPD-DP01A-01-CTDPFL104,recovered_inst,,		
 mi.dataset.driver.dpc.dpc_driver,/rsn_cabled/rsn_data/DVT_Data/pd01a/data/20*/*/dataset_2*/acm*.mpk,RS01SBPD-DP01A-02-VEL3DA103,recovered_inst,,
-mi.dataset.driver.dpc.dpc_driver,/rsn_cabled/rsn_data/DVT_Data/pd01a/data/20*/*/dataset_2*/flcd*.mpk,RS01SBPD-DP01A-03-FLCDRA104,recovered_inst,,
+mi.dataset.driver.dpc.dpc_driver,/rsn_cabled/rsn_data/DVT_Data/pd01a/data/20*/*/dataset_2*/flcd*.mpk,RS01SBPD-DP01A-03-FLCDRA102,recovered_inst,,
 mi.dataset.driver.dpc.dpc_driver,/rsn_cabled/rsn_data/DVT_Data/pd01a/data/20*/*/dataset_2*/flntu*.mpk,RS01SBPD-DP01A-04-FLNTUA102,recovered_inst,,
 #mi.dataset.driver.dpc.dpc_driver,/rsn_cabled/rsn_data/DVT_Data/pd01a/data/20*/*/dataset_2*/acs*.mpk,RS01SBPD-DP01A-05-OPTAAC102,recovered_inst,,
 mi.dataset.driver.dpc.dpc_driver,/rsn_cabled/rsn_data/DVT_Data/pd01a//data20*/*/dataset_2*/optode*.mpk,RS01SBPD-DP01A-06-DOSTAD104,recovered_inst,,
@@ -9,7 +9,7 @@ mi.dataset.driver.dpc.dpc_driver,/rsn_cabled/rsn_data/DVT_Data/pd01a/data/20*/*/
 #,,,,,
 mi.dataset.driver.dpc.dpc_driver,/rsn_cabled/rsn_data/DVT_Data/pd01a/subset/20*/dataset_2*/ctd*.mpk,RS01SBPD-DP01A-01-CTDPFL104,recovered_wfp,,	
 mi.dataset.driver.dpc.dpc_driver,/rsn_cabled/rsn_data/DVT_Data/pd01a/subset/20*/dataset_2*/acm*.mpk,RS01SBPD-DP01A-02-VEL3DA103,recovered_wfp,,	
-mi.dataset.driver.dpc.dpc_driver,/rsn_cabled/rsn_data/DVT_Data/pd01a/subset/20*/dataset_2*/flcd*.mpk,RS01SBPD-DP01A-03-FLCDRA104,recovered_wfp,,	
+mi.dataset.driver.dpc.dpc_driver,/rsn_cabled/rsn_data/DVT_Data/pd01a/subset/20*/dataset_2*/flcd*.mpk,RS01SBPD-DP01A-03-FLCDRA102,recovered_wfp,,	
 mi.dataset.driver.dpc.dpc_driver,/rsn_cabled/rsn_data/DVT_Data/pd01a/subset/20*/dataset_2*/flntu*.mpk,RS01SBPD-DP01A-04-FLNTUA102,recovered_wfp,,
 #mi.dataset.driver.dpc.dpc_driver,/rsn_cabled/rsn_data/DVT_Data/pd01a/subset/20*/dataset_2*/acs*.mpk,RS01SBPD-DP01A-05-OPTAAC102,recovered_wfp,,
 mi.dataset.driver.dpc.dpc_driver,/rsn_cabled/rsn_data/DVT_Data/pd01a/subset/20*/dataset_2*/optode*.mpk,RS01SBPD-DP01A-06-DOSTAD104,recovered_wfp,,
