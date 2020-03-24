@@ -1,8 +1,8 @@
 parser,filename_mask,reference_designator,data_source,status,notes
-#mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00011/cg_data/cpm3/syslog/cpm_status.txt,CP01CNSM-MFC31-00-CPMENG000,recovered_host,Expected,
-#mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00011/cg_data/dcl36/syslog/*.syslog.log,CP01CNSM-MFD35-00-DCLENG000,recovered_host,Expected,
-#mi.dataset.driver.adcpt_acfgm.dcl.pd0.adcpt_acfgm_dcl_pd0_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00011/cg_data/dcl36/adcp/*adcp*.log,CP01CNSM-MFD35-01-ADCPTF000,recovered_host,Expected,
-#mi.dataset.driver.adcps_jln.adcps_jln_driver,/omc_data/whoi/OMC/CP01CNSM/R00011/instruments/dcl36/ADCP*/*RDI*.000,CP01CNSM-MFD35-01-ADCPTF000,recovered_inst,Expected,
+mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00011/cg_data/cpm3/syslog/cpm_status.txt,CP01CNSM-MFC31-00-CPMENG000,recovered_host,Expected,
+mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00011/cg_data/dcl36/syslog/*.syslog.log,CP01CNSM-MFD35-00-DCLENG000,recovered_host,Expected,
+mi.dataset.driver.adcpt_acfgm.dcl.pd0.adcpt_acfgm_dcl_pd0_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00011/cg_data/dcl36/adcp/*adcp*.log,CP01CNSM-MFD35-01-ADCPTF000,recovered_host,Expected,
+mi.dataset.driver.adcps_jln.adcps_jln_driver,/omc_data/whoi/OMC/CP01CNSM/R00011/instruments/dcl36/ADCP*/*RDI*.000,CP01CNSM-MFD35-01-ADCPTF000,recovered_inst,Expected,
 mi.dataset.driver.presf_abc.dcl.presf_abc_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00011/cg_data/dcl36/presf/*.presf.log,CP01CNSM-MFD35-02-PRESFB000,recovered_host,Expected,
 mi.dataset.driver.presf_abc.presf_abc_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00011/instruments/dcl36/PRESF*/PRESF*.hex,CP01CNSM-MFD35-02-PRESFB000,recovered_inst,Expected,
 mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00011/cg_data/dcl36/velpt2/*velpt*.log,CP01CNSM-MFD35-04-VELPTA000,recovered_host,Expected,
