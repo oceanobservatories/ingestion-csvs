@@ -1,6 +1,6 @@
 parser,filename_mask,reference_designator,data_source,status,notes
 mi.dataset.driver.adcps_jln.stc.adcps_jln_stc_recovered_driver,/omc_data/whoi/OMC/CP02PMUO/R00014/cg_data/stc1/imm/adcp/adcp*.DAT,CP02PMUO-RII01-02-ADCPSL010,recovered_host,Expected,
-mi.dataset.driver.adcps_jln.adcps_jln_driver,/omc_data/whoi/OMC/CP02PMUO/R00014/instruments/ADCP*/*RDI_*.000,CP02PMUO-RII01-02-ADCPSL010,recovered_inst,Expected,
+mi.dataset.driver.adcps_jln.adcps_jln_driver,/omc_data/whoi/OMC/CP02PMUO/R00014/instruments/ADCP*/*.000,CP02PMUO-RII01-02-ADCPSL010,recovered_inst,Expected,
 mi.dataset.driver.cg_stc_eng.stc.cg_stc_eng_stc_recovered_driver,/omc_data/whoi/OMC/CP02PMUO/R00014/cg_data/stc1/irid2shore/stc_status*.txt,CP02PMUO-SBS01-00-STCENG000,recovered_host,Expected,
 mi.dataset.driver.cg_stc_eng.stc.mopak_o_dcl_recovered_driver,/omc_data/whoi/OMC/CP02PMUO/R00014/cg_data/stc1/3dmgx3/*.3dmgx3.log,CP02PMUO-SBS01-01-MOPAK0000,recovered_host,Expected,
 mi.dataset.driver.WFP_ENG.STC_IMODEM.wfp_eng_stc_imodem_recovered_driver,/omc_data/whoi/OMC/CP02PMUO/R00014/instruments/CWFP*/*00/E*.DA?,CP02PMUO-WFP01-00-WFPENG000,recovered_wfp,Expected,
