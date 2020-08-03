@@ -14,7 +14,7 @@ mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_sio_telemetered_driver,/omc_data/who
 #,/omc_data/whoi/OMC/GI03FLMB/D00007/*ctdmo*.dat,GI03FLMB-RIM01-02-CTDMOH069,telemetered,Available,Data assigned to refdes after ingestion with wildcard refdes.
 #,/omc_data/whoi/OMC/GI03FLMB/D00007/*ctdmo*.dat,GI03FLMB-RIM01-02-CTDMOH070,telemetered,Available,Data assigned to refdes after ingestion with wildcard refdes.
 #,/omc_data/whoi/OMC/GI03FLMB/D00007/*ctdmo*.dat,GI03FLMB-RIM01-02-CTDMOH071,telemetered,Available,Data assigned to refdes after ingestion with wildcard refdes.
-mi.dataset.driver.sio_eng.sio.sio_eng_sio_telemetered_driver,/omc_data/whoi/OMC/GI03FLMB/D00007/*status_139901.dat,GI03FLMB-RIS01-00-SIOENG000,telemetered,Available,
+mi.dataset.driver.sio_eng.sio.sio_eng_sio_telemetered_driver,/omc_data/whoi/OMC/GI03FLMB/D00007/*status_1399001.dat,GI03FLMB-RIS01-00-SIOENG000,telemetered,Available,
 mi.dataset.driver.dosta_abcdjm.sio.dosta_abcdjm_sio_telemetered_driver,/omc_data/whoi/OMC/GI03FLMB/D00007/*dosta*.dat,GI03FLMB-RIS01-03-DOSTAD000,telemetered,Available,
 mi.dataset.driver.phsen_abcdef.sio.phsen_abcdef_sio_telemetered_driver,/omc_data/whoi/OMC/GI03FLMB/D00007/*phsen*.dat,GI03FLMB-RIS01-04-PHSENF000,telemetered,Available,
 mi.dataset.driver.flort_dj.sio.flort_dj_sio_telemetered_driver,/omc_data/whoi/OMC/GI03FLMB/D00007/*flort*.dat,GI03FLMB-RIS01-05-FLORTD000,telemetered,Available,
