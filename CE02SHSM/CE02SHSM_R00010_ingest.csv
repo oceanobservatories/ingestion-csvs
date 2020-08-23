@@ -14,7 +14,7 @@ mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/
 mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_recovered_driver,/omc_data/whoi/OMC/CE02SHSM/R00010/cg_data/dcl27/optaa/*.optaa.log,CE02SHSM-RID27-01-OPTAAD000,recovered_host,Available,
 mi.dataset.driver.flort_dj.dcl.flort_dj_dcl_recovered_driver,/omc_data/whoi/OMC/CE02SHSM/R00010/cg_data/dcl27/flort/*.flort.log,CE02SHSM-RID27-02-FLORTD000,recovered_host,Available,
 mi.dataset.driver.ctdbp_cdef.dcl.ctdbp_cdef_dcl_recovered_driver,/omc_data/whoi/OMC/CE02SHSM/R00010/cg_data/dcl27/ctdbp/*.ctdbp.log,CE02SHSM-RID27-03-CTDBPC000,recovered_host,Available,
-mi.dataset.driver.ctdbp_cdef.ctdbp_cdef_recovered_driver,/omc_data/whoi/OMC/CE02SHSM/R00010/instrmts/dcl27/CTDBP*/*ctdbp*.hex,CE02SHSM-RID27-03-CTDBPC000,recovered_inst,Not Available,
+mi.dataset.driver.ctdbp_cdef.ctdbp_cdef_recovered_driver,/omc_data/whoi/OMC/CE02SHSM/R00010/instrmts/dcl27/CTDBP*/*ctdbp*.hex,CE02SHSM-RID27-03-CTDBPC000,recovered_inst,Available,
 mi.dataset.driver.dosta_abcdjm.dcl.dosta_abcdjm_dcl_recovered_driver,/omc_data/whoi/OMC/CE02SHSM/R00010/cg_data/dcl27/dosta/*.dosta.log,CE02SHSM-RID27-04-DOSTAD000,recovered_host,Available,
 # mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_recovered_driver,/omc_data/whoi/OMC/CE02SHSM/R00010/cg_data/irid2shore/cpm_status*.txt,CE02SHSM-SBC11-00-CPMENG000,recovered_host,Pending,Incorrectly specified dataset and parser
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CE02SHSM/R00010/cg_data/dcl11/syslog/*.syslog.log,CE02SHSM-SBD11-00-DCLENG000,recovered_host,Available,
