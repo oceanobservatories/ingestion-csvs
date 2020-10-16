@@ -69,7 +69,7 @@ mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/
 mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00006/cg_data/dcl12/optaa1/*.optaa1.log,GI01SUMO-SBD12-01-OPTAAD000,recovered_host,Available,
 mi.dataset.driver.flort_dj.dcl.flort_dj_dcl_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00006/cg_data/dcl12/flort1/*.flort1.log,GI01SUMO-SBD12-02-FLORTD000,recovered_host,Available,
 mi.dataset.driver.hyd_o.dcl.hyd_o_dcl_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00006/cg_data/dcl12/hyd2/*hyd2.log,GI01SUMO-SBD12-03-HYDGN0000,recovered_host,Available,
-mi.dataset.driver.pco2a_a.dcl.pco2a_a_dcl_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00006/cg_data/dcl12/pco2a/*.pco2a.log,GI01SUMO-SBD12-04-PCO2AA000,recovered_host,Available,
+mi.dataset.driver.pco2a_a.sample.pco2a_a_sample_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00006/cg_data/dcl12/pco2a/*.pco2a.log,GI01SUMO-SBD12-04-PCO2AA000,recovered_host,Available,
 mi.dataset.driver.wavss_a.dcl.wavss_a_dcl_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00006/cg_data/dcl12/wavss/*.wavss.log,GI01SUMO-SBD12-05-WAVSSA000,recovered_host,Available,
 mi.dataset.driver.metbk_a.dcl.metbk_a_dcl_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00006/cg_data/dcl12/metbk2/*.metbk2.log,GI01SUMO-SBD12-06-METBKA000,recovered_host,Available,
 mi.dataset.driver.fdchp_a.dcl.fdchp_a_dcl_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00006/cg_data/dcl12/fdchp/*.fdchp.log,GI01SUMO-SBD12-08-FDCHPA000,recovered_host,Available,
