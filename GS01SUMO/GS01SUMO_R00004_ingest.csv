@@ -1,4 +1,5 @@
 parser,filename_mask,reference_designator,data_source,status,notes
+mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_recovered_driver,/omc_data/whoi/OMC/GS01SUMO/R00004/cg_data/cpm2/syslog/cpm_status.txt,GS01SUMO-RIC21-00-CPMENG000,recovered_host,Available,
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/GS01SUMO/R00004/cg_data/dcl16/syslog/*syslog.log,GS01SUMO-RID16-00-DCLENG000,recovered_host,Available,
 mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_recovered_driver,/omc_data/whoi/OMC/GS01SUMO/R00004/cg_data/dcl16/optaa2/*.optaa2.log,GS01SUMO-RID16-01-OPTAAD000,recovered_host,Available,
 mi.dataset.driver.flort_dj.dcl.flort_dj_dcl_recovered_driver,/omc_data/whoi/OMC/GS01SUMO/R00004/cg_data/dcl16/flort2/*.flort2.log,GS01SUMO-RID16-02-FLORTD000,recovered_host,Available,
