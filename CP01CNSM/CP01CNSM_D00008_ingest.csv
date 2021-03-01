@@ -9,7 +9,7 @@ mi.dataset.driver.phsen_abcdef.dcl.phsen_abcdef_dcl_telemetered_driver,/omc_data
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/whoi/OMC/CP01CNSM/D00008/cg_data/dcl37/syslog*/*syslog*.log,CP01CNSM-MFD37-00-DCLENG000,telemetered,Available,
 #mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_telemetered_driver,/omc_data/whoi/OMC/CP01CNSM/D00008/cg_data/dcl37/optaa*/*optaa*.log,CP01CNSM-MFD37-01-OPTAAD000,telemetered,Not Deployed,
 mi.dataset.driver.ctdbp_cdef.dcl.ctdbp_cdef_dcl_telemetered_driver,/omc_data/whoi/OMC/CP01CNSM/D00008/cg_data/dcl37/ctdbp*/*ctdbp*.log,CP01CNSM-MFD37-03-CTDBPD000,telemetered,Available,
-#mi.dataset.driver.dosta_abcdjm.dcl.dosta_abcdjm_dcl_telemetered_driver,/omc_data/whoi/OMC/CP01CNSM/D00008/cg_data/dcl37/dosta*/*dosta*.log,CP01CNSM-MFD37-04-DOSTAD000,telemetered,Pending,Value error :problem with dimension sizes
+#mi.dataset.driver.dosta_abcdjm.dcl.dosta_abcdjm_dcl_telemetered_driver,/omc_data/whoi/OMC/CP01CNSM/D00008/cg_data/dcl37/dosta*/*dosta*.log,CP01CNSM-MFD37-04-DOSTAD000,telemetered,Not Available,Value error :problem with dimension sizes
 mi.dataset.driver.zplsc_c.dcl.zplsc_c_dcl_telemetered_driver,/omc_data/whoi/OMC/CP01CNSM/D00008/cg_data/dcl37/zplsc*/*zplsc*.log,CP01CNSM-MFD37-07-ZPLSCC000,telemetered,Available,
 mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_telemetered_driver,/omc_data/whoi/OMC/CP01CNSM/D00008/cg_data/cpm2/syslog/cpm_status*.txt,CP01CNSM-RIC21-00-CPMENG000,telemetered,Available,
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/whoi/OMC/CP01CNSM/D00008/cg_data/dcl26/syslog*/*syslog*.log,CP01CNSM-RID26-00-DCLENG000,telemetered,Available,
