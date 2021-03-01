@@ -12,7 +12,7 @@ mi.dataset.driver.pco2w_abc.pco2w_abc_recovered_driver,/omc_data/whoi/OMC/CP04OS
 mi.dataset.driver.phsen_abcdef.dcl.phsen_abcdef_dcl_recovered_driver,/omc_data/whoi/OMC/CP04OSSM/R00007/cg_data/dcl35/phsen2/*.phsen2.log,CP04OSSM-MFD35-06-PHSEND000,recovered_host,Available,error parsing data file on my machine
 mi.dataset.driver.phsen_abcdef.phsen_abcdef_recovered_driver,/omc_data/whoi/OMC/CP04OSSM/R00007/instruments/dcl36/PHSEN_snP*/SAMI*.txt,CP04OSSM-MFD35-06-PHSEND000,recovered_inst,Available,error parsing data file on my machine
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CP04OSSM/R00007/cg_data/dcl37/syslog/*.syslog.log,CP04OSSM-MFD37-00-DCLENG000,recovered_host,Available,
-mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_recovered_driver,/omc_data/whoi/OMC/CP04OSSM/R00007/cg_data/dcl37/optaa2/*.optaa2.log,CP04OSSM-MFD37-01-OPTAAD000,recovered_host,Available,
+#mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_recovered_driver,/omc_data/whoi/OMC/CP04OSSM/R00007/cg_data/dcl37/optaa2/*.optaa2.log,CP04OSSM-MFD37-01-OPTAAD000,recovered_host,Not Deployed,
 mi.dataset.driver.ctdbp_cdef.dcl.ctdbp_cdef_dcl_recovered_driver,/omc_data/whoi/OMC/CP04OSSM/R00007/cg_data/dcl37/ctdbp2/*.ctdbp2.log,CP04OSSM-MFD37-03-CTDBPE000,recovered_host,Available,
 mi.dataset.driver.ctdbp_cdef.ctdbp_cdef_recovered_driver,/omc_data/whoi/OMC/CP04OSSM/R00007/instruments/dcl37/CTDBP_sn*/SBE*.hex,CP04OSSM-MFD37-03-CTDBPE000,recovered_inst,Available,
 mi.dataset.driver.dosta_abcdjm.dcl.dosta_abcdjm_dcl_recovered_driver,/omc_data/whoi/OMC/CP04OSSM/R00007/cg_data/dcl37/dosta2/*dosta2.log,CP04OSSM-MFD37-04-DOSTAD000,recovered_host,Available,
@@ -40,4 +40,4 @@ mi.dataset.driver.metbk_a.dcl.metbk_a_dcl_recovered_driver,/omc_data/whoi/OMC/CP
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CP04OSSM/R00007/cg_data/dcl12/syslog/*.syslog.log,CP04OSSM-SBD12-00-DCLENG000,recovered_host,Available,
 mi.dataset.driver.hyd_o.dcl.hyd_o_dcl_recovered_driver,/omc_data/whoi/OMC/CP04OSSM/R00007/cg_data/dcl12/hyd2/*.hyd2.log,CP04OSSM-SBD12-03-HYDGN0000,recovered_host,Available,
 mi.dataset.driver.pco2a_a.dcl.pco2a_a_dcl_recovered_driver,/omc_data/whoi/OMC/CP04OSSM/R00007/cg_data/dcl12/pco2a/*.pco2a.log,CP04OSSM-SBD12-04-PCO2AA000,recovered_host,Available,
-mi.dataset.driver.zplsc_c.zplsc_c_recovered_driver,/omc_data/whoi/OMC/CP04OSSM/R00007/instruments/dcl37/ZPLSC*/DATA/*/*.01A,CP04OSSM-MFD37-07-ZPLSCC000,recovered_inst,Available,
+#mi.dataset.driver.zplsc_c.zplsc_c_recovered_driver,/omc_data/whoi/OMC/CP04OSSM/R00007/instruments/dcl37/ZPLSC*/DATA/*/*.01A,CP04OSSM-MFD37-07-ZPLSCC000,recovered_inst,Available,Test parser
