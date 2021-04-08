@@ -1,0 +1,36 @@
+parser,filename_mask,reference_designator,data_source,status,notes
+# mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00012/cg_data/cpm3/syslog/cpm_status.txt,CE09OSSM-MFC31-00-CPMENG000,telemetered,Pending,Incorrectly specified dataset and parser
+# mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00012/cg_data/dcl36/syslog/*.syslog.log,CE09OSSM-MFD35-00-DCLENG000,telemetered,Pending,Incorrectly specified driver and dataset
+# mi.dataset.driver.vel3d_cd.dcl.vel3d_cd_dcl_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00012/cg_data/dcl36/vel3d*/*.vel3d.log,CE09OSSM-MFD35-01-VEL3DD000,telemetered,Pending,Error in sensor clock blocking ingests
+mi.dataset.driver.presf_abc.dcl.presf_abc_dcl_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00012/cg_data/dcl36/presf/*.presf.log,CE09OSSM-MFD35-02-PRESFC000,telemetered,Available,
+mi.dataset.driver.adcpt_acfgm.dcl.pd0.adcpt_acfgm_dcl_pd0_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00012/cg_data/dcl36/adcps/*.adcps.log,CE09OSSM-MFD35-04-ADCPSJ000,telemetered,Available,
+mi.dataset.driver.pco2w_abc.dcl.pco2w_abc_dcl_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00012/cg_data/dcl36/pco2w/*.pco2w.log,CE09OSSM-MFD35-05-PCO2WB000,telemetered,Available,
+mi.dataset.driver.phsen_abcdef.dcl.phsen_abcdef_dcl_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00012/cg_data/dcl36/phsen*/*.phsen*.log,CE09OSSM-MFD35-06-PHSEND000,telemetered,Available,
+# mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00012/cg_data/dcl37/syslog/*.syslog.log,CE09OSSM-MFD37-00-DCLENG000,telemetered,Pending,Incorrectly specified driver and dataset
+mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00012/cg_data/dcl37/optaa*/*.optaa*.log,CE09OSSM-MFD37-01-OPTAAC000,telemetered,Available,
+mi.dataset.driver.ctdbp_cdef.dcl.ctdbp_cdef_dcl_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00012/cg_data/dcl37/ctdbp*/*.ctdbp*.log,CE09OSSM-MFD37-03-CTDBPE000,telemetered,Available,
+mi.dataset.driver.dosta_abcdjm.ctdbp.dcl.dosta_abcdjm_ctdbp_dcl_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00012/cg_data/dcl37/ctdbp*/*.ctdbp*.log,CE09OSSM-MFD37-03-DOSTAD000,telemetered,Available,
+# mi.dataset.driver.zplsc_c.dcl.zplsc_c_dcl_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00012/cg_data/dcl37/zplsc/*.zplsc.log,CE09OSSM-MFD37-07-ZPLSCC000,telemetered,Not Deployed,
+# ,/omc_data/whoi/OMC/CE09OSSM/D00012/,CE09OSSM-MFD37-06-CAMDSA000,telemetered,Not Deployed,
+# mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00012/cg_data/cpm2/syslog/cpm_status.txt,CE09OSSM-RIC21-00-CPMENG000,telemetered,Pending,Incorrectly specified dataset and parser
+# mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00012/cg_data/dcl26/syslog/*.syslog.log,CE09OSSM-RID26-00-DCLENG000,telemetered,Pending,Incorrectly specified driver and dataset
+mi.dataset.driver.adcpt_acfgm.dcl.pd0.adcpt_acfgm_dcl_pd0_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00012/cg_data/dcl26/adcpt/*.adcpt.log,CE09OSSM-RID26-01-ADCPTC000,telemetered,Available,
+mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00012/cg_data/dcl26/velpt*/*.velpt*.log,CE09OSSM-RID26-04-VELPTA000,telemetered,Available,
+mi.dataset.driver.phsen_abcdef.dcl.phsen_abcdef_dcl_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00012/cg_data/dcl26/phsen*/*.phsen*.log,CE09OSSM-RID26-06-PHSEND000,telemetered,Available,
+mi.dataset.driver.suna.suna_dcl_driver,/omc_data/whoi/OMC/CE09OSSM/D00012/cg_data/dcl26/nutnr/*.nutnr.log,CE09OSSM-RID26-07-NUTNRB000,telemetered,Available,
+mi.dataset.driver.spkir_abj.dcl.spkir_abj_dcl_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00012/cg_data/dcl26/spkir/*.spkir.log,CE09OSSM-RID26-08-SPKIRB000,telemetered,Available,
+# mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00012/cg_data/dcl27/syslog/*.syslog.log,CE09OSSM-RID27-00-DCLENG000,telemetered,Pending,Incorrectly specified driver and dataset
+mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00012/cg_data/dcl27/optaa*/*.optaa*.log,CE09OSSM-RID27-01-OPTAAD000,telemetered,Available,
+mi.dataset.driver.flort_dj.dcl.flort_dj_dcl_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00012/cg_data/dcl27/flort/*.flort.log,CE09OSSM-RID27-02-FLORTD000,telemetered,Available,
+mi.dataset.driver.ctdbp_cdef.dcl.ctdbp_cdef_dcl_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00012/cg_data/dcl27/ctdbp*/*.ctdbp*.log,CE09OSSM-RID27-03-CTDBPC000,telemetered,Available,
+mi.dataset.driver.dosta_abcdjm.dcl.dosta_abcdjm_dcl_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00012/cg_data/dcl27/dosta/*.dosta.log,CE09OSSM-RID27-04-DOSTAD000,telemetered,Available,
+# mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00012/irid2shore/cpm_status.*.txt,CE09OSSM-SBC11-00-CPMENG000,telemetered,Pending,Incorrectly specified dataset and parser
+# mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00012/cg_data/dcl11/syslog/*.syslog.log,CE09OSSM-SBD11-00-DCLENG000,telemetered,Pending,Incorrectly specified driver and dataset
+mi.dataset.driver.cg_stc_eng.stc.mopak_o_dcl_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00012/cg_data/dcl11/mopak/*.mopak.log,CE09OSSM-SBD11-01-MOPAK0000,telemetered,Available,
+mi.dataset.driver.hyd_o.dcl.hyd_o_dcl_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00012/cg_data/dcl11/hyd*/*.hyd*.log,CE09OSSM-SBD11-02-HYDGN0000,telemetered,Available,
+mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00012/cg_data/dcl11/velpt*/*.velpt*.log,CE09OSSM-SBD11-04-VELPTA000,telemetered,Available,
+mi.dataset.driver.metbk_a.dcl.metbk_a_dcl_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00012/cg_data/dcl11/metbk/*.metbk.log,CE09OSSM-SBD11-06-METBKA000,telemetered,Available,
+# mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00012/cg_data/dcl12/syslog/*.syslog.log,CE09OSSM-SBD12-00-DCLENG000,telemetered,Pending,Incorrectly specified driver and dataset
+mi.dataset.driver.hyd_o.dcl.hyd_o_dcl_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00012/cg_data/dcl12/hyd*/*.hyd*.log,CE09OSSM-SBD12-03-HYDGN0000,telemetered,Available,
+mi.dataset.driver.pco2a_a.sample.pco2a_a_sample_driver,/omc_data/whoi/OMC/CE09OSSM/D00012/cg_data/dcl12/pco2a/*.pco2a.log,CE09OSSM-SBD12-04-PCO2AA000,telemetered,Available,
+mi.dataset.driver.wavss_a.dcl.wavss_a_dcl_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00012/cg_data/dcl12/wavss/*.wavss.log,CE09OSSM-SBD12-05-WAVSSA000,telemetered,Available,
