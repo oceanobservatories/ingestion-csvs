@@ -1,7 +1,7 @@
 parser,filename_mask,reference_designator,data_source,status,notes
 mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_recovered_driver,/omc_data/whoi/OMC/CP04OSSM/R00006/cg_data/cpm3/syslog/cpm_status*.txt,CP04OSSM-MFC31-00-CPMENG000,recovered_host,Available,
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CP04OSSM/R00006/cg_data/dcl35/syslog/*.syslog.log,CP04OSSM-MFD35-00-DCLENG000,recovered_host,Available,
-mi.dataset.driver.adcpt_acfgm.dcl.pd8.adcpt_acfgm_dcl_pd8_recovered_driver,/omc_data/whoi/OMC/CP04OSSM/R00006/cg_data/dcl35/adcp/*.adcp.log,CP04OSSM-MFD35-01-ADCPSJ000,recovered_host,Available,
+#mi.dataset.driver.adcpt_acfgm.dcl.pd8.adcpt_acfgm_dcl_pd8_recovered_driver,/omc_data/whoi/OMC/CP04OSSM/R00006/cg_data/dcl35/adcp/*.adcp.log,CP04OSSM-MFD35-01-ADCPSJ000,recovered_host,Available,PD8 data lack needed parameters; not ingested
 mi.dataset.driver.adcps_jln.adcps_jln_driver,/omc_data/whoi/OMC/CP04OSSM/R00006/instruments/dcl35/ADCP_sn*/_RDI*.000,CP04OSSM-MFD35-01-ADCPSJ000,recovered_inst,Available,
 mi.dataset.driver.presf_abc.dcl.presf_abc_dcl_recovered_driver,/omc_data/whoi/OMC/CP04OSSM/R00006/cg_data/dcl35/presf/*.presf.log,CP04OSSM-MFD35-02-PRESFC000,recovered_host,Available,
 mi.dataset.driver.presf_abc.presf_abc_recovered_driver,/omc_data/whoi/OMC/CP04OSSM/R00006/instruments/dcl35/PRESF_sn*/PRESF*.hex,CP04OSSM-MFD35-02-PRESFC000,recovered_inst,Available,
@@ -40,4 +40,3 @@ mi.dataset.driver.metbk_a.dcl.metbk_a_dcl_recovered_driver,/omc_data/whoi/OMC/CP
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CP04OSSM/R00006/cg_data/dcl12/syslog/*.syslog.log,CP04OSSM-SBD12-00-DCLENG000,recovered_host,Available,
 mi.dataset.driver.hyd_o.dcl.hyd_o_dcl_recovered_driver,/omc_data/whoi/OMC/CP04OSSM/R00006/cg_data/dcl12/hyd2/*.hyd2.log,CP04OSSM-SBD12-03-HYDGN0000,recovered_host,Available,
 mi.dataset.driver.pco2a_a.dcl.pco2a_a_dcl_recovered_driver,/omc_data/whoi/OMC/CP04OSSM/R00006/cg_data/dcl12/pco2a/*.pco2a.log,CP04OSSM-SBD12-04-PCO2AA000,recovered_host,Available,
-#mi.dataset.driver.zplsc_c.zplsc_c_recovered_driver,/omc_data/whoi/OMC/CP04OSSM/R00006/instruments/dcl37/ZPLSC*/*/*.01A,CP04OSSM-MFD37-07-ZPLSCC000,recovered_inst,Available,Test parser
