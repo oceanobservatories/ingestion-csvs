@@ -25,7 +25,7 @@ mi.dataset.driver.velpt_ab.velpt_ab_recovered_driver,/omc_data/whoi/OMC/CP03ISSM
 mi.dataset.driver.phsen_abcdef.phsen_abcdef_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl26/PHSEN_snP0087/SAMI*.txt,CP03ISSM-RID26-06-PHSEND000,recovered_inst,Available,
 #mi.dataset.driver.nutnr_b.dcl_full.nutnr_b_dcl_full_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl26/NUTNR_sn268/*nutnr.log,CP03ISSM-RID26-07-NUTNRB000,recovered_host,Not Available,
 mi.dataset.driver.nutnr_b.nutnr_b_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl26/NUTNR_sn268/SCH*.DAT,CP03ISSM-RID26-07-NUTNRB000,recovered_inst,Available,
-#mi.dataset.driver.spkir_abj.dcl.spkir_abj_dcl_recoveredx_driver,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl26/SPKIR_sn270/*.spkir*.log,CP03ISSM-RID26-08-SPKIRB000,recovered_host,Not Available,
+#mi.dataset.driver.spkir_abj.dcl.spkir_abj_dcl_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl26/SPKIR_sn270/*.spkir*.log,CP03ISSM-RID26-08-SPKIRB000,recovered_host,Not Available,
 #mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl27/syslog/*.syslog.log,CP03ISSM-RID27-00-DCLENG000,recovered_host,Not Available,
 #mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl27/OPTAA_ACS187/*.optaa*.log,CP03ISSM-RID27-01-OPTAAD000,recovered_host,Not Available,
 #mi.dataset.driver.flort_dj.dcl.flort_dj_dcl_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl27/FLORT_sn1106/*.flort.log,CP03ISSM-RID27-02-FLORTD000,recovered_host,Not Available,
