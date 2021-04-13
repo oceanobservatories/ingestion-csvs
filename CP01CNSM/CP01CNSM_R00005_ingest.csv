@@ -1,7 +1,7 @@
 parser,filename_mask,reference_designator,data_source,status,notes
 mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/cpm3/syslog/cpm_status.txt,CP01CNSM-MFC31-00-CPMENG000,recovered_host,Available,
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/dcl35/syslog/*.syslog.log,CP01CNSM-MFD35-00-DCLENG000,recovered_host,Available,
-mi.dataset.driver.adcpt_acfgm.dcl.pd8.adcpt_acfgm_dcl_pd8_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/dcl35/adcp/*adcp*.log,CP01CNSM-MFD35-01-ADCPTF000,recovered_host,Available,
+#mi.dataset.driver.adcpt_acfgm.dcl.pd8.adcpt_acfgm_dcl_pd8_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/dcl35/adcp/*adcp*.log,CP01CNSM-MFD35-01-ADCPTF000,recovered_host,Available,PD8 data lack needed parameters; not ingested
 mi.dataset.driver.adcps_jln.adcps_jln_driver,/omc_data/whoi/OMC/CP01CNSM/R00005/instruments/dcl35/ADCP*/*RDI*.000,CP01CNSM-MFD35-01-ADCPTF000,recovered_inst,Available,
 mi.dataset.driver.presf_abc.dcl.presf_abc_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/dcl35/presf/*.presf.log,CP01CNSM-MFD35-02-PRESFB000,recovered_host,Available,
 mi.dataset.driver.presf_abc.presf_abc_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00005/instruments/dcl35/PRESF*/PRESF*.hex,CP01CNSM-MFD35-02-PRESFB000,recovered_inst,Available,
@@ -17,7 +17,6 @@ mi.dataset.driver.ctdbp_cdef.dcl.ctdbp_cdef_dcl_recovered_driver,/omc_data/whoi/
 mi.dataset.driver.ctdbp_cdef.ctdbp_cdef_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00005/instruments/dcl37/CTDBP*/SBE*.hex,CP01CNSM-MFD37-03-CTDBPD000,recovered_inst,Available,
 mi.dataset.driver.dosta_abcdjm.dcl.dosta_abcdjm_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/dcl37/dosta2/*dosta2.log,CP01CNSM-MFD37-04-DOSTAD000,recovered_host,Available,
 mi.dataset.driver.zplsc_c.dcl.zplsc_c_dcl_telemetered_driver,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/dcl37/zplsc/*.zplsc.log,CP01CNSM-MFD37-07-ZPLSCC000,recovered_host,Available,
-mi.dataset.driver.zplsc_c.zplsc_c_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00005/instruments/dcl37/ZPLSC*/*/*.01A,CP01CNSM-MFD37-07-ZPLSCC000,recovered_inst,Available,test parser
 mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/cpm2/syslog/cpm_status.txt,CP01CNSM-RIC21-00-CPMENG000,recovered_host,Available,
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/dcl26/syslog/*.syslog.log,CP01CNSM-RID26-00-DCLENG000,recovered_host,Available,
 mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00005/cg_data/dcl26/velpt1/*.velpt1.log,CP01CNSM-RID26-04-VELPTA000,recovered_host,Available,
