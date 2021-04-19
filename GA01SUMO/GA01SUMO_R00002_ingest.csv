@@ -34,10 +34,6 @@ mi.dataset.driver.ctdmo_ghqr.imodem.ctdmo_ghqr_imodem_recovered_driver,/omc_data
 mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GA01SUMO/R00002/instruments/dcl11/imm/CTDMO_sn37-13556/*.hex,GA01SUMO-RII11-02-CTDMOQ016,recovered_inst,Available,
 mi.dataset.driver.ctdmo_ghqr.imodem.ctdmo_ghqr_imodem_recovered_driver,/omc_data/whoi/OMC/GA01SUMO/R00002/cg_data/dcl11/imm/ctdmo07/ctdmo07*.DAT,GA01SUMO-RII11-02-CTDMOQ017,recovered_host,Available,
 mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GA01SUMO/R00002/instruments/dcl11/imm/CTDMO_sn37-13557/*.hex,GA01SUMO-RII11-02-CTDMOQ017,recovered_inst,Available,
-#mi.dataset.driver.ctdmo_ghqr.imodem.ctdmo_ghqr_imodem_recovered_driver,,GA01SUMO-RII11-02-CTDMOQ031,recovered_host,Not Deployed,Not deployed
-#mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,,GA01SUMO-RII11-02-CTDMOQ031,recovered_inst,Not Deployed,Not deployed
-#mi.dataset.driver.ctdmo_ghqr.imodem.ctdmo_ghqr_imodem_recovered_driver,,GA01SUMO-RII11-02-CTDMOQ033,recovered_host,Not Deployed,Not deployed
-#mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,,GA01SUMO-RII11-02-CTDMOQ033,recovered_inst,Not Deployed,Not deployed
 mi.dataset.driver.ctdmo_ghqr.imodem.ctdmo_ghqr_imodem_recovered_driver,/omc_data/whoi/OMC/GA01SUMO/R00002/cg_data/dcl11/imm/ctdmo08/ctdmo08*.DAT,GA01SUMO-RII11-02-CTDMOR018,recovered_host,Available,
 mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GA01SUMO/R00002/instruments/dcl11/imm/CTDMO_sn37-13629/*.hex,GA01SUMO-RII11-02-CTDMOR018,recovered_inst,Available,
 mi.dataset.driver.ctdmo_ghqr.imodem.ctdmo_ghqr_imodem_recovered_driver,/omc_data/whoi/OMC/GA01SUMO/R00002/cg_data/dcl11/imm/ctdmo09/ctdmo09*.DAT,GA01SUMO-RII11-02-CTDMOR019,recovered_host,Available,
@@ -54,8 +50,8 @@ mi.dataset.driver.pco2w_abc.imodem.pco2w_abc_imodem_recovered_driver,/omc_data/w
 mi.dataset.driver.pco2w_abc.pco2w_abc_recovered_driver,/omc_data/whoi/OMC/GA01SUMO/R00002/instruments/dcl11/imm/PCO2W_snC0121/*.txt,GA01SUMO-RII11-02-PCO2WC051,recovered_inst,Available,
 mi.dataset.driver.pco2w_abc.imodem.pco2w_abc_imodem_recovered_driver,/omc_data/whoi/OMC/GA01SUMO/R00002/cg_data/dcl11/imm/pco2w2/pco2w2*.DAT,GA01SUMO-RII11-02-PCO2WC052,recovered_host,Available,
 mi.dataset.driver.pco2w_abc.pco2w_abc_recovered_driver,/omc_data/whoi/OMC/GA01SUMO/R00002/instruments/dcl11/imm/PCO2W_snC0122/*.txt,GA01SUMO-RII11-02-PCO2WC052,recovered_inst,Available,
-#mi.dataset.driver.pco2w_abc.imodem.pco2w_abc_imodem_recovered_driver,,GA01SUMO-RII11-02-PCO2WC053,recovered_host,Not Deployed,Not deployed
-#mi.dataset.driver.pco2w_abc.pco2w_abc_recovered_driver,,GA01SUMO-RII11-02-PCO2WC053,recovered_inst,Not Deployed,Not deployed
+#mi.dataset.driver.pco2w_abc.imodem.pco2w_abc_imodem_recovered_driver,/omc_data/whoi/OMC/GA01SUMO/R00002/cg_data/dcl11/imm/pco2w3/pco2w3*.DAT,GA01SUMO-RII11-02-PCO2WC053,recovered_host,Not Deployed,Not deployed
+#mi.dataset.driver.pco2w_abc.pco2w_abc_recovered_driver,/omc_data/whoi/OMC/GA01SUMO/R00002/instruments/dcl11/imm/PCO2W_sn*/SAMI_*.txt,GA01SUMO-RII11-02-PCO2WC053,recovered_inst,Not Deployed,Not deployed
 mi.dataset.driver.phsen_abcdef.imodem.phsen_abcdef_imodem_recovered_driver,/omc_data/whoi/OMC/GA01SUMO/R00002/cg_data/dcl11/imm/phsen1/phsen1*.DAT,GA01SUMO-RII11-02-PHSENE041,recovered_host,Available,
 #mi.dataset.driver.phsen_abcdef.phsen_abcdef_recovered_driver,/omc_data/whoi/OMC/GA01SUMO/R00002/instruments/imm/dcl11/PHSEN_snP0172/*.txt,GA01SUMO-RII11-02-PHSENE041,recovered_inst,Not Expected,No recovered data - instrument damaged
 mi.dataset.driver.phsen_abcdef.imodem.phsen_abcdef_imodem_recovered_driver,/omc_data/whoi/OMC/GA01SUMO/R00002/cg_data/dcl11/imm/phsen2/phsen2*.DAT,GA01SUMO-RII11-02-PHSENE042,recovered_host,Available,
