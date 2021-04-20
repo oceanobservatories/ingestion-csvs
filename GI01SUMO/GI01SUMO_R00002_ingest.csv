@@ -34,18 +34,17 @@ mi.dataset.driver.ctdmo_ghqr.imodem.ctdmo_ghqr_imodem_recovered_driver,/omc_data
 mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00002/cg_data/dcl11/imm/CTDMO_sn37-12939/*.hex,GI01SUMO-RII11-02-CTDMOQ016,recovered_inst,Available,
 mi.dataset.driver.ctdmo_ghqr.imodem.ctdmo_ghqr_imodem_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00002/cg_data/dcl11/imm/CTDMO_sn37-12940/*.DAT,GI01SUMO-RII11-02-CTDMOQ017,recovered_host,Available,
 mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00002/cg_data/dcl11/imm/CTDMO_sn37-12940/*.hex,GI01SUMO-RII11-02-CTDMOQ017,recovered_inst,Available,
-#mi.dataset.driver.ctdmo_ghqr.imodem.ctdmo_ghqr_imodem_recovered_driver,,GI01SUMO-RII11-02-CTDMOQ031,recovered_host,Not Deployed,Not deployed
-#mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,,GI01SUMO-RII11-02-CTDMOQ031,recovered_inst,Not Deployed,Not deployed
-#mi.dataset.driver.ctdmo_ghqr.imodem.ctdmo_ghqr_imodem_recovered_driver,,GI01SUMO-RII11-02-CTDMOQ033,recovered_host,Not Deployed,Not deployed
-#mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,,GI01SUMO-RII11-02-CTDMOQ033,recovered_inst,Not Deployed,Not deployed
 mi.dataset.driver.ctdmo_ghqr.imodem.ctdmo_ghqr_imodem_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00002/cg_data/dcl11/imm/CTDMO_sn37-13375/*.DAT,GI01SUMO-RII11-02-CTDMOR018,recovered_host,Available,
 mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00002/cg_data/dcl11/imm/CTDMO_sn37-13375/*.hex,GI01SUMO-RII11-02-CTDMOR018,recovered_inst,Available,
 mi.dataset.driver.ctdmo_ghqr.imodem.ctdmo_ghqr_imodem_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00002/cg_data/dcl11/imm/CTDMO_sn37-13376/*.DAT,GI01SUMO-RII11-02-CTDMOR019,recovered_host,Available,
 mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00002/cg_data/dcl11/imm/CTDMO_sn37-13376/*.hex,GI01SUMO-RII11-02-CTDMOR019,recovered_inst,Available,
 mi.dataset.driver.ctdmo_ghqr.imodem.ctdmo_ghqr_imodem_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00002/cg_data/dcl11/imm/CTDMO_sn37-13377/*.DAT,GI01SUMO-RII11-02-CTDMOR020,recovered_host,Available,
 mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00002/cg_data/dcl11/imm/CTDMO_sn37-13377/*.hex,GI01SUMO-RII11-02-CTDMOR020,recovered_inst,Available,
+mi.dataset.driver.dosta_abcdjm.ctdbp_p.dosta_abcdjm_ctdbp_p_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00002/cg_data/dcl11/imm/CTDBP_sn16-50059/SBE*.hex,GI01SUMO-RII11-02-DOSTAD031,recovered_inst,Available,
 mi.dataset.driver.dosta_abcdjm.ctdbp_p.dcl.dosta_abcdjm_ctdbp_p_dcl_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00002/cg_data/dcl11/imm/CTDBP_sn16-50059/*.DAT,GI01SUMO-RII11-02-DOSTAD031,recovered_host,Available,
+mi.dataset.driver.dosta_abcdjm.ctdbp_p.dosta_abcdjm_ctdbp_p_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00002/cg_data/dcl11/imm/CTDBP_sn16-50073/SBE*.hex,GI01SUMO-RII11-02-DOSTAD032,recovered_inst,Available,
 mi.dataset.driver.dosta_abcdjm.ctdbp_p.dcl.dosta_abcdjm_ctdbp_p_dcl_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00002/cg_data/dcl11/imm/CTDBP_sn16-50073/*.DAT,GI01SUMO-RII11-02-DOSTAD032,recovered_host,Available,
+mi.dataset.driver.dosta_abcdjm.ctdbp_p.dosta_abcdjm_ctdbp_p_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00002/cg_data/dcl11/imm/CTDBP_sn16-50072/SBE*.hex,GI01SUMO-RII11-02-DOSTAD033,recovered_inst,Available,
 mi.dataset.driver.dosta_abcdjm.ctdbp_p.dcl.dosta_abcdjm_ctdbp_p_dcl_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00002/cg_data/dcl11/imm/CTDBP_sn16-50072/*.DAT,GI01SUMO-RII11-02-DOSTAD033,recovered_host,Available,
 mi.dataset.driver.flord_g.ctdbp_p.dcl.flord_g_ctdbp_p_dcl_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00002/cg_data/dcl11/imm/CTDBP_sn16-50059/*.DAT,GI01SUMO-RII11-02-FLORDG031,recovered_host,Available,
 mi.dataset.driver.flord_g.ctdbp_p.dcl.flord_g_ctdbp_p_dcl_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00002/cg_data/dcl11/imm/CTDBP_sn16-50073/*.DAT,GI01SUMO-RII11-02-FLORDG032,recovered_host,Available,
