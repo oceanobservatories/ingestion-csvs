@@ -40,7 +40,7 @@ mi.dataset.driver.hyd_o.dcl.hyd_o_dcl_telemetered_driver,/omc_data/whoi/OMC/GI01
 mi.dataset.driver.dosta_abcdjm.dcl.dosta_abcdjm_dcl_telemetered_driver,/omc_data/whoi/OMC/GI01SUMO/D00004/cg_data/dcl11/dosta1/*dosta*.log,GI01SUMO-SBD11-04-DOSTAD000,telemetered,Available,
 mi.dataset.driver.spkir_abj.dcl.spkir_abj_dcl_telemetered_driver,/omc_data/whoi/OMC/GI01SUMO/D00004/cg_data/dcl11/spkir1/*spkir*.log,GI01SUMO-SBD11-05-SPKIRB000,telemetered,Available,
 mi.dataset.driver.metbk_a.dcl.metbk_a_dcl_telemetered_driver,/omc_data/whoi/OMC/GI01SUMO/D00004/cg_data/dcl11/metbk1/*metbk*.log,GI01SUMO-SBD11-06-METBKA000,telemetered,Available,
-#mi.dataset.driver.nutnr_b.dcl_full.nutnr_b_dcl_full_telemetered_driver,/omc_data/whoi/OMC/GI01SUMO/D00004/cg_data/dcl11/nutnr1/*nutnr*.log,GI01SUMO-SBD11-08-NUTNRB000,telemetered,Available,
+mi.dataset.driver.nutnr_b.dcl_full.nutnr_b_dcl_full_telemetered_driver,/omc_data/whoi/OMC/GI01SUMO/D00004/cg_data/dcl11/nutnr1/*nutnr*.log,GI01SUMO-SBD11-08-NUTNRB000,telemetered,Available,
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/whoi/OMC/GI01SUMO/D00004/cg_data/dcl12/syslog/*syslog*.log,GI01SUMO-SBD12-00-DCLENG000,telemetered,Available,
 mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_telemetered_driver,/omc_data/whoi/OMC/GI01SUMO/D00004/cg_data/dcl12/optaa1/*optaa*.log,GI01SUMO-SBD12-01-OPTAAD000,telemetered,Available,
 mi.dataset.driver.flort_dj.dcl.flort_dj_dcl_telemetered_driver,/omc_data/whoi/OMC/GI01SUMO/D00004/cg_data/dcl12/flort1/*flort*.log,GI01SUMO-SBD12-02-FLORTD000,telemetered,Available,
