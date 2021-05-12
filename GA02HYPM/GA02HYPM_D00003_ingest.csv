@@ -1,6 +1,4 @@
 parser,filename_mask,reference_designator,data_source,status,notes
-#,,GA02HYPM-MPM01-02-ZPLSGA009,telemetered,Pending,No parser
-#,,GA02HYPM-MPM01-02-ZPLSGA010,telemetered,Pending,No parser
 mi.dataset.driver.sio_eng.sio.sio_eng_sio_telemetered_driver,/omc_data/whoi/OMC/GA02HYPM/D00003/node*p1_*.status_*.dat,GA02HYPM-RIM01-00-SIOENG000,telemetered,Available,
 mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_sio_telemetered_driver,/omc_data/whoi/OMC/GA02HYPM/D00003/*ctdmo*.dat,GA02HYPM-RIM01-02-CTDMOG039,telemetered,Available,
 mi.dataset.driver.WFP_ENG.wfp_sio.wfp_eng_wfp_sio_telemetered_driver,/omc_data/whoi/OMC/GA02HYPM/D00003/*.we_wfp_1398821.dat,GA02HYPM-WFP02-00-WFPENG000,telemetered,Available,
