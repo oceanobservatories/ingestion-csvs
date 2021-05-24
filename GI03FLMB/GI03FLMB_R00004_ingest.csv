@@ -30,7 +30,7 @@ mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/O
 #,/omc_data/whoi/OMC/GI03FLMB/R00004/cg_data/MSIOC_sn11690/CTD/CTD*.DAT,GI03FLMB-RIM01-02-CTDMOG068,recovered_host,Available,Data assigned to refdes after ingestion with wildcard refdes.
 mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GI03FLMB/R00004/instruments/CTDMO_sn37-11647/*.hex,GI03FLMB-RIM01-02-CTDMOG068,recovered_inst,Available,
 #,/omc_data/whoi/OMC/GI03FLMB/R00004/cg_data/MSIOC_sn11690/CTD/CTD*.DAT,GI03FLMB-RIM01-02-CTDMOH069,recovered_host,Available,Data assigned to refdes after ingestion with wildcard refdes.
-#mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GI03FLMB/R00004/instruments/CTDMO_sn37-12222/*.hex,GI03FLMB-RIM01-02-CTDMOH069,recovered_inst,Not Expected,could not communicate with instrument
+#mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GI03FLMB/R00004/instruments/CTDMO_sn37-13446/*.hex,GI03FLMB-RIM01-02-CTDMOH069,recovered_inst,Not Expected,could not communicate with instrument
 #,/omc_data/whoi/OMC/GI03FLMB/R00004/cg_data/MSIOC_sn11690/CTD/CTD*.DAT,GI03FLMB-RIM01-02-CTDMOH070,recovered_host,Available,Data assigned to refdes after ingestion with wildcard refdes.
 mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GI03FLMB/R00004/instruments/CTDMO_sn37-11598/*.hex,GI03FLMB-RIM01-02-CTDMOH070,recovered_inst,Available,
 #,/omc_data/whoi/OMC/GI03FLMB/R00004/cg_data/MSIOC_sn11690/CTD/CTD*.DAT,GI03FLMB-RIM01-02-CTDMOH071,recovered_host,Available,Data assigned to refdes after ingestion with wildcard refdes.
