@@ -34,4 +34,3 @@ mi.dataset.driver.metbk_a.dcl.metbk_a_dcl_telemetered_driver,/omc_data/whoi/OMC/
 mi.dataset.driver.hyd_o.dcl.hyd_o_dcl_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00008/cg_data/dcl12/hyd*/*.hyd*.log,CE09OSSM-SBD12-03-HYDGN0000,telemetered,Available,
 mi.dataset.driver.pco2a_a.dcl.pco2a_a_dcl_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00008/cg_data/dcl12/pco2a/*.pco2a.log,CE09OSSM-SBD12-04-PCO2AA000,telemetered,Available,
 mi.dataset.driver.wavss_a.dcl.wavss_a_dcl_telemetered_driver,/omc_data/whoi/OMC/CE09OSSM/D00008/cg_data/dcl12/wavss/*.wavss.log,CE09OSSM-SBD12-05-WAVSSA000,telemetered,Available,
-#,/omc_data/whoi/OMC/CE09OSSM/D00008/,CE09OSSM-MFD37-06-CAMDSA000,telemetered,Not Expected,Instrument set to internally log
