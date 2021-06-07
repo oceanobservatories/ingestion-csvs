@@ -1,11 +1,11 @@
 parser,filename_mask,reference_designator,data_source,status,notes
 mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_telemetered_driver,/omc_data/whoi/OMC/CP03ISSM/D00007/cg_data/cpm3/syslog/cpm_status*.txt,CP03ISSM-MFC31-00-CPMENG000,telemetered,Available,
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/whoi/OMC/CP03ISSM/D00007/cg_data/dcl36/syslog/*.syslog.log,CP03ISSM-MFD35-00-DCLENG000,telemetered,Available,
-mi.dataset.driver.adcpt_acfgm.dcl.pd8.adcpt_acfgm_dcl_pd8_telemetered_driver,/omc_data/whoi/OMC/CP03ISSM/D00007/cg_data/dcl36/adcp/*.adcp.log,CP03ISSM-MFD35-01-ADCPTF000,telemetered,Available,
+#mi.dataset.driver.adcpt_acfgm.dcl.pd8.adcpt_acfgm_dcl_pd8_telemetered_driver,/omc_data/whoi/OMC/CP03ISSM/D00007/cg_data/dcl36/adcp/*.adcp.log,CP03ISSM-MFD35-01-ADCPTF000,telemetered,Available,PD8 data lack needed parameters; not ingested
 mi.dataset.driver.presf_abc.dcl.presf_abc_dcl_telemetered_driver,/omc_data/whoi/OMC/CP03ISSM/D00007/cg_data/dcl36/presf/*.presf.log,CP03ISSM-MFD35-02-PRESFB000,telemetered,Available,
 mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_telemetered_driver,/omc_data/whoi/OMC/CP03ISSM/D00007/cg_data/dcl36/velpt2/*.velpt2.log,CP03ISSM-MFD35-04-VELPTA000,telemetered,Available,
 mi.dataset.driver.pco2w_abc.dcl.pco2w_abc_dcl_telemetered_driver,/omc_data/whoi/OMC/CP03ISSM/D00007/cg_data/dcl36/pco2w/*.pco2w.log,CP03ISSM-MFD35-05-PCO2WB000,telemetered,Available,
-#mi.dataset.driver.phsen_abcdef.dcl.phsen_abcdef_dcl_telemetered_driver,/omc_data/whoi/OMC/CP03ISSM/D00007/cg_data/dcl36/phsen2/*.phsen2.log,CP03ISSM-MFD35-06-PHSEND000,telemetered,Pending,parser error- dim size error
+mi.dataset.driver.phsen_abcdef.dcl.phsen_abcdef_dcl_telemetered_driver,/omc_data/whoi/OMC/CP03ISSM/D00007/cg_data/dcl36/phsen2/*.phsen2.log,CP03ISSM-MFD35-06-PHSEND000,telemetered,Available,
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/whoi/OMC/CP03ISSM/D00007/cg_data/dcl37/syslog/*.syslog.log,CP03ISSM-MFD37-00-DCLENG000,telemetered,Available,
 #mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_telemetered_driver,/omc_data/whoi/OMC/CP03ISSM/D00007/cg_data/dcl37/optaa2/*.optaa2.log,CP03ISSM-MFD37-01-OPTAAD000,telemetered,Not Deployed,
 mi.dataset.driver.ctdbp_cdef.dcl.ctdbp_cdef_dcl_telemetered_driver,/omc_data/whoi/OMC/CP03ISSM/D00007/cg_data/dcl37/ctdbp2/*.ctdbp2.log,CP03ISSM-MFD37-03-CTDBPD000,telemetered,Available,
@@ -14,7 +14,7 @@ mi.dataset.driver.zplsc_c.dcl.zplsc_c_dcl_telemetered_driver,/omc_data/whoi/OMC/
 mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_telemetered_driver,/omc_data/whoi/OMC/CP03ISSM/D00007/cg_data/cpm2/syslog/cpm_status*.txt,CP03ISSM-RIC21-00-CPMENG000,telemetered,Available,
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/whoi/OMC/CP03ISSM/D00007/cg_data/dcl26/syslog/*.syslog.log,CP03ISSM-RID26-00-DCLENG000,telemetered,Available,
 mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_telemetered_driver,/omc_data/whoi/OMC/CP03ISSM/D00007/cg_data/dcl26/velpt1/*.velpt1.log,CP03ISSM-RID26-04-VELPTA000,telemetered,Available,
-#mi.dataset.driver.phsen_abcdef.dcl.phsen_abcdef_dcl_telemetered_driver,/omc_data/whoi/OMC/CP03ISSM/D00007/cg_data/dcl26/phsen1/*.phsen1.log,CP03ISSM-RID26-06-PHSEND000,telemetered,Pending,parser error- dim size error
+mi.dataset.driver.phsen_abcdef.dcl.phsen_abcdef_dcl_telemetered_driver,/omc_data/whoi/OMC/CP03ISSM/D00007/cg_data/dcl26/phsen1/*.phsen1.log,CP03ISSM-RID26-06-PHSEND000,telemetered,Available,
 mi.dataset.driver.nutnr_b.dcl_full.nutnr_b_dcl_full_telemetered_driver,/omc_data/whoi/OMC/CP03ISSM/D00007/cg_data/dcl26/nutnr/*.nutnr.log,CP03ISSM-RID26-07-NUTNRB000,telemetered,Available,
 mi.dataset.driver.spkir_abj.dcl.spkir_abj_dcl_telemetered_driver,/omc_data/whoi/OMC/CP03ISSM/D00007/cg_data/dcl26/spkir/*.spkir.log,CP03ISSM-RID26-08-SPKIRB000,telemetered,Available,
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/whoi/OMC/CP03ISSM/D00007/cg_data/dcl27/syslog/*.syslog.log,CP03ISSM-RID27-00-DCLENG000,telemetered,Available,

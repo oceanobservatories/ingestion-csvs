@@ -17,7 +17,6 @@ mi.dataset.driver.ctdbp_cdef.dcl.ctdbp_cdef_dcl_recovered_driver,/omc_data/whoi/
 mi.dataset.driver.ctdbp_cdef.ctdbp_cdef_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl37/CTDBP*/SBE*.hex,CP01CNSM-MFD37-03-CTDBPD000,recovered_inst,Available,
 mi.dataset.driver.dosta_abcdjm.dcl.dosta_abcdjm_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl37/DOSTA*/*dosta*.log,CP01CNSM-MFD37-04-DOSTAD000,recovered_host,Available,
 #,,CP01CNSM-MFD37-07-ZPLSCC000,recovered_host,Not Deployed,
-#,,CP01CNSM-MFD37-07-ZPLSCC000,recovered_inst,Not Deployed,
 #mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/cpm2/syslog/cpm_status.txt,CP01CNSM-RIC21-00-CPMENG000,recovered_host,Not Expected,Failed. This is a single file updated every minute. There will only be 1 of these files and the data in it will be from the last update.
 #mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl26/syslog/*.syslog.log,CP01CNSM-RID26-00-DCLENG000,recovered_host,Not Expected,Failed
 #mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00001/dcl26/velpt2/*.velpt2.log,CP01CNSM-RID26-04-VELPTA000,recovered_host,Not Expected,Instrument setup incorrectly - data not retrievable

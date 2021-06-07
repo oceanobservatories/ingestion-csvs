@@ -1,5 +1,5 @@
 parser,filename_mask,reference_designator,data_source,status,notes
-mi.dataset.driver.moas.gl.engineering.glider_eng_glider_telemetered_driver,/omc_data/whoi/OMC/GI05MOAS-GL365/D00003/merged-from-glider/gi_*.mrg,GI05MOAS-GL365-00-ENG000000,telemetered,Available,
-mi.dataset.driver.moas.gl.flord_m.flord_m_glider_telemetered_driver,/omc_data/whoi/OMC/GI05MOAS-GL365/D00003/merged-from-glider/gi_*.mrg,GI05MOAS-GL365-01-FLORDM000,telemetered,Available,
-mi.dataset.driver.moas.gl.dosta.dosta_abcdjm_glider_telemetered_driver,/omc_data/whoi/OMC/GI05MOAS-GL365/D00003/merged-from-glider/gi_*.mrg,GI05MOAS-GL365-02-DOSTAM000,telemetered,Available,
-mi.dataset.driver.moas.gl.ctdgv.ctdgv_m_glider_telemetered_driver,/omc_data/whoi/OMC/GI05MOAS-GL365/D00003/merged-from-glider/gi_*.mrg,GI05MOAS-GL365-04-CTDGVM000,telemetered,Available,
+#mi.dataset.driver.moas.gl.engineering.glider_eng_glider_telemetered_driver,/omc_data/whoi/OMC/GI05MOAS-GL365/D00003/merged-from-glider/gi_*.mrg,GI05MOAS-GL365-00-ENG000000,telemetered,Not Expected,Glider recovered after 6 hours due to GPS issue; no data expected
+#mi.dataset.driver.moas.gl.flord_m.flord_m_glider_telemetered_driver,/omc_data/whoi/OMC/GI05MOAS-GL365/D00003/merged-from-glider/gi_*.mrg,GI05MOAS-GL365-01-FLORDM000,telemetered,Not Expected,Glider recovered after 6 hours due to GPS issue; no data expected
+#mi.dataset.driver.moas.gl.dosta.dosta_abcdjm_glider_telemetered_driver,/omc_data/whoi/OMC/GI05MOAS-GL365/D00003/merged-from-glider/gi_*.mrg,GI05MOAS-GL365-02-DOSTAM000,telemetered,Not Expected,Glider recovered after 6 hours due to GPS issue; no data expected
+#mi.dataset.driver.moas.gl.ctdgv.ctdgv_m_glider_telemetered_driver,/omc_data/whoi/OMC/GI05MOAS-GL365/D00003/merged-from-glider/gi_*.mrg,GI05MOAS-GL365-04-CTDGVM000,telemetered,Not Expected,Glider recovered after 6 hours due to GPS issue; no data expected
