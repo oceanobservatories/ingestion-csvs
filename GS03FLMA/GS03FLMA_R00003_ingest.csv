@@ -20,7 +20,7 @@ mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/O
 #,/omc_data/whoi/OMC/GS03FLMA/R00003/cg_data/MSIOC_sn/CTD/*.DAT,GS03FLMA-RIM01-02-CTDMOG047,recovered_host,Available,Data assigned to refdes after ingestion with wildcard refdes
 mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GS03FLMA/R00003/instruments/CTDMO_sn37-12314/*.hex,GS03FLMA-RIM01-02-CTDMOG047,recovered_inst,Available,
 #,/omc_data/whoi/OMC/GS03FLMA/R00003/cg_data/MSIOC_sn/CTD/*.DAT,GS03FLMA-RIM01-02-CTDMOG048,recovered_host,Available,Data assigned to refdes after ingestion with wildcard refdes
-#mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GS03FLMA/R00003/instruments/CTDMO_sn37-12331/*.hex,GS03FLMA-RIM01-02-CTDMOG048,recovered_inst,Available,
+mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GS03FLMA/R00003/instruments/CTDMO_sn37-12331/*.hex,GS03FLMA-RIM01-02-CTDMOG048,recovered_inst,Available,
 #,/omc_data/whoi/OMC/GS03FLMA/R00003/cg_data/MSIOC_sn/CTD/*.DAT,GS03FLMA-RIM01-02-CTDMOH049,recovered_host,Available,Data assigned to refdes after ingestion with wildcard refdes
 mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GS03FLMA/R00003/instruments/CTDMO_sn37-12392/*.hex,GS03FLMA-RIM01-02-CTDMOH049,recovered_inst,Available,
 #,/omc_data/whoi/OMC/GS03FLMA/R00003/cg_data/MSIOC_sn/CTD/*.DAT,GS03FLMA-RIM01-02-CTDMOH050,recovered_host,Available,Data assigned to refdes after ingestion with wildcard refdes
