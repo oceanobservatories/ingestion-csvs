@@ -1,5 +1,5 @@
 parser,filename_mask,reference_designator,data_source,status,notes
-#mi.dataset.driver.sio_eng.sio.sio_eng_sio_telemetered_driver,/omc_data/whoi/OMC/GP03FLMA/D00001/*status_1169001.dat,GP03FLMA-RIM01-00-SIOENG000,telemetered,Not Expected,Data not expected
+#mi.dataset.driver.sio_eng.sio.sio_eng_sio_telemetered_driver,/omc_data/whoi/OMC/GP03FLMA/D00001/*status_1237201.dat,GP03FLMA-RIM01-00-SIOENG000,telemetered,Not Expected,Data not expected
 #mi.dataset.driver.adcps_jln.sio.adcps_jln_sio_telemetered_driver,/omc_data/whoi/OMC/GP03FLMA/D00001/*adcps*.dat,GP03FLMA-RIM01-02-ADCPSL003,telemetered,Not Expected,Data not expected
 #mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_sio_telemetered_driver,/omc_data/whoi/OMC/GP03FLMA/D00001/*ctdmo*.dat,GP03FLMA-RIM01-02-CTDMOG000,telemetered,Not Expected,Wildcard refdes. Data not expected
 #,/omc_data/whoi/OMC/GP03FLMA/D00001/*ctdmo*.dat,GP03FLMA-RIM01-02-CTDMOG040,telemetered,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
@@ -14,7 +14,7 @@ parser,filename_mask,reference_designator,data_source,status,notes
 #,/omc_data/whoi/OMC/GP03FLMA/D00001/*ctdmo*.dat,GP03FLMA-RIM01-02-CTDMOH049,telemetered,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
 #,/omc_data/whoi/OMC/GP03FLMA/D00001/*ctdmo*.dat,GP03FLMA-RIM01-02-CTDMOH050,telemetered,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
 #,/omc_data/whoi/OMC/GP03FLMA/D00001/*ctdmo*.dat,GP03FLMA-RIM01-02-CTDMOH051,telemetered,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
-#mi.dataset.driver.sio_eng.sio.sio_eng_sio_telemetered_driver,/omc_data/whoi/OMC/GP03FLMA/D00001/*status_1237201.dat,GP03FLMA-RIS01-00-SIOENG000,telemetered,Not Expected,Data not expected
+#mi.dataset.driver.sio_eng.sio.sio_eng_sio_telemetered_driver,/omc_data/whoi/OMC/GP03FLMA/D00001/*status_1169001.dat,GP03FLMA-RIS01-00-SIOENG000,telemetered,Not Expected,Data not expected
 #mi.dataset.driver.dosta_abcdjm.sio.dosta_abcdjm_sio_telemetered_driver,/omc_data/whoi/OMC/GP03FLMA/D00001/*dosta*.dat,GP03FLMA-RIS01-03-DOSTAD000,telemetered,Not Expected,Data not expected
 #mi.dataset.driver.phsen_abcdef.sio.phsen_abcdef_sio_telemetered_driver,/omc_data/whoi/OMC/GP03FLMA/D00001/*phsen*.dat,GP03FLMA-RIS01-04-PHSENF000,telemetered,Not Expected,Data not expected
 #mi.dataset.driver.flort_dj.sio.flort_dj_sio_telemetered_driver,/omc_data/whoi/OMC/GP03FLMA/D00001/*flort*.dat,GP03FLMA-RIS01-05-FLORTD000,telemetered,Not Expected,Data not expected
