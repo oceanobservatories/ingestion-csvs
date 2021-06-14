@@ -20,7 +20,7 @@ mi.dataset.driver.dosta_abcdjm.ctdbp.dosta_abcdjm_ctdbp_recovered_driver,/omc_da
 # ,/omc_data/whoi/OMC/CE07SHSM/R00005/cg_data/dcl37/camds/*.png,CE07SHSM-MFD37-06-CAMDSA000,recovered_host,Pending,No parser exists for this data set
 # ,/omc_data/whoi/OMC/CE07SHSM/R00005/instrmts/dcl37/CAMDS_*/*camds*/DCIM/*.png,CE07SHSM-MFD37-06-CAMDSA000,recovered_inst,Pending,No parser exists for this data set
 mi.dataset.driver.zplsc_c.dcl.zplsc_c_dcl_telemetered_driver,/omc_data/whoi/OMC/CE07SHSM/R00005/cg_data/dcl37/zplsc/*.zplsc.log,CE07SHSM-MFD37-07-ZPLSCC000,recovered_host,Available,
-# ,/omc_data/whoi/OMC/CE07SHSM/R00005/instrmts/dcl37/ZPLSC_*/*zplsc*/DATA/*/*.01A,CE07SHSM-MFD37-07-ZPLSCC000,recovered_inst,Pending,System incapable of handling dataset
+# ,/omc_data/whoi/OMC/CE07SHSM/R00005/instrmts/dcl37/ZPLSC_*/DATA/*/*.01A,CE07SHSM-MFD37-07-ZPLSCC000,recovered_inst,Pending,System incapable of handling dataset
 # mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_recovered_driver,/omc_data/whoi/OMC/CE07SHSM/R00005/cg_data/cpm2/syslog/cpm_status.txt,CE07SHSM-RIC21-00-CPMENG000,recovered_host,Pending,Incorrectly specified dataset and parser
 # mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CE07SHSM/R00005/cg_data/dcl26/syslog/*.syslog.log,CE07SHSM-RID26-00-DCLENG000,recovered_host,Pending,Incorrectly specified driver and dataset
 mi.dataset.driver.adcpt_acfgm.dcl.pd0.adcpt_acfgm_dcl_pd0_recovered_driver,/omc_data/whoi/OMC/CE07SHSM/R00005/cg_data/dcl26/adcpt1/*.adcpt*.log,CE07SHSM-RID26-01-ADCPTA000,recovered_host,Available,
