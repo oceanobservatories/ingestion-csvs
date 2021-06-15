@@ -14,15 +14,7 @@ mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_sio_telemetered_driver,/omc_data/who
 #,/omc_data/whoi/OMC/GI03FLMA/D00005/*ctdmo*.dat,GI03FLMA-RIM01-02-CTDMOH049,telemetered,Available,Data assigned to refdes after ingestion with wildcard refdes.
 #,/omc_data/whoi/OMC/GI03FLMA/D00005/*ctdmo*.dat,GI03FLMA-RIM01-02-CTDMOH050,telemetered,Available,Data assigned to refdes after ingestion with wildcard refdes.
 #,/omc_data/whoi/OMC/GI03FLMA/D00005/*ctdmo*.dat,GI03FLMA-RIM01-02-CTDMOH051,telemetered,Available,Data assigned to refdes after ingestion with wildcard refdes.
-#mi.dataset.driver.sio_eng.sio.sio_eng_sio_telemetered_driver,/omc_data/whoi/OMC/GI03FLMA/D00005/*status_xxxxxxx.dat,GI03FLMA-RIS01-00-SIOENG000,telemetered,Not Expected,controller did not establish communications
+#mi.dataset.driver.sio_eng.sio.sio_eng_sio_telemetered_driver,/omc_data/whoi/OMC/GI03FLMA/D00005/*status_1487701.dat,GI03FLMA-RIS01-00-SIOENG000,telemetered,Not Expected,controller did not establish communications
 #mi.dataset.driver.dosta_abcdjm.sio.dosta_abcdjm_sio_telemetered_driver,/omc_data/whoi/OMC/GI03FLMA/D00005/*dosta*.dat,GI03FLMA-RIS01-03-DOSTAD000,telemetered,Not Expected,controller did not establish communications
 #mi.dataset.driver.phsen_abcdef.sio.phsen_abcdef_sio_telemetered_driver,/omc_data/whoi/OMC/GI03FLMA/D00005/*phsen*.dat,GI03FLMA-RIS01-04-PHSENF000,telemetered,Not Expected,controller did not establish communications
 #mi.dataset.driver.flort_dj.sio.flort_dj_sio_telemetered_driver,/omc_data/whoi/OMC/GI03FLMA/D00005/*flort*.dat,GI03FLMA-RIS01-05-FLORTD000,telemetered,Not Expected,controller did not establish communications
-#,,GI03FLMA-RI000-00-CTDMOH000,telemetered,Not Expected,Does not telemeter data
-#,,GI03FLMA-RI000-00-CTDMOH700,telemetered,Not Expected,Does not telemeter data
-#,,GI03FLMA-RI000-00-CTDMOH400,telemetered,Not Expected,Does not telemeter data
-#,,GI03FLMA-RI000-00-CTDMOH100,telemetered,Not Expected,Does not telemeter data
-#,,GI03FLMA-RI000-00-VELPTB000,telemetered,Not Expected,Does not telemeter data
-#,,GI03FLMA-RI000-00-VELPTB700,telemetered,Not Expected,Does not telemeter data
-#,,GI03FLMA-RI000-00-VELPTB400,telemetered,Not Expected,Does not telemeter data
-#,,GI03FLMA-RI000-00-VELPTB100,telemetered,Not Expected,Does not telemeter data
