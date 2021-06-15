@@ -8,7 +8,7 @@ mi.dataset.driver.velpt_ab.velpt_ab_recovered_driver,/omc_data/whoi/OMC/CE02SHSM
 mi.dataset.driver.phsen_abcdef.dcl.phsen_abcdef_dcl_recovered_driver,/omc_data/whoi/OMC/CE02SHSM/R00008/cg_data/dcl26/phsen/*.phsen.log,CE02SHSM-RID26-06-PHSEND000,recovered_host,Available,
 mi.dataset.driver.phsen_abcdef.phsen_abcdef_recovered_driver,/omc_data/whoi/OMC/CE02SHSM/R00008/instrmts/dcl26/PHSEN_*/*phsen*_recovered_*.txt,CE02SHSM-RID26-06-PHSEND000,recovered_inst,Available,
 mi.dataset.driver.suna.suna_dcl_driver,/omc_data/whoi/OMC/CE02SHSM/R00008/cg_data/dcl26/nutnr/*.nutnr.log,CE02SHSM-RID26-07-NUTNRB000,recovered_host,Available,
-mi.dataset.driver.suna.suna_instrument_driver,/omc_data/whoi/OMC/CE02SHSM/R00008/instrmts/dcl26/NUTNR_*/*nutnr*/*SCH*.DAT,CE02SHSM-RID26-07-NUTNRB000,recovered_inst,Available,
+mi.dataset.driver.suna.suna_instrument_driver,/omc_data/whoi/OMC/CE02SHSM/R00008/instrmts/dcl26/NUTNR_*/*nutnr*/D*.CSV,CE02SHSM-RID26-07-NUTNRB000,recovered_inst,Available,
 mi.dataset.driver.spkir_abj.dcl.spkir_abj_dcl_recovered_driver,/omc_data/whoi/OMC/CE02SHSM/R00008/cg_data/dcl26/spkir/*.spkir.log,CE02SHSM-RID26-08-SPKIRB000,recovered_host,Available,
 # mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CE02SHSM/R00008/cg_data/dcl27/syslog/*.syslog.log,CE02SHSM-RID27-00-DCLENG000,recovered_host,Pending,Incorrectly specified driver and dataset
 mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_recovered_driver,/omc_data/whoi/OMC/CE02SHSM/R00008/cg_data/dcl27/optaa/*.optaa.log,CE02SHSM-RID27-01-OPTAAD000,recovered_host,Available,
