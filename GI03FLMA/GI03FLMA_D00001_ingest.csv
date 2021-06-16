@@ -18,11 +18,3 @@ mi.dataset.driver.sio_eng.sio.sio_eng_sio_telemetered_driver,/omc_data/whoi/OMC/
 mi.dataset.driver.dosta_abcdjm.sio.dosta_abcdjm_sio_telemetered_driver,/omc_data/whoi/OMC/GI03FLMA/D00001/*dosta*.dat,GI03FLMA-RIS01-03-DOSTAD000,telemetered,Available,
 mi.dataset.driver.phsen_abcdef.sio.phsen_abcdef_sio_telemetered_driver,/omc_data/whoi/OMC/GI03FLMA/D00001/*phsen*.dat,GI03FLMA-RIS01-04-PHSENF000,telemetered,Available,
 mi.dataset.driver.flort_dj.sio.flort_dj_sio_telemetered_driver,/omc_data/whoi/OMC/GI03FLMA/D00001/*flort*.dat,GI03FLMA-RIS01-05-FLORTD000,telemetered,Available,
-#,,GI03FLMA-RI000-00-CTDMOH000,telemetered,Not Expected,Does not telemeter data
-#,,GI03FLMA-RI000-00-CTDMOH700,telemetered,Not Expected,Does not telemeter data
-#,,GI03FLMA-RI000-00-CTDMOH400,telemetered,Not Expected,Does not telemeter data
-#,,GI03FLMA-RI000-00-CTDMOH100,telemetered,Not Expected,Does not telemeter data
-#,/omc_data/whoi/OMC/GI03FLMA/D00001/*VEL*.DAT,GI03FLMA-RI000-00-VELPTB000,telemetered,Not Expected,Does not telemeter data
-#,/omc_data/whoi/OMC/GI03FLMA/D00001/*VEL*.DAT,GI03FLMA-RI000-00-VELPTB700,telemetered,Not Expected,Does not telemeter data
-#,/omc_data/whoi/OMC/GI03FLMA/D00001/*VEL*.DAT,GI03FLMA-RI000-00-VELPTB400,telemetered,Not Expected,Does not telemeter data
-#,/omc_data/whoi/OMC/GI03FLMA/D00001/*VEL*.DAT,GI03FLMA-RI000-00-VELPTB100,telemetered,Not Expected,Does not telemeter data

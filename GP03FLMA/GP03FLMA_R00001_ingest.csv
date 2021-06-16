@@ -1,6 +1,6 @@
 parser,filename_mask,reference_designator,data_source,status,notes
 mi.dataset.driver.sio_eng.sio.sio_eng_sio_recovered_driver,/omc_data/whoi/OMC/GP03FLMA/R00001/Main_SIOC/status/STA*.DAT,GP03FLMA-RIM01-00-SIOENG000,recovered_host,Available,
-#mi.dataset.driver.adcps_jln.sio.adcps_jln_sio_telemetered_driver,,GP03FLMA-RIM01-02-ADCPSL003,recovered_host,Not Expected,Data not expected
+#mi.dataset.driver.adcps_jln.sio.adcps_jln_sio_telemetered_driver,/omc_data/whoi/OMC/GP03FLMA/R00001/adcp/ADC*.dat,GP03FLMA-RIM01-02-ADCPSL003,recovered_host,Not Expected,Data not expected
 mi.dataset.driver.adcps_jln.adcps_jln_driver,/omc_data/whoi/OMC/GP03FLMA/R00001/adcp/*.000,GP03FLMA-RIM01-02-ADCPSL003,recovered_inst,Available,
 mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_sio_ct_recovered_driver,/omc_data/whoi/OMC/GP03FLMA/R00001/ctdmo/CTD*.DAT,GP03FLMA-RIM01-02-CTDMOG000,recovered_host,Available,Wildcard refdes
 #,/omc_data/whoi/OMC/GP03FLMA/R00001/ctdmo/CTD*.DAT,GP03FLMA-RIM01-02-CTDMOG040,recovered_host,Available,Data assigned to refdes after ingestion with wildcard refdes.

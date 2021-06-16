@@ -4,29 +4,29 @@ mi.dataset.driver.sio_eng.sio.sio_eng_sio_recovered_driver,/omc_data/whoi/OMC/GS
 mi.dataset.driver.adcps_jln.adcps_jln_driver,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/ADCPS_sn21450/*.000,GS03FLMA-RIM01-02-ADCPSL003,recovered_inst,Available,
 #mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_sio_ct_recovered_driver,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/CTDMOs_all/*.DAT,GS03FLMA-RIM01-02-CTDMOG000,recovered_host,Not Expected,Wildcard refdes.  Data not expected
 #,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/CTDMOs_all/*.DAT,GS03FLMA-RIM01-02-CTDMOG040,recovered_host,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
-mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/CTDMO_sn37-12588/*.hex,GS03FLMA-RIM01-02-CTDMOG040,recovered_inst,Available,29
+mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/CTDMO_sn37-12588/*.hex,GS03FLMA-RIM01-02-CTDMOG040,recovered_inst,Available,
 #,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/CTDMOs_all/*.DAT,GS03FLMA-RIM01-02-CTDMOG041,recovered_host,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
-mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/CTDMO_sn37-12330/*.hex,GS03FLMA-RIM01-02-CTDMOG041,recovered_inst,Available,39
+mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/CTDMO_sn37-12330/*.hex,GS03FLMA-RIM01-02-CTDMOG041,recovered_inst,Available,
 #,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/CTDMOs_all/*.DAT,GS03FLMA-RIM01-02-CTDMOG042,recovered_host,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
-mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/CTDMO_sn37-12376/*.hex,GS03FLMA-RIM01-02-CTDMOG042,recovered_inst,Available,59
+mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/CTDMO_sn37-12376/*.hex,GS03FLMA-RIM01-02-CTDMOG042,recovered_inst,Available,
 #,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/CTDMOs_all/*.DAT,GS03FLMA-RIM01-02-CTDMOG043,recovered_host,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
-mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/CTDMO_sn37-12371/*.hex,GS03FLMA-RIM01-02-CTDMOG043,recovered_inst,Available,90
+mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/CTDMO_sn37-12371/*.hex,GS03FLMA-RIM01-02-CTDMOG043,recovered_inst,Available,
 #,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/CTDMOs_all/*.DAT,GS03FLMA-RIM01-02-CTDMOG044,recovered_host,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
-mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/CTDMO_sn37-12374/*.hex,GS03FLMA-RIM01-02-CTDMOG044,recovered_inst,Available,130
+mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/CTDMO_sn37-12374/*.hex,GS03FLMA-RIM01-02-CTDMOG044,recovered_inst,Available,
 #,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/CTDMOs_all/*.DAT,GS03FLMA-RIM01-02-CTDMOG045,recovered_host,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
-mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/CTDMO_sn37-12336/*.hex,GS03FLMA-RIM01-02-CTDMOG045,recovered_inst,Available,180
+mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/CTDMO_sn37-12336/*.hex,GS03FLMA-RIM01-02-CTDMOG045,recovered_inst,Available,
 #,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/CTDMOs_all/*.DAT,GS03FLMA-RIM01-02-CTDMOG046,recovered_host,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
-mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/CTDMO_sn37-12372/*.hex,GS03FLMA-RIM01-02-CTDMOG046,recovered_inst,Available,250
+mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/CTDMO_sn37-12372/*.hex,GS03FLMA-RIM01-02-CTDMOG046,recovered_inst,Available,
 #,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/CTDMOs_all/*.DAT,GS03FLMA-RIM01-02-CTDMOG047,recovered_host,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
-mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/CTDMO_sn37-12333/*.hex,GS03FLMA-RIM01-02-CTDMOG047,recovered_inst,Available,350
+mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/CTDMO_sn37-12333/*.hex,GS03FLMA-RIM01-02-CTDMOG047,recovered_inst,Available,
 #,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/CTDMOs_all/*.DAT,GS03FLMA-RIM01-02-CTDMOG048,recovered_host,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
-mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/CTDMO_sn37-12370/*.hex,GS03FLMA-RIM01-02-CTDMOG048,recovered_inst,Available,501
+mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/CTDMO_sn37-12370/*.hex,GS03FLMA-RIM01-02-CTDMOG048,recovered_inst,Available,
 #,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/CTDMOs_all/*.DAT,GS03FLMA-RIM01-02-CTDMOH049,recovered_host,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
-mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/CTDMO_sn37-12385/*.hex,GS03FLMA-RIM01-02-CTDMOH049,recovered_inst,Available,748
+mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/CTDMO_sn37-12385/*.hex,GS03FLMA-RIM01-02-CTDMOH049,recovered_inst,Available,
 #,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/CTDMOs_all/*.DAT,GS03FLMA-RIM01-02-CTDMOH050,recovered_host,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
-mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/CTDMO_sn37-12391/*.hex,GS03FLMA-RIM01-02-CTDMOH050,recovered_inst,Available,999
+mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/CTDMO_sn37-12391/*.hex,GS03FLMA-RIM01-02-CTDMOH050,recovered_inst,Available,
 #,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/CTDMOs_all/*.DAT,GS03FLMA-RIM01-02-CTDMOH051,recovered_host,Not Expected,Data assigned to refdes after ingestion with wildcard refdes. Data not expected
-mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/CTDMO_sn37-12390/*.hex,GS03FLMA-RIM01-02-CTDMOH051,recovered_inst,Available,1501
+mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/CTDMO_sn37-12390/*.hex,GS03FLMA-RIM01-02-CTDMOH051,recovered_inst,Available,
 mi.dataset.driver.sio_eng.sio.sio_eng_sio_recovered_driver,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/SSIOC/STA*.DAT,GS03FLMA-RIS01-00-SIOENG000,recovered_host,Available,
 mi.dataset.driver.dosta_abcdjm.sio.dosta_abcdjm_sio_recovered_driver,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/DOSTA_sn393/DOS*.DAT,GS03FLMA-RIS01-03-DOSTAD000,recovered_host,Available,
 mi.dataset.driver.phsen_abcdef.phsen_abcdef_recovered_driver,/omc_data/whoi/OMC/GS03FLMA/R00001/cg_data/dcl00/PHSEN_snP0147/SAMI*.txt,GS03FLMA-RIS01-04-PHSENF000,recovered_inst,Available,
