@@ -1,8 +1,8 @@
 parser,filename_mask,reference_designator,data_source,status,notes
-mi.dataset.driver.dbg_pdbg.cspp.dbg_pdbg_cspp_recovered_driver,/omc_data/whoi/OMC/CE07SHSP/R00010/fixed/*PDBG.fix,CE07SHSP-SP001-00-SPPENG000,recovered_cspp,Available,
-mi.dataset.driver.wc_hmr.cspp.wc_hmr_cspp_recovered_driver,/omc_data/whoi/OMC/CE07SHSP/R00010/fixed/*WC_HMR.fix,CE07SHSP-SP001-00-SPPENG000,recovered_cspp,Available,
-mi.dataset.driver.wc_sbe.cspp.wc_sbe_cspp_recovered_driver,/omc_data/whoi/OMC/CE07SHSP/R00010/fixed/*WC_SBE.fix,CE07SHSP-SP001-00-SPPENG000,recovered_cspp,Available,
-mi.dataset.driver.wc_wm.cspp.wc_wm_cspp_recovered_driver,/omc_data/whoi/OMC/CE07SHSP/R00010/fixed/*WC_WM.fix,CE07SHSP-SP001-00-SPPENG000,recovered_cspp,Available,
+mi.dataset.driver.dbg_pdbg.cspp.dbg_pdbg_cspp_recovered_driver,/omc_data/whoi/OMC/CE07SHSP/R00010/extract/*PDBG.txt,CE07SHSP-SP001-00-SPPENG000,recovered_cspp,Available,
+mi.dataset.driver.wc_hmr.cspp.wc_hmr_cspp_recovered_driver,/omc_data/whoi/OMC/CE07SHSP/R00010/extract/*WC_HMR.txt,CE07SHSP-SP001-00-SPPENG000,recovered_cspp,Available,
+mi.dataset.driver.wc_sbe.cspp.wc_sbe_cspp_recovered_driver,/omc_data/whoi/OMC/CE07SHSP/R00010/extract/*WC_SBE.txt,CE07SHSP-SP001-00-SPPENG000,recovered_cspp,Available,
+mi.dataset.driver.wc_wm.cspp.wc_wm_cspp_recovered_driver,/omc_data/whoi/OMC/CE07SHSP/R00010/extract/*WC_WM.txt,CE07SHSP-SP001-00-SPPENG000,recovered_cspp,Available,
 mi.dataset.driver.dosta_abcdjm.cspp.dosta_abcdjm_cspp_recovered_driver,/omc_data/whoi/OMC/CE07SHSP/R00010/fixed/*OPT.fix,CE07SHSP-SP001-01-DOSTAJ000,recovered_cspp,Available,
 mi.dataset.driver.velpt_j.cspp.velpt_j_cspp_recovered_driver,/omc_data/whoi/OMC/CE07SHSP/R00010/fixed/*ADCP.fix,CE07SHSP-SP001-02-VELPTJ000,recovered_cspp,Available,
 mi.dataset.driver.optaa_dj.cspp.optaa_dj_cspp_recovered_driver,/omc_data/whoi/OMC/CE07SHSP/R00010/fixed/*ACS.fix,CE07SHSP-SP001-04-OPTAAJ000,recovered_cspp,Available,
