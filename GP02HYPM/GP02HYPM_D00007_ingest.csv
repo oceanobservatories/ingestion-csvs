@@ -1,6 +1,6 @@
 parser,filename_mask,reference_designator,data_source,status,notes
 mi.dataset.driver.sio_eng.sio.sio_eng_sio_telemetered_driver,/omc_data/whoi/OMC/GP02HYPM/D00007/*status*.dat,GP02HYPM-RIM01-00-SIOENG000,telemetered,Available,
-mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_sio_telemetered_driver,/omc_data/whoi/OMC/GP02HYPM/D00007/*ctdmo*.dat,GP02HYPM-RIM01-02-CTDMOG039,telemetered,Available,
+#mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_sio_telemetered_driver,/omc_data/whoi/OMC/GP02HYPM/D00007/*ctdmo*.dat,GP02HYPM-RIM01-02-CTDMOG039,telemetered,Not Expected,Files contain no valid data
 #mi.dataset.driver.WFP_ENG.wfp_sio.wfp_eng_wfp_sio_telemetered_driver,/omc_data/whoi/OMC/GP02HYPM/D00007/*.we_wfp_1398821.dat,GP02HYPM-WFP02-00-WFPENG000,telemetered,Not Expected,No mule data from upper profiler
 #mi.dataset.driver.flord_l_wfp.sio.flord_l_wfp_sio_telemetered_driver,/omc_data/whoi/OMC/GP02HYPM/D00007/*.we_wfp_1398821.dat,GP02HYPM-WFP02-01-FLORDL000,telemetered,Available,No mule data from upper profiler
 #mi.dataset.driver.dosta_ln.wfp_sio.dosta_ln_wfp_sio_telemetered_driver,/omc_data/whoi/OMC/GP02HYPM/D00007/*.we_wfp_1398821.dat,GP02HYPM-WFP02-03-DOSTAL000,telemetered,Available,No mule data from upper profiler
