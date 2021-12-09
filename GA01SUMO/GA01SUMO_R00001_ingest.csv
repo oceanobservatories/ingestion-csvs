@@ -4,7 +4,7 @@ mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_recovered_driver,/omc_data/whoi/OMC/
 mi.dataset.driver.flort_dj.dcl.flort_dj_dcl_recovered_driver,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl16/FLORT*/*.flort2.log,GA01SUMO-RID16-02-FLORTD000,recovered_host,Available,
 mi.dataset.driver.ctdbp_cdef.dcl.ctdbp_cdef_dcl_recovered_driver,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl16/CTDBP*/*ctdbp.log,GA01SUMO-RID16-03-CTDBPF000,recovered_host,Available,
 mi.dataset.driver.ctdbp_cdef.ctdbp_cdef_recovered_driver,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl16/CTDBP*/*.hex,GA01SUMO-RID16-03-CTDBPF000,recovered_inst,Available,
-#mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_recovered_driver,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl16/VELPT*/*.velpt*.log,GA01SUMO-RID16-04-VELPTA000,recovered_host,Not Expected,Instrument failed prior to deployment
+#mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_recovered_driver,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl16/VELPT*/*.velpt*.log,GA01SUMO-RID16-04-VELPTA000,recovered_host,Not Expected,Instrument not launched properly before deployment
 #mi.dataset.driver.velpt_ab.velpt_ab_recovered_driver,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl16/VELPT_snAQD-12229/*.aqd,GA01SUMO-RID16-04-VELPTA000,recovered_inst,Not Expected,Data not available. Unable to communicate with instrument
 mi.dataset.driver.pco2w_abc.dcl.pco2w_abc_dcl_recovered_driver,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl16/PCO2W_snC0050/*.pco2w.log,GA01SUMO-RID16-05-PCO2WB000,recovered_host,Available,
 mi.dataset.driver.pco2w_abc.pco2w_abc_recovered_driver,/omc_data/whoi/OMC/GA01SUMO/R00001/cg_data/dcl16/PCO2W_snC0050/*.txt,GA01SUMO-RID16-05-PCO2WB000,recovered_inst,Available,

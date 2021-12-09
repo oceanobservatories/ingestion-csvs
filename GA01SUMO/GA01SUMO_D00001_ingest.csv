@@ -3,7 +3,7 @@ mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/who
 mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_telemetered_driver,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl16/optaa2/*.optaa*.log,GA01SUMO-RID16-01-OPTAAD000,telemetered,Available,
 mi.dataset.driver.flort_dj.dcl.flort_dj_dcl_telemetered_driver,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl16/flort2/*.flort*.log,GA01SUMO-RID16-02-FLORTD000,telemetered,Available,
 mi.dataset.driver.ctdbp_cdef.dcl.ctdbp_cdef_dcl_telemetered_driver,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl16/ctdbp/*.ctdbp.log,GA01SUMO-RID16-03-CTDBPF000,telemetered,Available,
-#mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_telemetered_driver,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl16/velpt/*.velpt.log,GA01SUMO-RID16-04-VELPTA000,telemetered,Not Expected,Instrument failed prior to deployment
+#mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_telemetered_driver,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl16/velpt/*.velpt.log,GA01SUMO-RID16-04-VELPTA000,telemetered,Not Expected,Instrument not properly launched before deployment
 mi.dataset.driver.pco2w_abc.dcl.pco2w_abc_dcl_telemetered_driver,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl16/pco2w/*.pco2w.log,GA01SUMO-RID16-05-PCO2WB000,telemetered,Available,
 mi.dataset.driver.dosta_abcdjm.dcl.dosta_abcdjm_dcl_telemetered_driver,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl16/dosta2/*.dosta2.log,GA01SUMO-RID16-06-DOSTAD000,telemetered,Available,
 mi.dataset.driver.nutnr_b.dcl_full.nutnr_b_dcl_full_telemetered_driver,/omc_data/whoi/OMC/GA01SUMO/D00001/cg_data/dcl16/nutnr2/*.nutnr2.log,GA01SUMO-RID16-07-NUTNRB000,telemetered,Available,
