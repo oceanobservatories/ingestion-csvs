@@ -8,7 +8,7 @@ mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_recovered_driver,/omc_data/whoi/OMC/
 #mi.dataset.driver.velpt_ab.velpt_ab_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl16/VELPT*/*.aqd,GI01SUMO-RID16-04-VELPTA000,recovered_inst,Not Expected,Instrument did not log data internally
 mi.dataset.driver.pco2w_abc.dcl.pco2w_abc_dcl_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl16/PCO2W*/*.pco2w.log,GI01SUMO-RID16-05-PCO2WB000,recovered_host,Available,
 #mi.dataset.driver.pco2w_abc.pco2w_abc_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl16/PCO2W*/*.txt,GI01SUMO-RID16-05-PCO2WB000,recovered_inst,Not Expected,no inst data available
-mi.dataset.driver.dosta_abcdjm.ctdbp.dcl.dosta_abcdjm_ctdbp_dcl_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl16/CTDBP*/*ctdbp.log,GI01SUMO-RID16-06-DOSTAD000,recovered_host,Available,
+#mi.dataset.driver.dosta_abcdjm.ctdbp.dcl.dosta_abcdjm_ctdbp_dcl_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl16/CTDBP*/*ctdbp.log,GI01SUMO-RID16-06-DOSTAD000,recovered_host,Not Expected,Dosta was not correctly connected to CTDBP. No data available
 mi.dataset.driver.nutnr_b.dcl_conc.nutnr_b_dcl_conc_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl16/NUTNR*/*.nutnr2.log,GI01SUMO-RID16-07-NUTNRB000,recovered_host,Available,
 #mi.dataset.driver.nutnr_b.nutnr_b_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl16/NUTNR*/*.DAT,GI01SUMO-RID16-07-NUTNRB000,recovered_inst,Not Expected,no inst data available
 mi.dataset.driver.spkir_abj.dcl.spkir_abj_dcl_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00001/cg_data/dcl16/SPKIR*/*.spkir2.log,GI01SUMO-RID16-08-SPKIRB000,recovered_host,Available,
