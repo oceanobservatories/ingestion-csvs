@@ -1,8 +1,0 @@
-parser,filename_mask,reference_designator,data_source,status,notes
-mi.dataset.driver.moas.gl.engineering.glider_eng_glider_telemetered_driver,/omc_data/whoi/OMC/GI05MOAS-PG575/D00001/merged-from-glider/gi_*.mrg,GI05MOAS-PG575-00-ENG000000,telemetered,Available,Short deployment
-mi.dataset.driver.moas.gl.ctdgv.ctdgv_m_glider_telemetered_driver,/omc_data/whoi/OMC/GI05MOAS-PG575/D00001/merged-from-glider/gi_*.mrg,GI05MOAS-PG575-01-CTDGVM000,telemetered,Available,Short deployment
-mi.dataset.driver.moas.gl.dosta.dosta_abcdjm_glider_telemetered_driver,/omc_data/whoi/OMC/GI05MOAS-PG575/D00001/merged-from-glider/gi_*.mrg,GI05MOAS-PG575-02-DOSTAM000,telemetered,Available,Short deployment
-mi.dataset.driver.moas.gl.flort_m.flort_m_glider_telemetered_driver,/omc_data/whoi/OMC/GI05MOAS-PG575/D00001/merged-from-glider/gi_*.mrg,GI05MOAS-PG575-03-FLORTM000,telemetered,Available,Short deployment
-mi.dataset.driver.moas.gl.flort_o.flort_o_glider_telemetered_driver,/omc_data/whoi/OMC/GI05MOAS-PG575/D00001/merged-from-glider/gi_*.mrg,GI05MOAS-PG575-04-FLORTO000,telemetered,Available,Short deployment
-mi.dataset.driver.nutnr_m.glider.nutnr_m_glider_telemetered_driver,/omc_data/whoi/OMC/GI05MOAS-PG575/D00001/merged-from-glider/gi_*.mrg,GI05MOAS-PG575-05-NUTNRM000,telemetered,Available,Short deployment
-mi.dataset.driver.moas.gl.parad.parad_m_glider_telemetered_driver,/omc_data/whoi/OMC/GI05MOAS-PG575/D00001/merged-from-glider/gi_*.mrg,GI05MOAS-PG575-06-PARADM000,telemetered,Available,Short deployment
