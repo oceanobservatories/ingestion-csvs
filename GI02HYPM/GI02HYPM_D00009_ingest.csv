@@ -1,0 +1,8 @@
+parser,filename_mask,reference_designator,data_source,status,notes
+mi.dataset.driver.sio_eng.sio.sio_eng_sio_telemetered_driver,/omc_data/whoi/OMC/GI02HYPM/D00009/node*p1_*.status*.dat,GI02HYPM-RIM01-00-SIOENG000,telemetered,Available,
+mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_sio_telemetered_driver,/omc_data/whoi/OMC/GI02HYPM/D00009/*ctdmo_*.dat,GI02HYPM-RIM01-02-CTDMOG039,telemetered,Available,
+mi.dataset.driver.WFP_ENG.wfp_sio.wfp_eng_wfp_sio_telemetered_driver,/omc_data/whoi/OMC/GI02HYPM/D00009/*.we_wfp_*.dat,GI02HYPM-WFP02-00-WFPENG000,telemetered,Available,
+mi.dataset.driver.flord_l_wfp.sio.flord_l_wfp_sio_telemetered_driver,/omc_data/whoi/OMC/GI02HYPM/D00009/*.we_wfp_*.dat,GI02HYPM-WFP02-01-FLORDL000,telemetered,Available,
+mi.dataset.driver.dosta_ln.wfp_sio.dosta_ln_wfp_sio_telemetered_driver,/omc_data/whoi/OMC/GI02HYPM/D00009/*.we_wfp_*.dat,GI02HYPM-WFP02-03-DOSTAL000,telemetered,Available,
+mi.dataset.driver.ctdpf_ckl.wfp_sio.ctdpf_ckl_wfp_sio_telemetered_driver,/omc_data/whoi/OMC/GI02HYPM/D00009/*.wc_wfp_*.dat,GI02HYPM-WFP02-04-CTDPFL000,telemetered,Available,
+mi.dataset.driver.vel3d_l.wfp.sio.vel3d_l_wfp_sio_telemetered_driver,/omc_data/whoi/OMC/GI02HYPM/D00009/*.wa_wfp_*.dat,GI02HYPM-WFP02-05-VEL3DL000,telemetered,Available,
