@@ -7,7 +7,7 @@ mi.dataset.driver.ctdbp_cdef.ctdbp_cdef_recovered_driver,/omc_data/whoi/OMC/GI01
 mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00008/cg_data/dcl16/velpt/*.velpt.log,GI01SUMO-RID16-04-VELPTA000,recovered_host,Available,
 mi.dataset.driver.velpt_ab.velpt_ab_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00008/instruments/dcl16/VELPT_sn*/*.aqd,GI01SUMO-RID16-04-VELPTA000,recovered_inst,Available,
 mi.dataset.driver.pco2w_abc.dcl.pco2w_abc_dcl_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00008/cg_data/dcl16/pco2w/*.pco2w.log,GI01SUMO-RID16-05-PCO2WB000,recovered_host,Available,
-#mi.dataset.driver.pco2w_abc.pco2w_abc_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00008/instruments/dcl16/PCO2W_sn*/*.txt,GI01SUMO-RID16-05-PCO2WB000,recovered_inst,Not Expected,Data could not be downloaded from instrument 
+mi.dataset.driver.pco2w_abc.pco2w_abc_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00008/instruments/dcl16/PCO2W_sn*/*.txt,GI01SUMO-RID16-05-PCO2WB000,recovered_inst,Available,
 mi.dataset.driver.dosta_abcdjm.dcl.dosta_abcdjm_dcl_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00008/cg_data/dcl16/dosta2/*dosta2.log,GI01SUMO-RID16-06-DOSTAD000,recovered_host,Available,
 mi.dataset.driver.suna.suna_dcl_driver,/omc_data/whoi/OMC/GI01SUMO/R00008/cg_data/dcl16/nutnr2/*.nutnr2.log,GI01SUMO-RID16-07-NUTNRB000,recovered_host,Available,
 mi.dataset.driver.suna.suna_instrument_driver,/omc_data/whoi/OMC/GI01SUMO/R00008/instruments/dcl16/NUTNR_sn*/DAT/*.CSV,GI01SUMO-RID16-07-NUTNRB000,recovered_inst,Available,
