@@ -4,7 +4,7 @@ parser,filename_mask,reference_designator,data_source,status,notes
 #mi.dataset.driver.adcpt_acfgm.dcl.pd8.adcpt_acfgm_dcl_pd8_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00002/cg_data/dcl35/ADCP_sn18594/*adcp.log,CP03ISSM-MFD35-01-ADCPTF000,recovered_host,Available,PD8 data lack needed parameters; not ingested
 mi.dataset.driver.adcps_jln.adcps_jln_driver,/omc_data/whoi/OMC/CP03ISSM/R00002/cg_data/dcl35/ADCP_sn18594/_RDI*.000,CP03ISSM-MFD35-01-ADCPTF000,recovered_inst,Available,
 mi.dataset.driver.presf_abc.dcl.presf_abc_dcl_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00002/cg_data/dcl35/PRESF_sn1329/*presf.log,CP03ISSM-MFD35-02-PRESFB000,recovered_host,Available,
-mi.dataset.driver.presf_abc.presf_abc_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00002/cg_data/dcl35/PRESF_sn1329/PRESF*.hex,CP03ISSM-MFD35-02-PRESFB000,recovered_inst,Available,
+mi.dataset.driver.presf_abc.presf_abc_wave_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00002/cg_data/dcl35/PRESF_sn1329/PRESF*.hex,CP03ISSM-MFD35-02-PRESFB000,recovered_inst,Available,
 mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00002/cg_data/dcl35/VELPT_sn12234/*velpt2.log,CP03ISSM-MFD35-04-VELPTA000,recovered_host,Available,
 mi.dataset.driver.velpt_ab.velpt_ab_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00002/cg_data/dcl35/VELPT_sn12234/*.aqd,CP03ISSM-MFD35-04-VELPTA000,recovered_inst,Available,
 mi.dataset.driver.pco2w_abc.dcl.pco2w_abc_dcl_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00002/cg_data/dcl35/PCO2W_snC0098/*pco2w.log,CP03ISSM-MFD35-05-PCO2WB000,recovered_host,Available,
