@@ -39,7 +39,7 @@ mi.dataset.driver.pco2w_abc.dcl.pco2w_abc_dcl_recovered_driver,/omc_data/whoi/OM
 mi.dataset.driver.phsen_abcdef.dcl.phsen_abcdef_dcl_recovered_driver,/omc_data/whoi/OMC/CE01ISSM/R00015/cg_data/dcl16/phsen*/*phsen*.log,CE01ISSM-RID16-06-PHSEND000,recovered_host,Available,
 # mi.dataset.driver.phsen_abcdef.phsen_abcdef_recovered_driver,/omc_data/whoi/OMC/CE01ISSM/R00015/instrmts/dcl16/PHSEN*/*phsen*recovered*.txt,CE01ISSM-RID16-06-PHSEND000,recovered_inst,Not Expected,Battery failed at the beginning of the deployment
 mi.dataset.driver.suna.suna_dcl_driver,/omc_data/whoi/OMC/CE01ISSM/R00015/cg_data/dcl16/nutnr*/*nutnr*.log,CE01ISSM-RID16-07-NUTNRB000,recovered_host,Available,
-# mi.dataset.driver.suna.suna_instrument_driver,/omc_data/whoi/OMC/CE01ISSM/R00015/instrmts/dcl16/NUTNR*/*nutnr*/D*.CSV,CE01ISSM-RID16-07-NUTNRB000,recovered_inst,Pending,Waiting to receive files from vendor
+mi.dataset.driver.suna.suna_instrument_driver,/omc_data/whoi/OMC/CE01ISSM/R00015/instrmts/dcl16/NUTNR*/*nutnr*/D*.CSV,CE01ISSM-RID16-07-NUTNRB000,recovered_inst,Available,
 mi.dataset.driver.spkir_abj.dcl.spkir_abj_dcl_recovered_driver,/omc_data/whoi/OMC/CE01ISSM/R00015/cg_data/dcl16/spkir*/*spkir*.log,CE01ISSM-RID16-08-SPKIRB000,recovered_host,Available,
 # mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_recovered_driver,/omc_data/whoi/OMC/CE01ISSM/R00015/cg_data/irid2shore/cpm_status*.txt,CE01ISSM-SBC11-00-CPMENG000,recovered_host,Pending,Incorrectly specified driver and dataset
 # mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CE01ISSM/R00015/cg_data/dcl17/syslog*/*syslog*.log,CE01ISSM-SBD17-00-DCLENG000,recovered_host,Pending,Incorrectly specified driver and dataset
