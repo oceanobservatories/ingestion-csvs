@@ -1,10 +1,11 @@
 parser,filename_mask,reference_designator,data_source,status,notes
 # mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_recovered_driver,/omc_data/whoi/OMC/CE06ISSM/R00001/cg_data/cpm3/syslog*/cpm_status.txt,CE06ISSM-MFC31-00-CPMENG000,recovered_host,Pending,Incorrectly specified driver and dataset
 # mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CE06ISSM/R00001/cg_data/dcl35/syslog*/*syslog*.log,CE06ISSM-MFD35-00-DCLENG000,recovered_host,Pending,Incorrectly specified driver and dataset
-# mi.dataset.driver.vel3d_cd.dcl.vel3d_cd_dcl_recovered_driver,/omc_data/whoi/OMC/CE06ISSM/R00001/cg_data/dcl35/vel3d*/*vel3d*.log,CE06ISSM-MFD35-01-VEL3DD000,recovered_host,Pending,Error in sensor clock blocking ingests
+mi.dataset.driver.vel3d_cd.dcl.vel3d_cd_dcl_recovered_driver,/omc_data/whoi/OMC/CE06ISSM/R00001/cg_data/dcl35/vel3d*/*vel3d*.log,CE06ISSM-MFD35-01-VEL3DD000,recovered_host,Available,
 # ,/omc_data/whoi/OMC/CE06ISSM/R00001/instrmts/dcl35/VEL3D_*/*vel3d*.VEC,CE06ISSM-MFD35-01-VEL3DD000,recovered_inst,Pending,No parser exists for this dataset
 mi.dataset.driver.presf_abc.dcl.presf_abc_dcl_recovered_driver,/omc_data/whoi/OMC/CE06ISSM/R00001/cg_data/dcl35/presf*/*presf*.log,CE06ISSM-MFD35-02-PRESFA000,recovered_host,Available,
 mi.dataset.driver.presf_abc.presf_abc_recovered_driver,/omc_data/whoi/OMC/CE06ISSM/R00001/instrmts/dcl35/PRESF_*/*.hex,CE06ISSM-MFD35-02-PRESFA000,recovered_inst,Available,
+mi.dataset.driver.presf_abc.presf_abc_wave_recovered_driver,/omc_data/whoi/OMC/CE06ISSM/R00001/instrmts/dcl36/PRESF*/*presf*.hex,CE06ISSM-MFD35-02-PRESFA000,recovered_inst,Available,
 mi.dataset.driver.adcpt_acfgm.dcl.pd0.adcpt_acfgm_dcl_pd0_recovered_driver,/omc_data/whoi/OMC/CE06ISSM/R00001/cg_data/dcl35/adcpt*/*adcpt*.log,CE06ISSM-MFD35-04-ADCPTM000,recovered_host,Available,
 mi.dataset.driver.adcpt_m.adcpt_m_dspec_recovered_driver,/omc_data/whoi/OMC/CE06ISSM/R00001/instrmts/dcl35/ADCPT*/*adcpt*/DSpec*.txt,CE06ISSM-MFD35-04-ADCPTM000,recovered_inst,Available,
 mi.dataset.driver.adcpt_m.adcpt_m_fcoeff_recovered_driver,/omc_data/whoi/OMC/CE06ISSM/R00001/instrmts/dcl35/ADCPT*/*adcpt*/FCoeff*.txt,CE06ISSM-MFD35-04-ADCPTM000,recovered_inst,Available,
