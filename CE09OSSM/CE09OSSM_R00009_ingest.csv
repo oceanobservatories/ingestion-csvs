@@ -1,7 +1,7 @@
 parser,filename_mask,reference_designator,data_source,status,notes
 # mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_recovered_driver,/omc_data/whoi/OMC/CE09OSSM/R00009/cg_data/cpm3/syslog/cpm_status.txt,CE09OSSM-MFC31-00-CPMENG000,recovered_host,Pending,Incorrectly specified driver and dataset
 # mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CE09OSSM/R00009/cg_data/dcl36/syslog/*.syslog.log,CE09OSSM-MFD35-00-DCLENG000,recovered_host,Pending,Incorrectly specified driver and dataset
-# mi.dataset.driver.vel3d_cd.dcl.vel3d_cd_dcl_recovered_driver,/omc_data/whoi/OMC/CE09OSSM/R00009/cg_data/dcl36/vel3d/*.vel3d.log,CE09OSSM-MFD35-01-VEL3DD000,recovered_host,Pending,Error in sensor clock blocking ingests
+mi.dataset.driver.vel3d_cd.dcl.vel3d_cd_dcl_recovered_driver,/omc_data/whoi/OMC/CE09OSSM/R00009/cg_data/dcl36/vel3d/*.vel3d.log,CE09OSSM-MFD35-01-VEL3DD000,recovered_host,Available,
 # ,/omc_data/whoi/OMC/CE09OSSM/R00009/instrmts/dcl36/VEL3D*/*.VEC,CE09OSSM-MFD35-01-VEL3DD000,recovered_inst,Pending,No parser exists for this data set
 mi.dataset.driver.presf_abc.dcl.presf_abc_dcl_recovered_driver,/omc_data/whoi/OMC/CE09OSSM/R00009/cg_data/dcl36/presf/*.presf.log,CE09OSSM-MFD35-02-PRESFC000,recovered_host,Available,
 mi.dataset.driver.presf_abc.presf_abc_recovered_driver,/omc_data/whoi/OMC/CE09OSSM/R00009/instrmts/dcl36/PRESF*/*presf*.hex,CE09OSSM-MFD35-02-PRESFC000,recovered_inst,Available,
