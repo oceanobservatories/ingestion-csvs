@@ -1,10 +1,11 @@
 parser,filename_mask,reference_designator,data_source,status,notes
 # mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_recovered_driver,/omc_data/whoi/OMC/CE07SHSM/R00005/cg_data/cpm3/syslog/cpm_status.txt,CE07SHSM-MFC31-00-CPMENG000,recovered_host,Pending,Incorrectly specified dataset and parser
 # mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CE07SHSM/R00005/cg_data/dcl36/syslog/*.syslog.log,CE07SHSM-MFD35-00-DCLENG000,recovered_host,Pending,Incorrectly specified driver and dataset
-# mi.dataset.driver.vel3d_cd.dcl.vel3d_cd_dcl_recovered_driver,/omc_data/whoi/OMC/CE07SHSM/R00005/cg_data/dcl36/vel3d/*.vel3d.log,CE07SHSM-MFD35-01-VEL3DD000,recovered_host,Pending,Error in sensor clock blocking ingests
+mi.dataset.driver.vel3d_cd.dcl.vel3d_cd_dcl_recovered_driver,/omc_data/whoi/OMC/CE07SHSM/R00005/cg_data/dcl36/vel3d/*.vel3d.log,CE07SHSM-MFD35-01-VEL3DD000,recovered_host,Available,
 # ,/omc_data/whoi/OMC/CE07SHSM/R00005/instrmts/dcl36/VEL3D_*/*vel3d*.VEC,CE07SHSM-MFD35-01-VEL3DD000,recovered_inst,Pending,No parser exists for this dataset
 mi.dataset.driver.presf_abc.dcl.presf_abc_dcl_recovered_driver,/omc_data/whoi/OMC/CE07SHSM/R00005/cg_data/dcl36/presf/*.presf.log,CE07SHSM-MFD35-02-PRESFB000,recovered_host,Available,
 mi.dataset.driver.presf_abc.presf_abc_recovered_driver,/omc_data/whoi/OMC/CE07SHSM/R00005/instrmts/dcl36/PRESF_*/*presf*.hex,CE07SHSM-MFD35-02-PRESFB000,recovered_inst,Available,
+mi.dataset.driver.presf_abc.presf_abc_wave_recovered_driver,/omc_data/whoi/OMC/CE07SHSM/R00005/instrmts/dcl36/PRESF*/*presf*.hex,CE07SHSM-MFD35-02-PRESFB000,recovered_inst,Available,
 mi.dataset.driver.adcpt_acfgm.dcl.pd0.adcpt_acfgm_dcl_pd0_recovered_driver,/omc_data/whoi/OMC/CE07SHSM/R00005/cg_data/dcl36/adcpt2/*.adcpt*.log,CE07SHSM-MFD35-04-ADCPTC000,recovered_host,Available,
 mi.dataset.driver.adcps_jln.adcps_jln_driver,/omc_data/whoi/OMC/CE07SHSM/R00005/instrmts/dcl36/ADCPT_*/*.000,CE07SHSM-MFD35-04-ADCPTC000,recovered_inst,Available,
 mi.dataset.driver.pco2w_abc.dcl.pco2w_abc_dcl_recovered_driver,/omc_data/whoi/OMC/CE07SHSM/R00005/cg_data/dcl36/pco2w/*.pco2w.log,CE07SHSM-MFD35-05-PCO2WB000,recovered_host,Available,
