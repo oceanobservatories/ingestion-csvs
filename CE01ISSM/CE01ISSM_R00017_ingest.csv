@@ -16,7 +16,7 @@ mi.dataset.driver.pco2w_abc.dcl.pco2w_abc_dcl_recovered_driver,/omc_data/whoi/OM
 mi.dataset.driver.phsen_abcdef.dcl.phsen_abcdef_dcl_recovered_driver,/omc_data/whoi/OMC/CE01ISSM/R00017/cg_data/dcl36/phsen*/*phsen*.log,CE01ISSM-MFD35-06-PHSEND000,recovered_host,Available,
 mi.dataset.driver.phsen_abcdef.phsen_abcdef_recovered_driver,/omc_data/whoi/OMC/CE01ISSM/R00017/instrmts/dcl36/PHSEN*/*phsen*recovered*.txt,CE01ISSM-MFD35-06-PHSEND000,recovered_inst,Available,
 # mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CE01ISSM/R00017/cg_data/dcl37/syslog*/*syslog*.log,CE01ISSM-MFD37-00-DCLENG000,recovered_host,Pending,Incorrectly specified driver and dataset
-mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_recovered_driver,/omc_data/whoi/OMC/CE01ISSM/R00017/cg_data/dcl37/optaa*/*optaa*.log,CE01ISSM-MFD37-01-OPTAAD000,recovered_host,Available,
+# mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_recovered_driver,/omc_data/whoi/OMC/CE01ISSM/R00017/cg_data/dcl37/optaa*/*optaa*.log,CE01ISSM-MFD37-01-OPTAAD000,recovered_host,Not Deployed,
 mi.dataset.driver.ctdbp_cdef.dcl.ctdbp_cdef_dcl_recovered_driver,/omc_data/whoi/OMC/CE01ISSM/R00017/cg_data/dcl37/ctdbp*/*ctdbp*.log,CE01ISSM-MFD37-03-CTDBPC000,recovered_host,Available,
 mi.dataset.driver.ctdbp_cdef.ctdbp_cdef_recovered_driver,/omc_data/whoi/OMC/CE01ISSM/R00017/instrmts/dcl37/CTDBP*/*ctdbp*.hex,CE01ISSM-MFD37-03-CTDBPC000,recovered_inst,Available,
 mi.dataset.driver.dosta_abcdjm.ctdbp.dcl.dosta_abcdjm_ctdbp_dcl_recovered_driver,/omc_data/whoi/OMC/CE01ISSM/R00017/cg_data/dcl37/ctdbp*/*ctdbp*.log,CE01ISSM-MFD37-03-DOSTAD000,recovered_host,Available,
@@ -35,9 +35,9 @@ mi.dataset.driver.dosta_abcdjm.ctdbp.dosta_abcdjm_ctdbp_recovered_driver,/omc_da
 mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_recovered_driver,/omc_data/whoi/OMC/CE01ISSM/R00017/cg_data/dcl16/velpt*/*velpt*.log,CE01ISSM-RID16-04-VELPTA000,recovered_host,Available,
 mi.dataset.driver.velpt_ab.velpt_ab_recovered_driver,/omc_data/whoi/OMC/CE01ISSM/R00017/instrmts/dcl16/VELPT*/*velpt*.aqd,CE01ISSM-RID16-04-VELPTA000,recovered_inst,Available,
 mi.dataset.driver.pco2w_abc.dcl.pco2w_abc_dcl_recovered_driver,/omc_data/whoi/OMC/CE01ISSM/R00017/cg_data/dcl16/pco2w*/*pco2w*.log,CE01ISSM-RID16-05-PCO2WB000,recovered_host,Available,
-# mi.dataset.driver.pco2w_abc.pco2w_abc_recovered_driver,/omc_data/whoi/OMC/CE01ISSM/R00017/instrmts/dcl16/PCO2W*/*pco2w*recovered*.txt,CE01ISSM-RID16-05-PCO2WB000,recovered_inst,Not Expected,Instrument stopped logging internally shortly after deployment started
+mi.dataset.driver.pco2w_abc.pco2w_abc_recovered_driver,/omc_data/whoi/OMC/CE01ISSM/R00017/instrmts/dcl16/PCO2W*/*pco2w*recovered*.txt,CE01ISSM-RID16-05-PCO2WB000,recovered_inst,Available,
 mi.dataset.driver.phsen_abcdef.dcl.phsen_abcdef_dcl_recovered_driver,/omc_data/whoi/OMC/CE01ISSM/R00017/cg_data/dcl16/phsen*/*phsen*.log,CE01ISSM-RID16-06-PHSEND000,recovered_host,Available,
-# mi.dataset.driver.phsen_abcdef.phsen_abcdef_recovered_driver,/omc_data/whoi/OMC/CE01ISSM/R00017/instrmts/dcl16/PHSEN*/*phsen*recovered*.txt,CE01ISSM-RID16-06-PHSEND000,recovered_inst,Not Expected,Instrument stopped logging internally shortly after deployment started
+mi.dataset.driver.phsen_abcdef.phsen_abcdef_recovered_driver,/omc_data/whoi/OMC/CE01ISSM/R00017/instrmts/dcl16/PHSEN*/*phsen*recovered*.txt,CE01ISSM-RID16-06-PHSEND000,recovered_inst,Available,
 mi.dataset.driver.suna.suna_dcl_driver,/omc_data/whoi/OMC/CE01ISSM/R00017/cg_data/dcl16/nutnr*/*nutnr*.log,CE01ISSM-RID16-07-NUTNRB000,recovered_host,Available,
 mi.dataset.driver.suna.suna_instrument_driver,/omc_data/whoi/OMC/CE01ISSM/R00017/instrmts/dcl16/NUTNR*/*nutnr*/D*.CSV,CE01ISSM-RID16-07-NUTNRB000,recovered_inst,Available,
 mi.dataset.driver.spkir_abj.dcl.spkir_abj_dcl_recovered_driver,/omc_data/whoi/OMC/CE01ISSM/R00017/cg_data/dcl16/spkir*/*spkir*.log,CE01ISSM-RID16-08-SPKIRB000,recovered_host,Available,
