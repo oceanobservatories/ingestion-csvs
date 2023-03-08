@@ -43,4 +43,4 @@ mi.dataset.driver.pco2a_a.sample.pco2a_a_sample_recovered_driver,/omc_data/whoi/
 mi.dataset.driver.wavss_a.dcl.wavss_a_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00016/cg_data/dcl12/wavss/*.wavss.log,CP01CNSM-SBD12-05-WAVSSA000,recovered_host,Available,
 mi.dataset.driver.metbk_a.dcl.metbk_a_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00016/cg_data/dcl12/metbk2/*metbk2.log,CP01CNSM-SBD12-06-METBKA000,recovered_host,Available,
 mi.dataset.driver.fdchp_a.dcl.fdchp_a_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00016/cg_data/dcl12/fdchp/*fdchp.log,CP01CNSM-SBD12-08-FDCHPA000,recovered_host,Available,
-#mi.dataset.driver.fdchp_a.fdchp_a_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00016/instruments/dcl12/FDCHP_sn*/D20*/fdchp*.dat,CP01CNSM-SBD12-08-FDCHPA000,recovered_inst,Expected,data not downloaded yet
+mi.dataset.driver.fdchp_a.fdchp_a_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00016/instruments/dcl12/FDCHP_sn*/D20*/fdchp*.dat,CP01CNSM-SBD12-08-FDCHPA000,recovered_inst,Available,
