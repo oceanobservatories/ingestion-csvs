@@ -28,7 +28,7 @@ mi.dataset.driver.adcps_jln.adcps_jln_driver,/omc_data/whoi/OMC/CE09OSSM/R00015/
 mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_recovered_driver,/omc_data/whoi/OMC/CE09OSSM/R00015/cg_data/dcl26/velpt2/*.velpt2.log,CE09OSSM-RID26-04-VELPTA000,recovered_host,Available,
 mi.dataset.driver.velpt_ab.velpt_ab_recovered_driver,/omc_data/whoi/OMC/CE09OSSM/R00015/instrmts/dcl26/VELPT*/*velpt*.aqd,CE09OSSM-RID26-04-VELPTA000,recovered_inst,Available,
 mi.dataset.driver.phsen_abcdef.dcl.phsen_abcdef_dcl_recovered_driver,/omc_data/whoi/OMC/CE09OSSM/R00015/cg_data/dcl26/phsen*/*.phsen*.log,CE09OSSM-RID26-06-PHSEND000,recovered_host,Available,
-mi.dataset.driver.phsen_abcdef.phsen_abcdef_recovered_driver,/omc_data/whoi/OMC/CE09OSSM/R00015/instrmts/dcl26/PHSEN*/*phsen*recovered*.txt,CE09OSSM-RID26-06-PHSEND000,recovered_inst,Available,
+# mi.dataset.driver.phsen_abcdef.phsen_abcdef_recovered_driver,/omc_data/whoi/OMC/CE09OSSM/R00015/instrmts/dcl26/PHSEN*/*phsen*recovered*.txt,CE09OSSM-RID26-06-PHSEND000,recovered_inst,Not Expected,Instrument stopped logging internally shortly after deployment started
 mi.dataset.driver.suna.suna_dcl_driver,/omc_data/whoi/OMC/CE09OSSM/R00015/cg_data/dcl26/nutnr*/*.nutnr.log,CE09OSSM-RID26-07-NUTNRB000,recovered_host,Available,
 mi.dataset.driver.suna.suna_instrument_driver,/omc_data/whoi/OMC/CE09OSSM/R00015/instrmts/dcl26/NUTNR*/*nutnr*/D*.CSV,CE09OSSM-RID26-07-NUTNRB000,recovered_inst,Available,
 mi.dataset.driver.spkir_abj.dcl.spkir_abj_dcl_recovered_driver,/omc_data/whoi/OMC/CE09OSSM/R00015/cg_data/dcl26/spkir*/*.spkir.log,CE09OSSM-RID26-08-SPKIRB000,recovered_host,Available,
