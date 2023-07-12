@@ -1,6 +1,6 @@
 parser,filename_mask,reference_designator,data_source,status,notes
-#,/omc_data/whoi/OMC/GP02HYPM/R00007/instruments/ZPLSG_sn55068/DATA/20*/*.01A,GP02HYPM-MPM01-02-ZPLSGA009,recovered_inst,Pending,no parser
-#,/omc_data/whoi/OMC/GP02HYPM/R00007/instruments/ZPLSG_sn55107/DATA/20*/*.01A,GP02HYPM-MPM01-02-ZPLSGA010,recovered_inst,Pending,no parser
+mi.dataset.driver.zplsc_c.zplsc_echogram_uploader,/omc_data/whoi/OMC/GP02HYPM/R00007/instruments/ZPLSG_sn55068/processed/*/*Averaged.nc,GP02HYPM-MPM01-02-ZPLSGA009,recovered_inst,Available,
+mi.dataset.driver.zplsc_c.zplsc_echogram_uploader,/omc_data/whoi/OMC/GP02HYPM/R00007/instruments/ZPLSG_sn55107/processed/*/*Averaged.nc,GP02HYPM-MPM01-02-ZPLSGA010,recovered_inst,Available,
 mi.dataset.driver.sio_eng.sio.sio_eng_sio_recovered_driver,/omc_data/whoi/OMC/GP02HYPM/R00007/cg_data/MSIOC_sn*/STATUS/STA*.DA?,GP02HYPM-RIM01-00-SIOENG000,recovered_host,Available,
 mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_sio_ct_recovered_driver,/omc_data/whoi/OMC/GP02HYPM/R00007/cg_data/MSIOC_sn*/CTD/*.DAT,GP02HYPM-RIM01-02-CTDMOG039,recovered_host,Available,
 mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GP02HYPM/R00007/instruments/CTDMO_sn*/SBE37*.hex,GP02HYPM-RIM01-02-CTDMOG039,recovered_inst,Available,
