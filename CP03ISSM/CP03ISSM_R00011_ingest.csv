@@ -16,6 +16,7 @@ mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_recovered_driver,/omc_data/whoi/OMC/
 mi.dataset.driver.ctdbp_cdef.dcl.ctdbp_cdef_dcl_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00011/cg_data/dcl37/ctdbp2/*ctdbp2.log,CP03ISSM-MFD37-03-CTDBPD000,recovered_host,Available,
 mi.dataset.driver.ctdbp_cdef.ctdbp_cdef_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00011/instruments/dcl37/CTDBP*/SBE*.hex,CP03ISSM-MFD37-03-CTDBPD000,recovered_inst,Available,
 mi.dataset.driver.dosta_abcdjm.dcl.dosta_abcdjm_dcl_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00011/cg_data/dcl37/dosta2/*dosta2.log,CP03ISSM-MFD37-04-DOSTAD000,recovered_host,Available,
+mi.dataset.driver.zplsc_c.zplsc_echogram_uploader,/omc_data/whoi/OMC/CP03ISSM/R00011/instruments/dcl37/ZPLSC_sn55100/processed/*/*Averaged.nc,CP03ISSM-MFD37-07-ZPLSCC000,recovered_inst,Available,
 mi.dataset.driver.zplsc_c.dcl.zplsc_c_dcl_telemetered_driver,/omc_data/whoi/OMC/CP03ISSM/R00011/cg_data/dcl37/zplsc/*.zplsc.log,CP03ISSM-MFD37-07-ZPLSCC000,recovered_host,Available,
 mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00011/cg_data/cpm2/syslog/cpm_status.txt,CP03ISSM-RIC21-00-CPMENG000,recovered_host,Available,
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00011/cg_data/dcl26/syslog/*.syslog.log,CP03ISSM-RID26-00-DCLENG000,recovered_host,Available,
