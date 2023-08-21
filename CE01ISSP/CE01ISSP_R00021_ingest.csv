@@ -1,5 +1,5 @@
 parser,filename_mask,reference_designator,data_source,status,notes
-mi.dataset.driver.dbg_pdbg.cspp.dbg_pdbg_cspp_recovered_driver,/omc_data/whoi/OMC/CE01ISSP/R00021/extract/*PDBG/extract/*PDBG.txt,CE01ISSP-SP001-00-SPPENG000,recovered_cspp,Available,
+mi.dataset.driver.dbg_pdbg.cspp.dbg_pdbg_cspp_recovered_driver,/omc_data/whoi/OMC/CE01ISSP/R00021/extract/*PDBG.txt,CE01ISSP-SP001-00-SPPENG000,recovered_cspp,Available,
 mi.dataset.driver.wc_hmr.cspp.wc_hmr_cspp_recovered_driver,/omc_data/whoi/OMC/CE01ISSP/R00021/extract/*WC_HMR.txt,CE01ISSP-SP001-00-SPPENG000,recovered_cspp,Available,
 mi.dataset.driver.wc_sbe.cspp.wc_sbe_cspp_recovered_driver,/omc_data/whoi/OMC/CE01ISSP/R00021/extract/*WC_SBE.txt,CE01ISSP-SP001-00-SPPENG000,recovered_cspp,Available,
 mi.dataset.driver.wc_wm.cspp.wc_wm_cspp_recovered_driver,/omc_data/whoi/OMC/CE01ISSP/R00021/extract/*WC_WM.txt,CE01ISSP-SP001-00-SPPENG000,recovered_cspp,Available,
