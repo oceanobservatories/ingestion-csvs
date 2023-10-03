@@ -26,5 +26,5 @@ mi.dataset.driver.spkir_abj.dcl.spkir_abj_dcl_telemetered_driver,/omc_data/whoi/
 # mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00019/cg_data/dcl17/syslog/*.syslog.log,CE01ISSM-SBD17-00-DCLENG000,telemetered,Pending,Incorrectly specified driver and dataset
 mi.dataset.driver.ctdbp_cdef.dcl.ctdbp_cdef_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00019/cg_data/dcl17/ctdbp*/*.ctdbp*.log,CE01ISSM-SBD17-06-CTDBPC000,telemetered,Available,
 mi.dataset.driver.flort_dj.dcl.flort_dj_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00019/cg_data/dcl17/ctdbp*/*.ctdbp*.log,CE01ISSM-SBD17-06-FLORTD000,telemetered,Available,
-mi.dataset.driver.cg_stc_eng.stc.mopak_o_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00019/cg_data/dcl17/mopak/*.mopak.log,CE01ISSM-SBD17-01-MOPAK0000,telemetered,Available,
+# mi.dataset.driver.cg_stc_eng.stc.mopak_o_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00019/cg_data/dcl17/mopak/*.mopak.log,CE01ISSM-SBD17-01-MOPAK0000,telemetered,Not Expected,Instrument failed during burn-in testing
 mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00019/cg_data/dcl17/velpt*/*.velpt*.log,CE01ISSM-SBD17-04-VELPTA000,telemetered,Available,
