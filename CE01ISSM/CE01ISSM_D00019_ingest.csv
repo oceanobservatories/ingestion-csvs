@@ -7,7 +7,7 @@ mi.dataset.driver.adcpt_acfgm.dcl.pd0.adcpt_acfgm_dcl_pd0_telemetered_driver,/om
 mi.dataset.driver.pco2w_abc.dcl.pco2w_abc_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00019/cg_data/dcl36/pco2w*/*.pco2w*.log,CE01ISSM-MFD35-05-PCO2WB000,telemetered,Available,
 # mi.dataset.driver.phsen_abcdef.dcl.phsen_abcdef_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00019/cg_data/dcl36/phsen*/*.phsen*.log,CE01ISSM-MFD35-06-PHSEND000,telemetered,Not Deployed,Not returned from the vendor in time
 # mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00019/cg_data/dcl37/syslog/*.syslog.log,CE01ISSM-MFD37-00-DCLENG000,telemetered,Pending,Incorrectly specified driver and dataset
-mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00019/cg_data/dcl37/optaa*/*.optaa*.log,CE01ISSM-MFD37-01-OPTAAD000,telemetered,Available,
+# mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00019/cg_data/dcl37/optaa*/*.optaa*.log,CE01ISSM-MFD37-01-OPTAAD000,telemetered,Available,
 mi.dataset.driver.ctdbp_cdef.dcl.ctdbp_cdef_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00019/cg_data/dcl37/ctdbp*/*.ctdbp*.log,CE01ISSM-MFD37-03-CTDBPC000,telemetered,Available,
 mi.dataset.driver.dosta_abcdjm.ctdbp.dcl.dosta_abcdjm_ctdbp_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00019/cg_data/dcl37/ctdbp*/*.ctdbp*.log,CE01ISSM-MFD37-03-DOSTAD000,telemetered,Available,
 # ,/omc_data/whoi/OMC/CE01ISSM/D00019/,CE01ISSM-MFD37-06-CAMDSA000,telemetered,Pending,No parser exists for this data set

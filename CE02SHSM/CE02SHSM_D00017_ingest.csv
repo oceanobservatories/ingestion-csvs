@@ -7,7 +7,7 @@ mi.dataset.driver.phsen_abcdef.dcl.phsen_abcdef_dcl_telemetered_driver,/omc_data
 mi.dataset.driver.suna.suna_dcl_driver,/omc_data/whoi/OMC/CE02SHSM/D00017/cg_data/dcl26/nutnr/*.nutnr.log,CE02SHSM-RID26-07-NUTNRB000,telemetered,Available,
 mi.dataset.driver.spkir_abj.dcl.spkir_abj_dcl_telemetered_driver,/omc_data/whoi/OMC/CE02SHSM/D00017/cg_data/dcl26/spkir/*.spkir.log,CE02SHSM-RID26-08-SPKIRB000,telemetered,Available,
 # mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/whoi/OMC/CE02SHSM/D00017/cg_data/dcl27/syslog/*.syslog.log,CE02SHSM-RID27-00-DCLENG000,telemetered,Pending,Incorrectly specified driver and dataset
-mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_telemetered_driver,/omc_data/whoi/OMC/CE02SHSM/D00017/cg_data/dcl27/optaa/*.optaa.log,CE02SHSM-RID27-01-OPTAAD000,telemetered,Available,
+# mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_telemetered_driver,/omc_data/whoi/OMC/CE02SHSM/D00017/cg_data/dcl27/optaa/*.optaa.log,CE02SHSM-RID27-01-OPTAAD000,telemetered,Available,
 mi.dataset.driver.flort_dj.dcl.flort_dj_dcl_telemetered_driver,/omc_data/whoi/OMC/CE02SHSM/D00017/cg_data/dcl27/flort/*.flort.log,CE02SHSM-RID27-02-FLORTD000,telemetered,Available,
 mi.dataset.driver.ctdbp_cdef.dcl.ctdbp_cdef_dcl_telemetered_driver,/omc_data/whoi/OMC/CE02SHSM/D00017/cg_data/dcl27/ctdbp/*.ctdbp.log,CE02SHSM-RID27-03-CTDBPC000,telemetered,Available,
 mi.dataset.driver.dosta_abcdjm.dcl.dosta_abcdjm_dcl_telemetered_driver,/omc_data/whoi/OMC/CE02SHSM/D00017/cg_data/dcl27/dosta/*.dosta.log,CE02SHSM-RID27-04-DOSTAD000,telemetered,Available,
