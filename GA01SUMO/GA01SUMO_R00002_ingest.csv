@@ -81,4 +81,4 @@ mi.dataset.driver.pco2a_a.dcl.pco2a_a_dcl_recovered_driver,/omc_data/whoi/OMC/GA
 mi.dataset.driver.wavss_a.dcl.wavss_a_dcl_recovered_driver,/omc_data/whoi/OMC/GA01SUMO/R00002/cg_data/dcl12/wavss/*.wavss.log,GA01SUMO-SBD12-05-WAVSSA000,recovered_host,Available,
 mi.dataset.driver.metbk_a.dcl.metbk_a_dcl_recovered_driver,/omc_data/whoi/OMC/GA01SUMO/R00002/cg_data/dcl12/metbk2/*.metbk2.log,GA01SUMO-SBD12-06-METBKA000,recovered_host,Available,
 mi.dataset.driver.metbk_ct.dcl.metbk_ct_dcl_driver,/omc_data/whoi/OMC/GA01SUMO/R00002/cg_data/dcl12/metbk2/*.metbk2.log,GA01SUMO-SBD12-06-METBKA001,recovered_host,Available,
-mi.dataset.driver.metbk_ct.metbk_ct_recovered_driver,/omc_data/whoi/OMC/GA01SUMO/R00002/instruments/dcl12/METBK-CT*/*.hex,GA01SUMO-SBD12-06-METBKA001,recovered_inst,,
+mi.dataset.driver.metbk_ct.metbk_ct_recovered_driver,/omc_data/whoi/OMC/GA01SUMO/R00002/instruments/dcl12/METBK-CT*/*.hex,GA01SUMO-SBD12-06-METBKA001,recovered_inst,Available,
