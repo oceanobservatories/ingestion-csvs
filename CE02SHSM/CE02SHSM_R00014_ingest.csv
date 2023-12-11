@@ -23,6 +23,8 @@ mi.dataset.driver.hyd_o.dcl.hyd_o_dcl_recovered_driver,/omc_data/whoi/OMC/CE02SH
 mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_recovered_driver,/omc_data/whoi/OMC/CE02SHSM/R00014/cg_data/dcl11/velpt*/*.velpt*.log,CE02SHSM-SBD11-04-VELPTA000,recovered_host,Available,
 mi.dataset.driver.velpt_ab.velpt_ab_recovered_driver,/omc_data/whoi/OMC/CE02SHSM/R00014/instrmts/dcl11/VELPT*/*velpt*.aqd,CE02SHSM-SBD11-04-VELPTA000,recovered_inst,Available,
 mi.dataset.driver.metbk_a.dcl.metbk_a_dcl_recovered_driver,/omc_data/whoi/OMC/CE02SHSM/R00014/cg_data/dcl11/metbk/*.metbk.log,CE02SHSM-SBD11-06-METBKA000,recovered_host,Available,
+mi.dataset.driver.metbk_ct.dcl.metbk_ct_dcl_driver,/omc_data/whoi/OMC/CE02SHSM/R00014/cg_data/dcl11/metbk/*.metbk.log,CE02SHSM-SBD11-06-METBKA001,recovered_host,Available,
+mi.dataset.driver.metbk_ct.metbk_ct_recovered_driver,/omc_data/whoi/OMC/CE02SHSM/R00014/instrmts/dcl11/METBK-CT*/*.hex,CE02SHSM-SBD11-06-METBKA001,recovered_inst,Available,
 # mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CE02SHSM/R00014/cg_data/dcl12/syslog/*.syslog.log,CE02SHSM-SBD12-00-DCLENG000,recovered_host,Pending,Incorrectly specified dataset and parser
 mi.dataset.driver.hyd_o.dcl.hyd_o_dcl_recovered_driver,/omc_data/whoi/OMC/CE02SHSM/R00014/cg_data/dcl12/hyd*/*.hyd*.log,CE02SHSM-SBD12-03-HYDGN0000,recovered_host,Available,
 mi.dataset.driver.pco2a_a.sample.pco2a_a_sample_recovered_driver,/omc_data/whoi/OMC/CE02SHSM/R00014/cg_data/dcl12/pco2a/*.pco2a.log,CE02SHSM-SBD12-04-PCO2AA000,recovered_host,Available,
