@@ -1,6 +1,6 @@
 parser,filename_mask,reference_designator,data_source,status,notes
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00008/cg_data/dcl16/syslog/*syslog.log,GI01SUMO-RID16-00-DCLENG000,recovered_host,Available,
-mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00008/cg_data/dcl16/optaa2/*.optaa2.log,GI01SUMO-RID16-01-OPTAAD000,recovered_host,Available,
+mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00008/cg_data/dcl16/optaa2/*.optaa2.log,GI01SUMO-RID16-01-OPTAAD000,recovered_host,Available,
 mi.dataset.driver.flort_dj.dcl.flort_dj_dcl_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00008/cg_data/dcl16/flort2/*.flort2.log,GI01SUMO-RID16-02-FLORTD000,recovered_host,Available,
 mi.dataset.driver.ctdbp_cdef.dcl.ctdbp_cdef_dcl_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00008/cg_data/dcl16/ctdbp/*ctdbp.log,GI01SUMO-RID16-03-CTDBPF000,recovered_host,Available,
 mi.dataset.driver.ctdbp_cdef.ctdbp_cdef_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00008/instruments/dcl16/CTDBP_sn*/*.hex,GI01SUMO-RID16-03-CTDBPF000,recovered_inst,Available,
