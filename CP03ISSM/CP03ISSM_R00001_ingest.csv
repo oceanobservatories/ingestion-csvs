@@ -38,6 +38,8 @@ mi.dataset.driver.ctdbp_cdef.ctdbp_cdef_recovered_driver,/omc_data/whoi/OMC/CP03
 #mi.dataset.driver.cg_stc_eng.stc.mopak_o_dcl_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl11/mopak/*.mopak.log,CP03ISSM-SBD11-01-MOPAK0000,recovered_host,Not Available,
 #mi.dataset.driver.hyd_o.dcl.hyd_o_dcl_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl11/hyd1/*.hyd1.log,CP03ISSM-SBD11-02-HYDGN0000,recovered_host,Not Available,
 #mi.dataset.driver.metbk_a.dcl.metbk_a_dcl_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl11/METBK-Log_snLGR013/*.metbk*.log ,CP03ISSM-SBD11-06-METBKA000,recovered_host,Not Available,
+#mi.dataset.driver.metbk_ct.dcl.metbk_ct_dcl_driver,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl11/METBK-Log_snLGR013/*.metbk*.log ,CP03ISSM-SBD11-06-METBKA001,recovered_host,Not Available,
+#mi.dataset.driver.metbk_ct.metbk_ct_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl11/METBK-CT_sn10138/*.hex,CP03ISSM-SBD11-06-METBKA001,recovered_inst,Not Available,
 #mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl12/syslog/*.syslog.log,CP03ISSM-SBD12-00-DCLENG000,recovered_host,Not Available,
 #mi.dataset.driver.hyd_o.dcl.hyd_o_dcl_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl12/hyd2/*.hyd2.log,CP03ISSM-SBD12-03-HYDGN0000,recovered_host,Not Available,
 #mi.dataset.driver.pco2a_a.dcl.pco2a_a_dcl_recovered_driver,/omc_data/whoi/OMC/CP03ISSM/R00001/cg_data/dcl12/PCO2A_sn33-183-50A/PCO2A*.log,CP03ISSM-SBD12-04-PCO2AA000,recovered_host,Not Available,
