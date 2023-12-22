@@ -70,7 +70,7 @@ mi.dataset.driver.dosta_abcdjm.dcl.dosta_abcdjm_dcl_recovered_driver,/omc_data/w
 mi.dataset.driver.spkir_abj.dcl.spkir_abj_dcl_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00002/cg_data/dcl11/SPKIR_sn288/*.spkir1.log,GI01SUMO-SBD11-05-SPKIRB000,recovered_host,Available,
 mi.dataset.driver.metbk_a.dcl.metbk_a_dcl_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00002/cg_data/dcl11/METBK-Log_snLGR021/*.metbk1.log,GI01SUMO-SBD11-06-METBKA000,recovered_host,Available,
 mi.dataset.driver.metbk_ct.dcl.metbk_ct_dcl_driver,/omc_data/whoi/OMC/GI01SUMO/R00002/cg_data/dcl11/METBK-Log_snLGR021/*.metbk1.log,GI01SUMO-SBD11-06-METBKA001,recovered_host,Available,
-mi.dataset.driver.metbk_ct.metbk_ct_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00002/cg_data/dcl11/METBK-CT*/*.hex,GI01SUMO-SBD11-06-METBKA001,recovered_host,Available,
+mi.dataset.driver.metbk_ct.metbk_ct_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00002/cg_data/dcl11/METBK-CT*/*.hex,GI01SUMO-SBD11-06-METBKA001,recovered_inst,Available,
 mi.dataset.driver.nutnr_b.dcl_full.nutnr_b_dcl_full_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00002/cg_data/dcl11/NUTNR_sn274/*.nutnr1.log,GI01SUMO-SBD11-08-NUTNRB000,recovered_host,Available,
 mi.dataset.driver.nutnr_b.nutnr_b_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00002/cg_data/dcl11/NUTNR_sn274/*.DAT,GI01SUMO-SBD11-08-NUTNRB000,recovered_inst,Available,
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/GI01SUMO/R00002/cg_data/dcl12/syslog/*syslog.log,GI01SUMO-SBD12-00-DCLENG000,recovered_host,Available,
