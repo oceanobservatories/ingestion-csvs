@@ -11,7 +11,7 @@ mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/who
 mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_telemetered_driver,/omc_data/whoi/OMC/CP10CNSM/D00001/cg_data/dcl37/optaa2_decimated/*.optaa2.log,CP10CNSM-MFD37-01-OPTAAD000,telemetered,Available,
 mi.dataset.driver.ctdbp_cdef.dcl.ctdbp_cdef_dcl_telemetered_driver,/omc_data/whoi/OMC/CP10CNSM/D00001/cg_data/dcl37/ctdbp2/*.ctdbp2.log,CP10CNSM-MFD37-03-CTDBPC000,telemetered,Available,
 mi.dataset.driver.dosta_abcdjm.dcl.dosta_abcdjm_dcl_telemetered_driver,/omc_data/whoi/OMC/CP10CNSM/D00001/cg_data/dcl37/dosta2/*.dosta2.log,CP10CNSM-MFD37-04-DOSTAD000,telemetered,Available,
-mi.dataset.driver.adcpt_acfgm.dcl.pd0.adcpt_acfgm_dcl_pd0_telemetered_driver,/omc_data/whoi/OMC/CP10CNSM/D00001/cg_data/dcl37/adcp/*.adcp.log,CP10CNSM-MFD37-02-ADCPTQ000,telemetered,Available,"Workhorse 2, we are testing parser here"
+mi.dataset.driver.adcpt_acfgm.dcl.pd0.adcpt_acfgm_dcl_pd0_telemetered_driver,/omc_data/whoi/OMC/CP10CNSM/D00001/cg_data/dcl37/adcp/*.adcp.log,CP10CNSM-MFD37-02-ADCPTQ000,telemetered,Available,
 mi.dataset.driver.zplsc_c.dcl.zplsc_c_dcl_telemetered_driver,/omc_data/whoi/OMC/CP10CNSM/D00001/cg_data/dcl37/zplsc/*.zplsc.log,CP10CNSM-MFD37-07-ZPLSCC000,telemetered,Available,
 mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_telemetered_driver,/omc_data/whoi/OMC/CP10CNSM/D00001/cg_data/cpm2/syslog/cpm_status*.txt,CP10CNSM-RIC21-00-CPMENG000,telemetered,Available,
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/whoi/OMC/CP10CNSM/D00001/cg_data/dcl26/syslog/*.syslog.log,CP10CNSM-RID26-00-DCLENG000,telemetered,Available,
