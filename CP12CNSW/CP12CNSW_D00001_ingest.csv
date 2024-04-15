@@ -1,0 +1,12 @@
+parser,filename_mask,reference_designator,data_source,status,notes
+#,,CP12CNSW-MFI01-02-ADCPTQ010,telemetered,Not Expected,No telem data; not hooked up inductively for this deployment
+#,,CP12CNSW-MFI01-02-CTDMOS031,telemetered,Not Expected,No telem data; not hooked up inductively for this deployment
+#,,CP12CNSW-MFI01-02-WAVSSQ010,telemetered,Not Expected,No telem data; not hooked up inductively for this deployment
+#,,CP12CNSW-SBI01-02-CTDMOS011,telemetered,Not Expected,No telem data; not hooked up inductively for this deployment
+mi.dataset.driver.cg_stc_eng.stc.cg_stc_eng_stc_telemetered_driver,/omc_data/whoi/OMC/CP12CNSW/D00001/irid2shore/stc_status*.txt,CP12CNSW-SBS01-00-STCENG000,telemetered,Available,
+#,,CP12CNSW-SBS01-03-VELPTA000,telemetered,Not Expected,No telem data; not hooked up inductively for this deployment
+mi.dataset.driver.cg_stc_eng.stc.mopak_o_dcl_telemetered_driver,/omc_data/whoi/OMC/CP12CNSW/D00001/3dmgx3/*3dmgx3.log,CP12CNSW-SBS01-05-MOPAK0000,telemetered,Available,
+#,/omc_data/whoi/OMC/CP12CNSW/D00001/imm/prkt/*.DAT,CP12CNSW-WFP01-00-WFPENG001,telemetered,Expected,Parser tbd
+#,/omc_data/whoi/OMC/CP12CNSW/D00001/imm/prkt/*.DAT,CP12CNSW-WFP01-01-CTDPFP000,telemetered,Expected,Parser tbd
+#,/omc_data/whoi/OMC/CP12CNSW/D00001/imm/prkt/*.DAT,CP12CNSW-WFP01-02-DOFSTP000,telemetered,Expected,Parser tbd
+#,/omc_data/whoi/OMC/CP12CNSW/D00001/imm/prkt/*.DAT,CP12CNSW-WFP01-03-FLORTP000,telemetered,Expected,Parser tbd
