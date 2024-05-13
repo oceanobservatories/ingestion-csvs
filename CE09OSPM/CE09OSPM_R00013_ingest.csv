@@ -1,5 +1,6 @@
 parser,filename_mask,reference_designator,data_source,status,notes
 mi.dataset.driver.cg_stc_eng.stc.cg_stc_eng_stc_recovered_driver,/omc_data/whoi/OMC/CE09OSPM/R00013/cg_data/irid2shore/stc_status.*_*.txt,CE09OSPM-SBS01-00-STCENG000,recovered_host,Available,
+mi.dataset.driver.cg_stc_eng.stc.mopak_o_dcl_recovered_driver,/omc_data/whoi/OMC/CE09OSPM/R00013/cg_data/stc1/3dmgx3/*.3dmgx3.log,CE09OSPM-SBS01-01-MOPAK0000,recovered_host,Available,
 mi.dataset.driver.WFP_ENG.STC_IMODEM.wfp_eng_stc_imodem_recovered_driver,/omc_data/whoi/OMC/CE09OSPM/R00013/instrmts/CWFP*/*/E*.DAT,CE09OSPM-WFP01-00-WFPENG000,recovered_wfp,Available,
 mi.dataset.driver.vel3d_k.wfp.vel3d_k_wfp_recovered_driver,/omc_data/whoi/OMC/CE09OSPM/R00013/instrmts/CWFP*/*/A*.DAT,CE09OSPM-WFP01-01-VEL3DK000,recovered_wfp,Available,
 mi.dataset.driver.dofst_k.wfp.coastal_dofst_k_wfp_recovered_driver,/omc_data/whoi/OMC/CE09OSPM/R00013/instrmts/CWFP*/*/C*.DAT,CE09OSPM-WFP01-02-DOFSTK000,recovered_wfp,Available,
