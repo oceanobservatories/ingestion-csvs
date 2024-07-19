@@ -9,7 +9,7 @@ mi.dataset.driver.velpt_ab.velpt_ab_recovered_driver,/omc_data/whoi/OMC/GI03FLMA
 mi.dataset.driver.velpt_ab.velpt_ab_recovered_driver,/omc_data/whoi/OMC/GI03FLMA/R00010/instruments/VELPT_snAQD-12652/*.aqd,GI03FLMA-RI000-00-VELPTB700,recovered_inst,Available,
 mi.dataset.driver.sio_eng.sio.sio_eng_sio_recovered_driver,/omc_data/whoi/OMC/GI03FLMA/R00010/cg_data/MSIOC_sn*/STATUS/STA*.DAT,GI03FLMA-RIM01-00-SIOENG000,recovered_host,Available,
 mi.dataset.driver.adcps_jln.sio.adcps_jln_sio_telemetered_driver,/omc_data/whoi/OMC/GI03FLMA/R00010/cg_data/MSIOC_sn*/ADCPS/ADC*.DAT,GI03FLMA-RIM01-02-ADCPSL003,recovered_host,Available,
-#mi.dataset.driver.adcps_jln.adcps_jln_driver,/omc_data/whoi/OMC/GI03FLMA/R00010/instruments/ADCPS_sn*/_RDI*.000,GI03FLMA-RIM01-02-ADCPSL003,recovered_inst,Not Available,No recovered data
+#mi.dataset.driver.adcps_jln.adcps_jln_driver,/omc_data/whoi/OMC/GI03FLMA/R00010/instruments/ADCPS_sn*/_RDI*.000,GI03FLMA-RIM01-02-ADCPSL003,recovered_inst,Not Available,Recovered data not available
 mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_sio_ct_recovered_driver,/omc_data/whoi/OMC/GI03FLMA/R00010/cg_data/MSIOC_sn*/CTD/CTD*.DAT,GI03FLMA-RIM01-02-CTDMOG000,recovered_host,Available,Wildcard refdes
 #,/omc_data/whoi/OMC/GI03FLMA/R00010/cg_data/MSIOC_sn*/CTD/CTD*.DAT,GI03FLMA-RIM01-02-CTDMOG040,recovered_host,Available,Data assigned to refdes after ingestion with wildcard refdes.
 mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver,/omc_data/whoi/OMC/GI03FLMA/R00010/instruments/CTDMO_sn37-11608/*.hex,GI03FLMA-RIM01-02-CTDMOG040,recovered_inst,Available,
