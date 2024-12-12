@@ -14,9 +14,9 @@ parser,filename_mask,reference_designator,data_source,status,notes
 # mi.dataset.driver.zplsc_c.dcl.zplsc_c_dcl_telemetered_driver,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl37/zplsc/*zplsc*.log,CE07SHSM-MFD37-07-ZPLSCC000,telemetered,Not Expected,Power to the MFN failed immediately after deployment
 # mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_telemetered_driver,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/cpm2/syslog/cpm_status.txt,CE07SHSM-RIC21-00-CPMENG000,telemetered,Pending,Incorrectly specified driver and dataset
 # mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl26/syslog/*.syslog.log,CE07SHSM-RID26-00-DCLENG000,telemetered,Pending,Incorrectly specified driver and dataset
-mi.dataset.driver.adcpt_acfgm.dcl.pd0.adcpt_acfgm_dcl_pd0_telemetered_driver,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl26/adcpt1/*.adcpt*.log,CE07SHSM-RID26-01-ADCPTA000,telemetered,Available,
+mi.dataset.driver.adcpt_acfgm.dcl.pd0.adcpt_acfgm_dcl_pd0_telemetered_driver,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl26/adcpt*/*.log,CE07SHSM-RID26-01-ADCPTA000,telemetered,Available,
 mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_telemetered_driver,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl26/velpt2/*.velpt*.log,CE07SHSM-RID26-04-VELPTA000,telemetered,Available,
-mi.dataset.driver.phsen_abcdef.dcl.phsen_abcdef_dcl_telemetered_driver,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl26/phsen1/*.phsen*.log,CE07SHSM-RID26-06-PHSEND000,telemetered,Available,
+mi.dataset.driver.phsen_abcdef.dcl.phsen_abcdef_dcl_telemetered_driver,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl26/phsen*/*.phsen*.log,CE07SHSM-RID26-06-PHSEND000,telemetered,Available,
 mi.dataset.driver.nutnr_b.dcl_full.nutnr_b_dcl_full_telemetered_driver,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl26/nutnr/*.nutnr.log,CE07SHSM-RID26-07-NUTNRB000,telemetered,Available,
 mi.dataset.driver.spkir_abj.dcl.spkir_abj_dcl_telemetered_driver,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl26/spkir/*.spkir.log,CE07SHSM-RID26-08-SPKIRB000,telemetered,Available,
 # mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/whoi/OMC/CE07SHSM/D00002/cg_data/dcl27/syslog/*.syslog.log,CE07SHSM-RID27-00-DCLENG000,telemetered,Pending,Incorrectly specified driver and dataset
