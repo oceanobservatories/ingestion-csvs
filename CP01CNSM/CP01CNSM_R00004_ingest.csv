@@ -21,7 +21,7 @@ parser,filename_mask,reference_designator,data_source,status,notes
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl26/syslog/*.syslog.log,CP01CNSM-RID26-00-DCLENG000,recovered_host,Available,
 mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl26/velpt1/*.velpt1.log,CP01CNSM-RID26-04-VELPTA000,recovered_host,Available,
 mi.dataset.driver.velpt_ab.velpt_ab_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00004/instruments/dcl26/VELPT*/*.aqd,CP01CNSM-RID26-04-VELPTA000,recovered_inst,Available,
-#mi.dataset.driver.phsen_abcdef.dcl.phsen_abcdef_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl26/phsen1//*.phsen1.log,CP01CNSM-RID26-06-PHSEND000,recovered_host,Not Deployed,
+#mi.dataset.driver.phsen_abcdef.dcl.phsen_abcdef_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl26/phsen1/*.phsen1.log,CP01CNSM-RID26-06-PHSEND000,recovered_host,Not Deployed,
 #mi.dataset.driver.phsen_abcdef.phsen_abcdef_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00004/instruments/dcl26/PHSEN_*/SAMI*.txt,CP01CNSM-RID26-06-PHSEND000,recovered_inst,Not Deployed,
 mi.dataset.driver.nutnr_b.dcl_full.nutnr_b_dcl_full_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00004/cg_data/dcl26/nutnr/*.nutnr.log,CP01CNSM-RID26-07-NUTNRB000,recovered_host,Available,
 mi.dataset.driver.nutnr_b.nutnr_b_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00004/instruments/dcl26/NUTNR_sn284/SCH*.DAT,CP01CNSM-RID26-07-NUTNRB000,recovered_inst,Available,
