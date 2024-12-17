@@ -5,7 +5,7 @@ parser,filename_mask,reference_designator,data_source,status,notes
 mi.dataset.driver.adcps_jln.adcps_jln_driver,/omc_data/whoi/OMC/CP01CNSM/R00003/instruments/dcl35/ADCP*/*RDI*.000,CP01CNSM-MFD35-01-ADCPTF000,recovered_inst,Available,
 mi.dataset.driver.presf_abc.dcl.presf_abc_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl35/presf/*.presf.log,CP01CNSM-MFD35-02-PRESFB000,recovered_host,Available,
 mi.dataset.driver.presf_abc.presf_abc_wave_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00003/instruments/dcl35/PRESF*/PRESF*.hex,CP01CNSM-MFD35-02-PRESFB000,recovered_inst,Available,
-mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl35/velpt2//*velpt*.log,CP01CNSM-MFD35-04-VELPTA000,recovered_host,Available,
+mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl35/velpt2/*velpt*.log,CP01CNSM-MFD35-04-VELPTA000,recovered_host,Available,
 mi.dataset.driver.velpt_ab.velpt_ab_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00003/instruments/dcl35/VELPT_*/VELPT*.aqd,CP01CNSM-MFD35-04-VELPTA000,recovered_inst,Available,
 mi.dataset.driver.pco2w_abc.dcl.pco2w_abc_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl35/pco2w/*.pco2w.log,CP01CNSM-MFD35-05-PCO2WB000,recovered_host,Available,
 mi.dataset.driver.pco2w_abc.pco2w_abc_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00003/instruments/dcl35/PCO2W_*/SAMI*.txt,CP01CNSM-MFD35-05-PCO2WB000,recovered_inst,Available,
@@ -43,7 +43,7 @@ mi.dataset.driver.metbk_ct.dcl.metbk_ct_dcl_driver,/omc_data/whoi/OMC/CP01CNSM/R
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl12/syslog/*.syslog.log,CP01CNSM-SBD12-00-DCLENG000,recovered_host,Available,
 mi.dataset.driver.hyd_o.dcl.hyd_o_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl12/hyd2/*.hyd2.log,CP01CNSM-SBD12-03-HYDGN0000,recovered_host,Available,
 mi.dataset.driver.pco2a_a.dcl.pco2a_a_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl12/pco2a/*pco2a*.log,CP01CNSM-SBD12-04-PCO2AA000,recovered_host,Available,
-mi.dataset.driver.wavss_a.dcl.wavss_a_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl12/wavss//*.wavss.log,CP01CNSM-SBD12-05-WAVSSA000,recovered_host,Available,
+mi.dataset.driver.wavss_a.dcl.wavss_a_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl12/wavss/*.wavss.log,CP01CNSM-SBD12-05-WAVSSA000,recovered_host,Available,
 mi.dataset.driver.metbk_a.dcl.metbk_a_dcl_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl12/metbk2/*metbk*.log,CP01CNSM-SBD12-06-METBKA000,recovered_host,Available,
 mi.dataset.driver.metbk_ct.dcl.metbk_ct_dcl_driver,/omc_data/whoi/OMC/CP01CNSM/R00003/cg_data/dcl12/metbk2/*metbk*.log,CP01CNSM-SBD12-06-METBKA001,recovered_host,Available,
 #mi.dataset.driver.metbk_ct.metbk_ct_recovered_driver,/omc_data/whoi/OMC/CP01CNSM/R00003/instruments/dcl12/METBK-CT*/*.hex,CP01CNSM-SBD12-06-METBKA001,recovered_inst,Not Available,No recovered data
