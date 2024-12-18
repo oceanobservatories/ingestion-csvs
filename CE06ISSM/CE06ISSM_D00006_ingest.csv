@@ -5,7 +5,7 @@ parser,filename_mask,reference_designator,data_source,status,notes
 mi.dataset.driver.presf_abc.dcl.presf_abc_dcl_telemetered_driver,/omc_data/whoi/OMC/CE06ISSM/D00006/cg_data/dcl35/presf/*.presf.log,CE06ISSM-MFD35-02-PRESFA000,telemetered,Available,
 mi.dataset.driver.adcpt_acfgm.dcl.pd0.adcpt_acfgm_dcl_pd0_telemetered_driver,/omc_data/whoi/OMC/CE06ISSM/D00006/cg_data/dcl35/adcpt/*.adcpt.log,CE06ISSM-MFD35-04-ADCPTM000,telemetered,Available,
 mi.dataset.driver.pco2w_abc.dcl.pco2w_abc_dcl_telemetered_driver,/omc_data/whoi/OMC/CE06ISSM/D00006/cg_data/dcl35/pco2w2/*.pco2w2.log,CE06ISSM-MFD35-05-PCO2WB000,telemetered,Available,
-mi.dataset.driver.phsen_abcdef.dcl.phsen_abcdef_dcl_telemetered_driver,/omc_data/whoi/OMC/CE06ISSM/D00006/cg_data/dcl37/phsen2/*.phsen*.log,CE06ISSM-MFD35-06-PHSEND000,telemetered,Available,Moved to DCL37 due to port failure on DCL35
+mi.dataset.driver.phsen_abcdef.dcl.phsen_abcdef_dcl_telemetered_driver,/omc_data/whoi/OMC/CE06ISSM/D00006/cg_data/dcl35/phsen2/*.phsen*.log,CE06ISSM-MFD35-06-PHSEND000,telemetered,Available,
 # mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/whoi/OMC/CE06ISSM/D00006/cg_data/dcl37/syslog/*.syslog.log,CE06ISSM-MFD37-00-DCLENG000,telemetered,Pending,Incorrectly specified driver and dataset
 mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_telemetered_driver,/omc_data/whoi/OMC/CE06ISSM/D00006/cg_data/dcl37/optaa2/*.optaa*.log,CE06ISSM-MFD37-01-OPTAAD000,telemetered,Available,
 mi.dataset.driver.ctdbp_cdef.dcl.ctdbp_cdef_dcl_telemetered_driver,/omc_data/whoi/OMC/CE06ISSM/D00006/cg_data/dcl37/ctdbp2/*.ctdbp*.log,CE06ISSM-MFD37-03-CTDBPC000,telemetered,Available,

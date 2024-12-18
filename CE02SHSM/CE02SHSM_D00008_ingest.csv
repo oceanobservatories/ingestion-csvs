@@ -1,7 +1,7 @@
 parser,filename_mask,reference_designator,data_source,status,notes
 # mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_telemetered_driver,/omc_data/whoi/OMC/CE02SHSM/D00008/cg_data/cpm2/syslog/cpm_status.txt,CE02SHSM-RIC21-00-CPMENG000,telemetered,Pending,Incorrectly specified driver and dataset
 # mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_telemetered_driver,/omc_data/whoi/OMC/CE02SHSM/D00008/cg_data/dcl26/syslog/*.syslog.log,CE02SHSM-RID26-00-DCLENG000,telemetered,Pending,Incorrectly specified driver and dataset
-mi.dataset.driver.adcpt_acfgm.dcl.pd0.adcpt_acfgm_dcl_pd0_telemetered_driver,/omc_data/whoi/OMC/CE02SHSM/D00008/cg_data/dcl26/adcpt/*.adcpt.log,CE02SHSM-RID26-01-ADCPTA000,telemetered,Available,
+mi.dataset.driver.adcpt_acfgm.dcl.pd0.adcpt_acfgm_dcl_pd0_telemetered_driver,/omc_data/whoi/OMC/CE02SHSM/D00008/cg_data/dcl26/adcpt/*.adcpt.log.fix,CE02SHSM-RID26-01-ADCPTA000,telemetered,Available,
 mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_telemetered_driver,/omc_data/whoi/OMC/CE02SHSM/D00008/cg_data/dcl26/velpt2/*.velpt*.log,CE02SHSM-RID26-04-VELPTA000,telemetered,Available,
 mi.dataset.driver.phsen_abcdef.dcl.phsen_abcdef_dcl_telemetered_driver,/omc_data/whoi/OMC/CE02SHSM/D00008/cg_data/dcl26/phsen/*.phsen.log,CE02SHSM-RID26-06-PHSEND000,telemetered,Available,
 mi.dataset.driver.suna.suna_dcl_driver,/omc_data/whoi/OMC/CE02SHSM/D00008/cg_data/dcl26/nutnr/*.nutnr.log,CE02SHSM-RID26-07-NUTNRB000,telemetered,Available,

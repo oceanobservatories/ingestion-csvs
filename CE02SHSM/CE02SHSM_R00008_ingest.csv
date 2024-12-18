@@ -1,7 +1,7 @@
 parser,filename_mask,reference_designator,data_source,status,notes
 # mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_recovered_driver,/omc_data/whoi/OMC/CE02SHSM/R00008/cg_data/cpm2/syslog/cpm_status.txt,CE02SHSM-RIC21-00-CPMENG000,recovered_host,Pending,Incorrectly specified driver and dataset
 # mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CE02SHSM/R00008/cg_data/dcl26/syslog/*.syslog.log,CE02SHSM-RID26-00-DCLENG000,recovered_host,Pending,Incorrectly specified driver and dataset
-mi.dataset.driver.adcpt_acfgm.dcl.pd0.adcpt_acfgm_dcl_pd0_recovered_driver,/omc_data/whoi/OMC/CE02SHSM/R00008/cg_data/dcl26/adcpt/*.adcpt.log,CE02SHSM-RID26-01-ADCPTA000,recovered_host,Available,
+mi.dataset.driver.adcpt_acfgm.dcl.pd0.adcpt_acfgm_dcl_pd0_recovered_driver,/omc_data/whoi/OMC/CE02SHSM/R00008/cg_data/dcl26/adcpt/*.adcpt.log.fix,CE02SHSM-RID26-01-ADCPTA000,recovered_host,Available,
 mi.dataset.driver.adcps_jln.adcps_jln_driver,/omc_data/whoi/OMC/CE02SHSM/R00008/instrmts/dcl26/ADCPT_*/*adcpt*.000,CE02SHSM-RID26-01-ADCPTA000,recovered_inst,Available,
 mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_recovered_driver,/omc_data/whoi/OMC/CE02SHSM/R00008/cg_data/dcl26/velpt*/*.velpt*.log,CE02SHSM-RID26-04-VELPTA000,recovered_host,Available,
 mi.dataset.driver.velpt_ab.velpt_ab_recovered_driver,/omc_data/whoi/OMC/CE02SHSM/R00008/instrmts/dcl26/VELPT_*/*velpt*.aqd,CE02SHSM-RID26-04-VELPTA000,recovered_inst,Available,
