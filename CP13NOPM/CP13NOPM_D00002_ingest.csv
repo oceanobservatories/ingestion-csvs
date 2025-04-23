@@ -1,0 +1,12 @@
+parser,filename_mask,reference_designator,data_source,status,notes
+mi.dataset.driver.adcps_jln.stc.adcps_jln_stc_telemetered_driver,/omc_data/whoi/OMC/CP13NOPM/D00002/imm/adcpt/adcpt*.DAT,CP13NOPM-RII01-02-ADCPTG010,telemetered,Available,
+mi.dataset.driver.cg_stc_eng.stc.cg_stc_eng_stc_telemetered_driver,/omc_data/whoi/OMC/CP13NOPM/D00002/irid2shore/stc_status*.txt,CP13NOPM-SBS01-00-STCENG000,telemetered,Available,
+mi.dataset.driver.cg_stc_eng.stc.mopak_o_dcl_telemetered_driver,/omc_data/whoi/OMC/CP13NOPM/D00002/3dmgx3/*3dmgx3.log,CP13NOPM-SBS01-05-MOPAK0000,telemetered,Available,
+mi.dataset.driver.WFP_ENG.STC_IMODEM.wfp_eng_stc_imodem_telemetered_driver,/omc_data/whoi/OMC/CP13NOPM/D00002/imm/mmp/E*.DAT,CP13NOPM-WFP01-00-WFPENG001,telemetered,Available,
+mi.dataset.driver.vel3d_k.wfp_stc.vel3d_k_wfp_stc_telemetered_driver,/omc_data/whoi/OMC/CP13NOPM/D00002/imm/mmp/A*.DEC,CP13NOPM-WFP01-01-VEL3DK000,telemetered,Available,
+mi.dataset.driver.dofst_k.wfp.coastal_dofst_k_wfp_telemetered_driver,/omc_data/whoi/OMC/CP13NOPM/D00002/imm/mmp/C*.DAT,CP13NOPM-WFP01-02-DOFSTK000,telemetered,Available,
+mi.dataset.driver.ctdpf_ckl.wfp.coastal_ctdpf_ckl_wfp_telemetered_driver,/omc_data/whoi/OMC/CP13NOPM/D00002/imm/mmp/C*.DAT,CP13NOPM-WFP01-03-CTDPFK000,telemetered,Available,
+mi.dataset.driver.flort_kn.stc_imodem.flort_kn__stc_imodem_telemetered_driver,/omc_data/whoi/OMC/CP13NOPM/D00002/imm/mmp/E*.DAT,CP13NOPM-WFP01-04-FLORTK000,telemetered,Available,
+mi.dataset.driver.PARAD_K.STC_IMODEM.parad_k_stc_imodem_telemetered_driver,/omc_data/whoi/OMC/CP13NOPM/D00002/imm/mmp/E*.DAT,CP13NOPM-WFP01-05-PARADK000,telemetered,Available,
+#mi.dataset.driver.ctdmo_ghqr.imodem.ctdmo_ghqr_imodem_telemetered_driver,/omc_data/whoi/OMC/CP13NOPM/D00002/imm/ctdmo/ctdmo*.DAT,CP13NOPM-SBI01-02-CTDMOS011,telemetered,Not Available,No inductive data available for this deployment
+#,,CP13NOPM-RII01-02-ADCPUP021,telemetered,Not Expected,No inductive data expected for this deployment
