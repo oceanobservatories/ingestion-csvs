@@ -4,7 +4,7 @@ mi.dataset.driver.ctdmo_ghqr.imodem.ctdmo_ghqr_imodem_telemetered_driver,/omc_da
 #,,CP12CNSW-MFI01-02-WAVSSQ010,telemetered,Not Expected,No telem data; not hooked up inductively for this deployment
 mi.dataset.driver.ctdmo_ghqr.imodem.ctdmo_ghqr_imodem_telemetered_driver,/omc_data/whoi/OMC/CP12CNSW/D00002/imm/ctdmo01/*.DAT,CP12CNSW-SBI01-02-CTDMOS011,telemetered,Available,
 mi.dataset.driver.cg_stc_eng.stc.cg_stc_eng_stc_telemetered_driver,/omc_data/whoi/OMC/CP12CNSW/D00002/irid2shore/stc_status*.txt,CP12CNSW-SBS01-00-STCENG000,telemetered,Available,
-#,/omc_data/whoi/OMC/CP12CNSW/D00002/adcpu/*adcpu.log,CP12CNSW-SBS01-03-ADCPUP000,telemetered,Expected,Parser tbd
+#,/omc_data/whoi/OMC/CP12CNSW/D00002/adcpu/*adcpu.log,CP12CNSW-SBS01-03-ADCPUP000,telemetered,Not Expected,No telem data
 mi.dataset.driver.cg_stc_eng.stc.mopak_o_dcl_telemetered_driver,/omc_data/whoi/OMC/CP12CNSW/D00002/3dmgx3/*3dmgx3.log,CP12CNSW-SBS01-05-MOPAK0000,telemetered,Available,
 #,/omc_data/whoi/OMC/CP12CNSW/D00002/imm/prkt/*.DAT,CP12CNSW-WFP01-00-WFPENG001,telemetered,Expected,Parser tbd
 mi.dataset.driver.ctdpf_p.wfp.ctdpf_p_wfp_driver,/omc_data/whoi/OMC/CP12CNSW/D00002/imm/prkt/*.DAT,CP12CNSW-WFP01-01-CTDPFP000,telemetered,Available,
