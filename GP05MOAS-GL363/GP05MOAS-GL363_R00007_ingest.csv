@@ -1,0 +1,6 @@
+parser,filename_mask,reference_designator,data_source,status,notes
+mi.dataset.driver.moas.gl.engineering.glider_eng_glider_recovered_driver,/omc_data/whoi/OMC/GP05MOAS-GL363/R00007/merged/gp_*.mrg,GP05MOAS-GL363-00-ENG000000,recovered_host,Available,
+#mi.dataset.driver.moas.gl.flord_m.flord_m_glider_recovered_driver,/omc_data/whoi/OMC/GP05MOAS-GL363/R00007/merged/gp_*.mrg,GP05MOAS-GL363-01-FLORDM000,recovered_host,Available,A 3-wavelength fluorometer was deployed (instead of 2-wavelength). Parser in the next line.
+mi.dataset.driver.moas.gl.flort_m.flort_m_glider_recovered_driver,/omc_data/whoi/OMC/GP05MOAS-GL363/R00007/merged/gp_*.mrg,GP05MOAS-GL363-01-FLORDM000,recovered_host,Available,A 3-wavelength fluorometer (FLORTM) was deployed in place of a 2-wavelength (FLORDM). This is the parser for 3-wavelength fluorometer
+mi.dataset.driver.moas.gl.dosta.dosta_abcdjm_glider_recovered_driver,/omc_data/whoi/OMC/GP05MOAS-GL363/R00007/merged/gp_*.mrg,GP05MOAS-GL363-02-DOSTAM000,recovered_host,Available,
+mi.dataset.driver.moas.gl.ctdgv.ctdgv_m_glider_recovered_driver,/omc_data/whoi/OMC/GP05MOAS-GL363/R00007/merged/gp_*.mrg,GP05MOAS-GL363-04-CTDGVM000,recovered_host,Available,
