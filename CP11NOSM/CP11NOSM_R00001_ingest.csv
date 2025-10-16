@@ -18,7 +18,7 @@ mi.dataset.driver.dosta_abcdjm.dcl.dosta_abcdjm_dcl_recovered_driver,/omc_data/w
 mi.dataset.driver.adcpt_acfgm.dcl.pd0.adcpt_acfgm_dcl_pd0_recovered_driver,/omc_data/whoi/OMC/CP11NOSM/R00001/cg_data/dcl37/adcp/*.adcp.log,CP11NOSM-MFD37-02-ADCPTF000,recovered_host,Available,
 mi.dataset.driver.adcps_jln.adcps_jln_driver,/omc_data/whoi/OMC/CP11NOSM/R00001/instruments/dcl37/ADCP*/*RDI*.000,CP11NOSM-MFD37-02-ADCPTF000,recovered_inst,Available,
 mi.dataset.driver.zplsc_c.dcl.zplsc_c_dcl_telemetered_driver,/omc_data/whoi/OMC/CP11NOSM/R00001/cg_data/dcl37/zplsc/*.zplsc.log,CP11NOSM-MFD37-07-ZPLSCC000,recovered_host,Available,
-#mi.dataset.driver.zplsc_c.zplsc_echogram_uploader,/omc_data/whoi/OMC/CP11NOSM/R00001/instruments/dcl37/ZPLSC_sn*/processed/*/*Averaged.nc,CP11NOSM-MFD37-07-ZPLSCC000,recovered_inst,Expected,Processing TBD
+mi.dataset.driver.zplsc_c.zplsc_echogram_uploader,/omc_data/whoi/OMC/CP11NOSM/R00001/instruments/dcl37/ZPLSC_sn*/processed/*/*Averaged.nc,CP11NOSM-MFD37-07-ZPLSCC000,recovered_inst,Available,
 mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_recovered_driver,/omc_data/whoi/OMC/CP11NOSM/R00001/cg_data/cpm2/syslog/cpm_status*.txt,CP11NOSM-RIC21-00-CPMENG000,recovered_host,Available,
 mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CP11NOSM/R00001/cg_data/dcl26/syslog/*.syslog.log,CP11NOSM-RID26-00-DCLENG000,recovered_host,Available,
 mi.dataset.driver.prtsz_a.dcl.prtsz_a_dcl_driver,/omc_data/whoi/OMC/CP11NOSM/R00001/cg_data/dcl26/prtsz1/*.prtsz1.log,CP11NOSM-RID26-01-PRTSZA000,recovered_host,Available,
