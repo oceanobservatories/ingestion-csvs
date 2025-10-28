@@ -19,7 +19,7 @@ mi.dataset.driver.ctdbp_cdef.dcl.ctdbp_cdef_dcl_telemetered_driver,/omc_data/who
 mi.dataset.driver.dosta_abcdjm.ctdbp.dcl.dosta_abcdjm_ctdbp_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00021/cg_data/dcl16/ctdbp*/*.ctdbp*.log,CE01ISSM-RID16-03-DOSTAD000,telemetered,Available,
 mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00021/cg_data/dcl16/velpt*/*.velpt*.log,CE01ISSM-RID16-04-VELPTA000,telemetered,Available,
 mi.dataset.driver.pco2w_abc.dcl.pco2w_abc_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00021/cg_data/dcl16/pco2w*/*.pco2w*.log,CE01ISSM-RID16-05-PCO2WB000,telemetered,Available,
-# ,/omc_data/whoi/OMC/CE01ISSM/D00021/cg_data/dcl16/phsen*/*.phsen*.log,CE01ISSM-RID16-06-PHSEND000,telemetered,Pending, New parser required for the SeapHOx
+mi.dataset.driver.phsen_gh.phsen_gh_driver,/omc_data/whoi/OMC/CE01ISSM/D00021/cg_data/dcl16/phsen*/*.phsen*.log,CE01ISSM-RID16-06-PHSENG000,telemetered,Available,
 mi.dataset.driver.suna.suna_dcl_driver,/omc_data/whoi/OMC/CE01ISSM/D00021/cg_data/dcl16/nutnr/*.nutnr.log,CE01ISSM-RID16-07-NUTNRB000,telemetered,Available,
 mi.dataset.driver.spkir_abj.dcl.spkir_abj_dcl_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00021/cg_data/dcl16/spkir/*.spkir.log,CE01ISSM-RID16-08-SPKIRB000,telemetered,Available,
 # mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_telemetered_driver,/omc_data/whoi/OMC/CE01ISSM/D00021/irid2shore/cpm_status*.txt,CE01ISSM-SBC11-00-CPMENG000,telemetered,Pending,Incorrectly specified driver and dataset
