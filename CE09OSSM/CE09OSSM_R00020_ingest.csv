@@ -29,7 +29,7 @@ mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_recovered_driver,/omc_data/whoi/OMC/
 mi.dataset.driver.velpt_ab.velpt_ab_recovered_driver,/omc_data/whoi/OMC/CE09OSSM/R00020/instrmts/dcl26/VELPT*/*velpt*.aqd,CE09OSSM-RID26-04-VELPTA000,recovered_inst,Available,
 mi.dataset.driver.phsen_abcdef.dcl.phsen_abcdef_dcl_recovered_driver,/omc_data/whoi/OMC/CE09OSSM/R00020/cg_data/dcl26/phsen*/*.phsen*.log,CE09OSSM-RID26-06-PHSEND000,recovered_host,Available,
 mi.dataset.driver.phsen_abcdef.phsen_abcdef_recovered_driver,/omc_data/whoi/OMC/CE09OSSM/R00020/instrmts/dcl26/PHSEN*/*phsen*recovered*.txt,CE09OSSM-RID26-06-PHSEND000,recovered_inst,Available,
-mi.dataset.driver.suna.suna_dcl_driver,/omc_data/whoi/OMC/CE09OSSM/R00020/cg_data/dcl26/nutnr*/*.nutnr.log,CE09OSSM-RID26-07-NUTNRB000,recovered_host,Available,
+mi.dataset.driver.suna.suna_dcl_driver,/omc_data/whoi/OMC/CE09OSSM/R00020/cg_data/dcl27/nutnr*/*.nutnr.log,CE09OSSM-RID26-07-NUTNRB000,recovered_host,Available,
 mi.dataset.driver.suna.suna_instrument_driver,/omc_data/whoi/OMC/CE09OSSM/R00020/instrmts/dcl26/NUTNR*/*nutnr*/D*.CSV,CE09OSSM-RID26-07-NUTNRB000,recovered_inst,Available,
 mi.dataset.driver.spkir_abj.dcl.spkir_abj_dcl_recovered_driver,/omc_data/whoi/OMC/CE09OSSM/R00020/cg_data/dcl26/spkir*/*.spkir.log,CE09OSSM-RID26-08-SPKIRB000,recovered_host,Available,
 # mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CE09OSSM/R00020/cg_data/dcl27/syslog/*.syslog.log,CE09OSSM-RID27-00-DCLENG000,recovered_host,Pending,Incorrectly specified dataset and parser
@@ -51,4 +51,5 @@ mi.dataset.driver.metbk_ct.metbk_ct_recovered_driver,/omc_data/whoi/OMC/CE09OSSM
 mi.dataset.driver.hyd_o.dcl.hyd_o_dcl_recovered_driver,/omc_data/whoi/OMC/CE09OSSM/R00020/cg_data/dcl12/hyd2/*.log,CE09OSSM-SBD12-03-HYDGN0000,recovered_host,Available,
 mi.dataset.driver.pco2a_a.sample.pco2a_a_sample_recovered_driver,/omc_data/whoi/OMC/CE09OSSM/R00020/cg_data/dcl12/pco2a/*.pco2a.log,CE09OSSM-SBD12-04-PCO2AA000,recovered_host,Available,
 mi.dataset.driver.wavss_a.dcl.wavss_a_dcl_recovered_driver,/omc_data/whoi/OMC/CE09OSSM/R00020/cg_data/dcl12/wavss/*.wavss.log,CE09OSSM-SBD12-05-WAVSSA000,recovered_host,Available,
+
 
