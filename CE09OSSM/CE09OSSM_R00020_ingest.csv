@@ -13,7 +13,7 @@ mi.dataset.driver.phsen_abcdef.dcl.phsen_abcdef_dcl_recovered_driver,/omc_data/w
 mi.dataset.driver.phsen_abcdef.phsen_abcdef_recovered_driver,/omc_data/whoi/OMC/CE09OSSM/R00020/instrmts/dcl36/PHSEN*/*phsen*recovered*.txt,CE09OSSM-MFD35-06-PHSEND000,recovered_inst,Available,
 # mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/OMC/CE09OSSM/R00020/cg_data/dcl37/syslog/*.syslog.log,CE09OSSM-MFD37-00-DCLENG000,recovered_host,Pending,Incorrectly specified dataset and parser
 # mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_recovered_driver,/omc_data/whoi/OMC/CE09OSSM/R00020/cg_data/dcl37/optaa2/*.optaa2.log,CE09OSSM-MFD37-01-OPTAAC000,recovered_host,Not Expected,Instrument was not deployed
-mi.dataset.driver.ctdbp_cdef.dcl.ctdbp_cdef_dcl_recovered_driver,/omc_data/whoi/OMC/CE09OSSM/R00020/cg_data/dcl37/ctdbp2/*.ctdbp2.log,CE09OSSM-MFD37-03-CTDBPE000,recovered_host,Available,
+mi.dataset.driver.ctdbp_cdef.dcl.ctdbp_cdef_dcl_recovered_driver,/omc_data/whoi/OMC/CE09OSSM/R00020/cg_data/dcl36/ctdbp2/*.ctdbp2.log,CE09OSSM-MFD37-03-CTDBPE000,recovered_host,Available,
 mi.dataset.driver.ctdbp_cdef.ctdbp_cdef_recovered_driver,/omc_data/whoi/OMC/CE09OSSM/R00020/instrmts/dcl37/CTDBP*/*ctdbp*.hex,CE09OSSM-MFD37-03-CTDBPE000,recovered_inst,Available,
 mi.dataset.driver.dosta_abcdjm.ctdbp.dcl.dosta_abcdjm_ctdbp_dcl_recovered_driver,/omc_data/whoi/OMC/CE09OSSM/R00020/cg_data/dcl37/ctdbp2/*.ctdbp2.log,CE09OSSM-MFD37-03-DOSTAD000,recovered_host,Available,
 mi.dataset.driver.dosta_abcdjm.ctdbp.dosta_abcdjm_ctdbp_recovered_driver,/omc_data/whoi/OMC/CE09OSSM/R00020/instrmts/dcl37/CTDBP*/*ctdbp*.hex,CE09OSSM-MFD37-03-DOSTAD000,recovered_inst,Available,
