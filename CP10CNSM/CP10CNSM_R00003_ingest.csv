@@ -34,7 +34,7 @@ mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver,/omc_data/whoi/
 mi.dataset.driver.optaa_dj.dcl.optaa_dj_dcl_recovered_driver,/omc_data/whoi/OMC/CP10CNSM/R00003/cg_data/dcl27/optaa1/*.optaa1.log,CP10CNSM-RID27-01-OPTAAD000,recovered_host,Available,
 mi.dataset.driver.flort_dj.dcl.flort_dj_dcl_recovered_driver,/omc_data/whoi/OMC/CP10CNSM/R00003/cg_data/dcl27/flort/*.flort.log,CP10CNSM-RID27-02-FLORTD000,recovered_host,Available,
 mi.dataset.driver.ctdbp_cdef.dcl.ctdbp_cdef_dcl_recovered_driver,/omc_data/whoi/OMC/CP10CNSM/R00003/cg_data/dcl27/ctdbp1/*.ctdbp1.log,CP10CNSM-RID27-03-CTDBPC000,recovered_host,Available,
-#mi.dataset.driver.ctdbp_cdef.ctdbp_cdef_recovered_driver,/omc_data/whoi/OMC/CP10CNSM/R00003/instruments/dcl27/CTDBP_sn*/SBE*.hex,CP10CNSM-RID27-03-CTDBPC000,recovered_inst,Expected,"Not yet downloaded, but expected"
+mi.dataset.driver.ctdbp_cdef.ctdbp_cdef_recovered_driver,/omc_data/whoi/OMC/CP10CNSM/R00003/instruments/dcl27/CTDBP_sn*/SBE*.hex,CP10CNSM-RID27-03-CTDBPC000,recovered_inst,Available,
 mi.dataset.driver.dosta_abcdjm.dcl.dosta_abcdjm_dcl_recovered_driver,/omc_data/whoi/OMC/CP10CNSM/R00003/cg_data/dcl27/dosta1/*.dosta1.log,CP10CNSM-RID27-04-DOSTAD000,recovered_host,Available,
 mi.dataset.driver.plims_a.plims_a_hdr_recovered_driver,/omc_data/whoi/OMC/CP10CNSM/R00003/cg_data/dcl27/plims/*.hdr,CP10CNSM-RID27-07-PLIMSA000,recovered_host,Available,
 mi.dataset.driver.plims_a.plims_a_adc_recovered_driver,/omc_data/whoi/OMC/CP10CNSM/R00003/cg_data/dcl27/plims/*.adc,CP10CNSM-RID27-07-PLIMSA000,recovered_host,Available,
